@@ -175,8 +175,8 @@
         "zh": "首达"
       },
       "thesis": {
-        "en": "Why can a single target produce two arrival peaks? A year on rings, lattices and catalyst stripes that became a single-author paper submitted to Physical Review E, 46 machine-checked theorems and a public archive anyone can re-run.",
-        "zh": "一个目标，为什么会有两个到达峰？在环、格点与催化条带之间走了一年，走出一篇投往 Physical Review E 的单作者论文、46 条机器核验的定理，和一个谁都能复跑的公开仓库。"
+        "en": "Why can a single target produce two arrival peaks? Work on rings, lattices and catalyst stripes led to a single-author paper submitted to Physical Review E, 46 machine-checked algebraic theorems and a public reproduction archive.",
+        "zh": "一个目标，为什么会有两个到达峰？对环、格点与催化条带的研究，形成了一篇投往 Physical Review E 的单作者论文、46 条机器核验的代数定理，以及公开复现仓库。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/research/",
@@ -302,8 +302,8 @@
         "zh": "跳过输入法？"
       },
       "thesis": {
-        "en": "Can you skip the input method and just type pinyin to an AI agent? Forty-eight real calls say: for routine work, yes — but homophones collapse, and one word kept in Hanzi brings the meaning back. The first AI paper, accepted at UKAIRS 2026 in Edinburgh.",
-        "zh": "和 AI 智能体说话，能不能跳过输入法、直接敲拼音？48 次真实调用给出的答案是：日常指令可以；可一遇同音词，意思就塌了——只要把关键词留成汉字，意思便回来了。这是第一篇 AI 论文，入选爱丁堡 UKAIRS 2026。"
+        "en": "Can an AI agent understand pinyin without the input method? A Chinese-language pilot with 48 real calls compares routine tasks with homophone stress cases. Keeping a critical word in Hanzi repaired the tested failures. The first AI paper, accepted at UKAIRS 2026 in Edinburgh.",
+        "zh": "不经输入法选字，AI 智能体能读懂拼音吗？一项包含 48 次真实调用的中文试验，对比了日常任务与同音词压力题；保留关键词的汉字，修复了本次测试中的错误。这是第一篇 AI 论文，入选爱丁堡 UKAIRS 2026。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/",
@@ -526,8 +526,8 @@
         "zh": "展台"
       },
       "thesis": {
-        "en": "How a messaging company learns to present itself as an AI company: a first overseas brand push, a logo argued from four sketches into one mark, print kits for two trade floors, and a 93-minute primer that taught the LLM industry through SMS.",
-        "zh": "一家短信公司如何把自己讲成一家 AI 公司：第一次海外品牌行动，一套从四张草图论证出来的标志，两场展会的全套物料，以及一堂用短信讲透大模型行业的 93 分钟入门课。"
+        "en": "Making the company's AI products understandable to partners and colleagues: a first overseas brand push, a logo developed from four sketches, print kits for two trade shows and a 93-minute LLM primer built around SMS.",
+        "zh": "让合作方与同事看懂公司的 AI 产品：第一次海外品牌行动，从四张草图发展出的标志，两场展会的印刷物料，以及一堂借短信业务讲解大模型的 93 分钟入门课。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/work/on-stage/",
@@ -627,8 +627,8 @@
         "zh": "教学"
       },
       "thesis": {
-        "en": "A Graduate Teacher from the first month of the PhD: problem classes, labs, marking and tutorials — now thirteen teaching roles across eleven units in three schools, run with the same AI-native habits as the research.",
-        "zh": "读博第一个月就站上讲台：习题课、实验课、批改与小班辅导。如今横跨三个学院、11 门课、13 个教学岗位，用的是和做研究一样的 AI 原生工作方式。"
+        "en": "Teaching support from the early PhD: problem classes, labs, marking and tutorials. The initial 2026–27 allocation covers thirteen roles across eleven units in three schools. Later additions and examples of teaching already delivered are recorded below.",
+        "zh": "读博初期开始承担教学支持：习题课、实验课、批改与小班辅导。2026–27 学年的原排班覆盖三个学院、11 门课、13 个教学岗位。后续新增安排与已经开展的教学实例，见下方记录。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/campus/teaching/",
@@ -650,29 +650,70 @@
             "zh": "进行中"
           },
           "card": {
-            "en": "Thirteen teaching roles across eleven units in the Schools of Mathematics, SEMT and CADE — plus a Linear Algebra tutorial group.",
-            "zh": "数学学院、SEMT 与 CADE 三个学院，11 门课、13 个教学岗位——另加一个线性代数小班。"
+            "en": "Initial 2026–27 allocation: thirteen roles across eleven units in Mathematics, SEMT and CADE; a Linear Algebra group was later added.",
+            "zh": "2026–27 学年原排班：数学学院、SEMT 与 CADE 三个学院，11 门课、13 个岗位；后续新增一个线性代数小班。"
           },
           "links": []
         },
         {
-          "id": "school_teaching_service-tsr-contracts-2025",
+          "id": "school_teaching_service-financial-mathematics-2026",
           "date": {
-            "start": "2025-11-14",
-            "end": "2025-12-16",
-            "precision": "day"
+            "start": "2026-01",
+            "end": "2026-05-30",
+            "precision": "month"
           },
           "title": {
-            "en": "A Graduate Teacher from the first term",
-            "zh": "第一个学期就当上 Graduate Teacher"
+            "en": "Problem classes in Financial Mathematics",
+            "zh": "金融数学习题课"
           },
           "status": {
             "en": "Completed",
             "zh": "已完成"
           },
           "card": {
-            "en": "Weeks into the PhD: a Demonstrator contract in SEMT and a Graduate Teacher contract in the School of Mathematics.",
-            "zh": "读博才几周：签下 SEMT 学院的 Demonstrator 合同，以及数学学院的 Graduate Teacher 合同。"
+            "en": "January to May 2026: problem classes for a third-year and MSc unit, formative and assessed sheets marked.",
+            "zh": "2026 年 1 月至 5 月：为三年级与硕士合开的课程带习题课，批改形成性与计分习题。"
+          },
+          "links": []
+        },
+        {
+          "id": "school_teaching_service-mdm3-2026-tb2",
+          "date": {
+            "start": "2026-01-13",
+            "end": "2026-03-03",
+            "precision": "day"
+          },
+          "title": {
+            "en": "Group projects in Mathematical and Data Modelling 3",
+            "zh": "「数学与数据建模 3」小组项目"
+          },
+          "status": {
+            "en": "Completed",
+            "zh": "已完成"
+          },
+          "card": {
+            "en": "Supporting third-year modelling teams, one of them on an industry-set project — plus a small tool that made written feedback faster.",
+            "zh": "辅导三年级建模小组，其中一组做的是企业命题——外加一个让书面反馈更快的小工具。"
+          },
+          "links": []
+        },
+        {
+          "id": "school_teaching_service-scem-week1-lab",
+          "date": {
+            "start": "2026-09-23",
+            "precision": "day"
+          },
+          "title": {
+            "en": "The first R lab of the new year",
+            "zh": "新学年的第一堂 R 实验课"
+          },
+          "status": {
+            "en": "Completed",
+            "zh": "已完成"
+          },
+          "card": {
+            "en": "Demonstrating the Week 1 lab of Statistical Computing and Empirical Methods, with a bilingual pack covering all 25 exercises.",
+            "zh": "为「统计计算与实证方法」第一周上机课做助教，并准备了覆盖全部 25 道练习的双语备课包。"
           },
           "links": []
         }
@@ -687,8 +728,8 @@
         "zh": "代表"
       },
       "thesis": {
-        "en": "Speaking for other PhD students, and for the university: two years as Engineering Mathematics PGR rep, a scholarship reading panel, open days, a science festival — and seven minutes of stand-up about doing a maths PhD.",
-        "zh": "替博士生发声，也替学校待客：连续两年担任工程数学博士生代表，做奖学金评审、开放日学生大使、科学节志愿者——还在台上讲了七分钟关于读数学博士的单口喜剧。"
+        "en": "Speaking for other PhD students, and welcoming visitors to the university: returning for a second academic year as Engineering Mathematics PGR rep, a scholarship reading panel, open days, a science festival — and seven minutes of stand-up about doing a maths PhD.",
+        "zh": "替博士生发声，也替学校待客：获确认继续担任第二学年的工程数学博士生代表，做奖学金评审、开放日学生大使、科学节志愿者——还在台上讲了七分钟关于读数学博士的单口喜剧。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/campus/representing/",
@@ -778,8 +819,8 @@
         "zh": "地图进，布点出"
       },
       "thesis": {
-        "en": "First-passage maths turned into a product: BioPath takes a site map and a budget and returns where to put the traps — with the proof attached. An Early Career Enterprise Fellowship, a New Enterprise pitch award and a PechaKucha at the Festival of Enterprise.",
-        "zh": "把首达数学做成产品：BioPath 输入场地地图与预算，输出诱捕器该放在哪儿——并附上证明。由此拿到早期职业创业学者计划、New Enterprise 路演奖，并在创业节上做了一场 PechaKucha。"
+        "en": "First-passage maths becomes a product prototype: BioPath takes a site map and a budget, proposes trap locations and supplies a reproducible model-comparison report. The enterprise journey includes an Early Career Enterprise Fellowship, a New Enterprise pitch award and a Festival of Enterprise PechaKucha.",
+        "zh": "把首达数学做成产品原型：BioPath 输入场地地图与预算，推荐诱捕器位置，并附可复跑的模型比较报告。创业过程包括早期职业创业学者计划、New Enterprise 路演奖，以及创业节上的一场 PechaKucha。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/enterprise/",
@@ -813,16 +854,16 @@
             "precision": "day"
           },
           "title": {
-            "en": "The BioPath platform: map in, traps out, proof attached",
-            "zh": "BioPath 平台：地图进，布点出，附证明"
+            "en": "The BioPath platform: map in, traps out, comparisons attached",
+            "zh": "BioPath 平台：地图进，布点出，附比较报告"
           },
           "status": {
             "en": "Live",
             "zh": "已上线"
           },
           "card": {
-            "en": "A site map and a budget in; trap coordinates that optimise first-passage capture out — with a proof bundle anyone can re-run.",
-            "zh": "输入场地地图与预算，输出使首达捕获最优的诱捕器坐标——外加一份谁都能复跑的证明包。"
+            "en": "A site map and a budget in; model-optimised trap coordinates out — with a reproducible comparison report.",
+            "zh": "输入场地地图与预算，输出模型内优化的诱捕器坐标——附可复跑的比较报告。"
           },
           "links": [
             {

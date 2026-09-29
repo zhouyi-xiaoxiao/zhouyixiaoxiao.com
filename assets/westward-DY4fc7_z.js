@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/unabsorbed-DUfnswP8.js","assets/runtime-DqoUP4vI.js","assets/runtime-Ceh-VZCR.css","assets/stage-2pJ5lqSI.js"])))=>i.map(i=>d[i]);
-import{s as e,m as r,_ as s}from"./runtime-DqoUP4vI.js";e(async t=>{const a=document.querySelector('[data-walk="unabsorbed"]');await r(t,a,()=>s(()=>import("./unabsorbed-DUfnswP8.js"),__vite__mapDeps([0,1,2,3])).then(o=>o.mountUnabsorbed))});

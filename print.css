@@ -189,3 +189,6 @@
   .stepper--scroll .stepper__sticky { position: static; }
   img { break-inside: avoid; max-width: 100% !important; }
 }
+
+/* Keep the complete archive in printed reports even when screen disclosure is closed. */
+@media print { details.reading-details > :not(summary) { display: block !important; } details.reading-details::details-content { display: block !important; content-visibility: visible !important; } .chapter-reading, .reader-routes { display: none !important; } }

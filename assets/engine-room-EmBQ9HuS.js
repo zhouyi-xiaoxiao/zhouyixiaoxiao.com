@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/gateway-flow-Bz5wziZn.js","assets/runtime-BTFDCt46.js","assets/runtime-DRokOCzZ.css","assets/live-BEfVtiPV.js","assets/data-HoQQVRAX.js"])))=>i.map(i=>d[i]);
+import{s as e,m as r,_ as s}from"./runtime-BTFDCt46.js";e(async t=>{const a=document.querySelector('[data-sys="gateway-flow"]');await r(t,a,()=>s(()=>import("./gateway-flow-Bz5wziZn.js"),__vite__mapDeps([0,1,2,3,4])).then(o=>o.mountGatewayFlow))});

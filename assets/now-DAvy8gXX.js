@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/next-fog-CpJ_90h_.js","assets/runtime-BTFDCt46.js","assets/runtime-DRokOCzZ.css","assets/stage-It_xTj4n.js"])))=>i.map(i=>d[i]);
+import{s as e,m as r,_}from"./runtime-BTFDCt46.js";e(async t=>{const o=document.querySelector('[data-walk="next-fog"]');await r(t,o,()=>_(()=>import("./next-fog-CpJ_90h_.js"),__vite__mapDeps([0,1,2,3])).then(a=>a.mountNextFog))});
