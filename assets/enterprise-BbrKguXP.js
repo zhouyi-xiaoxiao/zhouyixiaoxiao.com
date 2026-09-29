@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/trap-field-DKl8XU5Z.js","assets/runtime-DqoUP4vI.js","assets/runtime-Ceh-VZCR.css","assets/live-CjZiFDAc.js","assets/data-HoQQVRAX.js"])))=>i.map(i=>d[i]);
+import{s as o,m as r,_ as s}from"./runtime-DqoUP4vI.js";o(async t=>{const a=document.querySelector('[data-sys="trap-field"]');await r(t,a,()=>s(()=>import("./trap-field-DKl8XU5Z.js"),__vite__mapDeps([0,1,2,3,4])).then(e=>e.mountTrapField))});

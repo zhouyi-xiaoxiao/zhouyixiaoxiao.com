@@ -1,0 +1,4308 @@
+{
+  "v": 1,
+  "docs": [
+    {
+      "id": "index",
+      "kind": "page",
+      "href": {
+        "en": "/index/",
+        "zh": "/zh/index/"
+      },
+      "title": {
+        "en": "Index · the 10-second version",
+        "zh": "索引 · 十秒钟版本"
+      },
+      "keywords": [
+        "index",
+        "cv",
+        "resume"
+      ],
+      "pinyin": [
+        "jian li",
+        "suo yin"
+      ],
+      "hanzi": [
+        "简历",
+        "索引"
+      ]
+    },
+    {
+      "id": "papers",
+      "kind": "page",
+      "href": {
+        "en": "/index/#ix-out",
+        "zh": "/zh/index/#ix-out"
+      },
+      "title": {
+        "en": "Papers & research",
+        "zh": "论文与研究"
+      },
+      "keywords": [
+        "papers",
+        "publish",
+        "publication",
+        "publications"
+      ],
+      "pinyin": [
+        "lun wen"
+      ],
+      "hanzi": [
+        "论文"
+      ]
+    },
+    {
+      "id": "contact",
+      "kind": "page",
+      "href": {
+        "en": "/contact/",
+        "zh": "/zh/contact/"
+      },
+      "title": {
+        "en": "Contact · the absorbing boundary",
+        "zh": "联系 · 吸收边界"
+      },
+      "keywords": [
+        "contact",
+        "email",
+        "hire"
+      ],
+      "pinyin": [
+        "lian xi"
+      ],
+      "hanzi": [
+        "联系"
+      ]
+    },
+    {
+      "id": "colophon",
+      "kind": "page",
+      "href": {
+        "en": "/colophon/",
+        "zh": "/zh/colophon/"
+      },
+      "title": {
+        "en": "Colophon · how it is made",
+        "zh": "版权页 · 制作说明"
+      },
+      "keywords": [
+        "colophon",
+        "credits",
+        "how it is made"
+      ],
+      "pinyin": [
+        "ban quan ye"
+      ],
+      "hanzi": [
+        "版权页"
+      ]
+    },
+    {
+      "id": "research",
+      "kind": "chapter",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "First Passage",
+        "zh": "首达"
+      },
+      "keywords": [
+        "research",
+        "research",
+        "maths",
+        "mathematics",
+        "first passage",
+        "stochastic"
+      ],
+      "pinyin": [
+        "yan jiu",
+        "shou da",
+        "shu xue"
+      ],
+      "hanzi": [
+        "研",
+        "研究",
+        "首达",
+        "数学"
+      ],
+      "chapter": "research"
+    },
+    {
+      "id": "ukairs",
+      "kind": "chapter",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "Skipping the IME?",
+        "zh": "跳过输入法？"
+      },
+      "keywords": [
+        "ukairs",
+        "ai",
+        "edinburgh",
+        "ukairs",
+        "ime",
+        "pinyin"
+      ],
+      "pinyin": [
+        "ai ding bao",
+        "shu ru fa",
+        "ren gong zhi neng"
+      ],
+      "hanzi": [
+        "智",
+        "爱丁堡",
+        "输入法",
+        "拼音",
+        "人工智能"
+      ],
+      "chapter": "ukairs"
+    },
+    {
+      "id": "engine-room",
+      "kind": "chapter",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "The Engine Room",
+        "zh": "引擎室"
+      },
+      "keywords": [
+        "engine-room",
+        "company",
+        "products",
+        "engineering",
+        "ai systems"
+      ],
+      "pinyin": [
+        "gong si",
+        "yin qing shi"
+      ],
+      "hanzi": [
+        "企",
+        "公司",
+        "引擎室",
+        "产品"
+      ],
+      "chapter": "engine-room"
+    },
+    {
+      "id": "on-stage",
+      "kind": "chapter",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "On Stage",
+        "zh": "展台"
+      },
+      "keywords": [
+        "on-stage",
+        "design",
+        "conferences",
+        "events",
+        "branding"
+      ],
+      "pinyin": [
+        "zhan tai",
+        "hui yi",
+        "she ji"
+      ],
+      "hanzi": [
+        "展",
+        "展台",
+        "会议",
+        "设计"
+      ],
+      "chapter": "on-stage"
+    },
+    {
+      "id": "teaching",
+      "kind": "chapter",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "Teaching",
+        "zh": "教学"
+      },
+      "keywords": [
+        "teaching",
+        "teaching",
+        "teacher",
+        "education"
+      ],
+      "pinyin": [
+        "jiao xue",
+        "lao shi"
+      ],
+      "hanzi": [
+        "教",
+        "教学",
+        "老师"
+      ],
+      "chapter": "teaching"
+    },
+    {
+      "id": "representing",
+      "kind": "chapter",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "Representing",
+        "zh": "代表"
+      },
+      "keywords": [
+        "representing",
+        "pgr",
+        "rep",
+        "representative",
+        "campus"
+      ],
+      "pinyin": [
+        "dai biao"
+      ],
+      "hanzi": [
+        "代",
+        "代表",
+        "校园"
+      ],
+      "chapter": "representing"
+    },
+    {
+      "id": "enterprise",
+      "kind": "chapter",
+      "href": {
+        "en": "/enterprise/",
+        "zh": "/zh/enterprise/"
+      },
+      "title": {
+        "en": "Map in. Traps out.",
+        "zh": "地图进，布点出"
+      },
+      "keywords": [
+        "enterprise",
+        "enterprise",
+        "founder",
+        "biopath"
+      ],
+      "pinyin": [
+        "chuang ye"
+      ],
+      "hanzi": [
+        "创",
+        "创业"
+      ],
+      "chapter": "enterprise"
+    },
+    {
+      "id": "media",
+      "kind": "chapter",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "Signal",
+        "zh": "信号"
+      },
+      "keywords": [
+        "media",
+        "media",
+        "video",
+        "memories",
+        "signal"
+      ],
+      "pinyin": [
+        "zi mei ti",
+        "xin hao",
+        "hui yi"
+      ],
+      "hanzi": [
+        "媒",
+        "自媒体",
+        "视频",
+        "信号",
+        "回忆"
+      ],
+      "chapter": "media"
+    },
+    {
+      "id": "westward",
+      "kind": "chapter",
+      "href": {
+        "en": "/westward/",
+        "zh": "/zh/westward/"
+      },
+      "title": {
+        "en": "Westward",
+        "zh": "向西"
+      },
+      "keywords": [
+        "westward",
+        "internship",
+        "bay area",
+        "us",
+        "america",
+        "livex"
+      ],
+      "pinyin": [
+        "mei guo",
+        "shi xi",
+        "xiang xi"
+      ],
+      "hanzi": [
+        "行",
+        "美国",
+        "实习",
+        "向西"
+      ],
+      "chapter": "westward"
+    },
+    {
+      "id": "workshop",
+      "kind": "chapter",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "Workshop",
+        "zh": "作坊"
+      },
+      "keywords": [
+        "workshop",
+        "code",
+        "github",
+        "projects",
+        "workshop"
+      ],
+      "pinyin": [
+        "xiang mu",
+        "dai ma",
+        "zuo fang"
+      ],
+      "hanzi": [
+        "作",
+        "项目",
+        "代码",
+        "作坊"
+      ],
+      "chapter": "workshop"
+    },
+    {
+      "id": "roots",
+      "kind": "chapter",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Roots",
+        "zh": "来路"
+      },
+      "keywords": [
+        "roots",
+        "education",
+        "path",
+        "tianjin",
+        "hong kong",
+        "bristol",
+        "roots"
+      ],
+      "pinyin": [
+        "xue xiao",
+        "lai lu"
+      ],
+      "hanzi": [
+        "学",
+        "学校",
+        "来路",
+        "教育"
+      ],
+      "chapter": "roots"
+    },
+    {
+      "id": "now",
+      "kind": "chapter",
+      "href": {
+        "en": "/now/",
+        "zh": "/zh/now/"
+      },
+      "title": {
+        "en": "Now & Next",
+        "zh": "此刻"
+      },
+      "keywords": [
+        "now",
+        "now",
+        "next",
+        "current"
+      ],
+      "pinyin": [
+        "ci ke",
+        "xian zai"
+      ],
+      "hanzi": [
+        "今",
+        "此刻",
+        "现在"
+      ],
+      "chapter": "now"
+    },
+    {
+      "id": "education_life-tju-self-improvement-award",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Self-Improvement Award, Tianjin University",
+        "zh": "天津大学北洋自强奖"
+      },
+      "keywords": [
+        "self improvement award tianjin university"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "天津大学北洋自强奖"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "education_life-tju-bsc-enrol",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Mathematics and Applied Mathematics, Tianjin University",
+        "zh": "天津大学数学与应用数学"
+      },
+      "keywords": [
+        "mathematics and applied mathematics tianjin university",
+        "tianjin maths"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "天津大学数学与应用数学"
+      ],
+      "chapter": "roots",
+      "plate": true
+    },
+    {
+      "id": "education_life-tju-rowing",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Rowing for Tianjin University",
+        "zh": "天津大学赛艇队"
+      },
+      "keywords": [
+        "rowing for tianjin university"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "天津大学赛艇队"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "projects_code-github-identity",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "On GitHub since December 2021",
+        "zh": "2021 年 12 月起的 GitHub"
+      },
+      "keywords": [
+        "on github since december 2021"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "2021 年 12 月起的 GitHub"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "education_life-tju-first-year-essays",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Darboux's theorem and Hilbert's third problem",
+        "zh": "达布定理与希尔伯特第三问题"
+      },
+      "keywords": [
+        "darboux s theorem and hilbert s third problem"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "达布定理与希尔伯特第三问题"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "education_life-nsca-cpt",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "A certified personal trainer, too",
+        "zh": "顺便，是一名持证私教"
+      },
+      "keywords": [
+        "a certified personal trainer too"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "顺便，是一名持证私教"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "education_life-tju-outstanding-cadre",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Outstanding Student Cadre",
+        "zh": "天津大学优秀学生干部"
+      },
+      "keywords": [
+        "outstanding student cadre"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "天津大学优秀学生干部"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "education_life-tju-freshmen-guide",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Guiding a hundred new mathematicians",
+        "zh": "带一百多名新生入学"
+      },
+      "keywords": [
+        "guiding a hundred new mathematicians"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "带一百多名新生入学"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "education_life-tju-student-union-rights",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Head of Student Rights, School of Mathematics",
+        "zh": "数学学院学生会权益部部长"
+      },
+      "keywords": [
+        "head of student rights school of mathematics"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "数学学院学生会权益部部长"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "education_life-bristol-3plus1-pathway",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "The 3+1 route: the first shortcut",
+        "zh": "「3+1」：第一条捷径"
+      },
+      "keywords": [
+        "the 3 1 route the first shortcut"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「3+1」：第一条捷径"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "us_ai_internship_career-light-painting-portfolio-2023",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "Light painting, 2023",
+        "zh": "光绘，2023"
+      },
+      "keywords": [
+        "light painting 2023"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "光绘，2023"
+      ],
+      "chapter": "media",
+      "plate": false
+    },
+    {
+      "id": "projects_code-tju-math-guide",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "The Tianjin University maths guide",
+        "zh": "天津大学数学学院本科生指北"
+      },
+      "keywords": [
+        "the tianjin university maths guide",
+        "tju maths guide"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "天津大学数学学院本科生指北"
+      ],
+      "chapter": "workshop",
+      "plate": true
+    },
+    {
+      "id": "gap_1_linkedin_full_profile-account-and-headline-history",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "Five headlines in fourteen months",
+        "zh": "十四个月，五个头衔"
+      },
+      "keywords": [
+        "five headlines in fourteen months"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "十四个月，五个头衔"
+      ],
+      "chapter": "media",
+      "plate": false
+    },
+    {
+      "id": "projects_code-tju-draw",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "TJU_Draw: shapes you can drag and rotate",
+        "zh": "TJU_Draw：可以拖拽与旋转的图形"
+      },
+      "keywords": [
+        "tju draw shapes you can drag and rotate"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "TJU_Draw：可以拖拽与旋转的图形"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "education_life-hkust-booth-promoter",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Tianjin University's booth at HKUST",
+        "zh": "在港科大为天大摆展位"
+      },
+      "keywords": [
+        "tianjin university s booth at hkust"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "在港科大为天大摆展位"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "education_life-hkust-exchange",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "An exchange year at HKUST",
+        "zh": "港科大交换的一年"
+      },
+      "keywords": [
+        "an exchange year at hkust",
+        "hkust exchange"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "港科大交换的一年"
+      ],
+      "chapter": "roots",
+      "plate": true
+    },
+    {
+      "id": "self_media-camera-roll-corpus",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "A camera roll as a diary: 3,947 videos",
+        "zh": "把相机胶卷当日记：3,947 段视频"
+      },
+      "keywords": [
+        "a camera roll as a diary 3 947 videos",
+        "video diary"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "把相机胶卷当日记：3,947 段视频"
+      ],
+      "chapter": "media",
+      "plate": true
+    },
+    {
+      "id": "education_life-hkust-pinns-report",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Physics-informed neural networks for PDEs",
+        "zh": "用物理信息神经网络解偏微分方程"
+      },
+      "keywords": [
+        "physics informed neural networks for pdes"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "用物理信息神经网络解偏微分方程"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "education_life-chengdu-expo-media-speeches",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "A first press mention, in Chengdu",
+        "zh": "第一次见报，在成都"
+      },
+      "keywords": [
+        "a first press mention in chengdu"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "第一次见报，在成都"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "us_ai_internship_career-jll-chengdu-internship-2024",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Research intern, JLL Chengdu",
+        "zh": "仲量联行成都研究部实习"
+      },
+      "keywords": [
+        "research intern jll chengdu",
+        "jll chengdu intern"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "仲量联行成都研究部实习"
+      ],
+      "chapter": "roots",
+      "plate": true
+    },
+    {
+      "id": "education_life-bristol-msc-start",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "MSc Engineering Mathematics, University of Bristol",
+        "zh": "布里斯托大学工程数学硕士"
+      },
+      "keywords": [
+        "msc engineering mathematics university of bristol",
+        "bristol msc"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "布里斯托大学工程数学硕士"
+      ],
+      "chapter": "roots",
+      "plate": true
+    },
+    {
+      "id": "education_life-student-warden",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Night shifts as a Student Warden",
+        "zh": "学生公寓的值班 Warden"
+      },
+      "keywords": [
+        "night shifts as a student warden"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "学生公寓的值班 Warden"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-msc-dissertation",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "MSc dissertation: first passage in confined random walks",
+        "zh": "硕士论文：受限随机游走中的首达现象"
+      },
+      "keywords": [
+        "msc dissertation first passage in confined random walks"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "硕士论文：受限随机游走中的首达现象"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "self_media-linkedin-impressions-series",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "LinkedIn as a public notebook",
+        "zh": "把领英当作公开的笔记本"
+      },
+      "keywords": [
+        "linkedin as a public notebook"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "把领英当作公开的笔记本"
+      ],
+      "chapter": "media",
+      "plate": false
+    },
+    {
+      "id": "gap_1_linkedin_full_profile-post-personal-website-org",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "A first personal website",
+        "zh": "第一个个人网站"
+      },
+      "keywords": [
+        "a first personal website"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "第一个个人网站"
+      ],
+      "chapter": "media",
+      "plate": false
+    },
+    {
+      "id": "projects_code-tju-letter-template",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "A Tianjin University letterhead in LaTeX",
+        "zh": "天津大学公函版式的 LaTeX 模板"
+      },
+      "keywords": [
+        "a tianjin university letterhead in latex"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "天津大学公函版式的 LaTeX 模板"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "education_life-causal-logistics-project",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "What makes a flight late?",
+        "zh": "航班为什么会晚点？"
+      },
+      "keywords": [
+        "what makes a flight late"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "航班为什么会晚点？"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "education_life-geneva-un-field-exchange",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Geneva: a UN field-exchange programme",
+        "zh": "日内瓦：联合国实地交流项目"
+      },
+      "keywords": [
+        "geneva a un field exchange programme"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "日内瓦：联合国实地交流项目"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "gap_1_linkedin_full_profile-su-student-trustee-candidacy",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "Standing for Student Trustee",
+        "zh": "参选学生会「学生理事」"
+      },
+      "keywords": [
+        "standing for student trustee"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "参选学生会「学生理事」"
+      ],
+      "chapter": "representing",
+      "plate": false
+    },
+    {
+      "id": "education_life-languages",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Three languages, one of them at A1 for now",
+        "zh": "三种语言，其中一种暂时停在 A1"
+      },
+      "keywords": [
+        "three languages one of them at a1 for now"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "三种语言，其中一种暂时停在 A1"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "education_life-tju-undergrad-thesis",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "BSc thesis: epidemics in heterogeneous spaces",
+        "zh": "本科论文：异质空间中的疾病传播"
+      },
+      "keywords": [
+        "bsc thesis epidemics in heterogeneous spaces"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "本科论文：异质空间中的疾病传播"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "education_life-tju-graduation",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "Graduating from Tianjin University",
+        "zh": "天津大学本科毕业"
+      },
+      "keywords": [
+        "graduating from tianjin university"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "天津大学本科毕业"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "gap_3_us_internship_origin-programme-cv-to-tju",
+      "kind": "entry",
+      "href": {
+        "en": "/westward/",
+        "zh": "/zh/westward/"
+      },
+      "title": {
+        "en": "Before: a CV sent twice in nine minutes",
+        "zh": "之前：九分钟里发出两版简历"
+      },
+      "keywords": [
+        "before a cv sent twice in nine minutes"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "之前：九分钟里发出两版简历"
+      ],
+      "chapter": "westward",
+      "plate": false
+    },
+    {
+      "id": "education_life-hkust-engineering-summer-camp-2025",
+      "kind": "entry",
+      "href": {
+        "en": "/westward/",
+        "zh": "/zh/westward/"
+      },
+      "title": {
+        "en": "HKUST Engineering summer camp",
+        "zh": "港科大工学院夏令营"
+      },
+      "keywords": [
+        "hkust engineering summer camp"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "港科大工学院夏令营"
+      ],
+      "chapter": "westward",
+      "plate": false
+    },
+    {
+      "id": "us_ai_internship_career-silicon-valley-study-programme-2025",
+      "kind": "entry",
+      "href": {
+        "en": "/westward/",
+        "zh": "/zh/westward/"
+      },
+      "title": {
+        "en": "Silicon Valley Entrepreneurship Program",
+        "zh": "硅谷创业项目"
+      },
+      "keywords": [
+        "silicon valley entrepreneurship program"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "硅谷创业项目"
+      ],
+      "chapter": "westward",
+      "plate": false
+    },
+    {
+      "id": "us_ai_internship_career-aasf-pioneer-medal-stanford-2025",
+      "kind": "entry",
+      "href": {
+        "en": "/westward/",
+        "zh": "/zh/westward/"
+      },
+      "title": {
+        "en": "A Saturday at Stanford Memorial Auditorium",
+        "zh": "斯坦福纪念礼堂的一个周六"
+      },
+      "keywords": [
+        "a saturday at stanford memorial auditorium"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "斯坦福纪念礼堂的一个周六"
+      ],
+      "chapter": "westward",
+      "plate": false
+    },
+    {
+      "id": "gap_3_us_internship_origin-group3-getting-lost-concept",
+      "kind": "entry",
+      "href": {
+        "en": "/westward/",
+        "zh": "/zh/westward/"
+      },
+      "title": {
+        "en": "Design thinking: getting lost lights a beacon",
+        "zh": "设计思维：迷路即点灯"
+      },
+      "keywords": [
+        "design thinking getting lost lights a beacon"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "设计思维：迷路即点灯"
+      ],
+      "chapter": "westward",
+      "plate": false
+    },
+    {
+      "id": "us_ai_internship_career-livex-ai-internship-2025",
+      "kind": "entry",
+      "href": {
+        "en": "/westward/",
+        "zh": "/zh/westward/"
+      },
+      "title": {
+        "en": "LiveX AI — Researcher (Internship)",
+        "zh": "LiveX AI——研究实习"
+      },
+      "keywords": [
+        "livex ai researcher internship",
+        "livex ai research"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "LiveX AI——研究实习"
+      ],
+      "chapter": "westward",
+      "plate": true
+    },
+    {
+      "id": "gap_3_us_internship_origin-reflection-essay",
+      "kind": "entry",
+      "href": {
+        "en": "/westward/",
+        "zh": "/zh/westward/"
+      },
+      "title": {
+        "en": "A week in: an essay about a ladder in the clouds",
+        "zh": "一周之后：关于云中天梯的随笔"
+      },
+      "keywords": [
+        "a week in an essay about a ladder in the clouds"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "一周之后：关于云中天梯的随笔"
+      ],
+      "chapter": "westward",
+      "plate": false
+    },
+    {
+      "id": "us_ai_internship_career-livex-tool-survey-first-report",
+      "kind": "entry",
+      "href": {
+        "en": "/westward/",
+        "zh": "/zh/westward/"
+      },
+      "title": {
+        "en": "Week one: nine PDFs and a six-dimension rubric",
+        "zh": "第一周：九份 PDF 与一套六维量表"
+      },
+      "keywords": [
+        "week one nine pdfs and a six dimension rubric"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "第一周：九份 PDF 与一套六维量表"
+      ],
+      "chapter": "westward",
+      "plate": false
+    },
+    {
+      "id": "us_ai_internship_career-pdf-to-markdown-open-benchmark",
+      "kind": "entry",
+      "href": {
+        "en": "/westward/",
+        "zh": "/zh/westward/"
+      },
+      "title": {
+        "en": "An open retrieval-QA benchmark for document parsers",
+        "zh": "一个开源的文档解析检索问答基准"
+      },
+      "keywords": [
+        "an open retrieval qa benchmark for document parsers"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "一个开源的文档解析检索问答基准"
+      ],
+      "chapter": "westward",
+      "plate": false
+    },
+    {
+      "id": "education_life-msc-distinction",
+      "kind": "entry",
+      "href": {
+        "en": "/roots/",
+        "zh": "/zh/roots/"
+      },
+      "title": {
+        "en": "MSc with Distinction",
+        "zh": "硕士以 Distinction 毕业"
+      },
+      "keywords": [
+        "msc with distinction"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "硕士以 Distinction 毕业"
+      ],
+      "chapter": "roots",
+      "plate": false
+    },
+    {
+      "id": "gap_1_linkedin_full_profile-position-livex-researcher",
+      "kind": "entry",
+      "href": {
+        "en": "/westward/",
+        "zh": "/zh/westward/"
+      },
+      "title": {
+        "en": "After: the summer, written into LinkedIn",
+        "zh": "之后：那个夏天写进了领英"
+      },
+      "keywords": [
+        "after the summer written into linkedin"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "之后：那个夏天写进了领英"
+      ],
+      "chapter": "westward",
+      "plate": false
+    },
+    {
+      "id": "gap_1_linkedin_full_profile-post-food-philosophy-phd-edition",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "Food philosophy, PhD edition",
+        "zh": "饮食哲学·博士版"
+      },
+      "keywords": [
+        "food philosophy phd edition"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "饮食哲学·博士版"
+      ],
+      "chapter": "media",
+      "plate": false
+    },
+    {
+      "id": "education_life-phd-start",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "PhD in Engineering Mathematics, University of Bristol",
+        "zh": "布里斯托大学工程数学博士"
+      },
+      "keywords": [
+        "phd in engineering mathematics university of bristol",
+        "phd begins"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "布里斯托大学工程数学博士"
+      ],
+      "chapter": "research",
+      "plate": true
+    },
+    {
+      "id": "school_teaching_service-tsr-contracts-2025",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "A Graduate Teacher from the first term",
+        "zh": "第一个学期就当上 Graduate Teacher"
+      },
+      "keywords": [
+        "a graduate teacher from the first term",
+        "graduate teacher"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "第一个学期就当上 Graduate Teacher"
+      ],
+      "chapter": "teaching",
+      "plate": true
+    },
+    {
+      "id": "self_media-linkedin-phd-post",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "‘Starting a new position as PhD Student’",
+        "zh": "「开始新职位：PhD Student」"
+      },
+      "keywords": [
+        "starting a new position as phd student"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「开始新职位：PhD Student」"
+      ],
+      "chapter": "media",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-rw-defects-prototype",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "First PhD code: a ring with defects",
+        "zh": "博士第一份代码：带缺陷的环"
+      },
+      "keywords": [
+        "first phd code a ring with defects"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "博士第一份代码：带缺陷的环"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-semt-pgr-rep-2025-26",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "PGR representative, Engineering Mathematics",
+        "zh": "工程数学博士生代表"
+      },
+      "keywords": [
+        "pgr representative engineering mathematics",
+        "pgr rep"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "工程数学博士生代表"
+      ],
+      "chapter": "representing",
+      "plate": true
+    },
+    {
+      "id": "research_fpt-isambard-hpc",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "Computing on the Isambard supercomputers",
+        "zh": "在 Isambard 超算上计算"
+      },
+      "keywords": [
+        "computing on the isambard supercomputers"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "在 Isambard 超算上计算"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-jumpover-ring-reports",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "Lazy rings with a shortcut: the bilingual reports",
+        "zh": "带捷径的懒惰环：中英双语报告"
+      },
+      "keywords": [
+        "lazy rings with a shortcut the bilingual reports"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "带捷径的懒惰环：中英双语报告"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-ecef-awarded",
+      "kind": "entry",
+      "href": {
+        "en": "/enterprise/",
+        "zh": "/zh/enterprise/"
+      },
+      "title": {
+        "en": "Early Career Enterprise Fellow, 2026",
+        "zh": "2026 年早期职业创业学者"
+      },
+      "keywords": [
+        "early career enterprise fellow 2026",
+        "enterprise fellow"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "2026 年早期职业创业学者"
+      ],
+      "chapter": "enterprise",
+      "plate": true
+    },
+    {
+      "id": "research_fpt-grid2d-family",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "From rings to two-dimensional lattices",
+        "zh": "从环到二维格点"
+      },
+      "keywords": [
+        "from rings to two dimensional lattices"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "从环到二维格点"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-financial-mathematics-2026",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "Problem classes in Financial Mathematics",
+        "zh": "金融数学习题课"
+      },
+      "keywords": [
+        "problem classes in financial mathematics"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "金融数学习题课"
+      ],
+      "chapter": "teaching",
+      "plate": false
+    },
+    {
+      "id": "gap_5_school_teams_gmail_coauthor-rep-intro-post",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "How to say my name",
+        "zh": "我的名字怎么读"
+      },
+      "keywords": [
+        "how to say my name"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "我的名字怎么读"
+      ],
+      "chapter": "representing",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-new-enterprise-development-award",
+      "kind": "entry",
+      "href": {
+        "en": "/enterprise/",
+        "zh": "/zh/enterprise/"
+      },
+      "title": {
+        "en": "New Enterprise: a first pitch award",
+        "zh": "New Enterprise：第一个路演奖"
+      },
+      "keywords": [
+        "new enterprise a first pitch award"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "New Enterprise：第一个路演奖"
+      ],
+      "chapter": "enterprise",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-mdm3-2026-tb2",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "Group projects in Mathematical and Data Modelling 3",
+        "zh": "「数学与数据建模 3」小组项目"
+      },
+      "keywords": [
+        "group projects in mathematical and data modelling 3"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「数学与数据建模 3」小组项目"
+      ],
+      "chapter": "teaching",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-pgr-feedback-form-and-notice-posters",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "‘Make your PhD better.’ — a feedback form and posters",
+        "zh": "「Make your PhD better.」——反馈表与海报"
+      },
+      "keywords": [
+        "make your phd better a feedback form and posters"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「Make your PhD better.」——反馈表与海报"
+      ],
+      "chapter": "representing",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-ai-native-teaching-ops",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "Running the teaching the AI-native way",
+        "zh": "用 AI 原生的方式做助教"
+      },
+      "keywords": [
+        "running the teaching the ai native way"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "用 AI 原生的方式做助教"
+      ],
+      "chapter": "teaching",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-data-science-theme1-marking",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "Marking for Data Science Methods and Practice",
+        "zh": "「数据科学方法与实践」批改"
+      },
+      "keywords": [
+        "marking for data science methods and practice"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「数据科学方法与实践」批改"
+      ],
+      "chapter": "teaching",
+      "plate": false
+    },
+    {
+      "id": "self_media-linkedin-ecef-post",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "Announcing the fellowship",
+        "zh": "宣布成为创业学者"
+      },
+      "keywords": [
+        "announcing the fellowship"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "宣布成为创业学者"
+      ],
+      "chapter": "media",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-emat20013-lab-kit-testing",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "Debugging the lab kits for Principles of Physical Modelling",
+        "zh": "为「物理建模原理」排查实验套件"
+      },
+      "keywords": [
+        "debugging the lab kits for principles of physical modelling"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "为「物理建模原理」排查实验套件"
+      ],
+      "chapter": "teaching",
+      "plate": false
+    },
+    {
+      "id": "visual_assets-ink-wash-art",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "Ink wash with a single red",
+        "zh": "一抹朱红的水墨"
+      },
+      "keywords": [
+        "ink wash with a single red"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "一抹朱红的水墨"
+      ],
+      "chapter": "media",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-lighter-side-of-research",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "Seven minutes of stand-up about a maths PhD",
+        "zh": "七分钟单口喜剧：读数学博士是什么体验"
+      },
+      "keywords": [
+        "seven minutes of stand up about a maths phd",
+        "stand up 3 jun"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "七分钟单口喜剧：读数学博士是什么体验"
+      ],
+      "chapter": "representing",
+      "plate": true
+    },
+    {
+      "id": "ai_research-openclaw-agent-host",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "An always-on agent host, and an honest uninstall",
+        "zh": "一台 7×24 在线的智能体主机，以及一次坦然的卸载"
+      },
+      "keywords": [
+        "an always on agent host and an honest uninstall"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "一台 7×24 在线的智能体主机，以及一次坦然的卸载"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-ecef-training-programme",
+      "kind": "entry",
+      "href": {
+        "en": "/enterprise/",
+        "zh": "/zh/enterprise/"
+      },
+      "title": {
+        "en": "Learning to pitch in twenty slides",
+        "zh": "学会用二十页讲完"
+      },
+      "keywords": [
+        "learning to pitch in twenty slides"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "学会用二十页讲完"
+      ],
+      "chapter": "enterprise",
+      "plate": false
+    },
+    {
+      "id": "projects_code-biopath-platform",
+      "kind": "entry",
+      "href": {
+        "en": "/enterprise/",
+        "zh": "/zh/enterprise/"
+      },
+      "title": {
+        "en": "The BioPath platform: map in, traps out, proof attached",
+        "zh": "BioPath 平台：地图进，布点出，附证明"
+      },
+      "keywords": [
+        "the biopath platform map in traps out proof attached"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "BioPath 平台：地图进，布点出，附证明"
+      ],
+      "chapter": "enterprise",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-ai-native-research-method",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "An AI-native way of doing mathematics",
+        "zh": "一种 AI 原生的做数学方式"
+      },
+      "keywords": [
+        "an ai native way of doing mathematics",
+        "ai native method"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "一种 AI 原生的做数学方式"
+      ],
+      "chapter": "ukairs",
+      "plate": true
+    },
+    {
+      "id": "research_fpt-research-atlas",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "A public, bilingual research atlas",
+        "zh": "公开的中英双语研究图谱"
+      },
+      "keywords": [
+        "a public bilingual research atlas",
+        "research atlas"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "公开的中英双语研究图谱"
+      ],
+      "chapter": "research",
+      "plate": true
+    },
+    {
+      "id": "self_media-ei-blog-ecef-feature",
+      "kind": "entry",
+      "href": {
+        "en": "/enterprise/",
+        "zh": "/zh/enterprise/"
+      },
+      "title": {
+        "en": "Introduced as a 2026 Enterprise Fellow",
+        "zh": "作为 2026 届创业学者被介绍"
+      },
+      "keywords": [
+        "introduced as a 2026 enterprise fellow"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "作为 2026 届创业学者被介绍"
+      ],
+      "chapter": "enterprise",
+      "plate": false
+    },
+    {
+      "id": "ai_research-uk-ai-agent-hack-socialos",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "UK AI Agent Hack at Imperial",
+        "zh": "帝国理工 UK AI Agent Hack"
+      },
+      "keywords": [
+        "uk ai agent hack at imperial"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "帝国理工 UK AI Agent Hack"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "projects_code-socialos",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "SocialOS: 1,222 commits in five days",
+        "zh": "SocialOS：五天，1,222 次提交"
+      },
+      "keywords": [
+        "socialos 1 222 commits in five days",
+        "socialos agent hack"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "SocialOS：五天，1,222 次提交"
+      ],
+      "chapter": "workshop",
+      "plate": true
+    },
+    {
+      "id": "school_teaching_service-new-enterprise-growth-cohort",
+      "kind": "entry",
+      "href": {
+        "en": "/enterprise/",
+        "zh": "/zh/enterprise/"
+      },
+      "title": {
+        "en": "New Enterprise: GROWTH",
+        "zh": "New Enterprise：GROWTH 阶段"
+      },
+      "keywords": [
+        "new enterprise growth"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "New Enterprise：GROWTH 阶段"
+      ],
+      "chapter": "enterprise",
+      "plate": false
+    },
+    {
+      "id": "ai_research-agent-skills-oss",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "Open-source agent skills",
+        "zh": "开源的智能体技能包"
+      },
+      "keywords": [
+        "open source agent skills"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "开源的智能体技能包"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "company_products-sms-classifier",
+      "kind": "entry",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "A Chinese SMS classifier that runs on the device",
+        "zh": "在设备上运行的中文短信分类模型"
+      },
+      "keywords": [
+        "a chinese sms classifier that runs on the device"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "在设备上运行的中文短信分类模型"
+      ],
+      "chapter": "engine-room",
+      "plate": false
+    },
+    {
+      "id": "projects_code-atlas-voice-fix",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "Why the browser's voice input went deaf",
+        "zh": "浏览器的语音输入为什么「聋」了"
+      },
+      "keywords": [
+        "why the browser s voice input went deaf"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "浏览器的语音输入为什么「聋」了"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "gap_5_school_teams_gmail_coauthor-ideas-exchange-week-coorganiser",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "Helping organise SEMT Ideas Exchange Week",
+        "zh": "协助组织 SEMT Ideas Exchange Week"
+      },
+      "keywords": [
+        "helping organise semt ideas exchange week"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "协助组织 SEMT Ideas Exchange Week"
+      ],
+      "chapter": "representing",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-bamc-2026",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "BAMC 2026, Norwich",
+        "zh": "BAMC 2026，诺里奇"
+      },
+      "keywords": [
+        "bamc 2026 norwich"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "BAMC 2026，诺里奇"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-research-culture-week-bowling-social",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "‘Strike Up New Connections’: a faculty bowling social",
+        "zh": "「Strike Up New Connections」：学部保龄球社交夜"
+      },
+      "keywords": [
+        "strike up new connections a faculty bowling social"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「Strike Up New Connections」：学部保龄球社交夜"
+      ],
+      "chapter": "representing",
+      "plate": false
+    },
+    {
+      "id": "education_life-iceland-ring-road-2026",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "A route site for a snowy Iceland drive",
+        "zh": "为冰岛雪路自驾做的路线站"
+      },
+      "keywords": [
+        "a route site for a snowy iceland drive"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "为冰岛雪路自驾做的路线站"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-hidden-routes-talk",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "‘Hidden Routes in First-Passage Time’",
+        "zh": "《首达时间中的隐藏路径》"
+      },
+      "keywords": [
+        "hidden routes in first passage time"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "《首达时间中的隐藏路径》"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-student-ambassador-open-days",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "Student Ambassador at the open days",
+        "zh": "开放日学生大使"
+      },
+      "keywords": [
+        "student ambassador at the open days"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "开放日学生大使"
+      ],
+      "chapter": "representing",
+      "plate": false
+    },
+    {
+      "id": "ai_research-global-hacktour-london",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "Global HackTour London: one city, three cuts",
+        "zh": "Global HackTour 伦敦站：一座城，三种剪辑"
+      },
+      "keywords": [
+        "global hacktour london one city three cuts"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "Global HackTour 伦敦站：一座城，三种剪辑"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "projects_code-london-cuts",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "London Cuts",
+        "zh": "London Cuts 旅行故事工作室"
+      },
+      "keywords": [
+        "london cuts",
+        "london cuts"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "London Cuts 旅行故事工作室"
+      ],
+      "chapter": "workshop",
+      "plate": true
+    },
+    {
+      "id": "projects_code-bristol-housing-map",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "A fashion-editorial housing map",
+        "zh": "时装杂志风的租房地图"
+      },
+      "keywords": [
+        "a fashion editorial housing map"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "时装杂志风的租房地图"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "ai_research-direction-toward-ai",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "A research line that bends toward AI",
+        "zh": "一条弯向 AI 的研究线"
+      },
+      "keywords": [
+        "a research line that bends toward ai"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "一条弯向 AI 的研究线"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-somerscience-2026",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "Somerscience: chaos you can touch",
+        "zh": "Somerscience 科学节：摸得到的混沌"
+      },
+      "keywords": [
+        "somerscience chaos you can touch"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "Somerscience 科学节：摸得到的混沌"
+      ],
+      "chapter": "representing",
+      "plate": false
+    },
+    {
+      "id": "gap_4_event_attendance_calendar-gosim-paris-2026",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "GOSIM Paris 2026",
+        "zh": "GOSIM 巴黎 2026"
+      },
+      "keywords": [
+        "gosim paris 2026"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "GOSIM 巴黎 2026"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-sparck-ai-scholarship-reviewing",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "Reading panel, Spärck AI Scholarships",
+        "zh": "Spärck AI 奖学金评审组"
+      },
+      "keywords": [
+        "reading panel sparck ai scholarships"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "Spärck AI 奖学金评审组"
+      ],
+      "chapter": "representing",
+      "plate": false
+    },
+    {
+      "id": "company_design_events-ai-skill-guide",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "A beginner's guide to AI skills",
+        "zh": "《AI Skill 使用与沉淀指南》"
+      },
+      "keywords": [
+        "a beginner s guide to ai skills"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "《AI Skill 使用与沉淀指南》"
+      ],
+      "chapter": "on-stage",
+      "plate": false
+    },
+    {
+      "id": "company_products-agent-comms-thesis",
+      "kind": "entry",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "A thesis: communication is the execution layer for AI agents",
+        "zh": "一个论断：通信是 AI 智能体的执行层"
+      },
+      "keywords": [
+        "a thesis communication is the execution layer for ai agents"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "一个论断：通信是 AI 智能体的执行层"
+      ],
+      "chapter": "engine-room",
+      "plate": false
+    },
+    {
+      "id": "ai_research-ime-eval-scaffold",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "ime-eval: a harness for keyboard-friendly prompting",
+        "zh": "ime-eval：键盘友好提示的评测框架"
+      },
+      "keywords": [
+        "ime eval a harness for keyboard friendly prompting",
+        "ime eval"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "ime-eval：键盘友好提示的评测框架"
+      ],
+      "chapter": "ukairs",
+      "plate": true
+    },
+    {
+      "id": "ai_research-three-agent-relay",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "A relay of three models, refereed by a human",
+        "zh": "三个模型接力，一个人当裁判"
+      },
+      "keywords": [
+        "a relay of three models refereed by a human"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "三个模型接力，一个人当裁判"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-multitimescale-brief",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "Three ingredients of a double peak",
+        "zh": "双峰的三个条件"
+      },
+      "keywords": [
+        "three ingredients of a double peak"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "双峰的三个条件"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "ai_research-ime-eval-first-real-call",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "Four calls, four bugs, then a clean 1.0",
+        "zh": "四次调用，四个 bug，然后干净的 1.0"
+      },
+      "keywords": [
+        "four calls four bugs then a clean 1 0"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "四次调用，四个 bug，然后干净的 1.0"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "projects_code-catchmouse",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "CatchMouse, rebuilt for Apple Silicon",
+        "zh": "为 Apple Silicon 重写的 CatchMouse"
+      },
+      "keywords": [
+        "catchmouse rebuilt for apple silicon",
+        "catchmouse"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "为 Apple Silicon 重写的 CatchMouse"
+      ],
+      "chapter": "workshop",
+      "plate": true
+    },
+    {
+      "id": "ai_research-condition-distinctness-fix",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "Catching a silent duplicate",
+        "zh": "抓住一个隐形的重复"
+      },
+      "keywords": [
+        "catching a silent duplicate"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "抓住一个隐形的重复"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "ai_research-phase2-curves",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "Six input shapes: a ceiling, then a cliff",
+        "zh": "六种写法：先撞天花板，再遇悬崖"
+      },
+      "keywords": [
+        "six input shapes a ceiling then a cliff"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "六种写法：先撞天花板，再遇悬崖"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "ai_research-phase3-normalize-backfires",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "A negative result: restoring the Chinese first made it worse",
+        "zh": "反直觉：先还原成中文，反而更糟"
+      },
+      "keywords": [
+        "a negative result restoring the chinese first made it worse"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "反直觉：先还原成中文，反而更糟"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "ai_research-phase4-homophone",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "The key finding: toneless pinyin erases homophones",
+        "zh": "核心发现：无声调拼音抹掉同音字"
+      },
+      "keywords": [
+        "the key finding toneless pinyin erases homophones"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "核心发现：无声调拼音抹掉同音字"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "company_products-joined-yuexin",
+      "kind": "entry",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "AI lead (R&D), Yuexin International",
+        "zh": "阅信国际 AI 负责人（研发）"
+      },
+      "keywords": [
+        "ai lead r d yuexin international",
+        "yuexin intl ai lead"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "阅信国际 AI 负责人（研发）"
+      ],
+      "chapter": "engine-room",
+      "plate": true
+    },
+    {
+      "id": "company_products-feishu-agent-connector",
+      "kind": "entry",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "Feishu MCP connectors: agents inside the workspace",
+        "zh": "飞书 MCP 连接器：让智能体进入工作台"
+      },
+      "keywords": [
+        "feishu mcp connectors agents inside the workspace"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "飞书 MCP 连接器：让智能体进入工作台"
+      ],
+      "chapter": "engine-room",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-writers-retreat-interest-check",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "From a seven-response survey to eighty seats",
+        "zh": "从 7 份问卷到 80 个座位"
+      },
+      "keywords": [
+        "from a seven response survey to eighty seats"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "从 7 份问卷到 80 个座位"
+      ],
+      "chapter": "representing",
+      "plate": false
+    },
+    {
+      "id": "ai_research-claude-cross-check",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "A second agent, the same boundary",
+        "zh": "换一个智能体，边界依旧"
+      },
+      "keywords": [
+        "a second agent the same boundary"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "换一个智能体，边界依旧"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "ai_research-phase5-model-drift",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "When the tool changes underneath: pin the model",
+        "zh": "工具在脚下悄悄变了：钉死模型版本"
+      },
+      "keywords": [
+        "when the tool changes underneath pin the model"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "工具在脚下悄悄变了：钉死模型版本"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "ai_research-ukairs-submission",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "Submitted to UKAIRS 2026",
+        "zh": "投稿 UKAIRS 2026"
+      },
+      "keywords": [
+        "submitted to ukairs 2026"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "投稿 UKAIRS 2026"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "ai_research-multilingual-sprint",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "Scaling to eight scripts",
+        "zh": "扩展到八种文字"
+      },
+      "keywords": [
+        "scaling to eight scripts"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "扩展到八种文字"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "company_design_events-brand-group-and-mwc-support-kit",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "The first overseas brand push",
+        "zh": "第一次海外品牌行动"
+      },
+      "keywords": [
+        "the first overseas brand push"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "第一次海外品牌行动"
+      ],
+      "chapter": "on-stage",
+      "plate": false
+    },
+    {
+      "id": "projects_code-atlas-claude-tab",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "Seven dead ends and a working ⌘T",
+        "zh": "七条死路与一个能用的 ⌘T"
+      },
+      "keywords": [
+        "seven dead ends and a working t"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "七条死路与一个能用的 ⌘T"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-secular-term-cancellation",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "The term that cancels",
+        "zh": "那个会自己消失的项"
+      },
+      "keywords": [
+        "the term that cancels"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "那个会自己消失的项"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "company_products-open-platform-launch",
+      "kind": "entry",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "An internal AI gateway with Feishu single sign-on",
+        "zh": "带飞书单点登录的内部 AI 网关"
+      },
+      "keywords": [
+        "an internal ai gateway with feishu single sign on",
+        "ai gateway sso"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "带飞书单点登录的内部 AI 网关"
+      ],
+      "chapter": "engine-room",
+      "plate": true
+    },
+    {
+      "id": "school_teaching_service-festival-of-enterprise-2026",
+      "kind": "entry",
+      "href": {
+        "en": "/enterprise/",
+        "zh": "/zh/enterprise/"
+      },
+      "title": {
+        "en": "PechaKucha at the Festival of Enterprise",
+        "zh": "创业节上的 PechaKucha"
+      },
+      "keywords": [
+        "pechakucha at the festival of enterprise",
+        "festival of enterprise"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "创业节上的 PechaKucha"
+      ],
+      "chapter": "enterprise",
+      "plate": true
+    },
+    {
+      "id": "self_media-bilingual-subtitle-engine",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "A home-built bilingual subtitle pipeline",
+        "zh": "自己搭的中英双语字幕流水线"
+      },
+      "keywords": [
+        "a home built bilingual subtitle pipeline",
+        "bilingual subtitles"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "自己搭的中英双语字幕流水线"
+      ],
+      "chapter": "media",
+      "plate": true
+    },
+    {
+      "id": "company_design_events-linkedin-company-page-launch",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "The company's LinkedIn page",
+        "zh": "公司的 LinkedIn 主页"
+      },
+      "keywords": [
+        "the company s linkedin page"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "公司的 LinkedIn 主页"
+      ],
+      "chapter": "on-stage",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-dpma-fold-theory",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "Why a second peak is born — and dies",
+        "zh": "第二个峰为何出生，又为何消失"
+      },
+      "keywords": [
+        "why a second peak is born and dies"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "第二个峰为何出生，又为何消失"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-ambassador-poster-design",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "‘Ask me about…’ posters",
+        "zh": "「Ask me about…」海报"
+      },
+      "keywords": [
+        "ask me about posters"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「Ask me about…」海报"
+      ],
+      "chapter": "representing",
+      "plate": false
+    },
+    {
+      "id": "company_design_events-mwc-shanghai-attendance",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "MWC Shanghai 2026",
+        "zh": "MWC 上海 2026"
+      },
+      "keywords": [
+        "mwc shanghai 2026",
+        "mwc shanghai"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "MWC 上海 2026"
+      ],
+      "chapter": "on-stage",
+      "plate": true
+    },
+    {
+      "id": "projects_code-pro-agent-bridge",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "Pro Agent Bridge",
+        "zh": "Pro Agent Bridge 智能体桥"
+      },
+      "keywords": [
+        "pro agent bridge",
+        "pro agent bridge"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "Pro Agent Bridge 智能体桥"
+      ],
+      "chapter": "workshop",
+      "plate": true
+    },
+    {
+      "id": "company_design_events-business-card-design",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "Bilingual business cards, and a brochure rebuilt as vectors",
+        "zh": "中英双语名片，与重建成矢量的宣传折页"
+      },
+      "keywords": [
+        "bilingual business cards and a brochure rebuilt as vectors"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "中英双语名片，与重建成矢量的宣传折页"
+      ],
+      "chapter": "on-stage",
+      "plate": false
+    },
+    {
+      "id": "ai_research-triangulated-audit",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "Triangulated audit: three minds and a calculator",
+        "zh": "三角审计：三个大脑加一台计算器"
+      },
+      "keywords": [
+        "triangulated audit three minds and a calculator"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "三角审计：三个大脑加一台计算器"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-dsfb-summer-projects-workshop",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "AI and data-science project workshops for business students",
+        "zh": "为商科硕士开的 AI 与数据科学项目工作坊"
+      },
+      "keywords": [
+        "ai and data science project workshops for business students"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "为商科硕士开的 AI 与数据科学项目工作坊"
+      ],
+      "chapter": "teaching",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-encounter-spectral-paper",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "Working paper: spectral diagnostics for encounter–reaction models",
+        "zh": "工作论文：相遇–反应模型的谱诊断"
+      },
+      "keywords": [
+        "working paper spectral diagnostics for encounter reaction models",
+        "spectral paper"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "工作论文：相遇–反应模型的谱诊断"
+      ],
+      "chapter": "research",
+      "plate": true
+    },
+    {
+      "id": "research_fpt-dpma-course",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "An interactive course for one's own paper",
+        "zh": "为自己的论文做一门交互课"
+      },
+      "keywords": [
+        "an interactive course for one s own paper"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "为自己的论文做一门交互课"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-dpma-lean",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "46 theorems, checked by machine",
+        "zh": "46 条定理，由机器核验"
+      },
+      "keywords": [
+        "46 theorems checked by machine"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "46 条定理，由机器核验"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "company_design_events-ops-codex-trainings",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "Hands-on AI agent training for operations teams",
+        "zh": "面向运营团队的 AI 智能体实战培训"
+      },
+      "keywords": [
+        "hands on ai agent training for operations teams"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "面向运营团队的 AI 智能体实战培训"
+      ],
+      "chapter": "on-stage",
+      "plate": false
+    },
+    {
+      "id": "company_products-ai-transformation-lead",
+      "kind": "entry",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "Leading the company's AI transformation",
+        "zh": "牵头公司的 AI 转型"
+      },
+      "keywords": [
+        "leading the company s ai transformation"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "牵头公司的 AI 转型"
+      ],
+      "chapter": "engine-room",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-tsr-allocation-2026-27",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "2026–27: thirteen roles across three schools",
+        "zh": "2026–27：三个学院，十三个岗位"
+      },
+      "keywords": [
+        "2026 27 thirteen roles across three schools",
+        "13 roles 3 schools"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "2026–27：三个学院，十三个岗位"
+      ],
+      "chapter": "teaching",
+      "plate": true
+    },
+    {
+      "id": "company_products-tender-intelligence",
+      "kind": "entry",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "A morning briefing written by an agent",
+        "zh": "由智能体撰写的晨报"
+      },
+      "keywords": [
+        "a morning briefing written by an agent"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "由智能体撰写的晨报"
+      ],
+      "chapter": "engine-room",
+      "plate": false
+    },
+    {
+      "id": "company_design_events-zhishu-logo-trust-joint",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "‘Trust Joint 2.0’: a logo system argued into existence",
+        "zh": "「信榫 2.0」：一套被论证出来的标志"
+      },
+      "keywords": [
+        "trust joint 2 0 a logo system argued into existence",
+        "trust joint 2 0 logo"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「信榫 2.0」：一套被论证出来的标志"
+      ],
+      "chapter": "on-stage",
+      "plate": true
+    },
+    {
+      "id": "company_products-yueaicloud-live",
+      "kind": "entry",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "An enterprise platform for governed AI access",
+        "zh": "企业 AI 统一接入与治理平台"
+      },
+      "keywords": [
+        "an enterprise platform for governed ai access",
+        "governance platform"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "企业 AI 统一接入与治理平台"
+      ],
+      "chapter": "engine-room",
+      "plate": true
+    },
+    {
+      "id": "research_fpt-dpma-pre-submitted",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "Geometry-controlled folds — submitted to Physical Review E",
+        "zh": "几何控制的折叠——投稿 Physical Review E"
+      },
+      "keywords": [
+        "geometry controlled folds submitted to physical review e",
+        "pre paper folds"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "几何控制的折叠——投稿 Physical Review E"
+      ],
+      "chapter": "research",
+      "plate": true
+    },
+    {
+      "id": "ai_research-ai-escape-room",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "‘The Confident Assistant’: an AI-literacy escape room",
+        "zh": "「The Confident Assistant」：一间 AI 素养密室"
+      },
+      "keywords": [
+        "the confident assistant an ai literacy escape room"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「The Confident Assistant」：一间 AI 素养密室"
+      ],
+      "chapter": "teaching",
+      "plate": false
+    },
+    {
+      "id": "company_design_events-llm-industry-training-talk",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "‘From SMS to Intelligent Channels’: a 93-minute LLM primer",
+        "zh": "《从短信到智能通道》：93 分钟大模型入门课"
+      },
+      "keywords": [
+        "from sms to intelligent channels a 93 minute llm primer",
+        "llm primer 93 min"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "《从短信到智能通道》：93 分钟大模型入门课"
+      ],
+      "chapter": "on-stage",
+      "plate": true
+    },
+    {
+      "id": "ai_research-ime-eval-v2-roadmap",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "What the next version will measure",
+        "zh": "下一版要测什么"
+      },
+      "keywords": [
+        "what the next version will measure"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "下一版要测什么"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "ai_research-ukairs-acceptance",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "Accepted: the first AI paper",
+        "zh": "录用：第一篇 AI 论文"
+      },
+      "keywords": [
+        "accepted the first ai paper",
+        "ukairs accepted"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "录用：第一篇 AI 论文"
+      ],
+      "chapter": "ukairs",
+      "plate": true
+    },
+    {
+      "id": "research_fpt-fixed-budget-theorem-campaign",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "Programming the number of peaks",
+        "zh": "给峰的个数编程"
+      },
+      "keywords": [
+        "programming the number of peaks"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "给峰的个数编程"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-semt-pgr-rep-2026-27",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/representing/",
+        "zh": "/zh/campus/representing/"
+      },
+      "title": {
+        "en": "A returning rep for 2026–27",
+        "zh": "连任 2026–27 学年代表"
+      },
+      "keywords": [
+        "a returning rep for 2026 27"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "连任 2026–27 学年代表"
+      ],
+      "chapter": "representing",
+      "plate": false
+    },
+    {
+      "id": "ai_research-ukairs-poster-slot",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "Poster #181, Wednesday 25 November",
+        "zh": "181 号海报，11 月 25 日周三"
+      },
+      "keywords": [
+        "poster 181 wednesday 25 november"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "181 号海报，11 月 25 日周三"
+      ],
+      "chapter": "ukairs",
+      "plate": false
+    },
+    {
+      "id": "prior_site_design-first-passage-canvas",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "‘First-Passage Universe’: the first prototype of this site",
+        "zh": "「首达时宇宙」：这个网站的第一版原型"
+      },
+      "keywords": [
+        "first passage universe the first prototype of this site"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「首达时宇宙」：这个网站的第一版原型"
+      ],
+      "chapter": "media",
+      "plate": false
+    },
+    {
+      "id": "self_media-speech-detection-phase1",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "Finding the speech in 3,947 videos",
+        "zh": "在 3,947 段视频里找到说话声"
+      },
+      "keywords": [
+        "finding the speech in 3 947 videos"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "在 3,947 段视频里找到说话声"
+      ],
+      "chapter": "media",
+      "plate": false
+    },
+    {
+      "id": "self_media-wechat-studio-kickoff",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "A WeChat content studio",
+        "zh": "微信内容工作室"
+      },
+      "keywords": [
+        "a wechat content studio",
+        "wechat studio"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "微信内容工作室"
+      ],
+      "chapter": "media",
+      "plate": true
+    },
+    {
+      "id": "company_products-hku-career-compass-launch",
+      "kind": "entry",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "Zijing Career Compass",
+        "zh": "紫荆职途"
+      },
+      "keywords": [
+        "zijing career compass",
+        "career compass"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "紫荆职途"
+      ],
+      "chapter": "engine-room",
+      "plate": true
+    },
+    {
+      "id": "company_design_events-wwc-materials-design",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "‘Intelligence. Delivered.’ — the WWC print and digital kit",
+        "zh": "「Intelligence. Delivered.」——WWC 印刷与数字物料"
+      },
+      "keywords": [
+        "intelligence delivered the wwc print and digital kit"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「Intelligence. Delivered.」——WWC 印刷与数字物料"
+      ],
+      "chapter": "on-stage",
+      "plate": false
+    },
+    {
+      "id": "company_design_events-connect-contact-site",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "‘People. Connected.’ — a contact site for the delegation",
+        "zh": "「People. Connected.」——代表团的联系网站"
+      },
+      "keywords": [
+        "people connected a contact site for the delegation"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「People. Connected.」——代表团的联系网站"
+      ],
+      "chapter": "on-stage",
+      "plate": false
+    },
+    {
+      "id": "research_fpt-reproduction-releases",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "prescribed-reaction-time-modes: a public reproduction archive",
+        "zh": "prescribed-reaction-time-modes：公开复现仓库"
+      },
+      "keywords": [
+        "prescribed reaction time modes a public reproduction archive"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "prescribed-reaction-time-modes：公开复现仓库"
+      ],
+      "chapter": "research",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-dsfb-second-marking-2026",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "Second marker for MSc dissertations",
+        "zh": "硕士毕业论文第二评阅人"
+      },
+      "keywords": [
+        "second marker for msc dissertations"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "硕士毕业论文第二评阅人"
+      ],
+      "chapter": "teaching",
+      "plate": false
+    },
+    {
+      "id": "company_design_events-sms-market-map-page",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "An interactive SMS market map",
+        "zh": "交互式「短信市场交易地图」"
+      },
+      "keywords": [
+        "an interactive sms market map"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "交互式「短信市场交易地图」"
+      ],
+      "chapter": "on-stage",
+      "plate": false
+    },
+    {
+      "id": "company_design_events-wwc-madrid-onsite",
+      "kind": "entry",
+      "href": {
+        "en": "/work/on-stage/",
+        "zh": "/zh/work/on-stage/"
+      },
+      "title": {
+        "en": "WWC 2026, Madrid",
+        "zh": "WWC 2026，马德里"
+      },
+      "keywords": [
+        "wwc 2026 madrid",
+        "wwc madrid"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "WWC 2026，马德里"
+      ],
+      "chapter": "on-stage",
+      "plate": true
+    },
+    {
+      "id": "company_products-yuexin-chat-launch",
+      "kind": "entry",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "YueXin AI Assistant — web and Windows",
+        "zh": "阅信 AI 助手——网页版与 Windows 版"
+      },
+      "keywords": [
+        "yuexin ai assistant web and windows",
+        "yuexin ai assistant"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "阅信 AI 助手——网页版与 Windows 版"
+      ],
+      "chapter": "engine-room",
+      "plate": true
+    },
+    {
+      "id": "school_teaching_service-careers-blog-feature",
+      "kind": "entry",
+      "href": {
+        "en": "/enterprise/",
+        "zh": "/zh/enterprise/"
+      },
+      "title": {
+        "en": "‘From strawberry patch to PhD’",
+        "zh": "「从草莓田到博士」"
+      },
+      "keywords": [
+        "from strawberry patch to phd",
+        "careers blog feature"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "「从草莓田到博士」"
+      ],
+      "chapter": "enterprise",
+      "plate": true
+    },
+    {
+      "id": "projects_code-bristol-law-career-roadmap",
+      "kind": "entry",
+      "href": {
+        "en": "/workshop/",
+        "zh": "/zh/workshop/"
+      },
+      "title": {
+        "en": "A legal-career roadmap for Bristol LLM students",
+        "zh": "给布里斯托法学硕士的法律职业路线图"
+      },
+      "keywords": [
+        "a legal career roadmap for bristol llm students"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "给布里斯托法学硕士的法律职业路线图"
+      ],
+      "chapter": "workshop",
+      "plate": false
+    },
+    {
+      "id": "company_products-yuexin-chat-desktop-agent",
+      "kind": "entry",
+      "href": {
+        "en": "/work/engine-room/",
+        "zh": "/zh/work/engine-room/"
+      },
+      "title": {
+        "en": "From chat window to desktop agent",
+        "zh": "从聊天窗口到桌面智能体"
+      },
+      "keywords": [
+        "from chat window to desktop agent",
+        "desktop agent"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "从聊天窗口到桌面智能体"
+      ],
+      "chapter": "engine-room",
+      "plate": true
+    },
+    {
+      "id": "research_fpt-fixed-budget-paper",
+      "kind": "entry",
+      "href": {
+        "en": "/research/",
+        "zh": "/zh/research/"
+      },
+      "title": {
+        "en": "Programmable multimodality — manuscript in preparation",
+        "zh": "可编程多峰——稿件准备中"
+      },
+      "keywords": [
+        "programmable multimodality manuscript in preparation",
+        "programmable peaks"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "可编程多峰——稿件准备中"
+      ],
+      "chapter": "research",
+      "plate": true
+    },
+    {
+      "id": "school_teaching_service-pure-week1-teaching-library",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "An offline, bilingual teaching library",
+        "zh": "一个可离线的中英双语教学资料站"
+      },
+      "keywords": [
+        "an offline bilingual teaching library"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "一个可离线的中英双语教学资料站"
+      ],
+      "chapter": "teaching",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-scem-week1-lab",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "The first R lab of the new year",
+        "zh": "新学年的第一堂 R 实验课"
+      },
+      "keywords": [
+        "the first r lab of the new year"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "新学年的第一堂 R 实验课"
+      ],
+      "chapter": "teaching",
+      "plate": false
+    },
+    {
+      "id": "school_teaching_service-linear-algebra-tutorial-week1",
+      "kind": "entry",
+      "href": {
+        "en": "/campus/teaching/",
+        "zh": "/zh/campus/teaching/"
+      },
+      "title": {
+        "en": "The first Linear Algebra tutorial",
+        "zh": "第一次线性代数小班课"
+      },
+      "keywords": [
+        "the first linear algebra tutorial"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "第一次线性代数小班课"
+      ],
+      "chapter": "teaching",
+      "plate": false
+    },
+    {
+      "id": "prior_site_design-brief-2026-09-28",
+      "kind": "entry",
+      "href": {
+        "en": "/media/",
+        "zh": "/zh/media/"
+      },
+      "title": {
+        "en": "This site: First Passage, Nº 01",
+        "zh": "本站：首达 · 第 01 号"
+      },
+      "keywords": [
+        "this site first passage no 01"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "本站：首达 · 第 01 号"
+      ],
+      "chapter": "media",
+      "plate": false
+    },
+    {
+      "id": "ai_research-ukairs-presentation",
+      "kind": "entry",
+      "href": {
+        "en": "/ai/skipping-the-ime/",
+        "zh": "/zh/ai/skipping-the-ime/"
+      },
+      "title": {
+        "en": "UKAIRS 2026, Edinburgh",
+        "zh": "UKAIRS 2026，爱丁堡"
+      },
+      "keywords": [
+        "ukairs 2026 edinburgh",
+        "ukairs 2026"
+      ],
+      "pinyin": [],
+      "hanzi": [
+        "UKAIRS 2026，爱丁堡"
+      ],
+      "chapter": "ukairs",
+      "plate": true
+    },
+    {
+      "id": "ukairs-2026",
+      "kind": "paper",
+      "href": {
+        "en": "/index/#ix-out",
+        "zh": "/zh/index/#ix-out"
+      },
+      "title": {
+        "en": "Skipping the IME? Keyboard-Friendly Multilingual Prompting for LLM Agents",
+        "zh": "跳过输入法？面向 LLM 智能体的键盘友好多语言提示"
+      },
+      "keywords": [
+        "papers",
+        "paper",
+        "publication",
+        "skipping the ime keyboard friendly multilingual prompting for llm agents"
+      ],
+      "pinyin": [
+        "lun wen"
+      ],
+      "hanzi": [
+        "论文"
+      ]
+    },
+    {
+      "id": "dpma-pre",
+      "kind": "paper",
+      "href": {
+        "en": "/index/#ix-out",
+        "zh": "/zh/index/#ix-out"
+      },
+      "title": {
+        "en": "Geometry-controlled folds of first-passage-time bimodality under localized absorption",
+        "zh": "局域吸收下首达时间双峰的几何控制折叠"
+      },
+      "keywords": [
+        "papers",
+        "paper",
+        "publication",
+        "geometry controlled folds of first passage time bimodality under localized absorption"
+      ],
+      "pinyin": [
+        "lun wen"
+      ],
+      "hanzi": [
+        "论文"
+      ]
+    },
+    {
+      "id": "fixed-budget",
+      "kind": "paper",
+      "href": {
+        "en": "/index/#ix-out",
+        "zh": "/zh/index/#ix-out"
+      },
+      "title": {
+        "en": "Programmable multimodality and saddle-node loss of reaction-time peaks under a fixed catalyst budget",
+        "zh": "固定催化剂预算下反应时间峰的可编程多峰性与鞍结消失"
+      },
+      "keywords": [
+        "papers",
+        "paper",
+        "publication",
+        "programmable multimodality and saddle node loss of reaction time peaks under a fixed catalyst budget"
+      ],
+      "pinyin": [
+        "lun wen"
+      ],
+      "hanzi": [
+        "论文"
+      ]
+    },
+    {
+      "id": "encounter-spectral",
+      "kind": "paper",
+      "href": {
+        "en": "/index/#ix-out",
+        "zh": "/zh/index/#ix-out"
+      },
+      "title": {
+        "en": "Spectral diagnostics and local fixed-budget sensitivity of critical points in finite encounter-reaction models",
+        "zh": "有限相遇–反应模型中临界点的谱诊断与局部固定预算敏感性"
+      },
+      "keywords": [
+        "papers",
+        "paper",
+        "publication",
+        "spectral diagnostics and local fixed budget sensitivity of critical points in finite encounter reaction models"
+      ],
+      "pinyin": [
+        "lun wen"
+      ],
+      "hanzi": [
+        "论文"
+      ]
+    }
+  ],
+  "synonyms": {
+    "publish": [
+      "papers"
+    ],
+    "published": [
+      "papers"
+    ],
+    "publication": [
+      "papers"
+    ],
+    "publications": [
+      "papers"
+    ],
+    "lunwen": [
+      "papers"
+    ],
+    "论文": [
+      "papers"
+    ],
+    "cv": [
+      "index"
+    ],
+    "jianli": [
+      "index"
+    ],
+    "email": [
+      "contact"
+    ],
+    "hire": [
+      "contact"
+    ],
+    "aidingbao": [
+      "ukairs"
+    ],
+    "gongsi": [
+      "engine-room"
+    ],
+    "实验": [
+      "research"
+    ]
+  },
+  "homophones": [
+    {
+      "key": "shouda",
+      "options": [
+        {
+          "hanzi": "首达",
+          "gloss": {
+            "en": "first passage",
+            "zh": "首达"
+          },
+          "href": {
+            "en": "/research/",
+            "zh": "/zh/research/"
+          }
+        },
+        {
+          "hanzi": "手打",
+          "gloss": {
+            "en": "typed by hand",
+            "zh": "手打"
+          },
+          "href": {
+            "en": "/ai/skipping-the-ime/",
+            "zh": "/zh/ai/skipping-the-ime/"
+          }
+        }
+      ],
+      "line": {
+        "en": "Toneless, my two research lines are one word.",
+        "zh": "去掉声调，我的两条研究线是同一个词。"
+      }
+    },
+    {
+      "key": "huiyi",
+      "options": [
+        {
+          "hanzi": "会议",
+          "gloss": {
+            "en": "conferences",
+            "zh": "会议"
+          },
+          "href": {
+            "en": "/work/on-stage/",
+            "zh": "/zh/work/on-stage/"
+          }
+        },
+        {
+          "hanzi": "回忆",
+          "gloss": {
+            "en": "memories",
+            "zh": "回忆"
+          },
+          "href": {
+            "en": "/media/",
+            "zh": "/zh/media/"
+          }
+        }
+      ]
+    },
+    {
+      "key": "shishi",
+      "options": [
+        {
+          "hanzi": "事实",
+          "gloss": {
+            "en": "just the facts",
+            "zh": "事实"
+          },
+          "href": {
+            "en": "/index/",
+            "zh": "/zh/index/"
+          }
+        },
+        {
+          "hanzi": "实施",
+          "gloss": {
+            "en": "implementation",
+            "zh": "实施"
+          },
+          "href": {
+            "en": "/work/engine-room/",
+            "zh": "/zh/work/engine-room/"
+          }
+        },
+        {
+          "hanzi": "实时",
+          "gloss": {
+            "en": "real time",
+            "zh": "实时"
+          },
+          "href": {
+            "en": "/now/",
+            "zh": "/zh/now/"
+          }
+        }
+      ]
+    },
+    {
+      "key": "shu",
+      "options": [
+        {
+          "hanzi": "书",
+          "gloss": {
+            "en": "books",
+            "zh": "书"
+          },
+          "href": {
+            "en": "/roots/",
+            "zh": "/zh/roots/"
+          }
+        },
+        {
+          "hanzi": "输",
+          "gloss": {
+            "en": "input",
+            "zh": "输"
+          },
+          "href": {
+            "en": "/ai/skipping-the-ime/",
+            "zh": "/zh/ai/skipping-the-ime/"
+          }
+        },
+        {
+          "hanzi": "数",
+          "gloss": {
+            "en": "maths",
+            "zh": "数"
+          },
+          "href": {
+            "en": "/research/",
+            "zh": "/zh/research/"
+          }
+        },
+        {
+          "hanzi": "树",
+          "gloss": {
+            "en": "trees",
+            "zh": "树"
+          },
+          "href": {
+            "en": "/workshop/",
+            "zh": "/zh/workshop/"
+          }
+        }
+      ]
+    },
+    {
+      "key": "zhouyi",
+      "options": [
+        {
+          "hanzi": "周易",
+          "gloss": {
+            "en": "Book of Changes",
+            "zh": "周易"
+          },
+          "href": {
+            "en": "/colophon/",
+            "zh": "/zh/colophon/"
+          }
+        },
+        {
+          "hanzi": "周一",
+          "gloss": {
+            "en": "Monday",
+            "zh": "周一"
+          },
+          "note": {
+            "en": "See you on a Monday.",
+            "zh": "星期一见。"
+          }
+        }
+      ]
+    }
+  ],
+  "eggs": [
+    {
+      "id": "name",
+      "match": [
+        "zhouyixiaoxiao"
+      ],
+      "reply": {
+        "en": "Toneless, my name also reads 周一小小 — a tiny Monday.",
+        "zh": "没有声调，我的名字也可以读成「周一小小」。"
+      }
+    },
+    {
+      "id": "bimodal",
+      "match": [
+        "shuangfeng",
+        "bimodal",
+        "双峰"
+      ],
+      "reply": {
+        "en": "Take a shortcut. Watch two peaks emerge.",
+        "zh": "走一条捷径，看双峰浮现。"
+      },
+      "action": "bimodal"
+    },
+    {
+      "id": "recurrent",
+      "match": [
+        "changfan",
+        "常返",
+        "recurrent",
+        "P(τ<∞)"
+      ],
+      "reply": {
+        "en": "A simple random walk on the two-dimensional lattice is recurrent: you will find your way back.",
+        "zh": "二维格点上的简单随机游走常返——你总会回来。"
+      }
+    },
+    {
+      "id": "sudo",
+      "match": [
+        "sudo *"
+      ],
+      "reply": {
+        "en": "Permission denied. This is a life, not a server.",
+        "zh": "权限不足。这是人生，不是服务器。"
+      }
+    },
+    {
+      "id": "rm",
+      "match": [
+        "rm -rf *"
+      ],
+      "reply": {
+        "en": "Nothing here gets deleted — only archived.",
+        "zh": "这里什么都不删除——只归档。"
+      }
+    },
+    {
+      "id": "exit",
+      "match": [
+        "exit",
+        ":q"
+      ],
+      "reply": {
+        "en": "There is no exit, only an index.",
+        "zh": "没有出口，只有索引。"
+      },
+      "action": "index"
+    },
+    {
+      "id": "agents",
+      "match": [
+        "claude",
+        "codex"
+      ],
+      "reply": {
+        "en": "AI tools helped build this site. Human judgment chose what belongs here.",
+        "zh": "AI 工具参与搭建，人的判断决定这里呈现什么。"
+      },
+      "chips": [
+        {
+          "hanzi": "版权页",
+          "gloss": {
+            "en": "how it is made",
+            "zh": "版权页"
+          },
+          "href": {
+            "en": "/colophon/",
+            "zh": "/zh/colophon/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vow",
+      "match": [
+        "誓言"
+      ],
+      "reply": {
+        "en": "No vows on this site — only commits. Try 实验.",
+        "zh": "这里没有誓言，只有提交。试试「实验」。"
+      },
+      "chips": [
+        {
+          "hanzi": "实验",
+          "gloss": {
+            "en": "experiments",
+            "zh": "实验"
+          },
+          "href": {
+            "en": "/research/",
+            "zh": "/zh/research/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hello",
+      "match": [
+        "hello",
+        "nihao",
+        "你好"
+      ],
+      "reply": {
+        "en": "Hello. Take a shortcut, or wander for a while.",
+        "zh": "你好。抄一条近路，或慢慢逛一会儿。"
+      },
+      "chips": [
+        {
+          "hanzi": "研究",
+          "gloss": {
+            "en": "research",
+            "zh": "研究"
+          },
+          "href": {
+            "en": "/research/",
+            "zh": "/zh/research/"
+          }
+        },
+        {
+          "hanzi": "爱丁堡",
+          "gloss": {
+            "en": "Edinburgh",
+            "zh": "爱丁堡"
+          },
+          "href": {
+            "en": "/ai/skipping-the-ime/",
+            "zh": "/zh/ai/skipping-the-ime/"
+          }
+        },
+        {
+          "hanzi": "联系",
+          "gloss": {
+            "en": "contact",
+            "zh": "联系"
+          },
+          "href": {
+            "en": "/contact/",
+            "zh": "/zh/contact/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lianxi",
+      "match": [
+        "lianxi",
+        "lian xi",
+        "联系"
+      ],
+      "reply": {
+        "en": "Context decided — 联系, not 练习.",
+        "zh": "语境已定——是「联系」，不是「练习」。"
+      },
+      "action": "contact"
+    }
+  ]
+}

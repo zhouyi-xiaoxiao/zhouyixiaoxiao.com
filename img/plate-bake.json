@@ -1,0 +1,445 @@
+{
+  "v": 1,
+  "input": "content/build/plate.json",
+  "inputHash": "6910d24c32c0e9a3",
+  "seed": 20260928,
+  "grid": {
+    "W": 190,
+    "H": 126
+  },
+  "bins": 84,
+  "beta": 0.02,
+  "walkers": 16000,
+  "formats": [
+    "avif",
+    "webp"
+  ],
+  "target": "ai_research-ukairs-presentation",
+  "stats": {
+    "nAbs": 15978,
+    "nSC": 5449,
+    "piSC": 0.341031,
+    "modes": 2,
+    "peaks": [
+      3,
+      47
+    ],
+    "Tmax": 2850,
+    "bins": 84,
+    "valley": 21,
+    "peaksSteps": [
+      119,
+      1612
+    ],
+    "valleySteps": 729
+  },
+  "firstHits": {
+    "education_life-tju-bsc-enrol": 0,
+    "ai_research-ukairs-presentation": 19,
+    "education_life-bristol-msc-start": 42,
+    "ai_research-ukairs-acceptance": 50,
+    "education_life-hkust-exchange": 74,
+    "company_products-yuexin-chat-desktop-agent": 84,
+    "research_fpt-fixed-budget-paper": 153,
+    "company_products-yuexin-chat-launch": 173,
+    "us_ai_internship_career-livex-ai-internship-2025": 185,
+    "company_products-hku-career-compass-launch": 200,
+    "education_life-phd-start": 223,
+    "research_fpt-research-atlas": 281,
+    "us_ai_internship_career-jll-chengdu-internship-2024": 293,
+    "company_products-joined-yuexin": 310,
+    "company_products-open-platform-launch": 310,
+    "research_fpt-ai-native-research-method": 322,
+    "ai_research-ime-eval-scaffold": 442,
+    "company_products-yueaicloud-live": 450,
+    "research_fpt-encounter-spectral-paper": 543,
+    "research_fpt-dpma-pre-submitted": 560,
+    "company_design_events-mwc-shanghai-attendance": 691,
+    "company_design_events-llm-industry-training-talk": 1049,
+    "company_design_events-zhishu-logo-trust-joint": 1061,
+    "company_design_events-wwc-madrid-onsite": 1130,
+    "school_teaching_service-lighter-side-of-research": 1394,
+    "school_teaching_service-festival-of-enterprise-2026": 1407
+  },
+  "images": {
+    "exposure": {
+      "landscape": {
+        "w": 1600,
+        "h": 880,
+        "src": {
+          "avif": "/img/plate-exposure-landscape.avif",
+          "webp": "/img/plate-exposure-landscape.webp"
+        }
+      },
+      "portrait": {
+        "w": 720,
+        "h": 880,
+        "src": {
+          "avif": "/img/plate-exposure-portrait.avif",
+          "webp": "/img/plate-exposure-portrait.webp"
+        }
+      }
+    },
+    "engraving": {
+      "landscape": {
+        "w": 1600,
+        "h": 880,
+        "src": {
+          "avif": "/img/plate-engraving-landscape.avif",
+          "webp": "/img/plate-engraving-landscape.webp"
+        }
+      },
+      "portrait": {
+        "w": 720,
+        "h": 880,
+        "src": {
+          "avif": "/img/plate-engraving-portrait.avif",
+          "webp": "/img/plate-engraving-portrait.webp"
+        }
+      }
+    }
+  },
+  "lanes": [
+    {
+      "lane": 0,
+      "target": "research_fpt-dpma-pre-submitted",
+      "rect": {
+        "x0": 0.34135,
+        "y0": 0,
+        "x1": 0.90135,
+        "y1": 0.573265
+      },
+      "w": 1200,
+      "h": 675,
+      "src": {
+        "avif": "/img/plate-lane-0.avif",
+        "webp": "/img/plate-lane-0.webp"
+      },
+      "stats": {
+        "nAbs": 9584,
+        "nSC": 3297,
+        "piSC": 0.344011,
+        "modes": 2,
+        "peaks": [
+          8,
+          46
+        ],
+        "Tmax": 2400,
+        "bins": 84,
+        "valley": 26,
+        "peaksSteps": [
+          243,
+          1329
+        ],
+        "valleySteps": 757
+      }
+    },
+    {
+      "lane": 1,
+      "target": "ai_research-ukairs-presentation",
+      "rect": {
+        "x0": 0.44,
+        "y0": 0,
+        "x1": 1,
+        "y1": 0.573265
+      },
+      "w": 1200,
+      "h": 675,
+      "src": {
+        "avif": "/img/plate-lane-1.avif",
+        "webp": "/img/plate-lane-1.webp"
+      },
+      "stats": {
+        "nAbs": 15978,
+        "nSC": 5449,
+        "piSC": 0.341031,
+        "modes": 2,
+        "peaks": [
+          3,
+          47
+        ],
+        "Tmax": 2850,
+        "bins": 84,
+        "valley": 21,
+        "peaksSteps": [
+          119,
+          1612
+        ],
+        "valleySteps": 729
+      }
+    },
+    {
+      "lane": 2,
+      "target": "company_products-yuexin-chat-launch",
+      "rect": {
+        "x0": 0.411276,
+        "y0": 0.043558,
+        "x1": 0.971276,
+        "y1": 0.616823
+      },
+      "w": 1200,
+      "h": 675,
+      "src": {
+        "avif": "/img/plate-lane-2.avif",
+        "webp": "/img/plate-lane-2.webp"
+      },
+      "stats": {
+        "nAbs": 9587,
+        "nSC": 3466,
+        "piSC": 0.361531,
+        "modes": 2,
+        "peaks": [
+          6,
+          47
+        ],
+        "Tmax": 2650,
+        "bins": 84,
+        "valley": 24,
+        "peaksSteps": [
+          205,
+          1499
+        ],
+        "valleySteps": 773
+      }
+    },
+    {
+      "lane": 3,
+      "target": "company_design_events-wwc-madrid-onsite",
+      "rect": {
+        "x0": 0.404253,
+        "y0": 0.173399,
+        "x1": 0.964253,
+        "y1": 0.746663
+      },
+      "w": 1200,
+      "h": 675,
+      "src": {
+        "avif": "/img/plate-lane-3.avif",
+        "webp": "/img/plate-lane-3.webp"
+      },
+      "stats": {
+        "nAbs": 9590,
+        "nSC": 3561,
+        "piSC": 0.371324,
+        "modes": 2,
+        "peaks": [
+          12,
+          46
+        ],
+        "Tmax": 2700,
+        "bins": 84,
+        "valley": 28,
+        "peaksSteps": [
+          402,
+          1495
+        ],
+        "valleySteps": 916
+      }
+    },
+    {
+      "lane": 4,
+      "target": "school_teaching_service-tsr-contracts-2025",
+      "rect": {
+        "x0": 0.109358,
+        "y0": 0.279053,
+        "x1": 0.669358,
+        "y1": 0.852318
+      },
+      "w": 1200,
+      "h": 675,
+      "src": {
+        "avif": "/img/plate-lane-4.avif",
+        "webp": "/img/plate-lane-4.webp"
+      },
+      "stats": {
+        "nAbs": 9586,
+        "nSC": 3850,
+        "piSC": 0.401627,
+        "modes": 1,
+        "peaks": [
+          40
+        ],
+        "Tmax": 2050,
+        "bins": 84,
+        "peaksSteps": [
+          988
+        ]
+      }
+    },
+    {
+      "lane": 5,
+      "target": "self_media-wechat-studio-kickoff",
+      "rect": {
+        "x0": 0.394518,
+        "y0": 0.426735,
+        "x1": 0.954518,
+        "y1": 1
+      },
+      "w": 1200,
+      "h": 675,
+      "src": {
+        "avif": "/img/plate-lane-5.avif",
+        "webp": "/img/plate-lane-5.webp"
+      },
+      "stats": {
+        "nAbs": 9586,
+        "nSC": 3729,
+        "piSC": 0.389005,
+        "modes": 2,
+        "peaks": [
+          22,
+          46
+        ],
+        "Tmax": 2900,
+        "bins": 84,
+        "valley": 34,
+        "peaksSteps": [
+          777,
+          1605
+        ],
+        "valleySteps": 1191
+      }
+    },
+    {
+      "lane": 6,
+      "target": "projects_code-london-cuts",
+      "rect": {
+        "x0": 0.254868,
+        "y0": 0.426735,
+        "x1": 0.814868,
+        "y1": 1
+      },
+      "w": 1200,
+      "h": 675,
+      "src": {
+        "avif": "/img/plate-lane-6.avif",
+        "webp": "/img/plate-lane-6.webp"
+      },
+      "stats": {
+        "nAbs": 9587,
+        "nSC": 3889,
+        "piSC": 0.405653,
+        "modes": 1,
+        "peaks": [
+          45
+        ],
+        "Tmax": 2700,
+        "bins": 84,
+        "peaksSteps": [
+          1463
+        ]
+      }
+    }
+  ],
+  "hist": {
+    "vertical": "/img/hist-default.svg",
+    "horizontal": "/img/hist-default-portrait.svg"
+  },
+  "arcs": [
+    {
+      "id": "maths-to-ai",
+      "landscape": {
+        "a": [
+          0.065012,
+          0.114286
+        ],
+        "c": [
+          0.445268,
+          0.482457
+        ],
+        "b": [
+          0.85,
+          0.214286
+        ]
+      },
+      "portrait": {
+        "a": [
+          0.065012,
+          0.114286
+        ],
+        "c": [
+          0.436129,
+          0.414324
+        ],
+        "b": [
+          0.85,
+          0.214286
+        ]
+      }
+    },
+    {
+      "id": "tianjin-to-bristol",
+      "landscape": {
+        "a": [
+          0.1,
+          0.022857
+        ],
+        "c": [
+          0.189628,
+          0.163468
+        ],
+        "b": [
+          0.29998,
+          0.085714
+        ]
+      },
+      "portrait": {
+        "a": [
+          0.1,
+          0.022857
+        ],
+        "c": [
+          0.184542,
+          0.127519
+        ],
+        "b": [
+          0.29998,
+          0.085714
+        ]
+      }
+    },
+    {
+      "id": "research-to-company",
+      "landscape": {
+        "a": [
+          0.495,
+          0.071429
+        ],
+        "c": [
+          0.540316,
+          0.315197
+        ],
+        "b": [
+          0.67983,
+          0.357143
+        ]
+      },
+      "portrait": {
+        "a": [
+          0.495,
+          0.071429
+        ],
+        "c": [
+          0.517196,
+          0.281971
+        ],
+        "b": [
+          0.67983,
+          0.357143
+        ]
+      }
+    }
+  ],
+  "boxes": {
+    "landscape": {
+      "w": 970,
+      "h": 533,
+      "maxBend": 170
+    },
+    "portrait": {
+      "w": 358,
+      "h": 437,
+      "maxBend": 90
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "v": 1,
+  "budget": {
+    "latinTotal": 194560,
+    "cjkTotal": 92160
+  },
+  "latinTotal": 170356,
+  "cjkTotal": 46896,
+  "scanSources": {
+    "html": 228,
+    "content": 14,
+    "figures": 0,
+    "css": 4
+  },
+  "files": [
+    {
+      "file": "/fonts/zx-bodoni.woff2",
+      "family": "ZX Bodoni",
+      "weight": "400 900",
+      "style": "normal",
+      "bytes": 23280,
+      "sha256": "5e70c110eaaccdb923b25962510ed4725921832a5b6c4c9fea8df2d4506ddb37"
+    },
+    {
+      "file": "/fonts/zx-bodoni-italic.woff2",
+      "family": "ZX Bodoni",
+      "weight": "400 900",
+      "style": "italic",
+      "bytes": 26244,
+      "sha256": "7bae7ab0f9626a416f9e2575fd6f1550c680abf4b6f6ec898bf5cf4236ee7795"
+    },
+    {
+      "file": "/fonts/zx-newsreader.woff2",
+      "family": "ZX Newsreader",
+      "weight": "400 600",
+      "style": "normal",
+      "bytes": 45436,
+      "sha256": "53a7e0649b2284cb727ff832410cf8d10a26ad1c7b5f63b324a8d8eae7af00fd"
+    },
+    {
+      "file": "/fonts/zx-newsreader-italic.woff2",
+      "family": "ZX Newsreader",
+      "weight": "400 600",
+      "style": "italic",
+      "bytes": 51308,
+      "sha256": "b9d8d00e383bac25fc5db4b22e74c2a65ed6c823e63fe3206c6f952321d5db93"
+    },
+    {
+      "file": "/fonts/zx-plex-mono-400.woff2",
+      "family": "ZX Plex Mono",
+      "weight": "400",
+      "style": "normal",
+      "bytes": 11996,
+      "sha256": "c90ea12343a1fdc3b309bf8cfce56c86c0ad8f35e75d677830f9a77d30b669f4"
+    },
+    {
+      "file": "/fonts/zx-plex-mono-500.woff2",
+      "family": "ZX Plex Mono",
+      "weight": "500 700",
+      "style": "normal",
+      "bytes": 12092,
+      "sha256": "26bf0404211ad48b0ab86a65727c085b9ede037b0b70614443ba9922dbae586e"
+    },
+    {
+      "file": "/fonts/zx-display-sc-900.woff2",
+      "family": "ZX Display SC",
+      "weight": "800 900",
+      "style": "normal",
+      "bytes": 30108,
+      "sha256": "31c8be4ff3dff1f5929ecb8e18ab407905ff5629e0f09318b11c373e0f83cfff",
+      "chars": "。一丁不与个中书事今代企会体作你信入全出创刻务十单卡双台史号各名后向吧吸告周呼品回图地场坊堡失媒字学实室展峰已布带底建式引录径忆怎成截手打报抵招挑据捷接擎收故教数文方施时易智期未本机权条来果树校样次此法渠游潇点爱片版由的研私秒程究章第系索经职联背至节行表被西议记论证词诗诚调账走路跳输达过进道部钟链随隐页飞首验，：？"
+    },
+    {
+      "file": "/fonts/zx-display-sc-600.woff2",
+      "family": "ZX Display SC",
+      "weight": "500 700",
+      "style": "normal",
+      "bytes": 16788,
+      "sha256": "9c5452e4b16f0c94e698dce1a3ec6fb8c13824bc7026b204af9e052d7a3da814",
+      "chars": "「」一三下个串之交代位作信入六出刻十印即台号向吸回图圆地坊大学室展岗布帧年引径成按捷提擎收放教未机条来样次此求法游点环画界的相站者表被西词请走路跳输边达过进键阱院陷随雾首，：？"
+    }
+  ]
+}

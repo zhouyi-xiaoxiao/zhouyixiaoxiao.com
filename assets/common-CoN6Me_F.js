@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/reply-card-BSn5-nql.js","assets/runtime-DqoUP4vI.js","assets/runtime-Ceh-VZCR.css","assets/util-CnNa5SOn.js"])))=>i.map(i=>d[i]);
+import{s as e,m as a,_ as i}from"./runtime-DqoUP4vI.js";e(async t=>{const o=document.querySelector("section.reply-card [data-figure-root]");await a(t,o,()=>i(()=>import("./reply-card-BSn5-nql.js"),__vite__mapDeps([0,1,2,3])).then(r=>r.mountReplyCard))});

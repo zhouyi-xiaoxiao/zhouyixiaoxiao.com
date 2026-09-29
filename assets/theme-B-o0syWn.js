@@ -1,0 +1,1 @@
+import{b as r,C as s}from"./runtime-DqoUP4vI.js";function a(e){const o=r.on("theme",()=>{typeof requestAnimationFrame=="function"?requestAnimationFrame(()=>e()):e()}),n=s("(prefers-color-scheme: dark)",()=>e());return()=>{o(),n()}}export{a as o};

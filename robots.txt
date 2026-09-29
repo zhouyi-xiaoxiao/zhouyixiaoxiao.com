@@ -1,0 +1,7 @@
+# zhouyixiaoxiao.com — First Passage · 首达
+# Everything here is public and meant to be read, by people and by agents.
+# Agent-readable profile: https://zhouyixiaoxiao.com/llms.txt · https://zhouyixiaoxiao.com/profile.json
+User-agent: *
+Allow: /
+
+Sitemap: https://zhouyixiaoxiao.com/sitemap.xml

@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/film-strip-DYoWyEFT.js","assets/util-CnNa5SOn.js","assets/runtime-DqoUP4vI.js","assets/runtime-Ceh-VZCR.css","assets/static-teaching-CDIFuKeJ.js","assets/theme-B-o0syWn.js"])))=>i.map(i=>d[i]);
+import{s as a,m as e,_ as i}from"./runtime-DqoUP4vI.js";a(async t=>{const o=document.querySelector("#fig [data-figure-root]");await e(t,o,()=>i(()=>import("./film-strip-DYoWyEFT.js"),__vite__mapDeps([0,1,2,3,4,5])).then(r=>r.mountFilmStrip))});
