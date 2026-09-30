@@ -1,7 +1,7 @@
 {
   "v": 1,
   "input": "content/build/plate.json",
-  "inputHash": "6910d24c32c0e9a3",
+  "inputHash": "19a741b53461c0d2",
   "seed": 20260928,
   "grid": {
     "W": 190,
@@ -43,7 +43,7 @@
     "research_fpt-fixed-budget-paper": 153,
     "company_products-yuexin-chat-launch": 173,
     "us_ai_internship_career-livex-ai-internship-2025": 185,
-    "company_products-hku-career-compass-launch": 200,
+    "company_products-career-compass-launch": 200,
     "education_life-phd-start": 223,
     "research_fpt-research-atlas": 281,
     "us_ai_internship_career-jll-chengdu-internship-2024": 293,
@@ -51,7 +51,7 @@
     "company_products-open-platform-launch": 310,
     "research_fpt-ai-native-research-method": 322,
     "ai_research-ime-eval-scaffold": 442,
-    "company_products-yueaicloud-live": 450,
+    "company_products-governance-platform-live": 450,
     "research_fpt-encounter-spectral-paper": 543,
     "research_fpt-dpma-pre-submitted": 560,
     "company_design_events-mwc-shanghai-attendance": 691,
@@ -333,7 +333,57 @@
   ],
   "hist": {
     "vertical": "/img/hist-default.svg",
-    "horizontal": "/img/hist-default-portrait.svg"
+    "horizontal": "/img/hist-default-portrait.svg",
+    "ticks": {
+      "vertical": {
+        "orientation": "vertical",
+        "axis": 0.24375,
+        "ticks": [
+          {
+            "v": 0,
+            "f": 0.09,
+            "en": "0",
+            "zh": "0"
+          },
+          {
+            "v": 1000,
+            "f": 0.402281,
+            "en": "1,000",
+            "zh": "1000"
+          },
+          {
+            "v": 2000,
+            "f": 0.714561,
+            "en": "2,000",
+            "zh": "2000"
+          }
+        ]
+      },
+      "horizontal": {
+        "orientation": "horizontal",
+        "axis": 0.846429,
+        "ticks": [
+          {
+            "v": 0,
+            "f": 0.025,
+            "en": "0",
+            "zh": "0"
+          },
+          {
+            "v": 1000,
+            "f": 0.358333,
+            "en": "1,000",
+            "zh": "1000"
+          },
+          {
+            "v": 2000,
+            "f": 0.691667,
+            "en": "2,000",
+            "zh": "2000"
+          }
+        ]
+      }
+    }
   },
   "arcs": [
     {

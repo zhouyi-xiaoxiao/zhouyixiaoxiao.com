@@ -1,14 +1,14 @@
 {
-  "v": 1,
-  "generated": "2026-09-28",
+  "v": 2,
+  "generated": "2026-10-01",
   "site": {
     "name": {
       "en": "First Passage · 首达",
-      "zh": "首达 · First Passage"
+      "zh": "首达"
     },
     "edition": {
-      "en": "So far · Nº 01 · as at 28 Sep 2026",
-      "zh": "至此 · 第 01 号 · 截至 2026 年 9 月 28 日"
+      "en": "So far · Edition 01 · as at 1 Oct 2026",
+      "zh": "至此 · 第 1 期 · 截至 2026 年 10 月 1 日"
     },
     "url": {
       "en": "https://zhouyixiaoxiao.com/",
@@ -20,7 +20,14 @@
     "report": {
       "en": "https://zhouyixiaoxiao.com/interim-report.pdf",
       "zh": "https://zhouyixiaoxiao.com/zh/interim-report.pdf"
-    }
+    },
+    "lab": [
+      {
+        "title": "SMS Market Map · Zhouyi Xiaoxiao",
+        "url": "https://zhouyixiaoxiao.com/lab/sms-market-map/",
+        "description": "An interactive, bilingual map of how businesses buy A2P SMS: who buys, what they need, how they meet suppliers, how they decide and why they stay. Designed by Zhouyi Xiaoxiao."
+      }
+    ]
   },
   "person": {
     "name": {
@@ -32,13 +39,105 @@
       "周易潇潇"
     ],
     "identity": {
-      "en": "PhD researcher · first-passage times & AI agents · AI lead",
-      "zh": "博士研究者 · 首达时间与 AI 智能体 · AI 负责人"
+      "en": "PhD, Bristol · AI R&D, Yuexin",
+      "zh": "布里斯托博士生 · 阅信 AI 研发"
     },
     "who": {
-      "en": "PhD researcher, University of Bristol — first-passage times of random walks and the evaluation of AI agents · AI lead (R&D), Yuexin International",
-      "zh": "布里斯托大学博士研究者——随机游走的首达时间与 AI 智能体评测 · 阅信国际 AI 负责人（研发）"
+      "en": "PhD researcher, University of Bristol — first-passage times of random walks and the evaluation of AI agents · R&D Scientist (AI) at Yuexin International, a cloud-communications company",
+      "zh": "布里斯托大学博士研究生——随机游走的首达时间与 AI 智能体评测 · 阅信国际 · AI 研发"
     },
+    "jobTitle": {
+      "en": "R&D Scientist (AI)",
+      "zh": "AI 研发"
+    },
+    "worksFor": {
+      "en": "Yuexin International",
+      "zh": "阅信国际"
+    },
+    "affiliation": {
+      "en": "University of Bristol",
+      "zh": "布里斯托大学"
+    },
+    "roles": [
+      {
+        "role": {
+          "en": "PhD researcher",
+          "zh": "博士研究生"
+        },
+        "org": {
+          "en": "University of Bristol, School of Engineering Mathematics and Technology (SEMT)",
+          "zh": "布里斯托大学工程数学与技术学院（SEMT）"
+        },
+        "since": "2025-11",
+        "entry": "education_life-phd-start",
+        "url": "https://zhouyixiaoxiao.com/research/#e-education_life-phd-start"
+      },
+      {
+        "role": {
+          "en": "R&D Scientist (AI)",
+          "zh": "AI 研发"
+        },
+        "org": {
+          "en": "Yuexin International",
+          "zh": "阅信国际"
+        },
+        "since": "2026-06",
+        "entry": "company_products-joined-yuexin",
+        "url": "https://zhouyixiaoxiao.com/work/engine-room/#e-company_products-joined-yuexin"
+      },
+      {
+        "role": {
+          "en": "PGR (postgraduate research) representative, re-elected for 2026–27",
+          "zh": "博士生代表，2026 至 2027 学年连任"
+        },
+        "org": {
+          "en": "Engineering Mathematics, University of Bristol",
+          "zh": "布里斯托大学工程数学"
+        },
+        "since": "2025-12",
+        "entry": "school_teaching_service-semt-pgr-rep-2025-26",
+        "url": "https://zhouyixiaoxiao.com/campus/representing/#e-school_teaching_service-semt-pgr-rep-2025-26"
+      },
+      {
+        "role": {
+          "en": "Early Career Enterprise Fellow (2026 cohort, one of twelve)",
+          "zh": "早期职业创业学者（2026 届，全届 12 人）"
+        },
+        "org": {
+          "en": "University of Bristol",
+          "zh": "布里斯托大学"
+        },
+        "since": "2025-12",
+        "entry": "school_teaching_service-ecef-awarded",
+        "url": "https://zhouyixiaoxiao.com/enterprise/#e-school_teaching_service-ecef-awarded"
+      },
+      {
+        "role": {
+          "en": "Graduate Teacher & Demonstrator",
+          "zh": "研究生助教与实验课助教"
+        },
+        "org": {
+          "en": "University of Bristol",
+          "zh": "布里斯托大学"
+        },
+        "since": "2025-11",
+        "entry": "school_teaching_service-tsr-contracts-2025",
+        "url": "https://zhouyixiaoxiao.com/campus/teaching/#e-school_teaching_service-tsr-contracts-2025"
+      },
+      {
+        "role": {
+          "en": "Student Ambassador",
+          "zh": "学生大使"
+        },
+        "org": {
+          "en": "University of Bristol",
+          "zh": "布里斯托大学"
+        },
+        "since": "2026-04",
+        "entry": "school_teaching_service-student-ambassador-open-days",
+        "url": "https://zhouyixiaoxiao.com/campus/representing/#e-school_teaching_service-student-ambassador-open-days"
+      }
+    ],
     "email": "zhouyixiaoxiao@gmail.com",
     "links": [
       {
@@ -56,37 +155,61 @@
         },
         "href": "https://github.com/zhouyi-xiaoxiao",
         "kind": "social"
+      },
+      {
+        "label": {
+          "en": "Instagram",
+          "zh": "Instagram"
+        },
+        "href": "https://www.instagram.com/zhouyixiaoxiao/",
+        "kind": "social"
       }
-    ]
+    ],
+    "wechatChannels": {
+      "name": "周易潇潇"
+    }
   },
   "highlights": [
     {
-      "en": "First-author paper accepted at UKAIRS 2026 — poster #181, Edinburgh, 25 Nov",
-      "zh": "第一作者论文入选 UKAIRS 2026——11 月 25 日，爱丁堡，181 号海报"
+      "en": "First-author paper accepted at UKAIRS 2026 (the UK AI Research Symposium) — poster #181, Edinburgh, 25 Nov",
+      "zh": "第一作者论文入选英国 AI 研究研讨会（UKAIRS 2026）——11 月 25 日，爱丁堡，181 号海报",
+      "url": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/"
     },
     {
-      "en": "Single-author paper submitted to Physical Review E, Jul 2026",
-      "zh": "单作者论文，2026 年 7 月投稿 Physical Review E"
+      "en": "Single-author paper submitted to Physical Review E (a physics journal), Jul 2026",
+      "zh": "单作者论文，2026 年 7 月投稿《物理评论 E》（Physical Review E），审稿中",
+      "url": "https://zhouyixiaoxiao.com/research/"
     },
     {
-      "en": "Public reproduction archive v1.3.0 · 46 Lean-checked theorems",
-      "zh": "公开复现仓库 v1.3.0 · 46 条 Lean 机器验证定理"
+      "en": "Public reproduction archive v1.3.0 · 46 theorems checked in Lean, a proof assistant",
+      "zh": "公开复现仓库 v1.3.0 · 46 条定理由 Lean（一种让计算机逐行检查数学证明的软件）核验",
+      "url": "https://zhouyixiaoxiao.com/research/"
+    },
+    {
+      "en": "Six AI systems live at Yuexin International since June 2026 — an AI gateway, a governed AI platform, a staff assistant",
+      "zh": "2026 年 6 月起在阅信国际上线六套 AI 系统——AI 网关、AI 治理平台、员工助手等",
+      "url": "https://zhouyixiaoxiao.com/work/engine-room/"
+    },
+    {
+      "en": "Early Career Enterprise Fellow 2026 (one of twelve) · 13 teaching roles · PhD student rep",
+      "zh": "2026 年早期职业创业学者（全届 12 人）· 13 个教学岗位 · 博士生代表",
+      "url": "https://zhouyixiaoxiao.com/enterprise/"
     }
   ],
   "papers": [
     {
       "id": "ukairs-2026",
       "title": "Skipping the IME? Keyboard-Friendly Multilingual Prompting for LLM Agents",
-      "titleZh": "跳过输入法？面向 LLM 智能体的键盘友好多语言提示",
+      "titleZh": "跳过输入法？面向大模型智能体的键盘友好多语言提示",
       "authors": [
         "Xiaoxiao Zhouyi",
         "Yanzhen Li"
       ],
-      "venue": "UKAIRS 2026 · Emerging Research (poster), Edinburgh",
+      "venue": "UKAIRS 2026 (UK AI Research Symposium) · Emerging Research track · poster · Edinburgh",
       "status": "accepted",
       "statusLabel": {
-        "en": "Accepted · poster #181, Edinburgh, 25 Nov 2026",
-        "zh": "已录用 · 181 号海报，2026 年 11 月 25 日，爱丁堡"
+        "en": "Accepted 11 Aug 2026 · poster #181, 25 Nov 2026",
+        "zh": "2026 年 8 月 11 日录用 · 181 号海报，11 月 25 日展出"
       },
       "date": "2026-08-11",
       "links": [
@@ -110,8 +233,8 @@
       "venue": "Physical Review E",
       "status": "under-review",
       "statusLabel": {
-        "en": "Submitted to Physical Review E, Jul 2026",
-        "zh": "2026 年 7 月投稿 Physical Review E"
+        "en": "Submitted to Physical Review E · Jul 2026",
+        "zh": "2026 年 7 月投稿，审稿中"
       },
       "date": "2026-07-30",
       "links": [
@@ -174,9 +297,25 @@
         "en": "First Passage",
         "zh": "首达"
       },
+      "dek": {
+        "en": "PhD research: when a random walker first arrives",
+        "zh": "博士研究：随机游走何时第一次到达"
+      },
+      "short": {
+        "en": "Research",
+        "zh": "研究"
+      },
+      "card": {
+        "en": "Why one target can have two arrival peaks — and exactly when the second one dies. A single-author paper, submitted to Physical Review E.",
+        "zh": "一个目标为何会有两个到达峰，第二个峰又何时消失——单作者论文，已投稿《物理评论 E》。"
+      },
+      "why": {
+        "en": "First-passage times are everywhere a search has to succeed: a molecule finding a receptor, a signal crossing a network, a pest finding a trap (Chapter 07).",
+        "zh": "凡是需要「找到」的地方都有首达时间：分子找到受体、信号穿过网络、害虫走进诱捕器（见第 07 章）。"
+      },
       "thesis": {
-        "en": "Why can a single target produce two arrival peaks? Work on rings, lattices and catalyst stripes led to a single-author paper submitted to Physical Review E, 46 machine-checked algebraic theorems and a public reproduction archive.",
-        "zh": "一个目标，为什么会有两个到达峰？对环、格点与催化条带的研究，形成了一篇投往 Physical Review E 的单作者论文、46 条机器核验的代数定理，以及公开复现仓库。"
+        "en": "Why can a single target produce two arrival peaks? A year on rings, lattices and catalyst stripes that became a single-author paper submitted to Physical Review E (a physics journal), 46 theorems checked in Lean (a proof assistant, where a computer checks every step) and a public archive anyone can re-run.",
+        "zh": "一个目标，为什么会有两个到达峰？在环、格点与催化条带之间走了一年，走出一篇投给《物理评论 E》（Physical Review E）的单作者论文、46 条用 Lean（一种让计算机逐行检查数学证明的软件）核验的定理，和一个谁都能复跑的公开仓库。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/research/",
@@ -191,15 +330,15 @@
           },
           "title": {
             "en": "Geometry-controlled folds — submitted to Physical Review E",
-            "zh": "几何控制的折叠——投稿 Physical Review E"
+            "zh": "几何控制的折叠——已投稿《物理评论 E》"
           },
           "status": {
-            "en": "Submitted to Physical Review E, Jul 2026",
-            "zh": "2026 年 7 月投稿 Physical Review E"
+            "en": "Submitted to Physical Review E · Jul 2026",
+            "zh": "2026 年 7 月投稿，审稿中"
           },
           "card": {
-            "en": "Single-author regular article, the capstone of the double-peak line. Submitted to Physical Review E, 30 Jul 2026.",
-            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿 Physical Review E。"
+            "en": "Single-author regular article, the capstone of the double-peak line. Submitted to Physical Review E (a physics journal), 30 Jul 2026.",
+            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》（Physical Review E），审稿中。"
           },
           "links": [
             {
@@ -301,9 +440,25 @@
         "en": "Skipping the IME?",
         "zh": "跳过输入法？"
       },
+      "dek": {
+        "en": "First AI paper · UKAIRS 2026, the UK AI Research Symposium",
+        "zh": "第一篇 AI 论文 · 英国 AI 研究研讨会（UKAIRS 2026）"
+      },
+      "short": {
+        "en": "AI paper",
+        "zh": "AI 论文"
+      },
+      "card": {
+        "en": "Can you type pinyin (romanised Chinese) straight to an AI agent? For routine work, yes; for homophones, keep one word in characters.",
+        "zh": "直接用拼音跟 AI 智能体说话行不行？日常指令可以，同音词要留一个汉字。第一篇 AI 论文，UKAIRS 2026 录用。"
+      },
+      "why": {
+        "en": "Many languages are typed through an input method — software that turns typed letters into characters — or a romanisation: pinyin (romanised Chinese), Japanese romaji, Arabizi. Knowing where meaning survives the shortcut tells people when they can skip that step with an AI agent.",
+        "zh": "很多语言都要靠输入法或罗马化来打字——拼音、日语罗马字、阿拉伯语的拉丁转写。弄清楚意思在哪里会丢，才知道什么时候可以跟 AI 智能体省掉这一步。"
+      },
       "thesis": {
-        "en": "Can an AI agent understand pinyin without the input method? A Chinese-language pilot with 48 real calls compares routine tasks with homophone stress cases. Keeping a critical word in Hanzi repaired the tested failures. The first AI paper, accepted at UKAIRS 2026 in Edinburgh.",
-        "zh": "不经输入法选字，AI 智能体能读懂拼音吗？一项包含 48 次真实调用的中文试验，对比了日常任务与同音词压力题；保留关键词的汉字，修复了本次测试中的错误。这是第一篇 AI 论文，入选爱丁堡 UKAIRS 2026。"
+        "en": "Can Chinese speakers skip the input method — the software that turns typed letters into characters — and type raw pinyin (romanised Chinese) straight to an AI agent? 48 real calls say: for routine work, yes — but homophones collapse, and one word kept in Chinese characters brings the meaning back. The first AI paper, accepted at UKAIRS 2026 in Edinburgh.",
+        "zh": "和 AI 智能体说话，能不能跳过输入法、直接敲拼音？48 次真实调用给出的答案是：日常指令可以；可一遇同音词，意思就塌了——只要把关键词留成汉字，意思便回来了。这是第一篇 AI 论文，入选在爱丁堡举行的英国 AI 研究研讨会（UKAIRS 2026）。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/",
@@ -337,8 +492,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "Accepted: the first AI paper",
-            "zh": "录用：第一篇 AI 论文"
+            "en": "Accepted at UKAIRS 2026: the first AI paper",
+            "zh": "UKAIRS 2026 录用：第一篇 AI 论文"
           },
           "status": {
             "en": "Accepted",
@@ -367,8 +522,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "UKAIRS 2026, Edinburgh",
-            "zh": "UKAIRS 2026，爱丁堡"
+            "en": "UK AI Research Symposium (UKAIRS 2026), Edinburgh",
+            "zh": "英国 AI 研究研讨会（UKAIRS 2026），爱丁堡"
           },
           "status": {
             "en": "Scheduled · 25 Nov 2026",
@@ -376,7 +531,7 @@
           },
           "card": {
             "en": "24–25 Nov 2026 at the John McIntyre Conference Centre. A side-by-side demo: toggle from routine prompts to homophone traps.",
-            "zh": "2026 年 11 月 24–25 日，约翰·麦金泰尔会议中心。并排演示：从日常提示一键切到同音陷阱。"
+            "zh": "2026 年 11 月 24 日至 25 日，约翰·麦金泰尔会议中心。并排演示：从日常提示一键切到同音陷阱。"
           },
           "links": [
             {
@@ -436,9 +591,25 @@
         "en": "The Engine Room",
         "zh": "引擎室"
       },
+      "dek": {
+        "en": "R&D Scientist (AI) at Yuexin International, a cloud-communications company",
+        "zh": "阅信国际 · AI 研发"
+      },
+      "short": {
+        "en": "Company",
+        "zh": "公司"
+      },
+      "card": {
+        "en": "Since June 2026 at Yuexin International: six AI systems built and live in four months — a gateway, a governed platform, a staff assistant.",
+        "zh": "2026 年 6 月起在阅信国际做 AI 研发：四个月里搭建并上线六套 AI 系统——网关、治理平台、员工助手等。"
+      },
+      "why": {
+        "en": "The aim: move a company from trying AI to using it every day — safely, with governance built in, and with people holding every gate that has consequences.",
+        "zh": "目标是让一家公司从「试试 AI」走到每天都在用 AI——安全、内置治理，凡是有后果的关口都由人来把守。"
+      },
       "thesis": {
-        "en": "Since June 2026, AI lead (R&D) at Yuexin International: the internal AI gateway, an enterprise platform for governed model access, the staff AI assistant, and the connectors that let agents work inside the company's own tools.",
-        "zh": "2026 年 6 月起任阅信国际 AI 负责人（研发）：内部 AI 网关、受治理的企业模型接入平台、员工 AI 助手，以及让智能体在公司自己的工具里干活的连接器。"
+        "en": "Since June 2026, alongside the PhD: built the internal AI gateway, an enterprise platform for governed model access, a staff AI assistant, and the connectors that let agents work inside the company's own tools.",
+        "zh": "2026 年 6 月起，与读博并行：搭建了内部 AI 网关、受治理的企业模型接入平台、员工 AI 助手，以及让智能体在公司自有工具里干活的连接器。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/work/engine-room/",
@@ -452,16 +623,16 @@
             "precision": "month"
           },
           "title": {
-            "en": "AI lead (R&D), Yuexin International",
-            "zh": "阅信国际 AI 负责人（研发）"
+            "en": "R&D Scientist (AI) at Yuexin International, a cloud-communications company",
+            "zh": "阅信国际 · AI 研发"
           },
           "status": {
             "en": "Ongoing",
             "zh": "进行中"
           },
           "card": {
-            "en": "From June 2026, alongside the PhD: the company's AI platform and model gateway, its AI transformation, and AI for global messaging.",
-            "zh": "2026 年 6 月起，与读博并行：负责公司的 AI 平台与模型网关、AI 转型，以及面向国际短信业务的 AI 支持。"
+            "en": "From June 2026, alongside the PhD: the company's AI platform and model gateway, AI tools for colleagues, and AI for global messaging.",
+            "zh": "2026 年 6 月起，与读博并行：为公司搭建 AI 平台与模型网关、给同事用的 AI 工具，以及面向国际短信业务的 AI 支持。"
           },
           "links": [
             {
@@ -495,7 +666,7 @@
           "links": []
         },
         {
-          "id": "company_products-yueaicloud-live",
+          "id": "company_products-governance-platform-live",
           "date": {
             "start": "2026-07-25",
             "end": "2026-07-31",
@@ -510,8 +681,8 @@
             "zh": "已上线"
           },
           "card": {
-            "en": "Organisations, teams, keys, model allow-lists, budgets, a data-loss hook and an audit hash-chain — on the public internet in one week.",
-            "zh": "组织、团队、密钥、模型白名单、预算、防泄漏回调与审计哈希链——一周之内上线公网。"
+            "en": "Organisations, teams, keys, model allow-lists, budgets, a data-loss hook and an audit hash-chain — built and live in one week.",
+            "zh": "组织、团队、密钥、模型白名单、预算、防泄漏回调与审计哈希链——一周之内搭好并上线。"
           },
           "links": []
         }
@@ -525,9 +696,25 @@
         "en": "On Stage",
         "zh": "展台"
       },
+      "dek": {
+        "en": "Brand design, trade shows and talks",
+        "zh": "品牌设计、展会与演讲"
+      },
+      "short": {
+        "en": "Design",
+        "zh": "设计"
+      },
+      "card": {
+        "en": "Giving a cloud-communications company an AI-era face: a logo system, materials for two trade shows (MWC Shanghai, WWC Madrid), a 93-minute AI primer.",
+        "zh": "为一家云通信公司打造 AI 时代的形象：一套标志、上海与马德里两场展会的物料、一堂 93 分钟的大模型入门课。"
+      },
+      "why": {
+        "en": "A company that sold messaging had to learn to show itself as an AI company — in English, on trade floors and in print — and its own staff had to learn to work with AI agents.",
+        "zh": "一家做短信的公司，要学会用英文、在展会上、在印刷品里，把自己展示成一家 AI 公司；公司自己的员工，也要学会和 AI 智能体一起工作。"
+      },
       "thesis": {
-        "en": "Making the company's AI products understandable to partners and colleagues: a first overseas brand push, a logo developed from four sketches, print kits for two trade shows and a 93-minute LLM primer built around SMS.",
-        "zh": "让合作方与同事看懂公司的 AI 产品：第一次海外品牌行动，从四张草图发展出的标志，两场展会的印刷物料，以及一堂借短信业务讲解大模型的 93 分钟入门课。"
+        "en": "How a messaging company learns to present itself as an AI company: a first overseas brand push, a logo argued from four sketches into one mark, materials for two trade shows, and a 93-minute primer that explained the large-language-model (LLM) industry through SMS.",
+        "zh": "一家短信公司如何把自己讲成一家 AI 公司：第一次海外品牌行动，一套从四张草图论证出来的标志，两场展会的物料，以及一堂用短信讲透大模型行业的 93 分钟入门课。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/work/on-stage/",
@@ -542,8 +729,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "WWC 2026, Madrid",
-            "zh": "WWC 2026，马德里"
+            "en": "WWC 2026 in Madrid, a telecoms trade show",
+            "zh": "国际电信批发大会（WWC 2026），马德里"
           },
           "status": {
             "en": "Attended",
@@ -582,7 +769,7 @@
             "precision": "day"
           },
           "title": {
-            "en": "‘From SMS to Intelligent Channels’: a 93-minute LLM primer",
+            "en": "‘From SMS to Intelligent Channels’: a 93-minute primer on AI models",
             "zh": "《从短信到智能通道》：93 分钟大模型入门课"
           },
           "status": {
@@ -603,8 +790,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "MWC Shanghai 2026",
-            "zh": "MWC 上海 2026"
+            "en": "MWC Shanghai 2026, a mobile-industry trade show",
+            "zh": "世界移动通信大会·上海（MWC 上海 2026）"
           },
           "status": {
             "en": "Attended",
@@ -626,9 +813,25 @@
         "en": "Teaching",
         "zh": "教学"
       },
+      "dek": {
+        "en": "Graduate Teacher & Demonstrator",
+        "zh": "研究生助教与实验课助教"
+      },
+      "short": {
+        "en": "Teaching",
+        "zh": "教学"
+      },
+      "card": {
+        "en": "A Graduate Teacher from the first month of the PhD — now 13 roles across three schools: tutorials, labs, problem classes, marking.",
+        "zh": "读博第一个月就当上研究生助教，如今在三个学院担任 13 个教学岗位：小班辅导、实验课、习题课与批改。"
+      },
+      "why": {
+        "en": "It puts the maths in front of students — first-year tutorials, MSc labs, group projects — and runs on the same AI-native, check-everything habits as the research.",
+        "zh": "它让数学真正落到学生面前——一年级小班课、硕士上机实验、小组项目——背后是和做研究一样的 AI 原生、凡事核验的习惯。"
+      },
       "thesis": {
-        "en": "Teaching support from the early PhD: problem classes, labs, marking and tutorials. The initial 2026–27 allocation covers thirteen roles across eleven units in three schools. Later additions and examples of teaching already delivered are recorded below.",
-        "zh": "读博初期开始承担教学支持：习题课、实验课、批改与小班辅导。2026–27 学年的原排班覆盖三个学院、11 门课、13 个教学岗位。后续新增安排与已经开展的教学实例，见下方记录。"
+        "en": "A Graduate Teacher from the first month of the PhD: problem classes, labs, marking and tutorials — now 13 teaching roles in three schools, run with the same AI-native habits as the research.",
+        "zh": "读博第一个月就当上研究生助教（Graduate Teacher）：习题课、实验课、批改与小班辅导。如今在三个学院担任 13 个教学岗位，用的是和做研究一样的 AI 原生工作方式。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/campus/teaching/",
@@ -643,77 +846,36 @@
           },
           "title": {
             "en": "2026–27: thirteen roles across three schools",
-            "zh": "2026–27：三个学院，十三个岗位"
+            "zh": "2026 至 2027 学年：三个学院，十三个岗位"
           },
           "status": {
             "en": "Ongoing",
             "zh": "进行中"
           },
           "card": {
-            "en": "Initial 2026–27 allocation: thirteen roles across eleven units in Mathematics, SEMT and CADE; a Linear Algebra group was later added.",
-            "zh": "2026–27 学年原排班：数学学院、SEMT 与 CADE 三个学院，11 门课、13 个岗位；后续新增一个线性代数小班。"
+            "en": "13 roles in 11 units at allocation in July, across Mathematics, SEMT and CADE; a 12th unit, Linear Algebra, was added in September.",
+            "zh": "7 月分配时 11 门课 13 个岗位，分属数学学院、SEMT 与 CADE；9 月又加了第 12 门：线性代数。"
           },
           "links": []
         },
         {
-          "id": "school_teaching_service-financial-mathematics-2026",
+          "id": "school_teaching_service-tsr-contracts-2025",
           "date": {
-            "start": "2026-01",
-            "end": "2026-05-30",
-            "precision": "month"
-          },
-          "title": {
-            "en": "Problem classes in Financial Mathematics",
-            "zh": "金融数学习题课"
-          },
-          "status": {
-            "en": "Completed",
-            "zh": "已完成"
-          },
-          "card": {
-            "en": "January to May 2026: problem classes for a third-year and MSc unit, formative and assessed sheets marked.",
-            "zh": "2026 年 1 月至 5 月：为三年级与硕士合开的课程带习题课，批改形成性与计分习题。"
-          },
-          "links": []
-        },
-        {
-          "id": "school_teaching_service-mdm3-2026-tb2",
-          "date": {
-            "start": "2026-01-13",
-            "end": "2026-03-03",
+            "start": "2025-11-14",
+            "end": "2025-12-16",
             "precision": "day"
           },
           "title": {
-            "en": "Group projects in Mathematical and Data Modelling 3",
-            "zh": "「数学与数据建模 3」小组项目"
+            "en": "A Graduate Teacher from the first term",
+            "zh": "第一个学期就当上研究生助教"
           },
           "status": {
             "en": "Completed",
             "zh": "已完成"
           },
           "card": {
-            "en": "Supporting third-year modelling teams, one of them on an industry-set project — plus a small tool that made written feedback faster.",
-            "zh": "辅导三年级建模小组，其中一组做的是企业命题——外加一个让书面反馈更快的小工具。"
-          },
-          "links": []
-        },
-        {
-          "id": "school_teaching_service-scem-week1-lab",
-          "date": {
-            "start": "2026-09-23",
-            "precision": "day"
-          },
-          "title": {
-            "en": "The first R lab of the new year",
-            "zh": "新学年的第一堂 R 实验课"
-          },
-          "status": {
-            "en": "Completed",
-            "zh": "已完成"
-          },
-          "card": {
-            "en": "Demonstrating the Week 1 lab of Statistical Computing and Empirical Methods, with a bilingual pack covering all 25 exercises.",
-            "zh": "为「统计计算与实证方法」第一周上机课做助教，并准备了覆盖全部 25 道练习的双语备课包。"
+            "en": "Weeks into the PhD: a Demonstrator contract in SEMT and a Graduate Teacher contract in the School of Mathematics.",
+            "zh": "读博才几周：签下 SEMT 学院的实验课助教（Demonstrator）合同，以及数学学院的研究生助教（Graduate Teacher）合同。"
           },
           "links": []
         }
@@ -725,11 +887,27 @@
       "glyph": "代",
       "title": {
         "en": "Representing",
-        "zh": "代表"
+        "zh": "学生代表"
+      },
+      "dek": {
+        "en": "PhD student rep & open-day ambassador",
+        "zh": "博士生代表与开放日学生大使"
+      },
+      "short": {
+        "en": "Student rep",
+        "zh": "学生代表"
+      },
+      "card": {
+        "en": "PhD student rep for Engineering Mathematics (a year, and now a second), scholarship panellist, open-day ambassador — and seven minutes of stand-up.",
+        "zh": "工程数学博士生代表（当了一年，如今连任）、奖学金评审、开放日学生大使——还讲了七分钟单口喜剧。"
+      },
+      "why": {
+        "en": "It turns other PhD students' points into decisions: a careers Q&A added to a lunch-and-learn, a writing-retreat survey that became eighty seats.",
+        "zh": "它把博士生的意见变成决定：午餐讲座里加上的职业问答，一份写作营问卷换来的八十个座位。"
       },
       "thesis": {
-        "en": "Speaking for other PhD students, and welcoming visitors to the university: returning for a second academic year as Engineering Mathematics PGR rep, a scholarship reading panel, open days, a science festival — and seven minutes of stand-up about doing a maths PhD.",
-        "zh": "替博士生发声，也替学校待客：获确认继续担任第二学年的工程数学博士生代表，做奖学金评审、开放日学生大使、科学节志愿者——还在台上讲了七分钟关于读数学博士的单口喜剧。"
+        "en": "Speaking for other PhD students, and for the university: a year as Engineering Mathematics PGR (postgraduate research) rep, and now a second; a scholarship reading panel, open days, a science festival — and seven minutes of stand-up about doing a maths PhD.",
+        "zh": "替博士生发声，也替学校待客：当了一年工程数学博士生代表，如今连任第二年；做奖学金评审、开放日学生大使、科学节志愿者——还在台上讲了七分钟关于读数学博士的单口喜剧。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/campus/representing/",
@@ -744,7 +922,7 @@
             "precision": "day"
           },
           "title": {
-            "en": "PGR representative, Engineering Mathematics",
+            "en": "PGR (postgraduate research) rep, Engineering Mathematics",
             "zh": "工程数学博士生代表"
           },
           "status": {
@@ -752,8 +930,8 @@
             "zh": "已完成"
           },
           "card": {
-            "en": "A month into the PhD: speaking for SEMT's PhD students in school and faculty forums, 2025–26. Academic Rep certificate, July 2026.",
-            "zh": "入学一个月即接任：2025–26 学年在学院与学部论坛上替 SEMT 博士生发声。2026 年 7 月获学术代表证书。"
+            "en": "A month into the PhD: speaking for PhD students in SEMT (Engineering Mathematics and Technology), 2025–26. Rep certificate, July 2026.",
+            "zh": "入学一个月即接任：2025 至 2026 学年在学院与学部论坛上替工程数学与技术学院（SEMT）的博士生发声。2026 年 7 月获学术代表证书。"
           },
           "links": []
         },
@@ -774,7 +952,7 @@
           },
           "card": {
             "en": "The Lighter Side of Research: three workshops, then a set at the Bristol show on 3 June 2026, The Mount Without.",
-            "zh": "The Lighter Side of Research：三次工作坊之后，2026 年 6 月 3 日在布里斯托 The Mount Without 登台。"
+            "zh": "「研究的轻松一面」喜剧项目：三次工作坊之后，2026 年 6 月 3 日在布里斯托登台。"
           },
           "links": [
             {
@@ -816,11 +994,27 @@
       "glyph": "创",
       "title": {
         "en": "Map in. Traps out.",
-        "zh": "地图进，布点出"
+        "zh": "按图布点"
+      },
+      "dek": {
+        "en": "BioPath · Early Career Enterprise Fellowship",
+        "zh": "BioPath · 早期职业创业学者"
+      },
+      "short": {
+        "en": "Venture",
+        "zh": "创业"
+      },
+      "card": {
+        "en": "First-passage maths as a product: BioPath tells farms where to put pest traps, with the proof attached. Early Career Enterprise Fellow, 2026.",
+        "zh": "把首达数学做成产品：BioPath 告诉农场诱捕器该放哪儿，并附上证明。2026 年早期职业创业学者。"
+      },
+      "why": {
+        "en": "Where a trap goes decides how soon a pest is caught — and better placement can cut the reliance on chemical rodenticides.",
+        "zh": "诱捕器放在哪里，决定了害虫多快被抓住；布点更准，就能减少对化学灭鼠剂的依赖。"
       },
       "thesis": {
-        "en": "First-passage maths becomes a product prototype: BioPath takes a site map and a budget, proposes trap locations and supplies a reproducible model-comparison report. The enterprise journey includes an Early Career Enterprise Fellowship, a New Enterprise pitch award and a Festival of Enterprise PechaKucha.",
-        "zh": "把首达数学做成产品原型：BioPath 输入场地地图与预算，推荐诱捕器位置，并附可复跑的模型比较报告。创业过程包括早期职业创业学者计划、New Enterprise 路演奖，以及创业节上的一场 PechaKucha。"
+        "en": "First-passage maths turned into a product: BioPath takes a site map and a budget and returns where to put the traps — with the proof attached. One of twelve Early Career Enterprise Fellows in the 2026 cohort, a pitch award from New Enterprise (Bristol’s start-up programme) and a PechaKucha (20 slides × 20 seconds) at the Festival of Enterprise.",
+        "zh": "把首达数学做成产品：BioPath 输入场地地图与预算，输出诱捕器该放在哪儿——并附上证明。由此成为 2026 届早期职业创业学者（全届 12 人），拿到布里斯托大学创业孵化项目 New Enterprise 的路演奖，并在创业节上做了一场 PechaKucha（20 页幻灯片、每页 20 秒的快闪演讲）。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/enterprise/",
@@ -839,7 +1033,7 @@
           },
           "status": {
             "en": "Awarded",
-            "zh": "获授"
+            "zh": "已获得"
           },
           "card": {
             "en": "BioPath — a bio-inspired optimisation tool for precision pest management — won a place in the 2026 cohort of twelve fellows.",
@@ -854,16 +1048,16 @@
             "precision": "day"
           },
           "title": {
-            "en": "The BioPath platform: map in, traps out, comparisons attached",
-            "zh": "BioPath 平台：地图进，布点出，附比较报告"
+            "en": "The BioPath platform: map in, traps out, proof attached",
+            "zh": "BioPath 平台：地图进，布点出，附证明"
           },
           "status": {
             "en": "Live",
             "zh": "已上线"
           },
           "card": {
-            "en": "A site map and a budget in; model-optimised trap coordinates out — with a reproducible comparison report.",
-            "zh": "输入场地地图与预算，输出模型内优化的诱捕器坐标——附可复跑的比较报告。"
+            "en": "A site map and a budget in; trap coordinates that optimise first-passage capture out — with a proof bundle anyone can re-run.",
+            "zh": "输入场地地图与预算，输出使首达捕获最优的诱捕器坐标——外加一份谁都能复跑的证明包。"
           },
           "links": [
             {
@@ -891,8 +1085,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "PechaKucha at the Festival of Enterprise",
-            "zh": "创业节上的 PechaKucha"
+            "en": "A PechaKucha (20 slides × 20 seconds) at the Festival of Enterprise",
+            "zh": "创业节上的 PechaKucha（20 页幻灯片、每页 20 秒）"
           },
           "status": {
             "en": "Presented",
@@ -900,7 +1094,7 @@
           },
           "card": {
             "en": "Twenty slides, twenty seconds each, at the Arts Complex on 10 June 2026: ‘Map in. Traps out. Proof attached.’",
-            "zh": "2026 年 6 月 10 日，Arts Complex：二十页幻灯片，每页二十秒——「Map in. Traps out. Proof attached.」"
+            "zh": "2026 年 6 月 10 日，二十页幻灯片、每页二十秒的路演：「地图进，布点出，附证明」。"
           },
           "links": [
             {
@@ -923,9 +1117,25 @@
         "en": "Signal",
         "zh": "信号"
       },
+      "dek": {
+        "en": "Media, posts and video",
+        "zh": "自媒体、帖子与视频"
+      },
+      "short": {
+        "en": "Media",
+        "zh": "自媒体"
+      },
+      "card": {
+        "en": "What was published, and the studio behind it: LinkedIn as a notebook, a WeChat studio since August 2026, bilingual subtitles, this site.",
+        "zh": "发出去的作品，和背后的工作室：领英当笔记本，2026 年 8 月起的微信内容工作室，双语字幕，以及这个网站。"
+      },
+      "why": {
+        "en": "The record is also how the work reaches people: posts, talks and videos in two languages — with every number here an aggregate and every private clip kept private.",
+        "zh": "记录本身也是作品抵达别人的方式：中英两种语言的帖子、演讲与视频；这里的数字一律是汇总，私人片段一律不公开。"
+      },
       "thesis": {
-        "en": "A camera roll kept since 2023, a WeChat studio launched in August 2026, LinkedIn as a public notebook, a home-built bilingual subtitle pipeline — and the long making-of of the site you are reading.",
-        "zh": "2023 年起从未停下的手机影像，2026 年 8 月启动的微信内容工作室，被当作公开笔记本的领英，自己搭的中英双语字幕流水线——还有你正在读的这个网站的漫长幕后。"
+        "en": "A camera roll kept since 2023, a WeChat studio launched in August 2026 (the enterprise pitch and an interview are on WeChat Channels), LinkedIn as a public notebook, a home-built bilingual subtitle pipeline — and the long making-of of the site you are reading.",
+        "zh": "2023 年起从未停下的手机影像，2026 年 8 月启动的微信内容工作室（创业路演与一次专访已发在视频号），被当作公开笔记本的领英，自己搭的中英双语字幕流水线——还有你正在读的这个网站的漫长幕后。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/media/",
@@ -980,12 +1190,12 @@
             "precision": "day"
           },
           "title": {
-            "en": "This site: First Passage, Nº 01",
-            "zh": "本站：首达 · 第 01 号"
+            "en": "This site: First Passage, Edition 01",
+            "zh": "本站：首达 · 第 1 期"
           },
           "status": {
-            "en": "Nº 01 · live",
-            "zh": "第 01 号 · 已上线"
+            "en": "Edition 01 · live",
+            "zh": "第 1 期 · 已上线"
           },
           "card": {
             "en": "A live first-passage experiment on one life — at the address that spent 2026 redirecting to LinkedIn.",
@@ -1003,9 +1213,25 @@
         "en": "Westward",
         "zh": "向西"
       },
+      "dek": {
+        "en": "Silicon Valley, 2025 · an internship at LiveX AI, a Bay Area AI start-up",
+        "zh": "2025 年夏 · 硅谷 AI 创业公司 LiveX AI 实习"
+      },
+      "short": {
+        "en": "Internship",
+        "zh": "硅谷实习"
+      },
+      "card": {
+        "en": "Summer 2025 in Silicon Valley: an entrepreneurship programme and a research internship at LiveX AI — where the turn toward AI began.",
+        "zh": "2025 年夏在硅谷：一段创业研学，外加 LiveX AI 的研究实习——转向 AI 从这里开始。"
+      },
+      "why": {
+        "en": "It is where the question behind the later AI work first appeared: judge a tool by whether its output answers real questions, not by how it looks.",
+        "zh": "后来 AI 工作背后的那个问题，最早出现在这里：评判一个工具，要看它的输出能不能回答真实问题，而不是看它长得好不好。"
+      },
       "thesis": {
-        "en": "Summer 2025: a university programme in Silicon Valley and a two-week research internship at LiveX AI, where the question was how to turn messy manuals into Markdown an AI can actually use. The hinge of the turn toward AI — and a walker that is still walking.",
-        "zh": "2025 年夏：硅谷的一段大学研学项目，外加在 LiveX AI 的两周研究实习——课题是怎样把杂乱的产品手册变成 AI 真正用得上的 Markdown。这是转向 AI 的铰链，也是一个至今仍在游走的粒子。"
+        "en": "Summer 2025: a university programme in Silicon Valley and a two-week research internship at LiveX AI, where the question was how to turn messy manuals into Markdown an AI can actually use. The turning point toward AI — and a walker that is still walking.",
+        "zh": "2025 年夏：硅谷的一段大学研学项目，外加在 LiveX AI 的两周研究实习——课题是怎样把杂乱的产品手册变成 AI 真正用得上的 Markdown。这是转向 AI 的转折点，也是一个至今仍在游走的粒子。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/westward/",
@@ -1020,8 +1246,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "LiveX AI — Researcher (Internship)",
-            "zh": "LiveX AI——研究实习"
+            "en": "LiveX AI, a Bay Area AI start-up — Researcher (Internship)",
+            "zh": "硅谷 AI 创业公司 LiveX AI——研究实习"
           },
           "status": {
             "en": "Completed",
@@ -1084,6 +1310,22 @@
       "title": {
         "en": "Workshop",
         "zh": "作坊"
+      },
+      "dek": {
+        "en": "Side projects",
+        "zh": "业余项目"
+      },
+      "short": {
+        "en": "Projects",
+        "zh": "作品"
+      },
+      "card": {
+        "en": "Built in the gaps, mostly so someone else could move faster: a maths guide, a travel-story app, a cursor tool, agent bridges.",
+        "zh": "见缝插针造出来的东西，多半是为了让别人走得更快：数学指北、旅行故事应用、光标工具、智能体之桥。"
+      },
+      "why": {
+        "en": "Small public tools are where new methods get tried first, and some outlive their moment: the Tianjin maths guide from 2023 is still in use.",
+        "zh": "小而公开的工具，是新方法最先试手的地方；有些还活得很久：2023 年的天大数学指北，至今仍有人在用。"
       },
       "thesis": {
         "en": "Things built in the gaps: a maths guide for the next cohort, a travel-story studio born at a hackathon, a cursor that jumps between screens, bridges that let AI agents hand work to each other — most of them made so that someone else could move faster.",
@@ -1232,9 +1474,25 @@
         "en": "Roots",
         "zh": "来路"
       },
+      "dek": {
+        "en": "Education: Tianjin → Hong Kong → Bristol",
+        "zh": "求学：天津 → 香港 → 布里斯托"
+      },
+      "short": {
+        "en": "Education",
+        "zh": "求学"
+      },
+      "card": {
+        "en": "Tianjin, Hong Kong, Chengdu, Geneva, Bristol: a maths degree with an oar in hand, and the 3+1 route to a Bristol MSc.",
+        "zh": "天津、香港、成都、日内瓦、布里斯托：一边划船一边读数学，以及去布里斯托读硕士的「3+1」。"
+      },
+      "why": {
+        "en": "The pieces were there before the PhD: random walks in the undergraduate thesis, maths turned computational in Hong Kong, and a habit of speaking up for other students.",
+        "zh": "读博之前，这些线索就都在了：本科论文里的随机游走，在香港变得可以计算的数学，以及替同学发声的习惯。"
+      },
       "thesis": {
-        "en": "Tianjin, Hong Kong, Chengdu, Geneva, Bristol: a maths degree with an oar in hand, an exchange year that turned the maths computational, a first internship, and the 3+1 route — the first shortcut, which skipped a year.",
-        "zh": "天津、香港、成都、日内瓦、布里斯托：一边读数学一边划船的本科，让数学变得可以计算的交换年，第一份实习，以及「3+1」——人生里的第一条捷径，径直跳过了一年。"
+        "en": "Tianjin, Hong Kong, Chengdu, Geneva, Bristol: a maths degree at Tianjin University (TJU) with an oar in hand, an exchange year at the Hong Kong University of Science and Technology (HKUST) that turned the maths computational, a first internship, and the 3+1 route (three years in Tianjin, the fourth as a Bristol MSc) — the first shortcut, which skipped a year.",
+        "zh": "天津、香港、成都、日内瓦、布里斯托：在天津大学一边读数学一边划船的本科，在香港科技大学让数学变得可以计算的交换年，第一份实习，以及「3+1」（天津三年，第四年读布里斯托硕士）——人生里的第一条捷径，径直跳过了一年。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/roots/",
@@ -1258,7 +1516,7 @@
           },
           "card": {
             "en": "2021–2025 in the School of Mathematics, the final year at Bristol via the 3+1 route. Every walker on this site starts here.",
-            "zh": "2021–2025 年就读于数学学院，最后一年经「3+1」在布里斯托完成。本站每一个游走者，都从这里出发。"
+            "zh": "2021 至 2025 年就读于数学学院，最后一年经「3+1」在布里斯托完成。本站每一个游走者，都从这里出发。"
           },
           "links": []
         },
@@ -1291,8 +1549,8 @@
             "precision": "month"
           },
           "title": {
-            "en": "An exchange year at HKUST",
-            "zh": "港科大交换的一年"
+            "en": "An exchange year at the Hong Kong University of Science and Technology (HKUST)",
+            "zh": "香港科技大学交换的一年"
           },
           "status": {
             "en": "Completed",
@@ -1300,7 +1558,7 @@
           },
           "card": {
             "en": "2023–24 in Hong Kong: PDEs, their numerical solution and applied statistics — where the maths turned computational.",
-            "zh": "2023–24 年在香港：偏微分方程、数值解法与应用统计——数学从此变得可以计算。"
+            "zh": "2023 至 2024 年在香港：偏微分方程、数值解法与应用统计——数学从此变得可以计算。"
           },
           "links": []
         },
@@ -1335,9 +1593,25 @@
         "en": "Now & Next",
         "zh": "此刻"
       },
+      "dek": {
+        "en": "What is in progress",
+        "zh": "正在进行的事"
+      },
+      "short": {
+        "en": "Now",
+        "zh": "近况"
+      },
+      "card": {
+        "en": "Edinburgh poster on 25 November, a paper submitted to Physical Review E, another in preparation, a desktop agent in development.",
+        "zh": "11 月 25 日爱丁堡海报、一篇已投稿《物理评论 E》、一篇在写、一个开发中的桌面智能体。"
+      },
+      "why": {
+        "en": "A snapshot with a date on it, so the record stays honest: what is finished lives in the chapters; what is still moving is here.",
+        "zh": "这是一张带日期的快照，好让记录保持诚实：做完的在各章里，还在走的在这里。"
+      },
       "thesis": {
-        "en": "As at the build date: a poster to present in Edinburgh, a paper submitted to Physical Review E and another in preparation, a desktop agent in development, a new teaching year and a second year as PGR rep. The walkers still in flight.",
-        "zh": "截至建站当日：一张要带去爱丁堡的海报，一篇已投往 Physical Review E、一篇仍在打磨的论文，一个开发中的桌面智能体，新学年的课，以及第二年的博士生代表。这些，是仍在飞行中的游走者。"
+        "en": "As at the build date: a poster to present in Edinburgh, a paper submitted to Physical Review E (a physics journal) and another in preparation, a desktop agent in development, a new teaching year and a second year as PhD student rep. The walkers still in flight.",
+        "zh": "截至建站当日：一张要带去爱丁堡的海报，一篇已投稿《物理评论 E》、一篇仍在打磨的论文，一个开发中的桌面智能体，新学年的课，以及第二年的博士生代表。这些，是仍在飞行中的游走者。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/now/",
@@ -1352,8 +1626,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "UKAIRS 2026, Edinburgh",
-            "zh": "UKAIRS 2026，爱丁堡"
+            "en": "UK AI Research Symposium (UKAIRS 2026), Edinburgh",
+            "zh": "英国 AI 研究研讨会（UKAIRS 2026），爱丁堡"
           },
           "status": {
             "en": "Scheduled · 25 Nov 2026",
@@ -1361,7 +1635,7 @@
           },
           "card": {
             "en": "24–25 Nov 2026 at the John McIntyre Conference Centre. A side-by-side demo: toggle from routine prompts to homophone traps.",
-            "zh": "2026 年 11 月 24–25 日，约翰·麦金泰尔会议中心。并排演示：从日常提示一键切到同音陷阱。"
+            "zh": "2026 年 11 月 24 日至 25 日，约翰·麦金泰尔会议中心。并排演示：从日常提示一键切到同音陷阱。"
           },
           "links": [
             {
@@ -1382,15 +1656,15 @@
           },
           "title": {
             "en": "Geometry-controlled folds — submitted to Physical Review E",
-            "zh": "几何控制的折叠——投稿 Physical Review E"
+            "zh": "几何控制的折叠——已投稿《物理评论 E》"
           },
           "status": {
-            "en": "Submitted to Physical Review E, Jul 2026",
-            "zh": "2026 年 7 月投稿 Physical Review E"
+            "en": "Submitted to Physical Review E · Jul 2026",
+            "zh": "2026 年 7 月投稿，审稿中"
           },
           "card": {
-            "en": "Single-author regular article, the capstone of the double-peak line. Submitted to Physical Review E, 30 Jul 2026.",
-            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿 Physical Review E。"
+            "en": "Single-author regular article, the capstone of the double-peak line. Submitted to Physical Review E (a physics journal), 30 Jul 2026.",
+            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》（Physical Review E），审稿中。"
           },
           "links": [
             {
@@ -1406,6 +1680,282 @@
       ]
     }
   ],
+  "threads": [
+    {
+      "id": "maths-to-ai",
+      "title": {
+        "en": "Maths → AI",
+        "zh": "从数学到 AI"
+      },
+      "line": {
+        "en": "The same habit — measure the hidden route — aimed first at random walkers, then at AI agents.",
+        "zh": "同一个习惯——测量隐藏的路径——先对准随机游走者，再对准 AI 智能体。"
+      },
+      "entries": [
+        {
+          "id": "education_life-hkust-pinns-report",
+          "title": {
+            "en": "Physics-informed neural networks for differential equations",
+            "zh": "用物理信息神经网络解偏微分方程"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/roots/#e-education_life-hkust-pinns-report",
+            "zh": "https://zhouyixiaoxiao.com/zh/roots/#e-education_life-hkust-pinns-report"
+          }
+        },
+        {
+          "id": "us_ai_internship_career-livex-ai-internship-2025",
+          "title": {
+            "en": "LiveX AI, a Bay Area AI start-up — Researcher (Internship)",
+            "zh": "硅谷 AI 创业公司 LiveX AI——研究实习"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/westward/#e-us_ai_internship_career-livex-ai-internship-2025",
+            "zh": "https://zhouyixiaoxiao.com/zh/westward/#e-us_ai_internship_career-livex-ai-internship-2025"
+          }
+        },
+        {
+          "id": "research_fpt-dpma-lean",
+          "title": {
+            "en": "46 theorems, checked by machine",
+            "zh": "46 条定理，由机器核验"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/research/#e-research_fpt-dpma-lean",
+            "zh": "https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-dpma-lean"
+          }
+        },
+        {
+          "id": "ai_research-ukairs-acceptance",
+          "title": {
+            "en": "Accepted at UKAIRS 2026: the first AI paper",
+            "zh": "UKAIRS 2026 录用：第一篇 AI 论文"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-acceptance",
+            "zh": "https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-ukairs-acceptance"
+          }
+        }
+      ]
+    },
+    {
+      "id": "builder-for-others",
+      "title": {
+        "en": "Built for others",
+        "zh": "为别人而造"
+      },
+      "line": {
+        "en": "Most things were built so someone else could move faster.",
+        "zh": "做出来的东西，多半是为了让别人走得更快。"
+      },
+      "entries": [
+        {
+          "id": "projects_code-tju-math-guide",
+          "title": {
+            "en": "The Tianjin University maths guide",
+            "zh": "天津大学数学学院本科生指北"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/workshop/#e-projects_code-tju-math-guide",
+            "zh": "https://zhouyixiaoxiao.com/zh/workshop/#e-projects_code-tju-math-guide"
+          }
+        },
+        {
+          "id": "projects_code-biopath-platform",
+          "title": {
+            "en": "The BioPath platform: map in, traps out, proof attached",
+            "zh": "BioPath 平台：地图进，布点出，附证明"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/enterprise/#e-projects_code-biopath-platform",
+            "zh": "https://zhouyixiaoxiao.com/zh/enterprise/#e-projects_code-biopath-platform"
+          }
+        },
+        {
+          "id": "company_products-yuexin-chat-launch",
+          "title": {
+            "en": "YueXin AI Assistant — web and Windows",
+            "zh": "阅信 AI 助手——网页版与 Windows 版"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/work/engine-room/#e-company_products-yuexin-chat-launch",
+            "zh": "https://zhouyixiaoxiao.com/zh/work/engine-room/#e-company_products-yuexin-chat-launch"
+          }
+        },
+        {
+          "id": "school_teaching_service-pure-week1-teaching-library",
+          "title": {
+            "en": "An offline, bilingual teaching library",
+            "zh": "一个可离线的中英双语教学资料站"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/campus/teaching/#e-school_teaching_service-pure-week1-teaching-library",
+            "zh": "https://zhouyixiaoxiao.com/zh/campus/teaching/#e-school_teaching_service-pure-week1-teaching-library"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bilingual-bridge",
+      "title": {
+        "en": "Bilingual bridge",
+        "zh": "双语之桥"
+      },
+      "line": {
+        "en": "Almost everything ships in English and Chinese — including a paper about the space between them.",
+        "zh": "几乎所有作品都同时有中英两版——包括一篇研究两种语言之间缝隙的论文。"
+      },
+      "entries": [
+        {
+          "id": "research_fpt-research-atlas",
+          "title": {
+            "en": "A public, bilingual research atlas",
+            "zh": "公开的中英双语研究图谱"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/research/#e-research_fpt-research-atlas",
+            "zh": "https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-research-atlas"
+          }
+        },
+        {
+          "id": "ai_research-ukairs-submission",
+          "title": {
+            "en": "Submitted to UKAIRS 2026",
+            "zh": "投稿 UKAIRS 2026"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-submission",
+            "zh": "https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-ukairs-submission"
+          }
+        },
+        {
+          "id": "self_media-bilingual-subtitle-engine",
+          "title": {
+            "en": "A home-built bilingual subtitle pipeline",
+            "zh": "自己搭的中英双语字幕流水线"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/media/#e-self_media-bilingual-subtitle-engine",
+            "zh": "https://zhouyixiaoxiao.com/zh/media/#e-self_media-bilingual-subtitle-engine"
+          }
+        },
+        {
+          "id": "company_design_events-wwc-materials-design",
+          "title": {
+            "en": "‘Intelligence. Delivered.’ — print and digital kit for a Madrid trade show",
+            "zh": "「智能，送达」——马德里展会的印刷与数字物料"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-wwc-materials-design",
+            "zh": "https://zhouyixiaoxiao.com/zh/work/on-stage/#e-company_design_events-wwc-materials-design"
+          }
+        }
+      ]
+    },
+    {
+      "id": "on-stage",
+      "title": {
+        "en": "On stage",
+        "zh": "登台"
+      },
+      "line": {
+        "en": "From a first press mention in Chengdu to stand-up in Bristol, a PechaKucha (20 slides × 20 seconds), a 93-minute primer and two trade floors.",
+        "zh": "从成都的第一次见报，到布里斯托的单口喜剧、PechaKucha（20 页幻灯片、每页 20 秒）、93 分钟大模型课和两场展会。"
+      },
+      "entries": [
+        {
+          "id": "education_life-chengdu-expo-media-speeches",
+          "title": {
+            "en": "A first press mention, in Chengdu",
+            "zh": "第一次见报，在成都"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/roots/#e-education_life-chengdu-expo-media-speeches",
+            "zh": "https://zhouyixiaoxiao.com/zh/roots/#e-education_life-chengdu-expo-media-speeches"
+          }
+        },
+        {
+          "id": "school_teaching_service-lighter-side-of-research",
+          "title": {
+            "en": "Seven minutes of stand-up about a maths PhD",
+            "zh": "七分钟单口喜剧：读数学博士是什么体验"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/campus/representing/#e-school_teaching_service-lighter-side-of-research",
+            "zh": "https://zhouyixiaoxiao.com/zh/campus/representing/#e-school_teaching_service-lighter-side-of-research"
+          }
+        },
+        {
+          "id": "school_teaching_service-festival-of-enterprise-2026",
+          "title": {
+            "en": "A PechaKucha (20 slides × 20 seconds) at the Festival of Enterprise",
+            "zh": "创业节上的 PechaKucha（20 页幻灯片、每页 20 秒）"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/enterprise/#e-school_teaching_service-festival-of-enterprise-2026",
+            "zh": "https://zhouyixiaoxiao.com/zh/enterprise/#e-school_teaching_service-festival-of-enterprise-2026"
+          }
+        },
+        {
+          "id": "company_design_events-llm-industry-training-talk",
+          "title": {
+            "en": "‘From SMS to Intelligent Channels’: a 93-minute primer on AI models",
+            "zh": "《从短信到智能通道》：93 分钟大模型入门课"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-llm-industry-training-talk",
+            "zh": "https://zhouyixiaoxiao.com/zh/work/on-stage/#e-company_design_events-llm-industry-training-talk"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proof-and-audit",
+      "title": {
+        "en": "Proof & audit",
+        "zh": "证明与审计"
+      },
+      "line": {
+        "en": "Trust, but verify: computer-checked theorems, 325 million simulated walkers, negative results kept, AI reviewers before every launch.",
+        "zh": "信任，但要验证：计算机核验的定理、3.25 亿个模拟游走粒子、保留下来的负结果、每次上线前的 AI 审查。"
+      },
+      "entries": [
+        {
+          "id": "research_fpt-fixed-budget-theorem-campaign",
+          "title": {
+            "en": "Programming the number of peaks",
+            "zh": "给峰的个数编程"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/research/#e-research_fpt-fixed-budget-theorem-campaign",
+            "zh": "https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-fixed-budget-theorem-campaign"
+          }
+        },
+        {
+          "id": "ai_research-phase3-normalize-backfires",
+          "title": {
+            "en": "A negative result: restoring the Chinese first made it worse",
+            "zh": "反直觉：先还原成中文，反而更糟"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-phase3-normalize-backfires",
+            "zh": "https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-phase3-normalize-backfires"
+          }
+        },
+        {
+          "id": "company_products-governance-platform-live",
+          "title": {
+            "en": "An enterprise platform for governed AI access",
+            "zh": "企业 AI 统一接入与治理平台"
+          },
+          "url": {
+            "en": "https://zhouyixiaoxiao.com/work/engine-room/#e-company_products-governance-platform-live",
+            "zh": "https://zhouyixiaoxiao.com/zh/work/engine-room/#e-company_products-governance-platform-live"
+          }
+        }
+      ]
+    }
+  ],
   "jsonld": {
     "@context": "https://schema.org",
     "@type": "Person",
@@ -1416,11 +1966,21 @@
       "周易潇潇"
     ],
     "url": "https://zhouyixiaoxiao.com/",
-    "description": "PhD researcher · first-passage times & AI agents · AI lead",
+    "description": "PhD researcher, University of Bristol — first-passage times of random walks and the evaluation of AI agents · R&D Scientist (AI) at Yuexin International, a cloud-communications company",
     "sameAs": [
       "https://www.linkedin.com/in/zhouyixiaoxiao/",
-      "https://github.com/zhouyi-xiaoxiao"
+      "https://github.com/zhouyi-xiaoxiao",
+      "https://www.instagram.com/zhouyixiaoxiao/"
     ],
-    "email": "mailto:zhouyixiaoxiao@gmail.com"
+    "email": "mailto:zhouyixiaoxiao@gmail.com",
+    "jobTitle": "R&D Scientist (AI)",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Yuexin International"
+    },
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Bristol"
+    }
   }
 }

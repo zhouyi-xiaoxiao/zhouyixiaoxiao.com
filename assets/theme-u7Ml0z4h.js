@@ -1,0 +1,1 @@
+import{a as r,P as s}from"./boot-Dyu_fQrJ.js";function a(e){const o=r.on("theme",()=>{typeof requestAnimationFrame=="function"?requestAnimationFrame(()=>e()):e()}),n=s("(prefers-color-scheme: dark)",()=>e());return()=>{o(),n()}}export{a as o};

@@ -1,51 +1,73 @@
 # Zhouyi Xiaoxiao · 周易潇潇
 
-> PhD researcher · first-passage times & AI agents · AI lead. PhD researcher, University of Bristol — first-passage times of random walks and the evaluation of AI agents · AI lead (R&D), Yuexin International.
+> PhD researcher, University of Bristol — first-passage times of random walks and the evaluation of AI agents · R&D Scientist (AI) at Yuexin International, a cloud-communications company.
 
-Research, AI products, teaching and a life in motion. Explore the chapters directly, or use a map of events from 2021 to now: choose a target, switch on shortcuts and follow the walkers. The map borrows its language from first-passage research.
+zhouyixiaoxiao.com is a live first-passage experiment run on one life: walkers leave Tianjin and search a luminous plate of 2021 to now for whatever you choose. Switch on the shortcuts actually taken, and the chart of arrival times splits into two peaks — which is the PhD result, and the way around this site.
 
-First Passage · 首达 — So far · Nº 01 · as at 28 Sep 2026. English at https://zhouyixiaoxiao.com/, Chinese (简体中文) mirror at https://zhouyixiaoxiao.com/zh/. This file is generated from the same content as the pages; facts link to the page that shows them. Also known as: Xiaoxiao Zhouyi, 周易潇潇.
+First Passage · 首达 — So far · Edition 01 · as at 1 Oct 2026. English at https://zhouyixiaoxiao.com/, Chinese (简体中文) mirror at https://zhouyixiaoxiao.com/zh/. This file is generated from the same content as the pages; facts link to the page that shows them. Also known as: Xiaoxiao Zhouyi, 周易潇潇.
+
+## Current roles
+
+- [PhD researcher, University of Bristol, School of Engineering Mathematics and Technology (SEMT)](https://zhouyixiaoxiao.com/research/#e-education_life-phd-start): since Nov 2025
+- [R&D Scientist (AI), Yuexin International](https://zhouyixiaoxiao.com/work/engine-room/#e-company_products-joined-yuexin): since Jun 2026
+- [PGR (postgraduate research) representative, re-elected for 2026–27, Engineering Mathematics, University of Bristol](https://zhouyixiaoxiao.com/campus/representing/#e-school_teaching_service-semt-pgr-rep-2025-26): since Dec 2025
+- [Early Career Enterprise Fellow (2026 cohort, one of twelve), University of Bristol](https://zhouyixiaoxiao.com/enterprise/#e-school_teaching_service-ecef-awarded): since Dec 2025
+- [Graduate Teacher & Demonstrator, University of Bristol](https://zhouyixiaoxiao.com/campus/teaching/#e-school_teaching_service-tsr-contracts-2025): since Nov 2025
+- [Student Ambassador, University of Bristol](https://zhouyixiaoxiao.com/campus/representing/#e-school_teaching_service-student-ambassador-open-days): since Apr 2026
 
 ## Highlights
 
-- First-author paper accepted at UKAIRS 2026 — poster #181, Edinburgh, 25 Nov
-- Single-author paper submitted to Physical Review E, Jul 2026
-- Public reproduction archive v1.3.0 · 46 Lean-checked theorems
+- First-author paper accepted at UKAIRS 2026 (the UK AI Research Symposium) — poster #181, Edinburgh, 25 Nov — https://zhouyixiaoxiao.com/ai/skipping-the-ime/
+- Single-author paper submitted to Physical Review E (a physics journal), Jul 2026 — https://zhouyixiaoxiao.com/research/
+- Public reproduction archive v1.3.0 · 46 theorems checked in Lean, a proof assistant — https://zhouyixiaoxiao.com/research/
+- Six AI systems live at Yuexin International since June 2026 — an AI gateway, a governed AI platform, a staff assistant — https://zhouyixiaoxiao.com/work/engine-room/
+- Early Career Enterprise Fellow 2026 (one of twelve) · 13 teaching roles · PhD student rep — https://zhouyixiaoxiao.com/enterprise/
 
 ## Contact
 
 - Email: <mailto:zhouyixiaoxiao@gmail.com>
 - [LinkedIn](https://www.linkedin.com/in/zhouyixiaoxiao/)
 - [GitHub](https://github.com/zhouyi-xiaoxiao)
-- [The absorbing boundary](https://zhouyixiaoxiao.com/contact/): Every walker ends here. Write about research, AI products, teaching, speaking — or just to say hello.
+- [Instagram](https://www.instagram.com/zhouyixiaoxiao/)
+- WeChat Channels (视频号): search “周易潇潇” in WeChat
+- [Contact](https://zhouyixiaoxiao.com/contact/): Every walker ends here. Write about research, AI products, teaching, speaking — or just to say hello.
 
 ## Research outputs
 
-- *Skipping the IME? Keyboard-Friendly Multilingual Prompting for LLM Agents* — Xiaoxiao Zhouyi, Yanzhen Li — UKAIRS 2026 · Emerging Research (poster), Edinburgh — Accepted · poster #181, Edinburgh, 25 Nov 2026 (2026-08-11). [Poster list](https://ukairs2026.eventsadmin.com/i/PosterSessions)
-- *Geometry-controlled folds of first-passage-time bimodality under localized absorption* — Xiaoxiao Zhouyi — Physical Review E — Submitted to Physical Review E, Jul 2026 (2026-07-30). [Research atlas](https://zhouyi-xiaoxiao.github.io/valley-k-small/)
+- *Skipping the IME? Keyboard-Friendly Multilingual Prompting for LLM Agents* — Xiaoxiao Zhouyi, Yanzhen Li — UKAIRS 2026 (UK AI Research Symposium) · Emerging Research track · poster · Edinburgh — Accepted 11 Aug 2026 · poster #181, 25 Nov 2026 (2026-08-11). [Poster list](https://ukairs2026.eventsadmin.com/i/PosterSessions)
+- *Geometry-controlled folds of first-passage-time bimodality under localized absorption* — Xiaoxiao Zhouyi — Physical Review E — Submitted to Physical Review E · Jul 2026 (2026-07-30). [Research atlas](https://zhouyi-xiaoxiao.github.io/valley-k-small/)
 - *Programmable multimodality and saddle-node loss of reaction-time peaks under a fixed catalyst budget* — Xiaoxiao Zhouyi — Manuscript in preparation (2026-09). [Reproduction archive](https://github.com/zhouyi-xiaoxiao/prescribed-reaction-time-modes)
 - *Spectral diagnostics and local fixed-budget sensitivity of critical points in finite encounter-reaction models* — Xiaoxiao Zhouyi — Working paper (2026-07)
 
 ## All chapters
 
-- [01 研 First Passage](https://zhouyixiaoxiao.com/research/): Why can a single target produce two arrival peaks? Work on rings, lattices and catalyst stripes led to a single-author paper submitted to Physical Review E, 46 machine-checked algebraic theorems and a public reproduction archive. (中文 [首达](https://zhouyixiaoxiao.com/zh/research/))
-- [02 智 Skipping the IME?](https://zhouyixiaoxiao.com/ai/skipping-the-ime/): Can an AI agent understand pinyin without the input method? A Chinese-language pilot with 48 real calls compares routine tasks with homophone stress cases. Keeping a critical word in Hanzi repaired the tested failures. The first AI paper, accepted at UKAIRS 2026 in Edinburgh. (中文 [跳过输入法？](https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/))
-- [03 企 The Engine Room](https://zhouyixiaoxiao.com/work/engine-room/): Since June 2026, AI lead (R&D) at Yuexin International: the internal AI gateway, an enterprise platform for governed model access, the staff AI assistant, and the connectors that let agents work inside the company's own tools. (中文 [引擎室](https://zhouyixiaoxiao.com/zh/work/engine-room/))
-- [04 展 On Stage](https://zhouyixiaoxiao.com/work/on-stage/): Making the company's AI products understandable to partners and colleagues: a first overseas brand push, a logo developed from four sketches, print kits for two trade shows and a 93-minute LLM primer built around SMS. (中文 [展台](https://zhouyixiaoxiao.com/zh/work/on-stage/))
-- [05 教 Teaching](https://zhouyixiaoxiao.com/campus/teaching/): Teaching support from the early PhD: problem classes, labs, marking and tutorials. The initial 2026–27 allocation covers thirteen roles across eleven units in three schools. Later additions and examples of teaching already delivered are recorded below. (中文 [教学](https://zhouyixiaoxiao.com/zh/campus/teaching/))
-- [06 代 Representing](https://zhouyixiaoxiao.com/campus/representing/): Speaking for other PhD students, and welcoming visitors to the university: returning for a second academic year as Engineering Mathematics PGR rep, a scholarship reading panel, open days, a science festival — and seven minutes of stand-up about doing a maths PhD. (中文 [代表](https://zhouyixiaoxiao.com/zh/campus/representing/))
-- [07 创 Map in. Traps out.](https://zhouyixiaoxiao.com/enterprise/): First-passage maths becomes a product prototype: BioPath takes a site map and a budget, proposes trap locations and supplies a reproducible model-comparison report. The enterprise journey includes an Early Career Enterprise Fellowship, a New Enterprise pitch award and a Festival of Enterprise PechaKucha. (中文 [地图进，布点出](https://zhouyixiaoxiao.com/zh/enterprise/))
-- [08 媒 Signal](https://zhouyixiaoxiao.com/media/): A camera roll kept since 2023, a WeChat studio launched in August 2026, LinkedIn as a public notebook, a home-built bilingual subtitle pipeline — and the long making-of of the site you are reading. (中文 [信号](https://zhouyixiaoxiao.com/zh/media/))
-- [09 行 Westward](https://zhouyixiaoxiao.com/westward/): Summer 2025: a university programme in Silicon Valley and a two-week research internship at LiveX AI, where the question was how to turn messy manuals into Markdown an AI can actually use. The hinge of the turn toward AI — and a walker that is still walking. (中文 [向西](https://zhouyixiaoxiao.com/zh/westward/))
-- [10 作 Workshop](https://zhouyixiaoxiao.com/workshop/): Things built in the gaps: a maths guide for the next cohort, a travel-story studio born at a hackathon, a cursor that jumps between screens, bridges that let AI agents hand work to each other — most of them made so that someone else could move faster. (中文 [作坊](https://zhouyixiaoxiao.com/zh/workshop/))
-- [11 学 Roots](https://zhouyixiaoxiao.com/roots/): Tianjin, Hong Kong, Chengdu, Geneva, Bristol: a maths degree with an oar in hand, an exchange year that turned the maths computational, a first internship, and the 3+1 route — the first shortcut, which skipped a year. (中文 [来路](https://zhouyixiaoxiao.com/zh/roots/))
-- [12 今 Now & Next](https://zhouyixiaoxiao.com/now/): As at the build date: a poster to present in Edinburgh, a paper submitted to Physical Review E and another in preparation, a desktop agent in development, a new teaching year and a second year as PGR rep. The walkers still in flight. (中文 [此刻](https://zhouyixiaoxiao.com/zh/now/))
+- [01 · First Passage — PhD research: when a random walker first arrives](https://zhouyixiaoxiao.com/research/): Why one target can have two arrival peaks — and exactly when the second one dies. A single-author paper, submitted to Physical Review E. Chinese: [首达——博士研究：随机游走何时第一次到达](https://zhouyixiaoxiao.com/zh/research/)
+- [02 · Skipping the IME? — First AI paper · UKAIRS 2026, the UK AI Research Symposium](https://zhouyixiaoxiao.com/ai/skipping-the-ime/): Can you type pinyin (romanised Chinese) straight to an AI agent? For routine work, yes; for homophones, keep one word in characters. Chinese: [跳过输入法？——第一篇 AI 论文 · 英国 AI 研究研讨会（UKAIRS 2026）](https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/)
+- [03 · The Engine Room — R&D Scientist (AI) at Yuexin International, a cloud-communications company](https://zhouyixiaoxiao.com/work/engine-room/): Since June 2026 at Yuexin International: six AI systems built and live in four months — a gateway, a governed platform, a staff assistant. Chinese: [引擎室——阅信国际 · AI 研发](https://zhouyixiaoxiao.com/zh/work/engine-room/)
+- [04 · On Stage — Brand design, trade shows and talks](https://zhouyixiaoxiao.com/work/on-stage/): Giving a cloud-communications company an AI-era face: a logo system, materials for two trade shows (MWC Shanghai, WWC Madrid), a 93-minute AI primer. Chinese: [展台——品牌设计、展会与演讲](https://zhouyixiaoxiao.com/zh/work/on-stage/)
+- [05 · Teaching — Graduate Teacher & Demonstrator](https://zhouyixiaoxiao.com/campus/teaching/): A Graduate Teacher from the first month of the PhD — now 13 roles across three schools: tutorials, labs, problem classes, marking. Chinese: [教学——研究生助教与实验课助教](https://zhouyixiaoxiao.com/zh/campus/teaching/)
+- [06 · Representing — PhD student rep & open-day ambassador](https://zhouyixiaoxiao.com/campus/representing/): PhD student rep for Engineering Mathematics (a year, and now a second), scholarship panellist, open-day ambassador — and seven minutes of stand-up. Chinese: [学生代表——博士生代表与开放日学生大使](https://zhouyixiaoxiao.com/zh/campus/representing/)
+- [07 · Map in. Traps out. — BioPath · Early Career Enterprise Fellowship](https://zhouyixiaoxiao.com/enterprise/): First-passage maths as a product: BioPath tells farms where to put pest traps, with the proof attached. Early Career Enterprise Fellow, 2026. Chinese: [按图布点——BioPath · 早期职业创业学者](https://zhouyixiaoxiao.com/zh/enterprise/)
+- [08 · Signal — Media, posts and video](https://zhouyixiaoxiao.com/media/): What was published, and the studio behind it: LinkedIn as a notebook, a WeChat studio since August 2026, bilingual subtitles, this site. Chinese: [信号——自媒体、帖子与视频](https://zhouyixiaoxiao.com/zh/media/)
+- [09 · Westward — Silicon Valley, 2025 · an internship at LiveX AI, a Bay Area AI start-up](https://zhouyixiaoxiao.com/westward/): Summer 2025 in Silicon Valley: an entrepreneurship programme and a research internship at LiveX AI — where the turn toward AI began. Chinese: [向西——2025 年夏 · 硅谷 AI 创业公司 LiveX AI 实习](https://zhouyixiaoxiao.com/zh/westward/)
+- [10 · Workshop — Side projects](https://zhouyixiaoxiao.com/workshop/): Built in the gaps, mostly so someone else could move faster: a maths guide, a travel-story app, a cursor tool, agent bridges. Chinese: [作坊——业余项目](https://zhouyixiaoxiao.com/zh/workshop/)
+- [11 · Roots — Education: Tianjin → Hong Kong → Bristol](https://zhouyixiaoxiao.com/roots/): Tianjin, Hong Kong, Chengdu, Geneva, Bristol: a maths degree with an oar in hand, and the 3+1 route to a Bristol MSc. Chinese: [来路——求学：天津 → 香港 → 布里斯托](https://zhouyixiaoxiao.com/zh/roots/)
+- [12 · Now & Next — What is in progress](https://zhouyixiaoxiao.com/now/): Edinburgh poster on 25 November, a paper submitted to Physical Review E, another in preparation, a desktop agent in development. Chinese: [此刻——正在进行的事](https://zhouyixiaoxiao.com/zh/now/)
+
+## Threads
+
+- **Maths → AI** — The same habit — measure the hidden route — aimed first at random walkers, then at AI agents. [Physics-informed neural networks for differential equations](https://zhouyixiaoxiao.com/roots/#e-education_life-hkust-pinns-report) · [LiveX AI, a Bay Area AI start-up — Researcher (Internship)](https://zhouyixiaoxiao.com/westward/#e-us_ai_internship_career-livex-ai-internship-2025) · [46 theorems, checked by machine](https://zhouyixiaoxiao.com/research/#e-research_fpt-dpma-lean) · [Accepted at UKAIRS 2026: the first AI paper](https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-acceptance)
+- **Built for others** — Most things were built so someone else could move faster. [The Tianjin University maths guide](https://zhouyixiaoxiao.com/workshop/#e-projects_code-tju-math-guide) · [The BioPath platform: map in, traps out, proof attached](https://zhouyixiaoxiao.com/enterprise/#e-projects_code-biopath-platform) · [YueXin AI Assistant — web and Windows](https://zhouyixiaoxiao.com/work/engine-room/#e-company_products-yuexin-chat-launch) · [An offline, bilingual teaching library](https://zhouyixiaoxiao.com/campus/teaching/#e-school_teaching_service-pure-week1-teaching-library)
+- **Bilingual bridge** — Almost everything ships in English and Chinese — including a paper about the space between them. [A public, bilingual research atlas](https://zhouyixiaoxiao.com/research/#e-research_fpt-research-atlas) · [Submitted to UKAIRS 2026](https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-submission) · [A home-built bilingual subtitle pipeline](https://zhouyixiaoxiao.com/media/#e-self_media-bilingual-subtitle-engine) · [‘Intelligence. Delivered.’ — print and digital kit for a Madrid trade show](https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-wwc-materials-design)
+- **On stage** — From a first press mention in Chengdu to stand-up in Bristol, a PechaKucha (20 slides × 20 seconds), a 93-minute primer and two trade floors. [A first press mention, in Chengdu](https://zhouyixiaoxiao.com/roots/#e-education_life-chengdu-expo-media-speeches) · [Seven minutes of stand-up about a maths PhD](https://zhouyixiaoxiao.com/campus/representing/#e-school_teaching_service-lighter-side-of-research) · [A PechaKucha (20 slides × 20 seconds) at the Festival of Enterprise](https://zhouyixiaoxiao.com/enterprise/#e-school_teaching_service-festival-of-enterprise-2026) · [‘From SMS to Intelligent Channels’: a 93-minute primer on AI models](https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-llm-industry-training-talk)
+- **Proof & audit** — Trust, but verify: computer-checked theorems, 325 million simulated walkers, negative results kept, AI reviewers before every launch. [Programming the number of peaks](https://zhouyixiaoxiao.com/research/#e-research_fpt-fixed-budget-theorem-campaign) · [A negative result: restoring the Chinese first made it worse](https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-phase3-normalize-backfires) · [An enterprise platform for governed AI access](https://zhouyixiaoxiao.com/work/engine-room/#e-company_products-governance-platform-live)
 
 ## Pages
 
-- [Index — the 10-second version](https://zhouyixiaoxiao.com/index/): Everything on one page, readable without JavaScript. (中文 https://zhouyixiaoxiao.com/zh/index/)
-- [Interim Report Nº 01 (PDF)](https://zhouyixiaoxiao.com/interim-report.pdf): The printable Interim Report is the CV. (中文 https://zhouyixiaoxiao.com/zh/interim-report.pdf)
-- [Colophon](https://zhouyixiaoxiao.com/colophon/): How this site is made, and what it does not do.
+- [CV — the one-page version](https://zhouyixiaoxiao.com/index/): Everything on one page, readable without JavaScript. (Chinese: https://zhouyixiaoxiao.com/zh/index/)
+- [Interim Report Nº 01 (PDF)](https://zhouyixiaoxiao.com/interim-report.pdf): This page prints as the CV. (Chinese: https://zhouyixiaoxiao.com/zh/interim-report.pdf)
+- [SMS Market Map · Zhouyi Xiaoxiao](https://zhouyixiaoxiao.com/lab/sms-market-map/): An interactive, bilingual map of how businesses buy A2P SMS: who buys, what they need, how they meet suppliers, how they decide and why they stay. Designed by Zhouyi Xiaoxiao.
+- [About this site](https://zhouyixiaoxiao.com/colophon/): How this site is made, and what it does not do.
 
 ## Optional
 

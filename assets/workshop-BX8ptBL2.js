@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/contrib-lattice-CaCuDESM.js","assets/boot-Dyu_fQrJ.js","assets/boot-CE9fDEiT.css","assets/util-sWyiXyfU.js","assets/static-teaching-BecsJ5sN.js","assets/theme-u7Ml0z4h.js"])))=>i.map(i=>d[i]);
+import{_ as r}from"./boot-Dyu_fQrJ.js";import{s as a,a as i,l as e}from"./chapter-DKXEcaql.js";a("workshop",t=>i(t,"contrib-lattice","#fig [data-figure-root]",e(()=>r(()=>import("./contrib-lattice-CaCuDESM.js"),__vite__mapDeps([0,1,2,3,4,5])),o=>o.mountContribLattice)));
