@@ -1,0 +1,1 @@
+import{a as r,Q as s}from"./boot-DG9y0ZDg.js";function a(e){const o=r.on("theme",()=>{typeof requestAnimationFrame=="function"?requestAnimationFrame(()=>e()):e()}),n=s("(prefers-color-scheme: dark)",()=>e());return()=>{o(),n()}}export{a as o};

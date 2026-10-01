@@ -151,7 +151,7 @@
       {
         "label": {
           "en": "GitHub",
-          "zh": "GitHub"
+          "zh": "GitHub（代码托管平台）"
         },
         "href": "https://github.com/zhouyi-xiaoxiao",
         "kind": "social"
@@ -380,8 +380,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "prescribed-reaction-time-modes: a public reproduction archive",
-            "zh": "prescribed-reaction-time-modes：公开复现仓库"
+            "en": "The public reproduction archive: code, proofs and records",
+            "zh": "公开复现仓库：代码、证明与数据记录"
           },
           "status": {
             "en": "Live",
@@ -713,7 +713,7 @@
         "zh": "一家做短信的公司，要学会用英文、在展会上、在印刷品里，把自己展示成一家 AI 公司；公司自己的员工，也要学会和 AI 智能体一起工作。"
       },
       "thesis": {
-        "en": "How a messaging company learns to present itself as an AI company: a first overseas brand push, a logo argued from four sketches into one mark, materials for two trade shows, and a 93-minute primer that explained the large-language-model (LLM) industry through SMS.",
+        "en": "How a messaging company learns to present itself as an AI company: a first overseas brand push, a logo argued from four sketches into one mark, materials for two trade shows, and a 93-minute primer that explained how the large-language-model (LLM) industry works, through SMS.",
         "zh": "一家短信公司如何把自己讲成一家 AI 公司：第一次海外品牌行动，一套从四张草图论证出来的标志，两场展会的物料，以及一堂用短信讲清大模型行业的 93 分钟入门课。"
       },
       "url": {
@@ -1267,8 +1267,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "A research internship at LiveX AI, a Bay Area start-up",
-            "zh": "在硅谷 AI 创业公司 LiveX AI 的研究实习"
+            "en": "Research internship at LiveX AI, a Bay Area AI start-up",
+            "zh": "硅谷 AI 创业公司 LiveX AI 的研究实习"
           },
           "status": {
             "en": "Completed",
@@ -1727,8 +1727,8 @@
         {
           "id": "us_ai_internship_career-livex-ai-internship-2025",
           "title": {
-            "en": "A research internship at LiveX AI, a Bay Area start-up",
-            "zh": "在硅谷 AI 创业公司 LiveX AI 的研究实习"
+            "en": "Research internship at LiveX AI, a Bay Area AI start-up",
+            "zh": "硅谷 AI 创业公司 LiveX AI 的研究实习"
           },
           "url": {
             "en": "https://zhouyixiaoxiao.com/westward/#e-us_ai_internship_career-livex-ai-internship-2025",
