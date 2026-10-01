@@ -449,7 +449,7 @@
         "zh": "AI 论文"
       },
       "card": {
-        "en": "Can you type pinyin (romanised Chinese) straight to an AI agent? For routine work, yes; for homophones, keep one word in characters.",
+        "en": "An IME turns typed letters into Chinese characters. Can you skip it and send an AI agent pinyin (romanised Chinese)? Yes — except for homophones.",
         "zh": "直接用拼音跟 AI 智能体说话行不行？日常指令可以，同音词要留一个汉字。第一篇 AI 论文，UKAIRS 2026 录用。"
       },
       "why": {
@@ -457,8 +457,8 @@
         "zh": "很多语言都要靠输入法或罗马化来打字——拼音、日语罗马字、阿拉伯语的拉丁转写。弄清楚意思在哪里会丢，才知道什么时候可以跟 AI 智能体省掉这一步。"
       },
       "thesis": {
-        "en": "Can Chinese speakers skip the input method — the software that turns typed letters into characters — and type raw pinyin (romanised Chinese) straight to an AI agent? 48 real calls say: for routine work, yes — but homophones collapse, and one word kept in Chinese characters brings the meaning back. The first AI paper, accepted at UKAIRS 2026 in Edinburgh.",
-        "zh": "和 AI 智能体说话，能不能跳过输入法、直接敲拼音？48 次真实调用给出的答案是：日常指令可以；可一遇同音词，意思就塌了——只要把关键词留成汉字，意思便回来了。这是第一篇 AI 论文，入选在爱丁堡举行的英国 AI 研究研讨会（UKAIRS 2026）。"
+        "en": "Can Chinese speakers skip the input method — the software that turns typed letters into characters — and type raw pinyin (romanised Chinese) straight to an AI agent? In a small pilot of 48 real calls: for the routine tasks tested, yes — but homophones collapse, and one word kept in Chinese characters brings the meaning back. The first AI paper, accepted at UKAIRS 2026 in Edinburgh.",
+        "zh": "和 AI 智能体说话，能不能跳过输入法、直接敲拼音？一项 48 次真实调用的小规模测试给出的答案是：所测的日常指令可以；可一遇同音词，意思就塌了——只要把关键词留成汉字，意思便回来了。这是第一篇 AI 论文，入选在爱丁堡举行的英国 AI 研究研讨会（UKAIRS 2026）。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/",
@@ -480,7 +480,7 @@
             "zh": "已完成"
           },
           "card": {
-            "en": "事实 and 实施 are both ‘shi shi’. Pinyin-only prompts scored 0.333; keeping the key word in Hanzi restored 1.00.",
+            "en": "事实 and 实施 are both ‘shi shi’. Pinyin-only prompts scored 0.333; keeping the key word in Chinese characters restored 1.00.",
             "zh": "「事实」与「实施」都是 shi shi。纯拼音提示只得 0.333；把关键词留成汉字，就回到 1.00。"
           },
           "links": []
@@ -660,7 +660,7 @@
             "zh": "已上线"
           },
           "card": {
-            "en": "Built and launched in a day: a staff assistant with Feishu sign-in, personal quotas, self-serve keys and a Windows client.",
+            "en": "Built and launched in a day: a staff assistant with single sign-on, personal quotas, self-serve keys and a Windows client.",
             "zh": "一天内做出并上线的员工助手：飞书登录、个人额度、自助领取密钥，外加 Windows 客户端。"
           },
           "links": []
@@ -714,34 +714,13 @@
       },
       "thesis": {
         "en": "How a messaging company learns to present itself as an AI company: a first overseas brand push, a logo argued from four sketches into one mark, materials for two trade shows, and a 93-minute primer that explained the large-language-model (LLM) industry through SMS.",
-        "zh": "一家短信公司如何把自己讲成一家 AI 公司：第一次海外品牌行动，一套从四张草图论证出来的标志，两场展会的物料，以及一堂用短信讲透大模型行业的 93 分钟入门课。"
+        "zh": "一家短信公司如何把自己讲成一家 AI 公司：第一次海外品牌行动，一套从四张草图论证出来的标志，两场展会的物料，以及一堂用短信讲清大模型行业的 93 分钟入门课。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/work/on-stage/",
         "zh": "https://zhouyixiaoxiao.com/zh/work/on-stage/"
       },
       "key": [
-        {
-          "id": "company_design_events-wwc-madrid-onsite",
-          "date": {
-            "start": "2026-09-13",
-            "end": "2026-09-19",
-            "precision": "day"
-          },
-          "title": {
-            "en": "WWC 2026 in Madrid, a telecoms trade show",
-            "zh": "国际电信批发大会（WWC 2026），马德里"
-          },
-          "status": {
-            "en": "Attended",
-            "zh": "已参会"
-          },
-          "card": {
-            "en": "With the Yuexin International team at the Wholesale World Congress: partner meetings on routes, passcodes, RCS and eSIM.",
-            "zh": "随阅信国际团队参加国际电信批发大会：围绕短信路由、验证码、RCS 与 eSIM 的合作会谈。"
-          },
-          "links": []
-        },
         {
           "id": "company_design_events-zhishu-logo-trust-joint",
           "date": {
@@ -763,6 +742,27 @@
           "links": []
         },
         {
+          "id": "company_design_events-wwc-materials-design",
+          "date": {
+            "start": "2026-09-05",
+            "end": "2026-09-08",
+            "precision": "day"
+          },
+          "title": {
+            "en": "‘Intelligence. Delivered.’ — print and digital kit for a Madrid trade show",
+            "zh": "「智能，送达」——马德里展会的印刷与数字物料"
+          },
+          "status": {
+            "en": "Shipped",
+            "zh": "已交付"
+          },
+          "card": {
+            "en": "Three rounds in four days: five one-pager types, three two-sided leaflets in two languages, four business cards — every QR code tested.",
+            "zh": "四天三轮：五种一页纸、中英文各三张双面宣传页、四张名片，二维码逐一解码验证。"
+          },
+          "links": []
+        },
+        {
           "id": "company_design_events-llm-industry-training-talk",
           "date": {
             "start": "2026-08-05",
@@ -777,8 +777,8 @@
             "zh": "已讲授"
           },
           "card": {
-            "en": "An SMS is billed per 70 characters, a model per token: the whole LLM industry explained through a business the team already knew.",
-            "zh": "短信按 70 字计一条，大模型按 token 计费：用团队最熟悉的生意，讲透整个大模型行业。"
+            "en": "A Chinese SMS is billed per 70 characters, a model per token: how the LLM industry works, told through a business the team already knew.",
+            "zh": "一条中文短信按 70 个字计费，大模型按词元（token）计费：用团队最熟悉的生意，讲清大模型行业的来龙去脉。"
           },
           "links": []
         },
@@ -798,8 +798,29 @@
             "zh": "已参会"
           },
           "card": {
-            "en": "Three days on the stand with the Yuexin International team, after weeks of meeting research and outreach.",
-            "zh": "随阅信国际团队在展台站满三天，此前是数周的约见调研与外联。"
+            "en": "Booth N4.E136, three days on the stand: 22 meeting dossiers and 49 personalised invitations before, 214 leads sorted after.",
+            "zh": "N4.E136 展位，驻展三天：展前 22 份约见档案、49 条定制邀请，展后整理出 214 条去重线索。"
+          },
+          "links": []
+        },
+        {
+          "id": "company_design_events-wwc-madrid-onsite",
+          "date": {
+            "start": "2026-09-16",
+            "end": "2026-09-18",
+            "precision": "day"
+          },
+          "title": {
+            "en": "WWC 2026 in Madrid, a telecoms trade show",
+            "zh": "国际电信批发大会（WWC 2026），马德里"
+          },
+          "status": {
+            "en": "Attended",
+            "zh": "已参会"
+          },
+          "card": {
+            "en": "Three days with the company’s four-person team: a live schedule of 22 meeting slots, and 31 exhibitor dossiers written during the show.",
+            "zh": "随公司四人团队参会三天：维护 22 个约见时段的实时排班，会期中写下 31 份参展商档案。"
           },
           "links": []
         }
@@ -853,8 +874,8 @@
             "zh": "进行中"
           },
           "card": {
-            "en": "13 roles in 11 units at allocation in July, across Mathematics, SEMT and CADE; a 12th unit, Linear Algebra, was added in September.",
-            "zh": "7 月分配时 11 门课 13 个岗位，分属数学学院、SEMT 与 CADE；9 月又加了第 12 门：线性代数。"
+            "en": "13 roles in 11 units across three schools at allocation in July; a 12th unit, Linear Algebra, was added in September.",
+            "zh": "7 月分配时 11 门课 13 个岗位，分属三个学院；9 月又加了第 12 门：线性代数。"
           },
           "links": []
         },
@@ -1134,8 +1155,8 @@
         "zh": "记录本身也是作品抵达别人的方式：中英两种语言的帖子、演讲与视频；这里的数字一律是汇总，私人片段一律不公开。"
       },
       "thesis": {
-        "en": "A camera roll kept since 2023, a WeChat studio launched in August 2026 (the enterprise pitch and an interview are on WeChat Channels), LinkedIn as a public notebook, a home-built bilingual subtitle pipeline — and the long making-of of the site you are reading.",
-        "zh": "2023 年起从未停下的手机影像，2026 年 8 月启动的微信内容工作室（创业路演与一次专访已发在视频号），被当作公开笔记本的领英，自己搭的中英双语字幕流水线——还有你正在读的这个网站的漫长幕后。"
+        "en": "A camera roll kept since 2023, a WeChat studio launched in August 2026 (the enterprise pitch and an interview are on WeChat Channels), LinkedIn as a public notebook, a home-built bilingual subtitle pipeline — and the making of this site.",
+        "zh": "2023 年起从未停下的手机影像，2026 年 8 月启动的微信内容工作室（创业路演与一次专访已发在视频号），被当作公开笔记本的领英，自己搭的中英双语字幕流水线——以及这个网站是怎样做出来的。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/media/",
@@ -1246,8 +1267,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "LiveX AI, a Bay Area AI start-up — Researcher (Internship)",
-            "zh": "硅谷 AI 创业公司 LiveX AI——研究实习"
+            "en": "A research internship at LiveX AI, a Bay Area start-up",
+            "zh": "在硅谷 AI 创业公司 LiveX AI 的研究实习"
           },
           "status": {
             "en": "Completed",
@@ -1491,8 +1512,8 @@
         "zh": "读博之前，这些线索就都在了：本科论文里的随机游走，在香港变得可以计算的数学，以及替同学发声的习惯。"
       },
       "thesis": {
-        "en": "Tianjin, Hong Kong, Chengdu, Geneva, Bristol: a maths degree at Tianjin University (TJU) with an oar in hand, an exchange year at the Hong Kong University of Science and Technology (HKUST) that turned the maths computational, a first internship, and the 3+1 route (three years in Tianjin, the fourth as a Bristol MSc) — the first shortcut, which skipped a year.",
-        "zh": "天津、香港、成都、日内瓦、布里斯托：在天津大学一边读数学一边划船的本科，在香港科技大学让数学变得可以计算的交换年，第一份实习，以及「3+1」（天津三年，第四年读布里斯托硕士）——人生里的第一条捷径，径直跳过了一年。"
+        "en": "Tianjin, Hong Kong, Chengdu, Geneva, Bristol: a maths degree at Tianjin University (TJU) with an oar in hand, an exchange year at the Hong Kong University of Science and Technology (HKUST) that turned the maths computational, a first internship, and the 3+1 route (three undergraduate years, the exchange year among them, then the fourth as a Bristol MSc) — the first shortcut, which skipped a year.",
+        "zh": "天津、香港、成都、日内瓦、布里斯托：在天津大学一边读数学一边划船的本科，在香港科技大学让数学变得可以计算的交换年，第一份实习，以及「3+1」（本科三年，含香港交换的一年；第四年读布里斯托硕士）——人生里的第一条捷径，径直跳过了一年。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/roots/",
@@ -1550,7 +1571,7 @@
           },
           "title": {
             "en": "An exchange year at the Hong Kong University of Science and Technology (HKUST)",
-            "zh": "香港科技大学交换的一年"
+            "zh": "在香港科技大学交换一年"
           },
           "status": {
             "en": "Completed",
@@ -1706,8 +1727,8 @@
         {
           "id": "us_ai_internship_career-livex-ai-internship-2025",
           "title": {
-            "en": "LiveX AI, a Bay Area AI start-up — Researcher (Internship)",
-            "zh": "硅谷 AI 创业公司 LiveX AI——研究实习"
+            "en": "A research internship at LiveX AI, a Bay Area start-up",
+            "zh": "在硅谷 AI 创业公司 LiveX AI 的研究实习"
           },
           "url": {
             "en": "https://zhouyixiaoxiao.com/westward/#e-us_ai_internship_career-livex-ai-internship-2025",

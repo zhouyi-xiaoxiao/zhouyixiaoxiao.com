@@ -1,7 +1,7 @@
 {
   "v": 1,
   "input": "content/build/plate.json",
-  "inputHash": "19a741b53461c0d2",
+  "inputHash": "6b40c1e7f0111d41",
   "seed": 20260928,
   "grid": {
     "W": 190,
@@ -57,7 +57,7 @@
     "company_design_events-mwc-shanghai-attendance": 691,
     "company_design_events-llm-industry-training-talk": 1049,
     "company_design_events-zhishu-logo-trust-joint": 1061,
-    "company_design_events-wwc-madrid-onsite": 1130,
+    "company_design_events-wwc-madrid-onsite": 1377,
     "school_teaching_service-lighter-side-of-research": 1394,
     "school_teaching_service-festival-of-enterprise-2026": 1407
   },
@@ -206,10 +206,10 @@
       "lane": 3,
       "target": "company_design_events-wwc-madrid-onsite",
       "rect": {
-        "x0": 0.404253,
-        "y0": 0.173399,
-        "x1": 0.964253,
-        "y1": 0.746663
+        "x0": 0.407916,
+        "y0": 0.173573,
+        "x1": 0.967916,
+        "y1": 0.746838
       },
       "w": 1200,
       "h": 675,
@@ -218,20 +218,20 @@
         "webp": "/img/plate-lane-3.webp"
       },
       "stats": {
-        "nAbs": 9590,
-        "nSC": 3561,
-        "piSC": 0.371324,
+        "nAbs": 9588,
+        "nSC": 3551,
+        "piSC": 0.370359,
         "modes": 2,
         "peaks": [
           12,
-          46
+          47
         ],
         "Tmax": 2700,
         "bins": 84,
         "valley": 28,
         "peaksSteps": [
           402,
-          1495
+          1527
         ],
         "valleySteps": 916
       }

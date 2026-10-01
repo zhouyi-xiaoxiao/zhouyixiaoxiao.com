@@ -1,8 +1,8 @@
 {
   "name": "First Passage · 首达",
-  "release": "2026-10-01-bilingual-readability-interim",
+  "release": "2026-10-01-fix-round-1",
   "contentAsAt": "2026-10-01",
-  "sourceCommit": "d5d1e92",
-  "files": 270,
-  "artifactDigest": "c27975eacf96bcddca10088c7adbff42c9328284aec07ee1937054159ad69838"
+  "sourceCommit": "05901c2",
+  "files": 284,
+  "artifactDigest": "820b5ece87726bf3c3ea2c27ea465f7d6ef68874ba630ac8702fdac68d62215e"
 }
