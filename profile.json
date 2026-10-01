@@ -43,7 +43,7 @@
       "zh": "布里斯托博士生 · 阅信 AI 研发"
     },
     "who": {
-      "en": "PhD researcher, University of Bristol — first-passage times of random walks and the evaluation of AI agents · R&D Scientist (AI) at Yuexin International, a cloud-communications company",
+      "en": "PhD researcher, University of Bristol — first-passage times of random walks and the evaluation of AI agents · R&D Scientist (AI), Yuexin International",
       "zh": "布里斯托大学博士研究生——随机游走的首达时间与 AI 智能体评测 · 阅信国际 · AI 研发"
     },
     "jobTitle": {
@@ -592,7 +592,7 @@
         "zh": "引擎室"
       },
       "dek": {
-        "en": "R&D Scientist (AI) at Yuexin International, a cloud-communications company",
+        "en": "R&D Scientist (AI), Yuexin International",
         "zh": "阅信国际 · AI 研发"
       },
       "short": {
@@ -608,7 +608,7 @@
         "zh": "目标是让一家公司从「试试 AI」走到每天都在用 AI——安全、内置治理，凡是有后果的关口都由人来把守。"
       },
       "thesis": {
-        "en": "Since June 2026, alongside the PhD: built the internal AI gateway, an enterprise platform for governed model access, a staff AI assistant, and the connectors that let agents work inside the company's own tools.",
+        "en": "Since June 2026, alongside the PhD, for Yuexin International, a cloud-communications company: built the internal AI gateway, an enterprise platform for governed model access, a staff AI assistant, and the connectors that let agents work inside the company's own tools.",
         "zh": "2026 年 6 月起，与读博并行：搭建了内部 AI 网关、受治理的企业模型接入平台、员工 AI 助手，以及让智能体在公司自有工具里干活的连接器。"
       },
       "url": {
@@ -623,7 +623,7 @@
             "precision": "month"
           },
           "title": {
-            "en": "R&D Scientist (AI) at Yuexin International, a cloud-communications company",
+            "en": "R&D Scientist (AI), Yuexin International",
             "zh": "阅信国际 · AI 研发"
           },
           "status": {
@@ -705,7 +705,7 @@
         "zh": "设计"
       },
       "card": {
-        "en": "Giving a cloud-communications company an AI-era face: a logo system, materials for two trade shows (MWC Shanghai, WWC Madrid), a 93-minute AI primer.",
+        "en": "Giving a messaging company an AI-era face: a logo system, materials for two trade shows (MWC Shanghai, WWC Madrid), a 93-minute AI primer.",
         "zh": "为一家云通信公司打造 AI 时代的形象：一套标志、上海与马德里两场展会的物料、一堂 93 分钟的大模型入门课。"
       },
       "why": {
@@ -777,7 +777,7 @@
             "zh": "已讲授"
           },
           "card": {
-            "en": "A Chinese SMS is billed per 70 characters, a model per token: how the LLM industry works, told through a business the team already knew.",
+            "en": "A Chinese SMS is billed per 70 characters, a model per token: how the AI industry works, told through a business the team already knew.",
             "zh": "一条中文短信按 70 个字计费，大模型按词元（token）计费：用团队最熟悉的生意，讲清大模型行业的来龙去脉。"
           },
           "links": []
@@ -1192,7 +1192,7 @@
           },
           "title": {
             "en": "A camera roll as a diary: 3,947 videos",
-            "zh": "把相机胶卷当日记：3,947 段视频"
+            "zh": "把相机胶卷当日记：3947 段视频"
           },
           "status": {
             "en": "Completed",
@@ -1200,7 +1200,7 @@
           },
           "card": {
             "en": "September 2023 to August 2026: 140, 1,310, 1,574 and 923 videos a year. Aggregates only — no clip is ever shown.",
-            "zh": "2023 年 9 月到 2026 年 8 月：每年 140、1,310、1,574、923 段。只呈现汇总，任何片段都不公开。"
+            "zh": "2023 年 9 月到 2026 年 8 月：每年 140、1310、1574、923 段。只呈现汇总，任何片段都不公开。"
           },
           "links": []
         },
@@ -1404,7 +1404,7 @@
           },
           "title": {
             "en": "SocialOS: 1,222 commits in five days",
-            "zh": "SocialOS：五天，1,222 次提交"
+            "zh": "SocialOS：五天，1222 次提交"
           },
           "status": {
             "en": "Completed",
@@ -1528,8 +1528,8 @@
             "precision": "month"
           },
           "title": {
-            "en": "Mathematics and Applied Mathematics, Tianjin University",
-            "zh": "天津大学数学与应用数学"
+            "en": "BSc Mathematics & Applied Mathematics, Tianjin University (3+1 route: three undergraduate years, then the Bristol MSc)",
+            "zh": "天津大学数学与应用数学本科"
           },
           "status": {
             "en": "Completed",
@@ -1591,8 +1591,8 @@
             "precision": "month"
           },
           "title": {
-            "en": "MSc Engineering Mathematics, University of Bristol",
-            "zh": "布里斯托大学工程数学硕士"
+            "en": "MSc Engineering Mathematics, University of Bristol, with Distinction (the top UK grade)",
+            "zh": "布里斯托大学工程数学硕士（以优异成绩毕业）"
           },
           "status": {
             "en": "Completed",
@@ -1631,8 +1631,8 @@
         "zh": "这是一张带日期的快照，好让记录保持诚实：做完的在各章里，还在走的在这里。"
       },
       "thesis": {
-        "en": "As at the build date: a poster to present in Edinburgh, a paper submitted to Physical Review E (a physics journal) and another in preparation, a desktop agent in development, a new teaching year and a second year as PhD student rep. The walkers still in flight.",
-        "zh": "截至建站当日：一张要带去爱丁堡的海报，一篇已投稿《物理评论 E》、一篇仍在打磨的论文，一个开发中的桌面智能体，新学年的课，以及第二年的博士生代表。这些，是仍在飞行中的游走者。"
+        "en": "As at the build date: a poster to present in Edinburgh, a paper submitted to Physical Review E (a physics journal) and another in preparation, a desktop agent in development at Yuexin International (a cloud-communications company), a new teaching year and a second year as PhD student rep. The walkers still in flight.",
+        "zh": "截至建站当日：一张要带去爱丁堡的海报，一篇已投稿《物理评论 E》、一篇仍在打磨的论文，一个开发中的桌面智能体，新学年的课，以及第二年的博士生代表。这些，是仍在路上的游走者。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/now/",
@@ -1945,7 +1945,7 @@
           "id": "research_fpt-fixed-budget-theorem-campaign",
           "title": {
             "en": "Programming the number of peaks",
-            "zh": "给峰的个数编程"
+            "zh": "让峰的个数可以编程"
           },
           "url": {
             "en": "https://zhouyixiaoxiao.com/research/#e-research_fpt-fixed-budget-theorem-campaign",
@@ -1987,7 +1987,7 @@
       "周易潇潇"
     ],
     "url": "https://zhouyixiaoxiao.com/",
-    "description": "PhD researcher, University of Bristol — first-passage times of random walks and the evaluation of AI agents · R&D Scientist (AI) at Yuexin International, a cloud-communications company",
+    "description": "PhD researcher, University of Bristol — first-passage times of random walks and the evaluation of AI agents · R&D Scientist (AI), Yuexin International",
     "sameAs": [
       "https://www.linkedin.com/in/zhouyixiaoxiao/",
       "https://github.com/zhouyi-xiaoxiao",

@@ -10,7 +10,6 @@
   var d = document;
   var root = d.documentElement;
   var KEY = 'fp:v1';
-  var MODES = ['auto', 'light', 'dark'];
   var PAPER = { light: '#EEE8DC', dark: '#12110E' };
   var WORDS = {
     en: { theme: 'Theme', auto: 'Auto', light: 'Light', dark: 'Dark', autoTip: 'follows this device’s light or dark setting', next: 'switch to' },
@@ -66,13 +65,27 @@
       own.setAttribute('content', PAPER[mode]);
     }
   }
+  // the first tap from Auto always changes what you see (R2-08): it goes to the opposite of the theme
+  // the device is showing now; the next tap to the other one; the third back to Auto
+  function sysDark() {
+    try {
+      return window.matchMedia('(prefers-color-scheme: dark)').matches;
+    } catch (e) {
+      return false;
+    }
+  }
+  function nextMode(mode) {
+    var first = sysDark() ? 'light' : 'dark';
+    if (mode === 'auto') return first;
+    return mode === first ? (first === 'light' ? 'dark' : 'light') : 'auto';
+  }
   function words() {
     return root.getAttribute('data-lang') === 'zh' ? WORDS.zh : WORDS.en;
   }
   function paint(btn) {
     var mode = read();
     var w = words();
-    var next = MODES[(MODES.indexOf(mode) + 1) % MODES.length];
+    var next = nextMode(mode);
     var now = w.theme + (root.getAttribute('data-lang') === 'zh' ? '：' : ': ') + w[mode] + (mode === 'auto' ? (root.getAttribute('data-lang') === 'zh' ? '（' + w.autoTip + '）' : ' (' + w.autoTip + ')') : '');
     var label = now + (root.getAttribute('data-lang') === 'zh' ? '。轻点' + w.next + w[next] : ' — ' + w.next + ' ' + w[next]);
     btn.setAttribute('data-mode', mode);
@@ -100,7 +113,7 @@
   d.addEventListener('click', function (ev) {
     var btn = ev.target && ev.target.closest ? ev.target.closest('[data-smm-theme]') : null;
     if (!btn) return;
-    var mode = MODES[(MODES.indexOf(read()) + 1) % MODES.length];
+    var mode = nextMode(read());
     write(mode);
     apply(mode);
     paint(btn);
@@ -111,6 +124,18 @@
     apply(read());
     mount();
   });
+  // the device switched light/dark: what the next tap does has changed with it
+  try {
+    var mq = window.matchMedia('(prefers-color-scheme: dark)');
+    var repaint = function () {
+      var b = d.querySelector('[data-smm-theme]');
+      if (b) paint(b);
+    };
+    if (mq.addEventListener) mq.addEventListener('change', repaint);
+    else if (mq.addListener) mq.addListener(repaint);
+  } catch (e) {
+    /* no matchMedia */
+  }
   window.addEventListener('pageshow', function () {
     apply(read());
     mount();
