@@ -1,8 +1,7 @@
 {
   "name": "First Passage · 首达",
-  "release": "2026-10-01-fix-round-1",
+  "release": "2026-10-01-thesis-corrections",
   "contentAsAt": "2026-10-01",
-  "sourceCommit": "05901c2",
   "files": 284,
-  "artifactDigest": "820b5ece87726bf3c3ea2c27ea465f7d6ef68874ba630ac8702fdac68d62215e"
+  "artifactDigest": "a7ae07ad7e73572ad7b845ac454da171ea6b3bb4f3a724250b0848a9b436189f"
 }
