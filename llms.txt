@@ -41,7 +41,7 @@ First Passage · 首达 — So far · Edition 01 · as at 2 Oct 2026. English at
 
 ## All chapters
 
-- [01 · First Passage — PhD research: when a random walker first arrives](https://zhouyixiaoxiao.com/research/): Why one target can have two arrival peaks — and exactly when the second one dies. A single-author paper, submitted to Physical Review E. Chinese: [首达——博士研究：随机游走何时第一次到达](https://zhouyixiaoxiao.com/zh/research/)
+- [01 · First Passage — PhD research: when a random walker first arrives](https://zhouyixiaoxiao.com/research/): Why one target can have two arrival peaks, and exactly when the second dies: a single-author paper submitted to Physical Review E (a physics journal). Chinese: [首达——博士研究：随机游走何时第一次到达](https://zhouyixiaoxiao.com/zh/research/)
 - [02 · Skipping the IME? — First AI paper · UKAIRS 2026, the UK AI Research Symposium](https://zhouyixiaoxiao.com/ai/skipping-the-ime/): Can an AI agent read raw pinyin (romanised Chinese)? In a 48-call pilot: yes for routine prompts — but homophones need key words in characters. Chinese: [跳过输入法？——第一篇 AI 论文 · 英国 AI 研究研讨会（UKAIRS 2026）](https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/)
 - [03 · The Engine Room — R&D Scientist (AI) at Yuexin International, a cloud-communications company](https://zhouyixiaoxiao.com/work/engine-room/): Since June 2026 at Yuexin International: five AI systems built and live in four months — a gateway, a governed platform, a staff assistant. Chinese: [引擎室——阅信国际 · AI 研发](https://zhouyixiaoxiao.com/zh/work/engine-room/)
 - [04 · On Stage — Brand design, trade shows and talks](https://zhouyixiaoxiao.com/work/on-stage/): Giving a cloud-communications company an AI-era face: a logo system, materials for two trade shows (MWC Shanghai, WWC Madrid), a 93-minute AI primer. Chinese: [展台——品牌设计、展会与演讲](https://zhouyixiaoxiao.com/zh/work/on-stage/)
@@ -51,8 +51,8 @@ First Passage · 首达 — So far · Edition 01 · as at 2 Oct 2026. English at
 - [08 · Signal — Media, posts and video](https://zhouyixiaoxiao.com/media/): What was published, and the studio behind it: LinkedIn as a notebook, a WeChat studio since August 2026, bilingual subtitles, this site. Chinese: [信号——自媒体、帖子与视频](https://zhouyixiaoxiao.com/zh/media/)
 - [09 · Westward — Silicon Valley, 2025 · an internship at LiveX AI, a Bay Area AI start-up](https://zhouyixiaoxiao.com/westward/): Summer 2025 in Silicon Valley: an entrepreneurship programme and a research internship at LiveX AI — where the turn toward AI began. Chinese: [向西——2025 年夏 · 硅谷 AI 创业公司 LiveX AI 实习](https://zhouyixiaoxiao.com/zh/westward/)
 - [10 · Workshop — Side projects](https://zhouyixiaoxiao.com/workshop/): Built in the gaps, mostly so someone else could move faster: a maths guide, a travel-story app, a cursor tool, agent bridges. Chinese: [作坊——业余项目](https://zhouyixiaoxiao.com/zh/workshop/)
-- [11 · Roots — Education: Tianjin → Hong Kong → Bristol](https://zhouyixiaoxiao.com/roots/): Tianjin, Hong Kong, Chengdu, Geneva, Bristol: a maths degree with an oar in hand, and the 3+1 route to a Bristol MSc. Chinese: [来路——求学：天津 → 香港 → 布里斯托](https://zhouyixiaoxiao.com/zh/roots/)
-- [12 · Now & Next — What is in progress](https://zhouyixiaoxiao.com/now/): Edinburgh poster on 25 November, a paper submitted to Physical Review E, another in preparation, a desktop agent in development. Chinese: [此刻——正在进行的事](https://zhouyixiaoxiao.com/zh/now/)
+- [11 · Roots — Education: Tianjin → Hong Kong → Bristol](https://zhouyixiaoxiao.com/roots/): Tianjin, Hong Kong, Chengdu, Geneva, Bristol: maths with an oar in hand, then the 3+1 route (three undergraduate years, then a Bristol MSc). Chinese: [来路——求学：天津 → 香港 → 布里斯托](https://zhouyixiaoxiao.com/zh/roots/)
+- [12 · Now & Next — What is in progress](https://zhouyixiaoxiao.com/now/): Edinburgh poster on 25 November, a paper submitted to Physical Review E (a physics journal), another in preparation, a desktop agent in development. Chinese: [此刻——正在进行的事](https://zhouyixiaoxiao.com/zh/now/)
 
 ## Threads
 
@@ -65,7 +65,7 @@ First Passage · 首达 — So far · Edition 01 · as at 2 Oct 2026. English at
 ## Pages
 
 - [CV — the one-page version](https://zhouyixiaoxiao.com/index/): Everything on one page, readable without JavaScript. (Chinese: https://zhouyixiaoxiao.com/zh/index/)
-- [Interim Report Nº 01 (PDF)](https://zhouyixiaoxiao.com/interim-report.pdf): This page prints as the CV. (Chinese: https://zhouyixiaoxiao.com/zh/interim-report.pdf)
+- [Zhouyi Xiaoxiao — CV (PDF)](https://zhouyixiaoxiao.com/interim-report.pdf): The CV page as a two-page A4 PDF, edition Interim Report Nº 01. (Chinese: https://zhouyixiaoxiao.com/zh/interim-report.pdf)
 - [SMS Market Map · Zhouyi Xiaoxiao](https://zhouyixiaoxiao.com/lab/sms-market-map/): An interactive, bilingual map of how companies buy business text messaging (A2P SMS): who buys, what they need, how they meet suppliers, how they decide and why they stay. Designed by Zhouyi Xiaoxiao.
 - [About this site](https://zhouyixiaoxiao.com/colophon/): How this site is made, and what it does not do.
 

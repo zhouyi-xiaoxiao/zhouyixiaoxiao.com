@@ -40,7 +40,7 @@
     ],
     "identity": {
       "en": "PhD, Bristol · AI R&D, Yuexin",
-      "zh": "布里斯托博士生 · 阅信 AI 研发"
+      "zh": "布里斯托博士生／阅信 AI 研发"
     },
     "who": {
       "en": "PhD researcher, University of Bristol — first-passage times of random walks and the evaluation of AI agents · R&D Scientist (AI), Yuexin International",
@@ -177,7 +177,7 @@
     },
     {
       "en": "Single-author paper submitted to Physical Review E (a physics journal), Jul 2026; its exact algebra checked in Lean, a proof assistant: 46 theorems",
-      "zh": "2026 年 7 月投稿《物理评论 E》（Physical Review E）的单作者论文，其精确代数经 Lean（一种让计算机逐行检查数学证明的软件）核验，共 46 条定理",
+      "zh": "2026 年 7 月投稿《物理评论 E》的单作者论文，其精确代数经 Lean（一种让计算机逐行检查数学证明的软件）核验，共 46 条定理",
       "url": "https://zhouyixiaoxiao.com/research/#papers-h"
     },
     {
@@ -306,7 +306,7 @@
         "zh": "研究"
       },
       "card": {
-        "en": "Why one target can have two arrival peaks — and exactly when the second one dies. A single-author paper, submitted to Physical Review E.",
+        "en": "Why one target can have two arrival peaks, and exactly when the second dies: a single-author paper submitted to Physical Review E (a physics journal).",
         "zh": "一个目标为何会有两个到达峰，第二个峰又何时消失——单作者论文，已投稿《物理评论 E》。"
       },
       "why": {
@@ -315,7 +315,7 @@
       },
       "thesis": {
         "en": "Why can a single target produce two arrival peaks? A year on rings, lattices and catalyst stripes that became a single-author paper submitted to Physical Review E (a physics journal), 46 theorems checked in Lean (a proof assistant, where a computer checks every step) and a public archive anyone can re-run.",
-        "zh": "一个目标，为什么会有两个到达峰？在环、格点与催化条带之间走了一年，走出一篇投给《物理评论 E》（Physical Review E）的单作者论文、46 条用 Lean（一种让计算机逐行检查数学证明的软件）核验的定理，和一个谁都能复跑的公开仓库。"
+        "zh": "一个目标，为什么会有两个到达峰？在环、格点与催化条带之间走了一年，走出一篇投给《物理评论 E》的单作者论文、46 条用 Lean（一种让计算机逐行检查数学证明的软件）核验的定理，和一个谁都能复跑的公开仓库。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/research/",
@@ -338,7 +338,7 @@
           },
           "card": {
             "en": "Single-author regular article, the capstone of the double-peak line. Submitted to Physical Review E (a physics journal), 30 Jul 2026.",
-            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》（Physical Review E）。"
+            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》。"
           },
           "links": [
             {
@@ -559,8 +559,8 @@
             "zh": "进行中"
           },
           "card": {
-            "en": "Models propose, other agents attack, numerics arbitrate, Lean checks the algebra. Belief is earned, not generated.",
-            "zh": "模型提出，另一组智能体攻击，数值来裁决，Lean 核验代数。信念要靠挣，不靠生成。"
+            "en": "Models propose, other agents attack, numerics arbitrate, and Lean, a proof assistant, checks the algebra. Belief is earned, not generated.",
+            "zh": "模型提出，另一组智能体攻击，数值来裁决，Lean（一种让计算机逐行检查数学证明的软件）核验代数。信念要靠挣，不靠生成。"
           },
           "links": [
             {
@@ -1504,8 +1504,8 @@
         "zh": "求学"
       },
       "card": {
-        "en": "Tianjin, Hong Kong, Chengdu, Geneva, Bristol: a maths degree with an oar in hand, and the 3+1 route to a Bristol MSc.",
-        "zh": "天津、香港、成都、日内瓦、布里斯托：一边划船一边读数学，以及去布里斯托读硕士的「3+1」。"
+        "en": "Tianjin, Hong Kong, Chengdu, Geneva, Bristol: maths with an oar in hand, then the 3+1 route (three undergraduate years, then a Bristol MSc).",
+        "zh": "天津、香港、成都、日内瓦、布里斯托：一边划船一边读数学，再走「3+1」——本科三年，第四年读布里斯托硕士。"
       },
       "why": {
         "en": "The pieces were there before the PhD: random walks in the undergraduate thesis, maths turned computational in Hong Kong, and a habit of speaking up for other students.",
@@ -1623,7 +1623,7 @@
         "zh": "近况"
       },
       "card": {
-        "en": "Edinburgh poster on 25 November, a paper submitted to Physical Review E, another in preparation, a desktop agent in development.",
+        "en": "Edinburgh poster on 25 November, a paper submitted to Physical Review E (a physics journal), another in preparation, a desktop agent in development.",
         "zh": "11 月 25 日爱丁堡海报、一篇已投稿《物理评论 E》、一篇在写、一个开发中的桌面智能体。"
       },
       "why": {
@@ -1685,7 +1685,7 @@
           },
           "card": {
             "en": "Single-author regular article, the capstone of the double-peak line. Submitted to Physical Review E (a physics journal), 30 Jul 2026.",
-            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》（Physical Review E）。"
+            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》。"
           },
           "links": [
             {
