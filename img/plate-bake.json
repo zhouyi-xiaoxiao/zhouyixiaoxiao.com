@@ -1,7 +1,7 @@
 {
   "v": 1,
   "input": "content/build/plate.json",
-  "inputHash": "2fd68282c1835ce1",
+  "inputHash": "b36eb0a133282352",
   "seed": 20260928,
   "grid": {
     "W": 190,
@@ -43,7 +43,6 @@
     "research_fpt-fixed-budget-paper": 153,
     "company_products-yuexin-chat-launch": 173,
     "us_ai_internship_career-livex-ai-internship-2025": 185,
-    "company_products-career-compass-launch": 200,
     "education_life-phd-start": 223,
     "research_fpt-research-atlas": 281,
     "us_ai_internship_career-jll-chengdu-internship-2024": 293,

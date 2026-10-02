@@ -1,0 +1,1 @@
+import{a as e,Y as o}from"./boot-DGUPi41R.js";function r(r){const t=e.on("theme",()=>{"function"==typeof requestAnimationFrame?requestAnimationFrame(()=>r()):r()}),n=o("(prefers-color-scheme: dark)",()=>r());return()=>{t(),n()}}export{r as o};

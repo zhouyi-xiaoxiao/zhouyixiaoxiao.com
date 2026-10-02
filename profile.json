@@ -25,7 +25,7 @@
       {
         "title": "SMS Market Map · Zhouyi Xiaoxiao",
         "url": "https://zhouyixiaoxiao.com/lab/sms-market-map/",
-        "description": "An interactive, bilingual map of how businesses buy A2P SMS: who buys, what they need, how they meet suppliers, how they decide and why they stay. Designed by Zhouyi Xiaoxiao."
+        "description": "An interactive, bilingual map of how companies buy business text messaging (A2P SMS): who buys, what they need, how they meet suppliers, how they decide and why they stay. Designed by Zhouyi Xiaoxiao."
       }
     ]
   },
@@ -173,22 +173,22 @@
     {
       "en": "First-author paper accepted at UKAIRS 2026 (the UK AI Research Symposium) — poster #181, Edinburgh, 25 Nov",
       "zh": "第一作者论文入选英国 AI 研究研讨会（UKAIRS 2026）——11 月 25 日，爱丁堡，181 号海报",
-      "url": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/"
+      "url": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#papers-h"
     },
     {
-      "en": "Single-author paper submitted to Physical Review E (a physics journal), Jul 2026",
-      "zh": "单作者论文，2026 年 7 月投稿《物理评论 E》（Physical Review E）",
-      "url": "https://zhouyixiaoxiao.com/research/"
+      "en": "Single-author paper submitted to Physical Review E (a physics journal), Jul 2026; its exact algebra checked in Lean, a proof assistant: 46 theorems",
+      "zh": "2026 年 7 月投稿《物理评论 E》（Physical Review E）的单作者论文，其精确代数经 Lean（一种让计算机逐行检查数学证明的软件）核验，共 46 条定理",
+      "url": "https://zhouyixiaoxiao.com/research/#papers-h"
     },
     {
-      "en": "Public reproduction archive v1.3.0 · 46 theorems checked in Lean, a proof assistant",
-      "zh": "公开复现仓库 v1.3.0 · 46 条定理经 Lean（一种让计算机逐行检查数学证明的软件）逐条核验",
-      "url": "https://zhouyixiaoxiao.com/research/"
+      "en": "Public reproduction archive v1.3.0 for a second paper, in preparation: code, proofs and records",
+      "zh": "公开复现仓库 v1.3.0：第二篇论文（稿件准备中）的代码、证明与数据记录",
+      "url": "https://zhouyixiaoxiao.com/research/#e-research_fpt-reproduction-releases"
     },
     {
-      "en": "Six AI systems live at Yuexin International since June 2026 — an AI gateway, a governed AI platform, a staff assistant",
-      "zh": "2026 年 6 月起在阅信国际上线六套 AI 系统——AI 网关、AI 治理平台、员工助手等",
-      "url": "https://zhouyixiaoxiao.com/work/engine-room/"
+      "en": "Five AI systems live at Yuexin International since June 2026 — an AI gateway, a governed AI platform, a staff assistant",
+      "zh": "2026 年 6 月起在阅信国际上线五套 AI 系统——AI 网关、AI 治理平台、员工助手等",
+      "url": "https://zhouyixiaoxiao.com/work/engine-room/#body-h"
     },
     {
       "en": "Early Career Enterprise Fellow 2026 (one of twelve) · 13 teaching roles · PhD student rep",
@@ -275,7 +275,7 @@
     {
       "id": "encounter-spectral",
       "title": "Spectral diagnostics and local fixed-budget sensitivity of critical points in finite encounter-reaction models",
-      "titleZh": "有限相遇–反应模型中临界点的谱诊断与局部固定预算敏感性",
+      "titleZh": "有限相遇—反应模型中临界点的谱诊断与局部固定预算敏感性",
       "authors": [
         "Xiaoxiao Zhouyi"
       ],
@@ -329,8 +329,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "Geometry-controlled folds — submitted to Physical Review E",
-            "zh": "几何控制的折叠——已投稿《物理评论 E》"
+            "en": "Geometry-controlled folds: the double-peak paper",
+            "zh": "几何控制的折叠：双峰论文"
           },
           "status": {
             "en": "Submitted to Physical Review E · Jul 2026",
@@ -449,8 +449,8 @@
         "zh": "AI 论文"
       },
       "card": {
-        "en": "An IME turns typed letters into Chinese characters. Can you skip it and send an AI agent pinyin (romanised Chinese)? Yes — except for homophones.",
-        "zh": "直接用拼音跟 AI 智能体说话行不行？日常指令可以，同音词要留一个汉字。第一篇 AI 论文，UKAIRS 2026 录用。"
+        "en": "Can an AI agent read raw pinyin (romanised Chinese)? In a 48-call pilot: yes for routine prompts — but homophones need key words in characters.",
+        "zh": "AI 智能体读得懂直接敲的拼音吗？48 次调用的小规模测试：日常指令可以；遇到同音词，关键词保留汉字即可恢复得分。"
       },
       "why": {
         "en": "Many languages are typed through an input method — software that turns typed letters into characters — or a romanisation: pinyin (romanised Chinese), Japanese romaji, Arabizi. Knowing where meaning survives the shortcut tells people when they can skip that step with an AI agent.",
@@ -526,8 +526,8 @@
             "zh": "英国 AI 研究研讨会（UKAIRS 2026），爱丁堡"
           },
           "status": {
-            "en": "Scheduled · 25 Nov 2026",
-            "zh": "已排期 · 2026 年 11 月 25 日"
+            "en": "Scheduled · poster on 25 Nov",
+            "zh": "已排期 · 11 月 25 日海报"
           },
           "card": {
             "en": "24–25 Nov 2026 at the John McIntyre Conference Centre. A side-by-side demo: toggle from routine prompts to homophone traps.",
@@ -600,15 +600,15 @@
         "zh": "公司"
       },
       "card": {
-        "en": "Since June 2026 at Yuexin International: six AI systems built and live in four months — a gateway, a governed platform, a staff assistant.",
-        "zh": "2026 年 6 月起在阅信国际做 AI 研发：四个月里搭建并上线六套 AI 系统——网关、治理平台、员工助手等。"
+        "en": "Since June 2026 at Yuexin International: five AI systems built and live in four months — a gateway, a governed platform, a staff assistant.",
+        "zh": "2026 年 6 月起在阅信国际做 AI 研发：四个月里搭建并上线五套 AI 系统——网关、治理平台、员工助手等。"
       },
       "why": {
-        "en": "The aim: move the company from trying AI to using it every day — safely, with governance built in, and with people holding every gate that has consequences.",
-        "zh": "目标是让公司从「试试 AI」走到每天都在用 AI——安全、内置治理，凡是有后果的关口都由人来把守。"
+        "en": "The aim: move the company from trying AI to using it every day — safely, with governance built in, and with a person confirming before anything is sent, shared or approved.",
+        "zh": "目标是让公司从「试试 AI」走到每天都在用 AI——安全、内置治理，任何内容发出、共享或审批之前，都先由人确认。"
       },
       "thesis": {
-        "en": "Since June 2026, alongside the PhD: built the internal AI gateway, an enterprise platform for governed model access, a staff AI assistant, and the connectors that let agents work inside the company's own tools.",
+        "en": "Since June 2026, alongside the PhD: built the internal AI gateway, an enterprise platform for governed model access, a staff AI assistant, and the connectors that let agents work inside the company’s own tools.",
         "zh": "2026 年 6 月起，与读博并行：搭建了内部 AI 网关、企业大模型统一接入与治理平台、员工 AI 助手，以及让智能体在公司自有工具里干活的连接器。"
       },
       "url": {
@@ -631,8 +631,8 @@
             "zh": "进行中"
           },
           "card": {
-            "en": "From June 2026, alongside the PhD: the company's AI platform and model gateway, AI tools for colleagues, and AI for global messaging.",
-            "zh": "2026 年 6 月起，与读博并行：为公司搭建 AI 平台与模型网关、给同事用的 AI 工具，以及面向国际短信业务的 AI 支持。"
+            "en": "Three strands: the AI platform and model gateway, AI tools for colleagues, and AI for global messaging.",
+            "zh": "三条线：AI 平台与模型网关、给同事用的 AI 工具，以及面向国际短信业务的 AI 支持。"
           },
           "links": [
             {
@@ -702,7 +702,7 @@
       },
       "short": {
         "en": "Design",
-        "zh": "设计"
+        "zh": "设计展会"
       },
       "card": {
         "en": "Giving a cloud-communications company an AI-era face: a logo system, materials for two trade shows (MWC Shanghai, WWC Madrid), a 93-minute AI primer.",
@@ -713,8 +713,8 @@
         "zh": "一家公司是不是 AI 公司，要看它怎么展示自己——用英文、在展会上、在印刷品里；也要看它自己的员工，能不能和 AI 智能体一起工作。"
       },
       "thesis": {
-        "en": "How Yuexin International — a cloud-communications company whose core business is SMS — learned to present itself as an AI company: a first overseas brand push, a logo argued from four sketches into one mark, materials for two trade shows, and a 93-minute primer on how the large-language-model (LLM) industry works, told through SMS.",
-        "zh": "阅信国际——一家以短信为主业的云通信公司——如何把自己讲成一家 AI 公司：第一次海外品牌行动，一套从四张草图论证出来的标志，两场展会的物料，以及一堂用短信讲清大模型行业的 93 分钟入门课。"
+        "en": "How Yuexin International — a cloud-communications company whose core business is SMS — learned to present itself as an AI company: an English brand push before MWC Shanghai, a logo taken from four sketches to one mark, materials for two trade shows, and a 93-minute primer on how the large-language-model (LLM) industry works, told through SMS.",
+        "zh": "阅信国际——一家以短信为主业的云通信公司——如何把自己讲成一家 AI 公司：世界移动通信大会（MWC 上海）之前的英文品牌准备，从四张草图到定稿的标志，两场展会的物料，以及一堂用短信讲清大模型行业的 93 分钟入门课。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/work/on-stage/",
@@ -728,8 +728,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "‘Trust Joint 2.0’: a logo system argued into existence",
-            "zh": "「信榫 2.0」：一套被论证出来的标志"
+            "en": "‘Trust Joint 2.0’: a logo, from sketches to final mark",
+            "zh": "「信榫 2.0」标志设计：从草图到定稿"
           },
           "status": {
             "en": "Completed",
@@ -843,16 +843,16 @@
         "zh": "教学"
       },
       "card": {
-        "en": "A Graduate Teacher from the first month of the PhD — now 13 roles across three schools: tutorials, labs, problem classes, marking.",
-        "zh": "读博第一个月就当上研究生助教，如今在三个学院担任 13 个教学岗位：小班辅导、实验课、习题课与批改。"
+        "en": "A Graduate Teacher from the first month of the PhD — for 2026–27, 13 roles across three schools: tutorials, labs, problem classes, marking.",
+        "zh": "读博第一个月就当上研究生助教；2026 至 2027 学年在三个学院有 13 个教学岗位：小班辅导、实验课、习题课与批改。"
       },
       "why": {
         "en": "It puts the maths in front of students — first-year tutorials, MSc labs, group projects — and runs on the same AI-native, check-everything habits as the research.",
         "zh": "它让数学真正落到学生面前——一年级小班课、硕士上机实验、小组项目——背后是和做研究一样的 AI 原生、凡事核验的习惯。"
       },
       "thesis": {
-        "en": "A Graduate Teacher from the first month of the PhD: problem classes, labs, marking and tutorials — now 13 teaching roles in three schools, run with the same AI-native habits as the research.",
-        "zh": "读博第一个月就当上研究生助教（Graduate Teacher）：习题课、实验课、批改与小班辅导。如今在三个学院担任 13 个教学岗位，用的是和做研究一样的 AI 原生工作方式。"
+        "en": "A Graduate Teacher from the first month of the PhD: problem classes, labs, marking and tutorials. For 2026–27, 13 teaching roles in three schools at the July allocation, and one more unit since September — run with the same AI-native habits as the research.",
+        "zh": "读博第一个月就当上研究生助教（Graduate Teacher）：习题课、实验课、批改与小班辅导。2026 至 2027 学年，7 月分配时在三个学院有 13 个教学岗位，9 月又新增 1 门课；用的是和做研究一样的 AI 原生工作方式。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/campus/teaching/",
@@ -923,7 +923,7 @@
         "zh": "工程数学博士生代表（当了一年，如今连任）、奖学金评审、开放日学生大使——还讲了七分钟单口喜剧。"
       },
       "why": {
-        "en": "It turns other PhD students' points into decisions: a careers Q&A added to a lunch-and-learn, a writing-retreat survey that became eighty seats.",
+        "en": "It turns other PhD students’ points into decisions: a careers Q&A added to a lunch-and-learn, a writing-retreat survey that became eighty seats.",
         "zh": "它把博士生的意见变成决定：午餐讲座里加上的职业问答，一份写作营问卷换来的八十个座位。"
       },
       "thesis": {
@@ -1296,7 +1296,7 @@
             "zh": "已完成"
           },
           "card": {
-            "en": "About three weeks on Tianjin University's programme in the Bay Area, run with Founders Space: workshops, company visits, founders.",
+            "en": "About three weeks on Tianjin University’s programme in the Bay Area, run with Founders Space: workshops, company visits, founders.",
             "zh": "在天津大学与 Founders Space 合办的湾区项目里待了约三周：工作坊、企业参访、与创业者交流。"
           },
           "links": []
@@ -1309,8 +1309,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "An open retrieval-QA benchmark for document parsers",
-            "zh": "一个开源的文档解析检索问答基准"
+            "en": "A retrieval-QA benchmark for document parsers",
+            "zh": "文档解析与检索问答评估基准"
           },
           "status": {
             "en": "Shipped",
@@ -1345,8 +1345,8 @@
         "zh": "见缝插针造出来的东西，多半是为了让别人走得更快：数学指北、旅行故事应用、光标工具、智能体之桥。"
       },
       "why": {
-        "en": "Small public tools are where new methods get tried first, and some outlive their moment: the Tianjin maths guide from 2023 is still in use.",
-        "zh": "小而公开的工具，是新方法最先试手的地方；有些还活得很久：2023 年的天大数学指北，至今仍有人在用。"
+        "en": "Small public tools are where new methods get tried first, and some outlive their moment: the Tianjin maths guide from 2023 is still online.",
+        "zh": "小而公开的工具，是新方法最先试手的地方；有些还活得很久：2023 年的天大数学指北，至今仍可访问。"
       },
       "thesis": {
         "en": "Things built in the gaps: a maths guide for the next cohort, a travel-story studio born at a hackathon, a cursor that jumps between screens, bridges that let AI agents hand work to each other — most of them made so that someone else could move faster.",
@@ -1557,7 +1557,7 @@
             "zh": "已完成"
           },
           "card": {
-            "en": "Three years at Tianjin, then the one-year Bristol MSc: the bachelor's and the master's overlapped, and a year was skipped.",
+            "en": "Three years at Tianjin, then the one-year Bristol MSc: the bachelor’s and the master’s overlapped, and a year was skipped.",
             "zh": "天大三年，再读布里斯托一年制硕士：本科与硕士叠在一起，一整年就这样被跳了过去。"
           },
           "links": []
@@ -1631,8 +1631,8 @@
         "zh": "这是一张带日期的快照，好让记录保持诚实：做完的在各章里，还在走的在这里。"
       },
       "thesis": {
-        "en": "As at the build date: a poster to present in Edinburgh, a paper submitted to Physical Review E (a physics journal) and another in preparation, a desktop agent in development at Yuexin International (a cloud-communications company), a new teaching year and a second year as PhD student rep. The walkers still in flight.",
-        "zh": "截至建站当日：一张要带去爱丁堡的海报，一篇已投稿《物理评论 E》、一篇仍在打磨的论文，一个开发中的桌面智能体，新学年的课，以及第二年的博士生代表。这些，是仍在路上的游走者。"
+        "en": "A poster to present in Edinburgh, a paper submitted to Physical Review E (a physics journal) and another in preparation, a desktop agent in development at Yuexin International (a cloud-communications company), a new teaching year and a second year as PhD student rep. The walkers still in flight.",
+        "zh": "一张要带去爱丁堡的海报，一篇已投稿《物理评论 E》、一篇仍在打磨的论文，一个开发中的桌面智能体，新学年的课，以及第二年的博士生代表。这些，是仍在路上的游走者。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/now/",
@@ -1651,8 +1651,8 @@
             "zh": "英国 AI 研究研讨会（UKAIRS 2026），爱丁堡"
           },
           "status": {
-            "en": "Scheduled · 25 Nov 2026",
-            "zh": "已排期 · 2026 年 11 月 25 日"
+            "en": "Scheduled · poster on 25 Nov",
+            "zh": "已排期 · 11 月 25 日海报"
           },
           "card": {
             "en": "24–25 Nov 2026 at the John McIntyre Conference Centre. A side-by-side demo: toggle from routine prompts to homophone traps.",
@@ -1676,8 +1676,8 @@
             "precision": "day"
           },
           "title": {
-            "en": "Geometry-controlled folds — submitted to Physical Review E",
-            "zh": "几何控制的折叠——已投稿《物理评论 E》"
+            "en": "Geometry-controlled folds: the double-peak paper",
+            "zh": "几何控制的折叠：双峰论文"
           },
           "status": {
             "en": "Submitted to Physical Review E · Jul 2026",
@@ -1823,8 +1823,8 @@
         "zh": "双语之桥"
       },
       "line": {
-        "en": "Almost everything ships in English and Chinese — including a paper about the space between them.",
-        "zh": "几乎所有作品都同时有中英两版——包括一篇研究两种语言之间缝隙的论文。"
+        "en": "Many projects ship in English and Chinese — including a paper about the space between them.",
+        "zh": "很多作品都有中英两版——包括一篇研究两种语言之间缝隙的论文。"
       },
       "entries": [
         {
@@ -1841,8 +1841,8 @@
         {
           "id": "ai_research-ukairs-submission",
           "title": {
-            "en": "Submitted to UKAIRS 2026",
-            "zh": "投稿 UKAIRS 2026"
+            "en": "The UKAIRS paper: prompting AI agents in pinyin (romanised Chinese)",
+            "zh": "UKAIRS 论文：用拼音向 AI 智能体下指令"
           },
           "url": {
             "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-submission",

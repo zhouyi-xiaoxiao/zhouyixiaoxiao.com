@@ -1,1 +1,0 @@
-import{a as e,V as o}from"./boot-DvXYiiCU.js";function r(r){const t=e.on("theme",()=>{"function"==typeof requestAnimationFrame?requestAnimationFrame(()=>r()):r()}),n=o("(prefers-color-scheme: dark)",()=>r());return()=>{t(),n()}}export{r as o};
