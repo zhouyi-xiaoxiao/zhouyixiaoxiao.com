@@ -1,7 +1,7 @@
 {
   "status": "ready",
-  "url": "https://github.com/zhouyi-xiaoxiao/indoor-epidemic-random-walk/blob/306b7ff06e854005974f6e6048cbde99d9208b2e/paper.pdf",
+  "url": "https://github.com/zhouyi-xiaoxiao/indoor-epidemic-random-walk/blob/4838389b6730106981df90e2b4d51dcc1e6f4a3f/paper.pdf",
   "degree": "bsc",
-  "pdf_sha256": "60291556905e1b04892dc70691e242843b99f82bdccd69048663e0d644e41090",
-  "source_commit": "306b7ff06e854005974f6e6048cbde99d9208b2e"
+  "pdf_sha256": "d3764e8d19fcf3df9884d9c006dbfa4cd960c0ea030334dfd1c8d52fa383aca0",
+  "source_commit": "4838389b6730106981df90e2b4d51dcc1e6f4a3f"
 }

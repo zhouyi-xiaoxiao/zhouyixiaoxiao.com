@@ -1,7 +1,7 @@
 {
   "status": "ready",
-  "url": "https://github.com/zhouyi-xiaoxiao/pinn-diffusion-wave-laplace/blob/1f3e7fdf889373b1397485f072ae4458421185e0/paper.pdf",
+  "url": "https://github.com/zhouyi-xiaoxiao/pinn-diffusion-wave-laplace/blob/1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7/paper.pdf",
   "project": "pinns",
-  "pdf_sha256": "91b96a4319c86f2dd4fcd8181e67d3b51db06f83a82eb0a07f20f31e9f638af7",
-  "source_commit": "1f3e7fdf889373b1397485f072ae4458421185e0"
+  "pdf_sha256": "0774633fd8605e9514affd557f05428e1a07d5b22fabe4f910f0895e981aacaf",
+  "source_commit": "1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7"
 }

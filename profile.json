@@ -171,8 +171,8 @@
   },
   "highlights": [
     {
-      "en": "First-author paper accepted at UKAIRS 2026 (the UK AI Research Symposium) — poster #181, Edinburgh, 25 Nov",
-      "zh": "第一作者论文入选英国 AI 研究研讨会（UKAIRS 2026）——11 月 25 日，爱丁堡，181 号海报",
+      "en": "First-author paper on prompting AI agents in pinyin (romanised Chinese), accepted at UKAIRS 2026 (the UK AI Research Symposium) — poster #181, Edinburgh, 25 Nov",
+      "zh": "第一作者论文：用拼音直接给 AI 智能体下指令，入选英国 AI 研究研讨会（UKAIRS 2026）——11 月 25 日，爱丁堡，181 号海报",
       "url": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#papers-h"
     },
     {
@@ -896,7 +896,7 @@
           },
           "card": {
             "en": "Weeks into the PhD: a Demonstrator contract in SEMT and a Graduate Teacher contract in the School of Mathematics.",
-            "zh": "读博才几周：签下 SEMT 学院的实验课助教（Demonstrator）合同，以及数学学院的研究生助教（Graduate Teacher）合同。"
+            "zh": "读博才几周：签下工程数学与技术学院（SEMT）的实验课助教（Demonstrator）合同，以及数学学院的研究生助教（Graduate Teacher）合同。"
           },
           "links": []
         }
@@ -1151,8 +1151,8 @@
         "zh": "发出去的作品，和背后的工作室：领英当笔记本，2026 年 8 月起的微信内容工作室，双语字幕，以及这个网站。"
       },
       "why": {
-        "en": "The record is also how the work reaches people: posts, talks and videos in two languages — with every number here an aggregate and every private clip kept private.",
-        "zh": "记录本身也是作品抵达别人的方式：中英两种语言的帖子、演讲与视频；这里的数字一律是汇总，私人片段一律不公开。"
+        "en": "Work that no one sees has not quite arrived: posts, talks and videos, in two languages, are how it reaches people.",
+        "zh": "没人看见的工作，还不算真正抵达：中英两种语言的帖子、演讲与视频，就是它抵达别人的方式。"
       },
       "thesis": {
         "en": "What was published, and the studio behind it: LinkedIn as a notebook, a WeChat studio since August 2026, bilingual subtitles, this site.",
@@ -1627,8 +1627,8 @@
         "zh": "11 月 25 日爱丁堡海报、一篇已投稿《物理评论 E》、一篇在写、一个开发中的桌面智能体。"
       },
       "why": {
-        "en": "A snapshot with a date on it, so the record stays honest: what is finished lives in the chapters; what is still moving is here.",
-        "zh": "这是一张带日期的快照，好让记录保持诚实：做完的在各章里，还在走的在这里。"
+        "en": "A snapshot with a date on it, so the record stays honest: finished work moves into its chapter, and each edition rebuilds this page from the record.",
+        "zh": "这是一张带日期的快照，好让记录保持诚实：做完的事归入各章，这一页则在每次更新时由记录重新生成。"
       },
       "thesis": {
         "en": "Edinburgh poster on 25 November, a paper submitted to Physical Review E (a physics journal), another in preparation, a desktop agent in development.",

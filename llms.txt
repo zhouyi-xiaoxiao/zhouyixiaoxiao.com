@@ -17,7 +17,7 @@ First Passage · 首达 — So far · Edition 01 · as at 2 Oct 2026. English at
 
 ## Highlights
 
-- First-author paper accepted at UKAIRS 2026 (the UK AI Research Symposium) — poster #181, Edinburgh, 25 Nov — https://zhouyixiaoxiao.com/ai/skipping-the-ime/#papers-h
+- First-author paper on prompting AI agents in pinyin (romanised Chinese), accepted at UKAIRS 2026 (the UK AI Research Symposium) — poster #181, Edinburgh, 25 Nov — https://zhouyixiaoxiao.com/ai/skipping-the-ime/#papers-h
 - Single-author paper submitted to Physical Review E (a physics journal), Jul 2026; its exact algebra checked in Lean, a proof assistant: 46 theorems — https://zhouyixiaoxiao.com/research/#papers-h
 - Public reproduction archive v1.3.0 for a second paper, in preparation: code, proofs and records — https://zhouyixiaoxiao.com/research/#e-research_fpt-reproduction-releases
 - Five AI systems live at Yuexin International since June 2026 — an AI gateway, a governed AI platform, a staff assistant — https://zhouyixiaoxiao.com/work/engine-room/#body-h
