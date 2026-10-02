@@ -101,7 +101,7 @@
       {
         "role": {
           "en": "Early Career Enterprise Fellow (2026 cohort, one of twelve)",
-          "zh": "早期职业创业学者（2026 届，全届 12 人）"
+          "zh": "早期职业创业学者（2026 届，同届共 12 人）"
         },
         "org": {
           "en": "University of Bristol",
@@ -182,7 +182,7 @@
     },
     {
       "en": "Public reproduction archive v1.3.0 · 46 theorems checked in Lean, a proof assistant",
-      "zh": "公开复现仓库 v1.3.0 · 46 条定理由 Lean（一种让计算机逐行检查数学证明的软件）核验",
+      "zh": "公开复现仓库 v1.3.0 · 46 条定理经 Lean（一种让计算机逐行检查数学证明的软件）逐条核验",
       "url": "https://zhouyixiaoxiao.com/research/"
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "en": "Early Career Enterprise Fellow 2026 (one of twelve) · 13 teaching roles · PhD student rep",
-      "zh": "2026 年早期职业创业学者（全届 12 人）· 13 个教学岗位 · 博士生代表",
+      "zh": "2026 年早期职业创业学者（同届共 12 人）· 13 个教学岗位 · 博士生代表",
       "url": "https://zhouyixiaoxiao.com/enterprise/"
     }
   ],
@@ -1035,7 +1035,7 @@
       },
       "thesis": {
         "en": "First-passage maths turned into a product: BioPath takes a site map and a budget and returns where to put the traps — with the proof attached. One of twelve Early Career Enterprise Fellows in the 2026 cohort, a pitch award from New Enterprise (Bristol’s start-up programme) and a PechaKucha (20 slides × 20 seconds) at the Festival of Enterprise.",
-        "zh": "把首达数学做成产品：BioPath 输入场地地图与预算，输出诱捕器该放在哪儿——并附上证明。由此成为 2026 届早期职业创业学者（全届 12 人），拿到布里斯托大学创业孵化项目 New Enterprise 的路演奖，并在创业节上做了一场 PechaKucha（20 页幻灯片、每页 20 秒的快闪演讲）。"
+        "zh": "把首达数学做成产品：BioPath 输入场地地图与预算，输出诱捕器该放在哪儿——并附上证明。由此成为 2026 届早期职业创业学者（同届共 12 人），拿到布里斯托大学创业孵化项目 New Enterprise 的路演奖，并在创业节上做了一场 PechaKucha（20 页幻灯片、每页 20 秒的快闪演讲）。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/enterprise/",
@@ -1058,7 +1058,7 @@
           },
           "card": {
             "en": "BioPath — a bio-inspired optimisation tool for precision pest management — won a place in the 2026 cohort of twelve fellows.",
-            "zh": "BioPath——面向精准虫害管理的仿生优化工具——入选 2026 届，全届共 12 位学者。"
+            "zh": "BioPath——面向精准虫害管理的仿生优化工具——入选 2026 届，同届共 12 位学者。"
           },
           "links": []
         },

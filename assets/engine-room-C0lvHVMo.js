@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/gateway-flow-CwqpmDko.js","assets/boot-D5cFRhJA.js","assets/boot-DmsUXvlL.css","assets/live-BRPjfKrP.js","assets/zh-space-p1QlLZT2.js","assets/data-DjNIEIt8.js"])))=>i.map(i=>d[i]);
-import{_ as a}from"./boot-D5cFRhJA.js";import{s as o,a as t,l as s}from"./chapter-BFpVJhfy.js";o("engine-room",o=>t(o,"gateway-flow",'[data-sys="gateway-flow"]',s(()=>a(()=>import("./gateway-flow-CwqpmDko.js"),__vite__mapDeps([0,1,2,3,4,5])),a=>a.mountGatewayFlow)));
