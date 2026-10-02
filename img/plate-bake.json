@@ -26,6 +26,9 @@
     ],
     "Tmax": 2850,
     "bins": 84,
+    "nUser": 0,
+    "piUser": 0,
+    "builtIn": true,
     "valley": 21,
     "peaksSteps": [
       119,
@@ -125,6 +128,9 @@
         ],
         "Tmax": 2400,
         "bins": 84,
+        "nUser": 0,
+        "piUser": 0,
+        "builtIn": true,
         "valley": 26,
         "peaksSteps": [
           243,
@@ -159,6 +165,9 @@
         ],
         "Tmax": 2850,
         "bins": 84,
+        "nUser": 0,
+        "piUser": 0,
+        "builtIn": true,
         "valley": 21,
         "peaksSteps": [
           119,
@@ -193,6 +202,9 @@
         ],
         "Tmax": 2650,
         "bins": 84,
+        "nUser": 0,
+        "piUser": 0,
+        "builtIn": true,
         "valley": 24,
         "peaksSteps": [
           205,
@@ -227,6 +239,9 @@
         ],
         "Tmax": 2700,
         "bins": 84,
+        "nUser": 0,
+        "piUser": 0,
+        "builtIn": true,
         "valley": 28,
         "peaksSteps": [
           402,
@@ -260,6 +275,9 @@
         ],
         "Tmax": 2050,
         "bins": 84,
+        "nUser": 0,
+        "piUser": 0,
+        "builtIn": true,
         "peaksSteps": [
           988
         ]
@@ -291,6 +309,9 @@
         ],
         "Tmax": 2900,
         "bins": 84,
+        "nUser": 0,
+        "piUser": 0,
+        "builtIn": true,
         "valley": 34,
         "peaksSteps": [
           777,
@@ -324,6 +345,9 @@
         ],
         "Tmax": 2700,
         "bins": 84,
+        "nUser": 0,
+        "piUser": 0,
+        "builtIn": true,
         "peaksSteps": [
           1463
         ]

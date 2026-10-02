@@ -314,8 +314,8 @@
         "zh": "凡是需要「找到」的地方都有首达时间：分子找到受体、信号穿过网络、害虫走进诱捕器（见第 7 章）。"
       },
       "thesis": {
-        "en": "Why can a single target produce two arrival peaks? A year on rings, lattices and catalyst stripes that became a single-author paper submitted to Physical Review E (a physics journal), 46 theorems checked in Lean (a proof assistant, where a computer checks every step) and a public archive anyone can re-run.",
-        "zh": "一个目标，为什么会有两个到达峰？在环、格点与催化条带之间走了一年，走出一篇投给《物理评论 E》的单作者论文、46 条用 Lean（一种让计算机逐行检查数学证明的软件）核验的定理，和一个谁都能复跑的公开仓库。"
+        "en": "Why one target can have two arrival peaks, and exactly when the second dies: a single-author paper submitted to Physical Review E (a physics journal).",
+        "zh": "一个目标为何会有两个到达峰，第二个峰又何时消失——单作者论文，已投稿《物理评论 E》。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/research/",
@@ -449,16 +449,16 @@
         "zh": "AI 论文"
       },
       "card": {
-        "en": "Can an AI agent read raw pinyin (romanised Chinese)? In a 48-call pilot: yes for routine prompts — but homophones need key words in characters.",
-        "zh": "AI 智能体读得懂直接敲的拼音吗？48 次调用的小规模测试：日常指令可以；遇到同音词，关键词保留汉字即可恢复得分。"
+        "en": "Can an AI agent read raw pinyin (romanised Chinese)? Tested in a 48-call pilot on real coding agents — a poster for Edinburgh in November.",
+        "zh": "直接敲拼音，AI 智能体读得懂吗？对编程智能体做了 48 次真实调用来测；答案 11 月带去爱丁堡。"
       },
       "why": {
         "en": "Many languages are typed through an input method — software that turns typed letters into characters — or a romanisation: pinyin (romanised Chinese), Japanese romaji, Arabizi. Knowing where meaning survives the shortcut tells people when they can skip that step with an AI agent.",
         "zh": "很多语言都要靠输入法或罗马化来打字——拼音、日语罗马字、阿拉伯语的拉丁转写。弄清楚意思在哪里会丢，才知道什么时候可以跟 AI 智能体省掉这一步。"
       },
       "thesis": {
-        "en": "Can Chinese speakers skip the input method — the software that turns typed letters into characters — and type raw pinyin (romanised Chinese) straight to an AI agent? In a small pilot of 48 real calls to two AI coding agents, Codex and Claude Code: for the routine tasks tested, yes — but homophones collapse, and one word kept in Chinese characters brings the meaning back. The first AI paper, accepted at UKAIRS 2026 in Edinburgh.",
-        "zh": "和 AI 智能体说话，能不能跳过输入法、直接敲拼音？一项小规模测试——对两个编程智能体（Codex 与 Claude Code）共 48 次真实调用——给出的答案是：所测的日常指令可以；可一遇同音词，意思就塌了——只要把关键词留成汉字，意思便回来了。这是第一篇 AI 论文，入选在爱丁堡举行的英国 AI 研究研讨会（UKAIRS 2026）。"
+        "en": "Can an AI agent read raw pinyin (romanised Chinese)? Tested in a 48-call pilot on real coding agents — a poster for Edinburgh in November.",
+        "zh": "直接敲拼音，AI 智能体读得懂吗？对编程智能体做了 48 次真实调用来测；答案 11 月带去爱丁堡。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/",
@@ -608,8 +608,8 @@
         "zh": "目标是让公司从「试试 AI」走到每天都在用 AI——安全、内置治理，任何内容发出、共享或审批之前，都先由人确认。"
       },
       "thesis": {
-        "en": "Since June 2026, alongside the PhD: built the internal AI gateway, an enterprise platform for governed model access, a staff AI assistant, and the connectors that let agents work inside the company’s own tools.",
-        "zh": "2026 年 6 月起，与读博并行：搭建了内部 AI 网关、企业大模型统一接入与治理平台、员工 AI 助手，以及让智能体在公司自有工具里干活的连接器。"
+        "en": "Since June 2026 at Yuexin International: five AI systems built and live in four months — a gateway, a governed platform, a staff assistant.",
+        "zh": "2026 年 6 月起在阅信国际做 AI 研发：四个月里搭建并上线五套 AI 系统——网关、治理平台、员工助手等。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/work/engine-room/",
@@ -713,8 +713,8 @@
         "zh": "一家公司是不是 AI 公司，要看它怎么展示自己——用英文、在展会上、在印刷品里；也要看它自己的员工，能不能和 AI 智能体一起工作。"
       },
       "thesis": {
-        "en": "How Yuexin International — a cloud-communications company whose core business is SMS — learned to present itself as an AI company: an English brand push before MWC Shanghai, a logo taken from four sketches to one mark, materials for two trade shows, and a 93-minute primer on how the large-language-model (LLM) industry works, told through SMS.",
-        "zh": "阅信国际——一家以短信为主业的云通信公司——如何把自己讲成一家 AI 公司：世界移动通信大会（MWC 上海）之前的英文品牌准备，从四张草图到定稿的标志，两场展会的物料，以及一堂用短信讲清大模型行业的 93 分钟入门课。"
+        "en": "Giving a cloud-communications company an AI-era face: a logo system, materials for two trade shows (MWC Shanghai, WWC Madrid), a 93-minute AI primer.",
+        "zh": "为一家云通信公司打造 AI 时代的形象：一套标志、上海与马德里两场展会的物料、一堂 93 分钟的大模型入门课。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/work/on-stage/",
@@ -843,16 +843,16 @@
         "zh": "教学"
       },
       "card": {
-        "en": "A Graduate Teacher from the first month of the PhD — for 2026–27, 13 roles across three schools: tutorials, labs, problem classes, marking.",
-        "zh": "读博第一个月就当上研究生助教；2026 至 2027 学年在三个学院有 13 个教学岗位：小班辅导、实验课、习题课与批改。"
+        "en": "In front of students from the first month of the PhD; for 2026–27, 13 roles across three schools: tutorials, labs, problem classes, marking.",
+        "zh": "读博第一个月，就开始教课。2026 至 2027 学年：三个学院、13 个教学岗位，小班辅导、实验课、习题课与批改都有。"
       },
       "why": {
-        "en": "It puts the maths in front of students — first-year tutorials, MSc labs, group projects — and runs on the same AI-native, check-everything habits as the research.",
-        "zh": "它让数学真正落到学生面前——一年级小班课、硕士上机实验、小组项目——背后是和做研究一样的 AI 原生、凡事核验的习惯。"
+        "en": "Teaching is where an explanation either works or it doesn’t: first-year tutorials, MSc labs, summer projects for business students.",
+        "zh": "一个讲法行不行，在课堂上当场见分晓：一年级小班课、硕士上机实验、商科学生的暑期项目。"
       },
       "thesis": {
-        "en": "A Graduate Teacher from the first month of the PhD: problem classes, labs, marking and tutorials. For 2026–27, 13 teaching roles in three schools at the July allocation, and one more unit since September — run with the same AI-native habits as the research.",
-        "zh": "读博第一个月就当上研究生助教（Graduate Teacher）：习题课、实验课、批改与小班辅导。2026 至 2027 学年，7 月分配时在三个学院有 13 个教学岗位，9 月又新增 1 门课；用的是和做研究一样的 AI 原生工作方式。"
+        "en": "In front of students from the first month of the PhD; for 2026–27, 13 roles across three schools: tutorials, labs, problem classes, marking.",
+        "zh": "读博第一个月，就开始教课。2026 至 2027 学年：三个学院、13 个教学岗位，小班辅导、实验课、习题课与批改都有。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/campus/teaching/",
@@ -866,16 +866,16 @@
             "precision": "day"
           },
           "title": {
-            "en": "2026–27: thirteen roles across three schools",
-            "zh": "2026 至 2027 学年：三个学院，十三个岗位"
+            "en": "The July allocation for 2026–27",
+            "zh": "7 月：新学年的教学分配"
           },
           "status": {
             "en": "Ongoing",
             "zh": "进行中"
           },
           "card": {
-            "en": "13 roles in 11 units across three schools at allocation in July; a 12th unit, Linear Algebra, was added in September.",
-            "zh": "7 月分配时 11 门课 13 个岗位，分属三个学院；9 月又加了第 12 门：线性代数。"
+            "en": "Eleven units at once — from first-year tutorials to an MSc group project — and in September a twelfth, Linear Algebra.",
+            "zh": "一次分到 11 门课——从一年级小班辅导到硕士小组项目；9 月又加了第 12 门：线性代数。"
           },
           "links": []
         },
@@ -923,12 +923,12 @@
         "zh": "工程数学博士生代表（当了一年，如今连任）、奖学金评审、开放日学生大使——还讲了七分钟单口喜剧。"
       },
       "why": {
-        "en": "It turns other PhD students’ points into decisions: a careers Q&A added to a lunch-and-learn, a writing-retreat survey that became eighty seats.",
-        "zh": "它把博士生的意见变成决定：午餐讲座里加上的职业问答，一份写作营问卷换来的八十个座位。"
+        "en": "Most of what makes a PhD harder is small and fixable — once someone collects it and carries it to the room where decisions are made.",
+        "zh": "让读博变难的事，大多很小，也都能解决——前提是有人把它们收集起来，送进做决定的那间屋子。"
       },
       "thesis": {
-        "en": "Speaking for other PhD students, and for the university: a year as Engineering Mathematics PGR (postgraduate research) rep, and now a second; a scholarship reading panel, open days, a science festival — and seven minutes of stand-up about doing a maths PhD.",
-        "zh": "替博士生发声，也替学校待客：当了一年工程数学博士生代表，如今连任第二年；做奖学金评审、开放日学生大使、科学节志愿者——还在台上讲了七分钟关于读数学博士的单口喜剧。"
+        "en": "PhD student rep for Engineering Mathematics (a year, and now a second), scholarship panellist, open-day ambassador — and seven minutes of stand-up.",
+        "zh": "工程数学博士生代表（当了一年，如今连任）、奖学金评审、开放日学生大使——还讲了七分钟单口喜剧。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/campus/representing/",
@@ -1030,12 +1030,12 @@
         "zh": "把首达数学做成产品：BioPath 告诉农场诱捕器该放哪儿，并附上证明。2026 年早期职业创业学者。"
       },
       "why": {
-        "en": "Where a trap goes decides how soon a pest is caught — and better placement can cut the reliance on chemical rodenticides.",
-        "zh": "诱捕器放在哪里，决定了害虫多快被抓住；布点更准，就能减少对化学灭鼠剂的依赖。"
+        "en": "Where traps go is still mostly guesswork; placing them exactly can mean fewer chemical rodenticides.",
+        "zh": "诱捕器放在哪儿，至今多半靠猜；放得准，就能少用化学灭鼠剂。"
       },
       "thesis": {
-        "en": "First-passage maths turned into a product: BioPath takes a site map and a budget and returns where to put the traps — with the proof attached. One of twelve Early Career Enterprise Fellows in the 2026 cohort, a pitch award from New Enterprise (Bristol’s start-up programme) and a PechaKucha (20 slides × 20 seconds) at the Festival of Enterprise.",
-        "zh": "把首达数学做成产品：BioPath 输入场地地图与预算，输出诱捕器该放在哪儿——并附上证明。由此成为 2026 届早期职业创业学者（同届共 12 人），拿到布里斯托大学创业孵化项目 New Enterprise 的路演奖，并在创业节上做了一场 PechaKucha（20 页幻灯片、每页 20 秒的快闪演讲）。"
+        "en": "First-passage maths as a product: BioPath tells farms where to put pest traps, with the proof attached. Early Career Enterprise Fellow, 2026.",
+        "zh": "把首达数学做成产品：BioPath 告诉农场诱捕器该放哪儿，并附上证明。2026 年早期职业创业学者。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/enterprise/",
@@ -1155,8 +1155,8 @@
         "zh": "记录本身也是作品抵达别人的方式：中英两种语言的帖子、演讲与视频；这里的数字一律是汇总，私人片段一律不公开。"
       },
       "thesis": {
-        "en": "A camera roll kept since 2023, a WeChat studio launched in August 2026 (the enterprise pitch and an interview are on WeChat Channels), LinkedIn as a public notebook, a home-built bilingual subtitle pipeline — and the making of this site.",
-        "zh": "2023 年起从未停下的手机影像，2026 年 8 月启动的微信内容工作室（创业路演与一次专访已发在视频号），被当作公开笔记本的领英，自己搭的中英双语字幕流水线——以及这个网站是怎样做出来的。"
+        "en": "What was published, and the studio behind it: LinkedIn as a notebook, a WeChat studio since August 2026, bilingual subtitles, this site.",
+        "zh": "发出去的作品，和背后的工作室：领英当笔记本，2026 年 8 月起的微信内容工作室，双语字幕，以及这个网站。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/media/",
@@ -1251,8 +1251,8 @@
         "zh": "后来 AI 工作背后的那个问题，最早出现在这里：评判一个工具，要看它的输出能不能回答真实问题，而不是看它长得好不好。"
       },
       "thesis": {
-        "en": "Summer 2025: a university programme in Silicon Valley and a two-week research internship at LiveX AI, where the question was how to turn messy manuals into Markdown an AI can actually use. The turning point toward AI — and a walker that is still walking.",
-        "zh": "2025 年夏：硅谷的一段大学研学项目，外加在 LiveX AI 的两周研究实习——课题是怎样把杂乱的产品手册变成 AI 真正用得上的 Markdown。这是转向 AI 的转折点，也是一个至今仍在游走的粒子。"
+        "en": "Summer 2025 in Silicon Valley: an entrepreneurship programme and a research internship at LiveX AI — where the turn toward AI began.",
+        "zh": "2025 年夏在硅谷：一段创业研学，外加 LiveX AI 的研究实习——转向 AI 从这里开始。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/westward/",
@@ -1345,12 +1345,12 @@
         "zh": "见缝插针造出来的东西，多半是为了让别人走得更快：数学指北、旅行故事应用、光标工具、智能体之桥。"
       },
       "why": {
-        "en": "Small public tools are where new methods get tried first, and some outlive their moment: the Tianjin maths guide from 2023 is still online.",
-        "zh": "小而公开的工具，是新方法最先试手的地方；有些还活得很久：2023 年的天大数学指北，至今仍可访问。"
+        "en": "Small public tools are where new methods get tried first, at a scale where failing is cheap.",
+        "zh": "小而公开的工具，是新方法最先试手的地方——在这里失败，代价很小。"
       },
       "thesis": {
-        "en": "Things built in the gaps: a maths guide for the next cohort, a travel-story studio born at a hackathon, a cursor that jumps between screens, bridges that let AI agents hand work to each other — most of them made so that someone else could move faster.",
-        "zh": "见缝插针造出来的东西：留给下一届的数学指北、黑客松里诞生的旅行故事工作室、在屏幕之间跳跃的光标、让 AI 智能体互相交接工作的桥——大多是为了让别人走得更快。"
+        "en": "Built in the gaps, mostly so someone else could move faster: a maths guide, a travel-story app, a cursor tool, agent bridges.",
+        "zh": "见缝插针造出来的东西，多半是为了让别人走得更快：数学指北、旅行故事应用、光标工具、智能体之桥。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/workshop/",
@@ -1508,12 +1508,12 @@
         "zh": "天津、香港、成都、日内瓦、布里斯托：一边划船一边读数学，再走「3+1」——本科三年，第四年读布里斯托硕士。"
       },
       "why": {
-        "en": "The pieces were there before the PhD: random walks in the undergraduate thesis, maths turned computational in Hong Kong, and a habit of speaking up for other students.",
-        "zh": "读博之前，这些线索就都在了：本科论文里的随机游走，在香港变得可以计算的数学，以及替同学发声的习惯。"
+        "en": "The pieces were there before the PhD: random walks already in the undergraduate thesis, and a habit of speaking up for other students that became the rep work of Chapter 06.",
+        "zh": "读博之前，这些线索就都在了：本科论文里已经有随机游走；替同学发声的习惯，后来成了第 6 章里的代表工作。"
       },
       "thesis": {
-        "en": "Tianjin, Hong Kong, Chengdu, Geneva, Bristol: a maths degree at Tianjin University (TJU) with an oar in hand, an exchange year at the Hong Kong University of Science and Technology (HKUST) that turned the maths computational, a first internship, and the 3+1 route (three undergraduate years, the exchange year among them, then the fourth as a Bristol MSc) — the first shortcut, which skipped a year.",
-        "zh": "天津、香港、成都、日内瓦、布里斯托：在天津大学一边读数学一边划船的本科，在香港科技大学让数学变得可以计算的交换年，第一份实习，以及「3+1」（本科三年，含香港交换的一年；第四年读布里斯托硕士）——人生里的第一条捷径，径直跳过了一年。"
+        "en": "Tianjin, Hong Kong, Chengdu, Geneva, Bristol: maths with an oar in hand, then the 3+1 route (three undergraduate years, then a Bristol MSc).",
+        "zh": "天津、香港、成都、日内瓦、布里斯托：一边划船一边读数学，再走「3+1」——本科三年，第四年读布里斯托硕士。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/roots/",
@@ -1631,8 +1631,8 @@
         "zh": "这是一张带日期的快照，好让记录保持诚实：做完的在各章里，还在走的在这里。"
       },
       "thesis": {
-        "en": "A poster to present in Edinburgh, a paper submitted to Physical Review E (a physics journal) and another in preparation, a desktop agent in development at Yuexin International (a cloud-communications company), a new teaching year and a second year as PhD student rep. The walkers still in flight.",
-        "zh": "一张要带去爱丁堡的海报，一篇已投稿《物理评论 E》、一篇仍在打磨的论文，一个开发中的桌面智能体，新学年的课，以及第二年的博士生代表。这些，是仍在路上的游走者。"
+        "en": "Edinburgh poster on 25 November, a paper submitted to Physical Review E (a physics journal), another in preparation, a desktop agent in development.",
+        "zh": "11 月 25 日爱丁堡海报、一篇已投稿《物理评论 E》、一篇在写、一个开发中的桌面智能体。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/now/",
@@ -1766,8 +1766,8 @@
         "zh": "为别人而造"
       },
       "line": {
-        "en": "Most things were built so someone else could move faster.",
-        "zh": "做出来的东西，多半是为了让别人走得更快。"
+        "en": "A guide for the next cohort, a tool for farms, an assistant for colleagues, a library for one tutorial group.",
+        "zh": "给下一届的指北，给农场的布点工具，给同事的助手，给一个小班的资料站。"
       },
       "entries": [
         {
