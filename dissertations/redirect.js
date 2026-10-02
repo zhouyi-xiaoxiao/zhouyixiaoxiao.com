@@ -7,7 +7,7 @@ try {
   const u=new URL(state.url);
   if(u.protocol==='https:' && ['github.com','raw.githubusercontent.com','zhouyixiaoxiao.com','zhouyi-xiaoxiao.github.io'].includes(u.hostname)) {
    const link=document.getElementById('document-link');link.href=u.href;link.hidden=false;
-   document.getElementById('status').textContent='The revised dissertation is ready. Opening it now…';
+   document.getElementById('status').textContent='The article is ready. Opening it now…';
    location.replace(u.href);return;
   }
  }
