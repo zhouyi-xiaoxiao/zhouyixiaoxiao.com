@@ -1,5 +1,7 @@
 {
-  "status": "pending",
-  "url": null,
-  "degree": "bsc"
+  "status": "ready",
+  "url": "https://github.com/zhouyi-xiaoxiao/indoor-epidemic-random-walk/blob/67e13e464e7f9c8345a5b3feab2ef3e8e9bc7ecd/paper.pdf",
+  "degree": "bsc",
+  "pdf_sha256": "a1b4eee87c55207cadc6a9f1a75eec0976d7f9e80c26cce7553c8bc3712c4981",
+  "source_commit": "67e13e464e7f9c8345a5b3feab2ef3e8e9bc7ecd"
 }
