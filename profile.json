@@ -177,7 +177,7 @@
     },
     {
       "en": "Single-author paper submitted to Physical Review E (a physics journal), Jul 2026",
-      "zh": "单作者论文，2026 年 7 月投稿《物理评论 E》（Physical Review E），审稿中",
+      "zh": "单作者论文，2026 年 7 月投稿《物理评论 E》（Physical Review E）",
       "url": "https://zhouyixiaoxiao.com/research/"
     },
     {
@@ -234,7 +234,7 @@
       "status": "under-review",
       "statusLabel": {
         "en": "Submitted to Physical Review E · Jul 2026",
-        "zh": "2026 年 7 月投稿，审稿中"
+        "zh": "2026 年 7 月投稿"
       },
       "date": "2026-07-30",
       "links": [
@@ -311,7 +311,7 @@
       },
       "why": {
         "en": "First-passage times are everywhere a search has to succeed: a molecule finding a receptor, a signal crossing a network, a pest finding a trap (Chapter 07).",
-        "zh": "凡是需要「找到」的地方都有首达时间：分子找到受体、信号穿过网络、害虫走进诱捕器（见第 07 章）。"
+        "zh": "凡是需要「找到」的地方都有首达时间：分子找到受体、信号穿过网络、害虫走进诱捕器（见第 7 章）。"
       },
       "thesis": {
         "en": "Why can a single target produce two arrival peaks? A year on rings, lattices and catalyst stripes that became a single-author paper submitted to Physical Review E (a physics journal), 46 theorems checked in Lean (a proof assistant, where a computer checks every step) and a public archive anyone can re-run.",
@@ -334,11 +334,11 @@
           },
           "status": {
             "en": "Submitted to Physical Review E · Jul 2026",
-            "zh": "2026 年 7 月投稿，审稿中"
+            "zh": "2026 年 7 月投稿"
           },
           "card": {
             "en": "Single-author regular article, the capstone of the double-peak line. Submitted to Physical Review E (a physics journal), 30 Jul 2026.",
-            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》（Physical Review E），审稿中。"
+            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》（Physical Review E）。"
           },
           "links": [
             {
@@ -457,8 +457,8 @@
         "zh": "很多语言都要靠输入法或罗马化来打字——拼音、日语罗马字、阿拉伯语的拉丁转写。弄清楚意思在哪里会丢，才知道什么时候可以跟 AI 智能体省掉这一步。"
       },
       "thesis": {
-        "en": "Can Chinese speakers skip the input method — the software that turns typed letters into characters — and type raw pinyin (romanised Chinese) straight to an AI agent? In a small pilot of 48 real calls: for the routine tasks tested, yes — but homophones collapse, and one word kept in Chinese characters brings the meaning back. The first AI paper, accepted at UKAIRS 2026 in Edinburgh.",
-        "zh": "和 AI 智能体说话，能不能跳过输入法、直接敲拼音？一项 48 次真实调用的小规模测试给出的答案是：所测的日常指令可以；可一遇同音词，意思就塌了——只要把关键词留成汉字，意思便回来了。这是第一篇 AI 论文，入选在爱丁堡举行的英国 AI 研究研讨会（UKAIRS 2026）。"
+        "en": "Can Chinese speakers skip the input method — the software that turns typed letters into characters — and type raw pinyin (romanised Chinese) straight to an AI agent? In a small pilot of 48 real calls to two AI coding agents, Codex and Claude Code: for the routine tasks tested, yes — but homophones collapse, and one word kept in Chinese characters brings the meaning back. The first AI paper, accepted at UKAIRS 2026 in Edinburgh.",
+        "zh": "和 AI 智能体说话，能不能跳过输入法、直接敲拼音？一项小规模测试——对两个编程智能体（Codex 与 Claude Code）共 48 次真实调用——给出的答案是：所测的日常指令可以；可一遇同音词，意思就塌了——只要把关键词留成汉字，意思便回来了。这是第一篇 AI 论文，入选在爱丁堡举行的英国 AI 研究研讨会（UKAIRS 2026）。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/",
@@ -592,7 +592,7 @@
         "zh": "引擎室"
       },
       "dek": {
-        "en": "R&D Scientist (AI), Yuexin International",
+        "en": "R&D Scientist (AI) at Yuexin International, a cloud-communications company",
         "zh": "阅信国际 · AI 研发"
       },
       "short": {
@@ -604,12 +604,12 @@
         "zh": "2026 年 6 月起在阅信国际做 AI 研发：四个月里搭建并上线六套 AI 系统——网关、治理平台、员工助手等。"
       },
       "why": {
-        "en": "The aim: move a company from trying AI to using it every day — safely, with governance built in, and with people holding every gate that has consequences.",
-        "zh": "目标是让一家公司从「试试 AI」走到每天都在用 AI——安全、内置治理，凡是有后果的关口都由人来把守。"
+        "en": "The aim: move the company from trying AI to using it every day — safely, with governance built in, and with people holding every gate that has consequences.",
+        "zh": "目标是让公司从「试试 AI」走到每天都在用 AI——安全、内置治理，凡是有后果的关口都由人来把守。"
       },
       "thesis": {
-        "en": "Since June 2026, alongside the PhD, for Yuexin International, a cloud-communications company: built the internal AI gateway, an enterprise platform for governed model access, a staff AI assistant, and the connectors that let agents work inside the company's own tools.",
-        "zh": "2026 年 6 月起，与读博并行：搭建了内部 AI 网关、受治理的企业模型接入平台、员工 AI 助手，以及让智能体在公司自有工具里干活的连接器。"
+        "en": "Since June 2026, alongside the PhD: built the internal AI gateway, an enterprise platform for governed model access, a staff AI assistant, and the connectors that let agents work inside the company's own tools.",
+        "zh": "2026 年 6 月起，与读博并行：搭建了内部 AI 网关、企业大模型统一接入与治理平台、员工 AI 助手，以及让智能体在公司自有工具里干活的连接器。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/work/engine-room/",
@@ -652,7 +652,7 @@
             "precision": "day"
           },
           "title": {
-            "en": "YueXin AI Assistant — web and Windows",
+            "en": "Yuexin AI Assistant — web and Windows",
             "zh": "阅信 AI 助手——网页版与 Windows 版"
           },
           "status": {
@@ -705,16 +705,16 @@
         "zh": "设计"
       },
       "card": {
-        "en": "Giving a messaging company an AI-era face: a logo system, materials for two trade shows (MWC Shanghai, WWC Madrid), a 93-minute AI primer.",
+        "en": "Giving a cloud-communications company an AI-era face: a logo system, materials for two trade shows (MWC Shanghai, WWC Madrid), a 93-minute AI primer.",
         "zh": "为一家云通信公司打造 AI 时代的形象：一套标志、上海与马德里两场展会的物料、一堂 93 分钟的大模型入门课。"
       },
       "why": {
-        "en": "A company that sold messaging had to learn to show itself as an AI company — in English, on trade floors and in print — and its own staff had to learn to work with AI agents.",
-        "zh": "一家做短信的公司，要学会用英文、在展会上、在印刷品里，把自己展示成一家 AI 公司；公司自己的员工，也要学会和 AI 智能体一起工作。"
+        "en": "An AI company is judged by how it presents itself — in English, on trade floors and in print — and by whether its own people can work with AI agents.",
+        "zh": "一家公司是不是 AI 公司，要看它怎么展示自己——用英文、在展会上、在印刷品里；也要看它自己的员工，能不能和 AI 智能体一起工作。"
       },
       "thesis": {
-        "en": "How a messaging company learns to present itself as an AI company: a first overseas brand push, a logo argued from four sketches into one mark, materials for two trade shows, and a 93-minute primer that explained how the large-language-model (LLM) industry works, through SMS.",
-        "zh": "一家短信公司如何把自己讲成一家 AI 公司：第一次海外品牌行动，一套从四张草图论证出来的标志，两场展会的物料，以及一堂用短信讲清大模型行业的 93 分钟入门课。"
+        "en": "How Yuexin International — a cloud-communications company whose core business is SMS — learned to present itself as an AI company: a first overseas brand push, a logo argued from four sketches into one mark, materials for two trade shows, and a 93-minute primer on how the large-language-model (LLM) industry works, told through SMS.",
+        "zh": "阅信国际——一家以短信为主业的云通信公司——如何把自己讲成一家 AI 公司：第一次海外品牌行动，一套从四张草图论证出来的标志，两场展会的物料，以及一堂用短信讲清大模型行业的 93 分钟入门课。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/work/on-stage/",
@@ -1302,7 +1302,7 @@
           "links": []
         },
         {
-          "id": "us_ai_internship_career-pdf-to-markdown-open-benchmark",
+          "id": "us_ai_internship_career-livex-retrieval-benchmark",
           "date": {
             "start": "2025-08-11",
             "end": "2025-08-16",
@@ -1681,11 +1681,11 @@
           },
           "status": {
             "en": "Submitted to Physical Review E · Jul 2026",
-            "zh": "2026 年 7 月投稿，审稿中"
+            "zh": "2026 年 7 月投稿"
           },
           "card": {
             "en": "Single-author regular article, the capstone of the double-peak line. Submitted to Physical Review E (a physics journal), 30 Jul 2026.",
-            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》（Physical Review E），审稿中。"
+            "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》（Physical Review E）。"
           },
           "links": [
             {
@@ -1795,7 +1795,7 @@
         {
           "id": "company_products-yuexin-chat-launch",
           "title": {
-            "en": "YueXin AI Assistant — web and Windows",
+            "en": "Yuexin AI Assistant — web and Windows",
             "zh": "阅信 AI 助手——网页版与 Windows 版"
           },
           "url": {
@@ -1804,14 +1804,14 @@
           }
         },
         {
-          "id": "school_teaching_service-pure-week1-teaching-library",
+          "id": "school_teaching_service-offline-teaching-library",
           "title": {
             "en": "An offline, bilingual teaching library",
             "zh": "一个可离线的中英双语教学资料站"
           },
           "url": {
-            "en": "https://zhouyixiaoxiao.com/campus/teaching/#e-school_teaching_service-pure-week1-teaching-library",
-            "zh": "https://zhouyixiaoxiao.com/zh/campus/teaching/#e-school_teaching_service-pure-week1-teaching-library"
+            "en": "https://zhouyixiaoxiao.com/campus/teaching/#e-school_teaching_service-offline-teaching-library",
+            "zh": "https://zhouyixiaoxiao.com/zh/campus/teaching/#e-school_teaching_service-offline-teaching-library"
           }
         }
       ]

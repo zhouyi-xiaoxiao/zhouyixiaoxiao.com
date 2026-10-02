@@ -10,3 +10,69 @@
 :root:not([data-lang=zh]) .hero__h1{font-size:clamp(44px,8vw,124px);line-height:.94;letter-spacing:-.018em;max-width:9.2em}
 @media(max-width:560px){:root:not([data-lang=zh]) .hero__h1{padding-right:calc(38px * 1.3 + 8px)}}
 .bar,.wrap{padding-left:max(var(--margin),env(safe-area-inset-left,0px));padding-right:max(var(--margin),env(safe-area-inset-right,0px))}
+
+/* Polish R4 (2026-10-02, other-figs). Published file only, like the blocks above: port to research/materials-2026-09-30/sms-map/build/
+   (style.src.css, app.src.js Se()/Ae()/ge(), render.mjs) before any rebuild.
+   R4-44 — standalone / home-screen mode (viewport-fit=cover): the sticky bar clears the status bar, as the main site's header does;
+   the skip link and anchor jumps (#f1 …, whose own top padding clears the 56 px bar) add the same inset. */
+.bar{padding-top:env(safe-area-inset-top,0px);min-height:calc(56px + env(safe-area-inset-top,0px))}
+.skip:focus{top:calc(10px + env(safe-area-inset-top,0px))}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+/* R4-20 — the language switch is one button to the other language, as on the rest of the site (AMENDMENT §1.9, A6):
+   「中文」 on the English page (aria-label "中文 — Chinese version"), "EN" on the Chinese page ("English — 英文版") */
+.lang__b{background:transparent;color:var(--ink)}
+.lang__b:hover{background:var(--verm-wash)}
+.lang__b--zh{font-family:var(--f-zh);font-weight:600;font-size:15px;letter-spacing:.04em;padding:0 12px}
+/* R4-20 — the English hero's right column, from 1100 px: Fig. 1's chain in miniature on a small plate — the five
+   hands a text passes through, a message travelling down them, gold at the phone. It is a pointer shortcut to Fig. 1
+   (aria-hidden, out of the tab order: "Start with one message ↓" is the link for everyone). zh keeps its giant 信. */
+.hero__route{display:none}
+@media (min-width:1100px){
+  :root:not([data-lang=zh]) .hero__text{display:grid;grid-template-columns:minmax(0,1fr) clamp(300px,27vw,384px);column-gap:clamp(40px,4.4vw,72px);align-items:start}
+  :root:not([data-lang=zh]) .hero__text>*{grid-column:1}
+  :root:not([data-lang=zh]) .hero__text>:is(.kicker,.hero__h1){grid-column:1/-1}
+  :root:not([data-lang=zh]) .hero__text>.hero__jump{justify-self:start}
+  :root:not([data-lang=zh]) .hero__route{display:flex;grid-column:2;grid-row:3/span 5;align-self:stretch}
+}
+.hero__route{flex-direction:column;gap:16px;min-height:340px;margin-top:28px;padding:20px 22px 22px;background:var(--plate);color:var(--plate-ink);box-shadow:var(--plate-halation);text-decoration:none;position:relative;overflow:hidden;background-image:radial-gradient(70% 55% at 30% 100%,rgba(229,66,31,.14),transparent 70%),linear-gradient(rgba(238,232,220,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(238,232,220,.045) 1px,transparent 1px);background-size:auto,28px 28px,28px 28px;transition:box-shadow .2s var(--ease-ui)}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]) .hero__route{outline:1px solid rgba(236,229,214,.16)}}
+:root[data-theme=dark] .hero__route{outline:1px solid rgba(236,229,214,.16)}
+.hero__route:hover{box-shadow:var(--plate-halation),0 0 0 1px rgba(255,90,54,.55)}
+.hero__route:hover .route__title{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.route__head{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px}
+.route__fig{font-family:var(--f-mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--lit-verm)}
+.route__title{font-family:var(--f-text);font-style:italic;font-size:18px;line-height:1.2;color:var(--plate-ink)}
+.route__chain{position:relative;flex:1 1 auto;display:flex;flex-direction:column;justify-content:space-between;align-items:flex-start;gap:10px;padding-left:30px}
+.route__chain:before{content:"";position:absolute;left:8px;top:22px;bottom:22px;width:1px;background:linear-gradient(rgba(216,208,192,.55),rgba(216,208,192,.3) 70%,rgba(242,180,90,.8))}
+.route__st{position:relative;display:flex;flex-direction:column;justify-content:center;gap:1px;height:44px;max-width:100%;padding:0 10px;background:var(--slip);color:#15130f;border:1px solid var(--slip-line);box-shadow:1px 1px 0 var(--slip-shadow)}
+.route__name,.route__sub{display:block;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.route__name{font-family:var(--f-text);font-style:italic;font-size:15.5px;line-height:1.15}
+.route__sub{font-family:var(--f-mono);font-size:12px;line-height:1.2;color:#4a453c}
+.route__dot{position:absolute;left:-27px;top:50%;width:9px;height:9px;margin-top:-4.5px;border-radius:50%;background:var(--plate);border:1.5px solid var(--silver);animation:smm-route-ping 7s calc((.04 + var(--at,0) * .82) * 7s) infinite}
+.route__st--phone .route__dot{background:var(--gold);border-color:var(--gold);box-shadow:0 0 12px 3px rgba(242,180,90,.55)}
+.route__msg{position:absolute;left:4px;top:17px;width:10px;height:10px;border-radius:50%;background:radial-gradient(circle,#FFF0D2 0 30%,#FF7B3A 62%,rgba(255,90,54,0) 72%);box-shadow:0 0 14px 4px rgba(255,123,58,.45);opacity:0;animation:smm-route-msg 7s linear infinite;pointer-events:none}
+@keyframes smm-route-msg{
+  0%{top:17px;opacity:0}
+  4%{top:17px;opacity:1}
+  10%{top:17px}
+  24.5%{top:calc((100% - 44px) * .25 + 17px)}
+  30.5%{top:calc((100% - 44px) * .25 + 17px)}
+  45%{top:calc((100% - 44px) * .5 + 17px)}
+  51%{top:calc((100% - 44px) * .5 + 17px)}
+  65.5%{top:calc((100% - 44px) * .75 + 17px)}
+  71.5%{top:calc((100% - 44px) * .75 + 17px)}
+  86%{top:calc(100% - 27px);opacity:1}
+  94%,100%{top:calc(100% - 27px);opacity:0}
+}
+@keyframes smm-route-ping{
+  0%{box-shadow:0 0 0 0 rgba(255,90,54,.65)}
+  12%,100%{box-shadow:0 0 0 10px rgba(255,90,54,0)}
+}
+.route__st--phone .route__dot{animation-name:smm-route-arrive}
+@keyframes smm-route-arrive{
+  0%{box-shadow:0 0 12px 3px rgba(242,180,90,.55),0 0 0 0 rgba(242,180,90,.8)}
+  14%{box-shadow:0 0 18px 6px rgba(242,180,90,.75),0 0 0 12px rgba(242,180,90,0)}
+  40%,100%{box-shadow:0 0 12px 3px rgba(242,180,90,.55),0 0 0 12px rgba(242,180,90,0)}
+}
+@media(prefers-reduced-motion:reduce){.route__msg{display:none}.route__dot{animation:none!important}}
+@media print{.hero__route{display:none!important}}

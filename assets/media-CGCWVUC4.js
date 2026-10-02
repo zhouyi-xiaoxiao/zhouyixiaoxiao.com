@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/film-strip-KkCSa2PA.js","assets/boot-DvXYiiCU.js","assets/boot-Cib8baJd.css","assets/data-DUZ4FYFX.js","assets/zh-space-p1QlLZT2.js","assets/static-teaching-CSMRWstM.js","assets/util-41lrDmxC.js","assets/theme-OuYl6XxN.js"])))=>i.map(i=>d[i]);
+import{_ as i}from"./boot-DvXYiiCU.js";import{s as r,a as t,l as m}from"./chapter-CAn2e6kY.js";r("media",r=>t(r,"film-strip","#fig [data-figure-root]",m(()=>i(()=>import("./film-strip-KkCSa2PA.js"),__vite__mapDeps([0,1,2,3,4,5,6,7])),i=>i.mountFilmStrip)));

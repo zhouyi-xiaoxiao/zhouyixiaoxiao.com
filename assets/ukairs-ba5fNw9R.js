@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/index-CTHryMt-.js","assets/boot-CI_lfJWq.js","assets/boot-CP9BBMHk.css"])))=>i.map(i=>d[i]);
-import{_ as a,$ as r}from"./boot-CI_lfJWq.js";import{s as t,m as i}from"./chapter-0aqukq3Z.js";t("ukairs",async t=>{await i("ukairs",r("[data-ukairs-root]")??r("#fig [data-figure-root]"),()=>a(()=>import("./index-CTHryMt-.js"),__vite__mapDeps([0,1,2])).then(a=>a.mountUkairs),t.data?.figure,t)});

@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/contact-sheet-DnZ8GrDj.js","assets/boot-DvXYiiCU.js","assets/boot-Cib8baJd.css","assets/live-DtLtsfVJ.js","assets/zh-space-p1QlLZT2.js"])))=>i.map(i=>d[i]);
+import{_ as t}from"./boot-DvXYiiCU.js";import{s,a,l as o}from"./chapter-CAn2e6kY.js";s("on-stage",s=>a(s,"contact-sheet",'[data-sys="contact-sheet"]',o(()=>t(()=>import("./contact-sheet-DnZ8GrDj.js"),__vite__mapDeps([0,1,2,3,4])),t=>t.mountContactSheet)));
