@@ -4,7 +4,7 @@
 
 zhouyixiaoxiao.com is a live first-passage experiment run on one life: walkers leave Tianjin and search a luminous plate of 2021 to now for whatever you choose. Switch on the shortcuts actually taken, and the chart of arrival times splits into two peaks — which is the PhD result, and the way around this site.
 
-First Passage · 首达 — So far · Edition 01 · as at 2 Oct 2026. English at https://zhouyixiaoxiao.com/, Chinese (简体中文) mirror at https://zhouyixiaoxiao.com/zh/. This file is generated from the same content as the pages; facts link to the page that shows them. Also known as: Xiaoxiao Zhouyi, 周易潇潇.
+First Passage · 首达 — So far · Edition 01 · as at 7 Oct 2026. English at https://zhouyixiaoxiao.com/, Chinese (简体中文) mirror at https://zhouyixiaoxiao.com/zh/. This file is generated from the same content as the pages; facts link to the page that shows them. Also known as: Xiaoxiao Zhouyi, 周易潇潇.
 
 ## Current roles
 
@@ -17,8 +17,8 @@ First Passage · 首达 — So far · Edition 01 · as at 2 Oct 2026. English at
 
 ## Highlights
 
-- First-author paper on prompting AI agents in pinyin (romanised Chinese), accepted at UKAIRS 2026 (the UK AI Research Symposium) — poster #181, Edinburgh, 25 Nov — https://zhouyixiaoxiao.com/ai/skipping-the-ime/#papers-h
-- Single-author paper submitted to Physical Review E (a physics journal), Jul 2026; its exact algebra checked in Lean, a proof assistant: 46 theorems — https://zhouyixiaoxiao.com/research/#papers-h
+- First-author paper accepted at the UK AI Research Symposium (UKAIRS 2026): prompting AI agents in romanised Chinese (pinyin) — poster, Edinburgh, 25 Nov — https://zhouyixiaoxiao.com/ai/skipping-the-ime/#papers-h
+- Single-author paper submitted to the physics journal Physical Review E, Jul 2026; its exact algebra machine-checked in the Lean proof assistant: 46 theorems — https://zhouyixiaoxiao.com/research/#papers-h
 - Public reproduction archive v1.3.0 for a second paper, in preparation: code, proofs and records — https://zhouyixiaoxiao.com/research/#e-research_fpt-reproduction-releases
 - Five AI systems live at Yuexin International since June 2026 — an AI gateway, a governed AI platform, a staff assistant — https://zhouyixiaoxiao.com/work/engine-room/#body-h
 - Early Career Enterprise Fellow 2026 (one of twelve) · 13 teaching roles · PhD student rep — https://zhouyixiaoxiao.com/enterprise/
@@ -42,7 +42,7 @@ First Passage · 首达 — So far · Edition 01 · as at 2 Oct 2026. English at
 ## All chapters
 
 - [01 · First Passage — PhD research: when a random walker first arrives](https://zhouyixiaoxiao.com/research/): Why one target can have two arrival peaks, and exactly when the second dies: a single-author paper submitted to Physical Review E (a physics journal). Chinese: [首达——博士研究：随机游走何时第一次到达](https://zhouyixiaoxiao.com/zh/research/)
-- [02 · Skipping the IME? — First AI paper · UKAIRS 2026, the UK AI Research Symposium](https://zhouyixiaoxiao.com/ai/skipping-the-ime/): Can an AI agent read raw pinyin (romanised Chinese)? Tested in a 48-call pilot on real coding agents — a poster for Edinburgh in November. Chinese: [跳过输入法？——第一篇 AI 论文 · 英国 AI 研究研讨会（UKAIRS 2026）](https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/)
+- [02 · Skipping the IME? — First AI paper · UKAIRS 2026, the UK AI Research Symposium](https://zhouyixiaoxiao.com/ai/skipping-the-ime/): Can AI agents read raw pinyin (romanised Chinese)? The Edinburgh poster says: for routine prompts, yes; homophones need the key word in characters. Chinese: [跳过输入法？——第一篇 AI 论文 · 英国 AI 研究研讨会（UKAIRS 2026）](https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/)
 - [03 · The Engine Room — R&D Scientist (AI) at Yuexin International, a cloud-communications company](https://zhouyixiaoxiao.com/work/engine-room/): Since June 2026 at Yuexin International: five AI systems built and live in four months — a gateway, a governed platform, a staff assistant. Chinese: [引擎室——阅信国际 · AI 研发](https://zhouyixiaoxiao.com/zh/work/engine-room/)
 - [04 · On Stage — Brand design, trade shows and talks](https://zhouyixiaoxiao.com/work/on-stage/): Giving a cloud-communications company an AI-era face: a logo system, materials for two trade shows (MWC Shanghai, WWC Madrid), a 93-minute AI primer. Chinese: [展台——品牌设计、展会与演讲](https://zhouyixiaoxiao.com/zh/work/on-stage/)
 - [05 · Teaching — Graduate Teacher & Demonstrator](https://zhouyixiaoxiao.com/campus/teaching/): In front of students from the first month of the PhD; for 2026–27, 13 roles across three schools: tutorials, labs, problem classes, marking. Chinese: [教学——研究生助教与实验课助教](https://zhouyixiaoxiao.com/zh/campus/teaching/)

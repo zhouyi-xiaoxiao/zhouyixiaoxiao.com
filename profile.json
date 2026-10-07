@@ -1,14 +1,14 @@
 {
   "v": 2,
-  "generated": "2026-10-02",
+  "generated": "2026-10-07",
   "site": {
     "name": {
       "en": "First Passage · 首达",
       "zh": "首达"
     },
     "edition": {
-      "en": "So far · Edition 01 · as at 2 Oct 2026",
-      "zh": "至此 · 第 1 期 · 截至 2026 年 10 月 2 日"
+      "en": "So far · Edition 01 · as at 7 Oct 2026",
+      "zh": "至此 · 第 1 期 · 截至 2026 年 10 月 7 日"
     },
     "url": {
       "en": "https://zhouyixiaoxiao.com/",
@@ -171,13 +171,13 @@
   },
   "highlights": [
     {
-      "en": "First-author paper on prompting AI agents in pinyin (romanised Chinese), accepted at UKAIRS 2026 (the UK AI Research Symposium) — poster #181, Edinburgh, 25 Nov",
-      "zh": "第一作者论文：用拼音直接给 AI 智能体下指令，入选英国 AI 研究研讨会（UKAIRS 2026）——11 月 25 日，爱丁堡，181 号海报",
+      "en": "First-author paper accepted at the UK AI Research Symposium (UKAIRS 2026): prompting AI agents in romanised Chinese (pinyin) — poster, Edinburgh, 25 Nov",
+      "zh": "第一作者论文入选英国 AI 研究研讨会（UKAIRS 2026）：用拼音直接给 AI 智能体下指令——11 月 25 日在爱丁堡展出海报",
       "url": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#papers-h"
     },
     {
-      "en": "Single-author paper submitted to Physical Review E (a physics journal), Jul 2026; its exact algebra checked in Lean, a proof assistant: 46 theorems",
-      "zh": "2026 年 7 月投稿《物理评论 E》的单作者论文，其精确代数经 Lean（一种让计算机逐行检查数学证明的软件）核验，共 46 条定理",
+      "en": "Single-author paper submitted to the physics journal Physical Review E, Jul 2026; its exact algebra machine-checked in the Lean proof assistant: 46 theorems",
+      "zh": "2026 年 7 月投稿《物理评论 E》的单作者论文；其精确代数已用 Lean 软件让计算机逐行检查，共 46 条定理",
       "url": "https://zhouyixiaoxiao.com/research/#papers-h"
     },
     {
@@ -367,8 +367,8 @@
             "zh": "已完成"
           },
           "card": {
-            "en": "A shortcut acts as a rank-one killing defect; the late peak vanishes in a saddle-node fold at a threshold b_c ≈ 3.08.",
-            "zh": "捷径就是一个秩一吸收缺陷；晚峰在阈值 b_c ≈ 3.08 处，经鞍结折叠消失。"
+            "en": "A shortcut acts as a rank-one killing defect; the late peak vanishes in a saddle-node fold at a critical strength of about 3.08.",
+            "zh": "捷径就是一个秩一吸收缺陷；在缺陷强度约 3.08 的临界点，晚峰经鞍结折叠消失。"
           },
           "links": []
         },
@@ -449,16 +449,16 @@
         "zh": "AI 论文"
       },
       "card": {
-        "en": "Can an AI agent read raw pinyin (romanised Chinese)? Tested in a 48-call pilot on real coding agents — a poster for Edinburgh in November.",
-        "zh": "直接敲拼音，AI 智能体读得懂吗？对编程智能体做了 48 次真实调用来测；答案 11 月带去爱丁堡。"
+        "en": "Can AI agents read raw pinyin (romanised Chinese)? The Edinburgh poster says: for routine prompts, yes; homophones need the key word in characters.",
+        "zh": "直接敲拼音，AI 智能体读得懂吗？带去爱丁堡的海报给出答案：日常指令可以，同音词要把关键词写成汉字。"
       },
       "why": {
         "en": "Many languages are typed through an input method — software that turns typed letters into characters — or a romanisation: pinyin (romanised Chinese), Japanese romaji, Arabizi. Knowing where meaning survives the shortcut tells people when they can skip that step with an AI agent.",
         "zh": "很多语言都要靠输入法或罗马化来打字——拼音、日语罗马字、阿拉伯语的拉丁转写。弄清楚意思在哪里会丢，才知道什么时候可以跟 AI 智能体省掉这一步。"
       },
       "thesis": {
-        "en": "Can an AI agent read raw pinyin (romanised Chinese)? Tested in a 48-call pilot on real coding agents — a poster for Edinburgh in November.",
-        "zh": "直接敲拼音，AI 智能体读得懂吗？对编程智能体做了 48 次真实调用来测；答案 11 月带去爱丁堡。"
+        "en": "Can AI agents read raw pinyin (romanised Chinese)? The Edinburgh poster says: for routine prompts, yes; homophones need the key word in characters.",
+        "zh": "直接敲拼音，AI 智能体读得懂吗？带去爱丁堡的海报给出答案：日常指令可以，同音词要把关键词写成汉字。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/",
@@ -891,8 +891,8 @@
             "zh": "第一个学期就当上研究生助教"
           },
           "status": {
-            "en": "Completed",
-            "zh": "已完成"
+            "en": "Signed",
+            "zh": "已签约"
           },
           "card": {
             "en": "Weeks into the PhD: a Demonstrator contract in SEMT and a Graduate Teacher contract in the School of Mathematics.",
@@ -947,8 +947,8 @@
             "zh": "工程数学博士生代表"
           },
           "status": {
-            "en": "Completed",
-            "zh": "已完成"
+            "en": "First term",
+            "zh": "首个任期"
           },
           "card": {
             "en": "A month into the PhD: speaking for PhD students in SEMT (Engineering Mathematics and Technology), 2025–26. Rep certificate, July 2026.",
@@ -1528,7 +1528,7 @@
             "precision": "month"
           },
           "title": {
-            "en": "BSc Mathematics & Applied Mathematics, Tianjin University (3+1 route: three undergraduate years, then the Bristol MSc)",
+            "en": "BSc Mathematics & Applied Mathematics, Tianjin University",
             "zh": "天津大学数学与应用数学本科"
           },
           "status": {
