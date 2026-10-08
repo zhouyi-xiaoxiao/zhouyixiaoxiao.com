@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/reply-card-CwPVsyzV.js","assets/boot-D1bplx4F.js","assets/boot-Dfxxl-qC.css","assets/data-DV33cHfK.js","assets/zh-space-p1QlLZT2.js","assets/util-BLoveGLY.js"])))=>i.map(i=>d[i]);
+import{_ as r}from"./boot-D1bplx4F.js";import{s as a,a as o,l as t}from"./chapter-C0Sv0lnX.js";a("contact",a=>o(a,"reply card","section.reply-card [data-figure-root]",t(()=>r(()=>import("./reply-card-CwPVsyzV.js"),__vite__mapDeps([0,1,2,3,4,5])),r=>r.mountReplyCard)));

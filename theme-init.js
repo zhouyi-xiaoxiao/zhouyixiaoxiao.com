@@ -35,4 +35,5 @@
       x.setAttribute(x.getAttribute('role') === 'radio' ? 'aria-checked' : 'aria-pressed', String(x.getAttribute('data-theme-set') === t));
     });
   });
+  addEventListener('pagereveal', function (e) { e.viewTransition && e.viewTransition.ready.catch(Boolean); }); // arrival-vt.ts
 })(document);
