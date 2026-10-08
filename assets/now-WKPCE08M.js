@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/next-fog-BBKwM7l5.js","assets/boot-BuDGNmMT.js","assets/boot-CyACAWpS.css","assets/stage-D1T-lHQg.js","assets/zh-space-p1QlLZT2.js","assets/util-CBI0g_0c.js"])))=>i.map(i=>d[i]);
+import{_ as o}from"./boot-BuDGNmMT.js";import{s as t,a,l as s}from"./chapter-CN1tO4A4.js";t("now",t=>a(t,"next-fog",'[data-walk="next-fog"]',s(()=>o(()=>import("./next-fog-BBKwM7l5.js"),__vite__mapDeps([0,1,2,3,4,5])),o=>o.mountNextFog),void 0));

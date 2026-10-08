@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/route-walk-CrzGOEvq.js","assets/boot-BuDGNmMT.js","assets/boot-CyACAWpS.css","assets/stage-D1T-lHQg.js","assets/zh-space-p1QlLZT2.js","assets/util-CBI0g_0c.js"])))=>i.map(i=>d[i]);
+import{_ as o}from"./boot-BuDGNmMT.js";import{s as a,a as t,l as r}from"./chapter-CN1tO4A4.js";a("roots",a=>t(a,"route-walk",'[data-walk="route-walk"]',r(()=>o(()=>import("./route-walk-CrzGOEvq.js"),__vite__mapDeps([0,1,2,3,4,5])),o=>o.mountRouteWalk),void 0));
