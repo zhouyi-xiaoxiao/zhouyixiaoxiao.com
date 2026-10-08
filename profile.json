@@ -1110,7 +1110,7 @@
             "precision": "day"
           },
           "title": {
-            "en": "A PechaKucha (20 slides × 20 seconds) at the Festival of Enterprise",
+            "en": "A PechaKucha (20 slides, 20 seconds each) at the Festival of Enterprise",
             "zh": "创业节上的 PechaKucha（20 页幻灯片、每页 20 秒）"
           },
           "status": {
@@ -1540,7 +1540,7 @@
             "zh": "已完成"
           },
           "card": {
-            "en": "2021–2025 in the School of Mathematics, the final year at Bristol via the 3+1 route. Every walker on this site starts here.",
+            "en": "2021–25 in the School of Mathematics, the final year at Bristol via the 3+1 route. Every walker on this site starts here.",
             "zh": "2021 年至 2025 年就读于数学学院，最后一年经「3+1」在布里斯托完成。本站每一个游走者，都从这里出发。"
           },
           "links": []
@@ -1884,7 +1884,7 @@
         "zh": "登台"
       },
       "line": {
-        "en": "From a first press mention in Chengdu to stand-up in Bristol, a PechaKucha (20 slides × 20 seconds), a 93-minute primer and two trade floors.",
+        "en": "From a first press mention in Chengdu to stand-up in Bristol, a PechaKucha (20 slides, 20 seconds each), a 93-minute primer and two trade floors.",
         "zh": "从成都的第一次见报，到布里斯托的单口喜剧、PechaKucha（20 页幻灯片、每页 20 秒）、93 分钟大模型课和两场展会。"
       },
       "entries": [
@@ -1913,7 +1913,7 @@
         {
           "id": "school_teaching_service-festival-of-enterprise-2026",
           "title": {
-            "en": "A PechaKucha (20 slides × 20 seconds) at the Festival of Enterprise",
+            "en": "A PechaKucha (20 slides, 20 seconds each) at the Festival of Enterprise",
             "zh": "创业节上的 PechaKucha（20 页幻灯片、每页 20 秒）"
           },
           "url": {

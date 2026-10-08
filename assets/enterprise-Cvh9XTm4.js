@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/trap-field-D0ju3in_.js","assets/boot-BaABGC8u.js","assets/boot-QxjECJNX.css","assets/live-CuZKRFIE.js","assets/zh-space-p1QlLZT2.js","assets/data-C1UAwKtq.js"])))=>i.map(i=>d[i]);
+import{_ as a}from"./boot-BaABGC8u.js";import{s as r,a as s,l as t}from"./chapter-BzLhz9Uo.js";r("enterprise",r=>s(r,"trap-field",'[data-sys="trap-field"]',t(()=>a(()=>import("./trap-field-D0ju3in_.js"),__vite__mapDeps([0,1,2,3,4,5])),a=>a.mountTrapField)));
