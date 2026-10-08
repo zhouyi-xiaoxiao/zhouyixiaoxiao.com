@@ -1,9 +1,9 @@
 {
   "name": "First Passage · 首达",
-  "release": "2026-10-08-polish-4",
+  "release": "2026-10-08-final-fixes",
   "contentAsAt": "2026-10-08",
-  "files": 382,
-  "artifactDigest": "6fdd960e650fee4c79fb1640c168d5be52ce243de384e07e69f3515a02607975",
+  "files": 384,
+  "artifactDigest": "1f5ba01dae4b1001611374f132090661fe520cb21b73f151ce6169238d386031",
   "manuscripts": {
     "pinn": "1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7",
     "bsc": "4838389b6730106981df90e2b4d51dcc1e6f4a3f",

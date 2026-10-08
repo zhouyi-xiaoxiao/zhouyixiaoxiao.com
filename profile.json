@@ -17,9 +17,13 @@
     "llms": "https://zhouyixiaoxiao.com/llms.txt",
     "llmsFull": "https://zhouyixiaoxiao.com/llms-full.txt",
     "sitemap": "https://zhouyixiaoxiao.com/sitemap.xml",
+    "cv": {
+      "en": "https://zhouyixiaoxiao.com/cv.pdf",
+      "zh": "https://zhouyixiaoxiao.com/zh/cv.pdf"
+    },
     "report": {
-      "en": "https://zhouyixiaoxiao.com/interim-report.pdf",
-      "zh": "https://zhouyixiaoxiao.com/zh/interim-report.pdf"
+      "en": "https://zhouyixiaoxiao.com/cv.pdf",
+      "zh": "https://zhouyixiaoxiao.com/zh/cv.pdf"
     },
     "lab": [
       {
@@ -172,7 +176,7 @@
   "highlights": [
     {
       "en": "First-author paper accepted at the UK AI Research Symposium (UKAIRS 2026): prompting AI agents in romanised Chinese (pinyin) — poster, Edinburgh, 25 Nov",
-      "zh": "第一作者论文入选英国 AI 研究研讨会（UKAIRS 2026）：用拼音直接给 AI 智能体下指令——11 月 25 日在爱丁堡展出海报",
+      "zh": "第一作者论文获英国 AI 研究研讨会（UKAIRS 2026）录用：用拼音直接给 AI 智能体下指令——11 月 25 日在爱丁堡展出海报",
       "url": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#papers-h"
     },
     {
@@ -275,7 +279,7 @@
     {
       "id": "encounter-spectral",
       "title": "Spectral diagnostics and local fixed-budget sensitivity of critical points in finite encounter-reaction models",
-      "titleZh": "有限相遇—反应模型中临界点的谱诊断与局部固定预算敏感性",
+      "titleZh": "有限相遇-反应模型中临界点的谱诊断与局部固定预算敏感性",
       "authors": [
         "Xiaoxiao Zhouyi"
       ],
@@ -367,8 +371,8 @@
             "zh": "已完成"
           },
           "card": {
-            "en": "A shortcut acts as a rank-one killing defect; the late peak vanishes in a saddle-node fold at a critical strength of about 3.08.",
-            "zh": "捷径就是一个秩一吸收缺陷；在缺陷强度约 3.08 的临界点，晚峰经鞍结折叠消失。"
+            "en": "The shortcut removes walkers at one site (a ‘rank-one killing defect’); at strength ≈ 3.08 the late peak meets a valley and both vanish.",
+            "zh": "用数学语言说，捷径相当于在一个位置吸收游走者的缺陷（秩一吸收缺陷）；强度约 3.08 时，晚峰与谷相撞消失（鞍结折叠）。"
           },
           "links": []
         },
@@ -388,8 +392,8 @@
             "zh": "已上线"
           },
           "card": {
-            "en": "Code, numerical records, interval certificates, Lean sources and HPC job logs, locked by SHA-256 manifests — v1.3.0, Sep 2026.",
-            "zh": "代码、数值记录、区间算术证书、Lean 源码与超算作业记录，全部由 SHA-256 清单锁定——v1.3.0，2026 年 9 月。"
+            "en": "Code, numerical records, interval certificates, Lean sources and supercomputer job logs, pinned by SHA-256 checksums — v1.3.0, Sep 2026.",
+            "zh": "代码、数值记录、区间算术证书、Lean 源码与超算作业记录，全部由 SHA-256 校验值锁定——v1.3.0，2026 年 9 月。"
           },
           "links": [
             {
@@ -709,8 +713,8 @@
         "zh": "为一家云通信公司打造 AI 时代的形象：一套标志、上海与马德里两场展会的物料、一堂 93 分钟的大模型入门课。"
       },
       "why": {
-        "en": "An AI company is judged by how it presents itself — in English, on trade floors and in print — and by whether its own people can work with AI agents.",
-        "zh": "一家公司是不是 AI 公司，要看它怎么展示自己——用英文、在展会上、在印刷品里；也要看它自己的员工，能不能和 AI 智能体一起工作。"
+        "en": "A company’s AI work is judged partly by how it presents itself — in English, on trade floors and in print — and by whether its own people can work with AI agents.",
+        "zh": "一家公司的 AI 做得怎样，一半要看它怎么展示自己——用英文、在展会上、在印刷品里；也要看它自己的员工，能不能和 AI 智能体一起工作。"
       },
       "thesis": {
         "en": "Giving a cloud-communications company an AI-era face: a logo system, materials for two trade shows (MWC Shanghai, WWC Madrid), a 93-minute AI primer.",
@@ -736,8 +740,8 @@
             "zh": "已完成"
           },
           "card": {
-            "en": "Four AI-sketched directions, audited for silhouette and similarity, rebuilt by hand on a 1000-unit grid: 20 master files, a 14-page guide.",
-            "zh": "四个 AI 草图方向，经剪影与相似度审查，在 1000 单位网格上手工重建：20 个母版文件，14 页规范。"
+            "en": "Four AI sketches, checked for shape and for look-alikes, then redrawn by hand on a 1,000-unit grid: 20 master files, a 14-page guide.",
+            "zh": "四个 AI 草图方向，先查轮廓、再查是否撞脸已有标志，然后在 1000 单位网格上手工重绘：20 个母版文件，14 页规范。"
           },
           "links": []
         },
@@ -1030,8 +1034,8 @@
         "zh": "把首达数学做成产品：BioPath 告诉农场诱捕器该放哪儿，并附上证明。2026 年早期职业创业学者。"
       },
       "why": {
-        "en": "Where traps go is still mostly guesswork; placing them exactly can mean fewer chemical rodenticides.",
-        "zh": "诱捕器放在哪儿，至今多半靠猜；放得准，就能少用化学灭鼠剂。"
+        "en": "Where traps go is still mostly guesswork; placing them well could mean fewer chemical rodenticides.",
+        "zh": "诱捕器放在哪儿，至今多半靠猜；放得准，有望少用化学灭鼠剂。"
       },
       "thesis": {
         "en": "First-passage maths as a product: BioPath tells farms where to put pest traps, with the proof attached. Early Career Enterprise Fellow, 2026.",
@@ -1178,8 +1182,8 @@
             "zh": "已启动"
           },
           "card": {
-            "en": "Launched August 2026: an agent-run studio turning years of phone footage into short videos for WeChat — a human always presses publish.",
-            "zh": "2026 年 8 月启动：由智能体运转的工作室，把多年的手机影像做成微信短视频——「发表」键永远由人来按。"
+            "en": "Launched August 2026: a studio run with AI tools, turning years of phone footage into short WeChat videos — a human always presses publish.",
+            "zh": "2026 年 8 月启动：由 AI 工具协助运转的工作室，把多年的手机影像做成微信短视频——「发表」键永远由人来按。"
           },
           "links": []
         },
@@ -1275,8 +1279,8 @@
             "zh": "已完成"
           },
           "card": {
-            "en": "4–16 August 2025, Silicon Valley: finding the most reliable way to turn product manuals into clean Markdown for an AI knowledge base.",
-            "zh": "2025 年 8 月 4 日至 16 日，硅谷：为 AI 知识库寻找把产品手册转成干净 Markdown 的最可靠方法。"
+            "en": "4–16 August 2025, Silicon Valley: testing how best to turn product manuals into clean text (Markdown) for an AI knowledge base.",
+            "zh": "2025 年 8 月 4 日至 16 日，硅谷：为 AI 知识库测试怎样把产品手册最好地转成干净的文本（Markdown）。"
           },
           "links": []
         },
@@ -1373,8 +1377,8 @@
             "zh": "在线演示"
           },
           "card": {
-            "en": "An AI-native travel-story and postcard studio in three visual modes — Fashion, Punk, Cinema — with a live public demo.",
-            "zh": "AI 原生的旅行故事与明信片工作室，三种视觉模式——时装、朋克、电影——附在线公开演示。"
+            "en": "A travel-story studio with AI-made postcards in three visual modes — Fashion, Punk, Cinema — and a live public demo.",
+            "zh": "用 AI 生成明信片的旅行故事工作室，三种视觉模式——时装、朋克、电影——附在线公开演示。"
           },
           "links": [
             {
@@ -1411,8 +1415,8 @@
             "zh": "已完成"
           },
           "card": {
-            "en": "A local-first relationship and identity OS, built by an orchestrated agent factory: 89% of the commits were made by agents.",
-            "zh": "一个本地优先的人际关系与身份操作系统，由编排好的智能体「工厂」建成：89% 的提交出自智能体。"
+            "en": "A local-first relationship and identity OS, built mostly by automated coding agents: 89% of the commits were theirs.",
+            "zh": "一个本地优先的人际关系与身份操作系统，主要由自动编程智能体建成：89% 的提交出自它们。"
           },
           "links": [
             {
@@ -1537,7 +1541,7 @@
           },
           "card": {
             "en": "2021–2025 in the School of Mathematics, the final year at Bristol via the 3+1 route. Every walker on this site starts here.",
-            "zh": "2021 至 2025 年就读于数学学院，最后一年经「3+1」在布里斯托完成。本站每一个游走者，都从这里出发。"
+            "zh": "2021 年至 2025 年就读于数学学院，最后一年经「3+1」在布里斯托完成。本站每一个游走者，都从这里出发。"
           },
           "links": []
         },

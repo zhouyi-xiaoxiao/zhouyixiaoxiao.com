@@ -65,7 +65,7 @@ First Passage · 首达 — So far · Edition 01 · as at 8 Oct 2026. English at
 ## Pages
 
 - [CV — the one-page version](https://zhouyixiaoxiao.com/index/): Everything on one page, readable without JavaScript. (Chinese: https://zhouyixiaoxiao.com/zh/index/)
-- [Zhouyi Xiaoxiao — CV (PDF)](https://zhouyixiaoxiao.com/interim-report.pdf): The CV page as a two-page A4 PDF, edition Interim Report Nº 01. (Chinese: https://zhouyixiaoxiao.com/zh/interim-report.pdf)
+- [Zhouyi Xiaoxiao — CV (PDF)](https://zhouyixiaoxiao.com/cv.pdf): The CV page as a two-page A4 PDF, edition So far · Edition 01. (Chinese: https://zhouyixiaoxiao.com/zh/cv.pdf)
 - [SMS Market Map · Zhouyi Xiaoxiao](https://zhouyixiaoxiao.com/lab/sms-market-map/): An interactive, bilingual map of how companies buy business text messaging (A2P SMS): who buys, what they need, how they meet suppliers, how they decide and why they stay. Designed by Zhouyi Xiaoxiao.
 - [About this site](https://zhouyixiaoxiao.com/colophon/): How this site is made, and what it does not do.
 

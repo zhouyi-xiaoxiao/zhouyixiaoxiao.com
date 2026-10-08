@@ -229,11 +229,17 @@
     <lastmod>2026-10-08</lastmod>
   </url>
   <url>
-    <loc>https://zhouyixiaoxiao.com/interim-report.pdf</loc>
+    <loc>https://zhouyixiaoxiao.com/cv.pdf</loc>
     <lastmod>2026-10-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/cv.pdf"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/cv.pdf"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/cv.pdf"/>
   </url>
   <url>
-    <loc>https://zhouyixiaoxiao.com/zh/interim-report.pdf</loc>
+    <loc>https://zhouyixiaoxiao.com/zh/cv.pdf</loc>
     <lastmod>2026-10-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/cv.pdf"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/cv.pdf"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/cv.pdf"/>
   </url>
 </urlset>
