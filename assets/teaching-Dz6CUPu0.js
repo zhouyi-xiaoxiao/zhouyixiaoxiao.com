@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/unit-charts-BApv82bw.js","assets/boot-zWJ9M8SK.js","assets/boot-DZ0Cj9rm.css","assets/data-DeRtVW7e.js","assets/zh-space-p1QlLZT2.js","assets/static-teaching-Cdo1NOk-.js","assets/util-QImzpGPk.js"])))=>i.map(i=>d[i]);
+import{_ as t}from"./boot-zWJ9M8SK.js";import{s as a,a as r,l as s}from"./chapter-CkHhl0Nr.js";a("teaching",a=>r(a,"unit-charts","#fig [data-figure-root]",s(()=>t(()=>import("./unit-charts-BApv82bw.js"),__vite__mapDeps([0,1,2,3,4,5,6])),t=>t.mountUnitCharts)));
