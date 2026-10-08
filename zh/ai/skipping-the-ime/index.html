@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; worker-src 'self' blob:; connect-src 'self'; font-src 'self'">
-<link rel="preload" href="/assets/page-MCznYtzA.css" as="style" crossorigin data-zx-css-preload>
+<link rel="preload" href="/assets/page-el5VxSXq.css" as="style" crossorigin data-zx-css-preload>
 <script src="/theme-init.js"></script>
 <style>@media (prefers-reduced-motion: no-preference) { @view-transition { navigation: auto; } }</style>
 <title>跳过输入法？——第一篇 AI 论文 · 英国 AI 研究研讨会（UKAIRS 2026） · 周易潇潇</title>
@@ -37,12 +37,12 @@
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="alternate" type="text/plain" href="/llms.txt" title="llms.txt">
 <link media="(min-width: 761px)" rel="preload" href="/fonts/zx-bodoni.woff2" as="font" type="font/woff2" crossorigin><link media="(min-width: 761px)" rel="preload" href="/fonts/zx-newsreader.woff2" as="font" type="font/woff2" crossorigin><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://zhouyixiaoxiao.com/#person","name":"周易潇潇","alternateName":["Xiaoxiao Zhouyi","Zhouyi Xiaoxiao"],"url":"https://zhouyixiaoxiao.com/zh/","description":"布里斯托大学博士研究生 · 阅信国际 · AI 研发","sameAs":["https://www.linkedin.com/in/zhouyixiaoxiao/","https://github.com/zhouyi-xiaoxiao","https://www.instagram.com/zhouyixiaoxiao/"],"email":"mailto:zhouyixiaoxiao@gmail.com","affiliation":{"@type":"CollegeOrUniversity","name":"University of Bristol"},"jobTitle":"AI 研发","worksFor":{"@type":"Organization","name":"Yuexin International"}},{"@type":"ScholarlyArticle","@id":"https://zhouyixiaoxiao.com/#paper-ukairs-2026","headline":"Skipping the IME? Keyboard-Friendly Multilingual Prompting for LLM Agents","name":"Skipping the IME? Keyboard-Friendly Multilingual Prompting for LLM Agents","inLanguage":"en","author":[{"@type":"Person","name":"Xiaoxiao Zhouyi"},{"@type":"Person","name":"Yanzhen Li"}],"dateCreated":"2026-08-11","creativeWorkStatus":"Accepted 11 Aug 2026 · poster #181, 25 Nov 2026","publication":{"@type":"PublicationEvent","name":"UKAIRS 2026 (UK AI Research Symposium) · Emerging Research track · poster · Edinburgh"},"url":"https://ukairs2026.eventsadmin.com/i/PosterSessions"}]}</script>
-  <script type="module" crossorigin src="/assets/boot-BaABGC8u.js"></script>
-  <script type="module" crossorigin src="/assets/chapter-BzLhz9Uo.js"></script>
-  <script type="module" crossorigin src="/assets/ukairs-B2kp-Ld9.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/page-MCznYtzA.css" data-zx-css>
-  <link rel="stylesheet" href="/assets/boot-QxjECJNX.css" disabled>
-  <link rel="stylesheet" href="/assets/ukairs-CbD0B6Mf.css" disabled>
+  <script type="module" crossorigin src="/assets/boot-BUdVaUvB.js"></script>
+  <script type="module" crossorigin src="/assets/chapter-BRJp2GHp.js"></script>
+  <script type="module" crossorigin src="/assets/ukairs-BoNh2-kK.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/page-el5VxSXq.css" data-zx-css>
+  <link rel="stylesheet" href="/assets/boot-BQxcMPE-.css" disabled>
+  <link rel="stylesheet" href="/assets/ukairs-CbGzReyr.css" disabled>
   <link rel="stylesheet" href="/assets/print-25xHnJPf.css" media="print">
 </head>
 <body>
@@ -127,7 +127,7 @@
 <div class="uk-scene__left">
 <p class="uk-py" aria-hidden="true"><span class="uk-py__t">shi shi</span><span class="uk-caret"></span></p>
 <p class="uk-keys" aria-hidden="true"><kbd>S</kbd><kbd>H</kbd><kbd>I</kbd><kbd class="is-space">␣</kbd><kbd>S</kbd><kbd>H</kbd><kbd>I</kbd></p>
-<div class="uk-caps"><div class="uk-cap" data-s="1"><p class="uk-cap__n"><b>01</b> / 04 · 打字，不经过输入法</p><h3 class="uk-cap__h" data-display-cjk>你只打出了<wbr><span class="nw">读音</span>。</h3><p class="uk-cap__p">7 次击键，不选字，不标调。按估算，击键更少<span class="zh-dash">——</span>打字速度并没有实测；代价是有一点<span class="nw">失真</span>。</p></div><div class="uk-cap" data-s="2"><p class="uk-cap__n"><b>02</b> / 04 · 智能体听见的</p><h3 class="uk-cap__h" data-display-cjk>智能体听见的，是 6 <span class="nw">个词</span>。</h3><p class="uk-cap__p">声调本可以区分它们。去掉声调，「事实」「实施」「实时」等词坍缩成同一个字<span class="nw">符串</span>。</p></div><div class="uk-cap" data-s="3"><p class="uk-cap__n"><b>03</b> / 04 · 混合提示</p><h3 class="uk-cap__h" data-display-cjk>关键的那个词，留在汉<span class="nw">字里</span>。</h3><p class="uk-cap__p">句子骨架用<span class="nw">拼音</span>，关键的那个词用汉字。歧义消失；按估算，击键仍比全用汉<span class="nw">字少</span>。</p></div><div class="uk-cap" data-s="4"><p class="uk-cap__n"><b>04</b> / 04 · 得分</p><h3 class="uk-cap__h" data-display-cjk>三分之一，或者<wbr><span class="nw">全对</span>。</h3><p class="uk-cap__p">同音字测试<span class="zh-dash">——</span>用编程智能体 Codex 测 15 次，另用 Claude Code 复核 9 次。全用无声调<span class="nw">拼音</span>，平均得分 0.333；关键词写成汉字，得分 1.00。</p></div></div>
+<div class="uk-caps"><div class="uk-cap" data-s="1"><div class="uk-cap__in"><p class="uk-cap__n"><b>01</b> / 04 · 打字，不经过输入法</p><h3 class="uk-cap__h" data-display-cjk>你只打出了<wbr><span class="nw">读音</span>。</h3><p class="uk-cap__p">7 次击键，不选字，不标调。按估算，击键更少<span class="zh-dash">——</span>打字速度并没有实测；代价是有一点<span class="nw">失真</span>。</p></div></div><div class="uk-cap" data-s="2"><div class="uk-cap__in"><p class="uk-cap__n"><b>02</b> / 04 · 智能体听见的</p><h3 class="uk-cap__h" data-display-cjk>智能体听见的，是 6 <span class="nw">个词</span>。</h3><p class="uk-cap__p">声调本可以区分它们。去掉声调，「事实」「实施」「实时」等词坍缩成同一个字<span class="nw">符串</span>。</p></div></div><div class="uk-cap" data-s="3"><div class="uk-cap__in"><p class="uk-cap__n"><b>03</b> / 04 · 混合提示</p><h3 class="uk-cap__h" data-display-cjk>关键的那个词，留在汉<span class="nw">字里</span>。</h3><p class="uk-cap__p">句子骨架用<span class="nw">拼音</span>，关键的那个词用汉字。歧义消失；按估算，击键仍比全用汉<span class="nw">字少</span>。</p></div></div><div class="uk-cap" data-s="4"><div class="uk-cap__in"><p class="uk-cap__n"><b>04</b> / 04 · 得分</p><h3 class="uk-cap__h" data-display-cjk>三分之一，或者<wbr><span class="nw">全对</span>。</h3><p class="uk-cap__p">同音字测试<span class="zh-dash">——</span>用编程智能体 Codex 测 15 次，另用 Claude Code 复核 9 次。全用无声调<span class="nw">拼音</span>，平均得分 0.333；关键词写成汉字，得分 1.00。</p></div></div></div>
 <dl class="uk-score"><div class="uk-score__row is-lo"><dt>全用<span class="nw">拼音</span></dt><dd><span class="uk-score__v">0.333</span><i class="uk-score__bar" style="--v:0.333" aria-hidden="true"></i></dd></div><div class="uk-score__row is-hi"><dt>关键词写成汉字</dt><dd><span class="uk-score__v">1.00</span><i class="uk-score__bar" style="--v:1" aria-hidden="true"></i></dd></div></dl>
 </div>
 <ol class="uk-cands" lang="zh-Hans"><li class="uk-cand is-target" data-i="0">
@@ -165,7 +165,7 @@
 </div>
 </section>
 <section class="uk-star" data-ukairs="star" id="uk-star" aria-labelledby="uk-star-h">
-<h2 class="uk-fig-h" id="uk-star-h"><span class="uk-fig-no">图 2.2</span> 同音字星图 <a class="tag tag--illustrative uk-tag" href="/zh/colophon/#honesty" data-honesty="illustrative" title="思路的示意图；数字只供体会。"><span class="sr">图的性质：</span>示意图</a></h2>
+<h2 class="uk-fig-h" id="uk-star-h"><span class="uk-fig-no">图 2.2</span> <span class="uk-fig-t">同音字星图</span> <a class="tag tag--illustrative uk-tag" href="/zh/colophon/#honesty" data-honesty="illustrative" title="思路的示意图；数字只供体会。"><span class="sr">图的性质：</span>示意图</a></h2>
 <!--fig-try-->
 <div class="uk-star__grid">
 <div class="uk-star__panel">
@@ -183,7 +183,7 @@
 </div>
 </section>
 <section class="uk-results" data-ukairs="results" id="uk-results" aria-labelledby="uk-results-h">
-<h2 class="uk-fig-h" id="uk-results-h"><span class="uk-fig-no">表 2.1</span> 智能体实际的<wbr><span class="nw">表现</span> <a class="tag tag--measured uk-tag" href="/zh/colophon/#honesty" data-honesty="measured" title="真实测量，附出处。"><span class="sr">图的性质：</span>真实测量</a></h2>
+<h2 class="uk-fig-h" id="uk-results-h"><span class="uk-fig-no">表 2.1</span> <span class="uk-fig-t">智能体实际的<wbr><span class="nw">表现</span></span> <a class="tag tag--measured uk-tag" href="/zh/colophon/#honesty" data-honesty="measured" title="真实测量，附出处。"><span class="sr">图的性质：</span>真实测量</a></h2>
 <div class="uk-results__grid">
 <div class="uk-table-wrap"><table class="uk-table">
 <thead><tr><th scope="col">测试题</th><th scope="col">各种写法的得分</th><th scope="col" class="uk-n">次数</th></tr></thead>
