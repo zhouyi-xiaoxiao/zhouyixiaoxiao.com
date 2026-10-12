@@ -1,13 +1,13 @@
 {
   "name": "First Passage · 首达",
-  "release": "2026-10-12-ssarf-link",
+  "release": "2026-10-12-research-note",
   "contentAsAt": "2026-10-12",
-  "files": 384,
-  "artifactDigest": "a69a36ba9a6581c4270dd08b4b016d568ce5f194773ebc9695b8ddf235adac96",
+  "files": 385,
+  "artifactDigest": "4ba0e53d7b6759994f4bd6612859c3a88787d95eb2c1990962917449c6154091",
   "manuscripts": {
     "pinn": "1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7",
     "bsc": "4838389b6730106981df90e2b4d51dcc1e6f4a3f",
     "msc": "dc17a14aad1d4de29d04f886e2404ad649dd9bed"
   },
-  "sourceCommit": "12ec7bd"
+  "sourceCommit": "0c16144"
 }
