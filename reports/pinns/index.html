@@ -1,1 +1,92 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>PINNs project report | Xiaoxiao Zhouyi</title><style>body{max-width:720px;margin:12vh auto;padding:28px;font:18px/1.65 Georgia,serif;color:#252525;background:#faf8f4}small{letter-spacing:.1em}h1{font-size:2.2em;line-height:1.2}a{color:#a33d2a}p{margin:1.4em 0}footer{margin-top:4em;font-size:14px;color:#646464}</style></head><body><small>XIAOXIAO ZHOUYI · PROJECT REPORTS</small><h1>PINNs project report</h1><p>Physics-informed neural networks for partial differential equations</p><p id="status">The complete research article and Supplementary Material are available.</p><p><a id="document-link" href="https://github.com/zhouyi-xiaoxiao/pinn-diffusion-wave-laplace/blob/1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7/paper.pdf">Open the article</a></p><p><a href="https://zhouyixiaoxiao.com/">Back to my website</a></p><p><a href="https://github.com/zhouyi-xiaoxiao/pinn-diffusion-wave-laplace/blob/1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7/supplement.pdf">Supplementary Material</a> · <a href="https://github.com/zhouyi-xiaoxiao/pinn-diffusion-wave-laplace/tree/1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7">Source and reproduction materials</a></p><footer>The link printed in the CV will remain unchanged.</footer><script src="/dissertations/redirect.js"></script></body></html>
+<!doctype html>
+<html lang="en" data-zx-guest>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script src="/theme-init.js"></script>
+<title>PINNs project report · Zhouyi Xiaoxiao</title>
+<meta name="description" content="Physics-informed neural networks for partial differential equations. This project report grew into a 2026 research article, now public on GitHub.">
+<meta name="robots" content="noindex">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#EEE8DC" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#12110E" media="(prefers-color-scheme: dark)">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Zhouyi Xiaoxiao">
+<meta property="og:title" content="PINNs project report · Zhouyi Xiaoxiao">
+<meta property="og:description" content="Physics-informed neural networks for partial differential equations. This project report grew into a 2026 research article, now public on GitHub.">
+<meta property="og:url" content="https://zhouyixiaoxiao.com/reports/pinns/">
+<meta property="og:image" content="https://zhouyixiaoxiao.com/og/en/index.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="PINNs project report · Zhouyi Xiaoxiao">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preload" href="/fonts/zx-bodoni.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+@font-face{font-family:"ZX Bodoni";src:url("/fonts/zx-bodoni.woff2") format("woff2");font-weight:400 900;font-style:normal;font-display:swap;unicode-range:U+20-7E,U+A0-AC,U+AE-B1,U+B4-B8,U+BA-101,U+106-107,U+10C-10D,U+112-113,U+118-11B,U+11E-11F,U+12A-12B,U+130-131,U+141-144,U+147-148,U+14C-14D,U+150-153,U+15A-15B,U+15E-161,U+16A-16B,U+170-171,U+179-17E,U+2C6-2C7,U+2D8-2DC,U+300-304,U+306-308,U+394,U+3A9,U+3BC,U+3C0,U+2010-2015,U+2018-201A,U+201C-201E,U+2020-2022,U+2026,U+2030,U+2039-203A,U+2044,U+20AC,U+2116,U+2122,U+2202,U+2211-2212,U+2215,U+2219-221A,U+221E,U+2248,U+2260,U+2264-2265;}
+@font-face{font-family:"ZX Newsreader";src:url("/fonts/zx-newsreader.woff2") format("woff2");font-weight:400 600;font-style:normal;font-display:swap;unicode-range:U+20-7E,U+A0-B1,U+B4-B8,U+BA-101,U+106-107,U+10C-10D,U+112-113,U+118-11B,U+11E-11F,U+12A-12B,U+130-131,U+141-144,U+147-148,U+14C-14D,U+150-153,U+15A-15B,U+15E-161,U+16A-16B,U+170-171,U+179-17E,U+2C6-2C7,U+2D8-2DC,U+300-304,U+306-308,U+2010,U+2013-2014,U+2018-201A,U+201C-201E,U+2020-2022,U+2026,U+2030,U+2032-2033,U+2039-203A,U+2044,U+20AC,U+2116,U+2122,U+2212,U+2215,U+2219,U+2248,U+2260,U+2264-2265;}
+@font-face{font-family:"ZX Newsreader";src:url("/fonts/zx-newsreader-italic.woff2") format("woff2");font-weight:400 600;font-style:italic;font-display:swap;unicode-range:U+20-7E,U+A0-B1,U+B4-B8,U+BA-101,U+106-107,U+10C-10D,U+112-113,U+118-11B,U+11E-11F,U+12A-12B,U+130-131,U+141-144,U+147-148,U+14C-14D,U+150-153,U+15A-15B,U+15E-161,U+16A-16B,U+170-171,U+179-17E,U+2C6-2C7,U+2D8-2DC,U+300-304,U+306-308,U+2010,U+2013-2014,U+2018-201A,U+201C-201E,U+2020-2022,U+2026,U+2030,U+2032-2033,U+2039-203A,U+2044,U+20AC,U+2116,U+2122,U+2212,U+2215,U+2219,U+2248,U+2260,U+2264-2265;}
+@font-face{font-family:"ZX Plex Mono";src:url("/fonts/zx-plex-mono-400.woff2") format("woff2");font-weight:400;font-style:normal;font-display:swap;unicode-range:U+20-7E,U+A0-101,U+106-107,U+10C-10D,U+112-113,U+118-11B,U+11E-11F,U+12A-12B,U+130-131,U+141-144,U+147-148,U+14C-14D,U+150-153,U+15A-15B,U+15E-161,U+16A-16B,U+170-171,U+179-17E,U+1CD-1DC,U+2C6-2C7,U+2D8-2DC,U+300-304,U+306-308,U+30C,U+3C0,U+2013-2014,U+2018-201A,U+201C-201E,U+2020-2022,U+2026,U+2030,U+2032-2033,U+2039-203A,U+2044,U+2070,U+2074-2079,U+2080-2089,U+20AC,U+2116,U+2122,U+2190-2199,U+21A9-21AA,U+21B7,U+21BA-21BB,U+2202,U+2206,U+2211-2212,U+2215,U+221A,U+221E,U+2248,U+2260,U+2264-2265;}
+:root{--paper:#EEE8DC;--paper-2:#E5DDCD;--ink:#15130F;--ink-2:#3E3A32;--ink-3:#635D51;--verm-ink:#A82C16;--rule:rgba(21,19,15,.16);color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#12110E;--paper-2:#1A1814;--ink:#ECE5D6;--ink-2:#C9C1B0;--ink-3:#9C9483;--verm-ink:#FF7A5C;--rule:rgba(236,229,214,.14);color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#12110E;--paper-2:#1A1814;--ink:#ECE5D6;--ink-2:#C9C1B0;--ink-3:#9C9483;--verm-ink:#FF7A5C;--rule:rgba(236,229,214,.14);color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+html{color-scheme:light dark;-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{margin:0;min-height:100vh;min-height:100dvh;display:grid;place-items:center;padding:clamp(24px,6vw,72px) max(20px,env(safe-area-inset-left));
+background:var(--paper);color:var(--ink);font:400 18px/1.6 "ZX Newsreader",Georgia,"Songti SC","Noto Serif SC",serif;font-optical-sizing:auto;
+-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+.doc{width:100%;max-width:38rem}
+.doc__id{display:inline-flex;align-items:center;gap:12px;color:inherit;text-decoration:none}
+.doc__id img{display:block;width:38px;height:38px}
+.doc__kicker{font:400 12px/1.4 "ZX Plex Mono",ui-monospace,Menlo,Consolas,monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+.doc__rule{height:0;border:0;border-top:1px solid var(--ink);margin:22px 0 0}
+h1{margin:clamp(28px,5vw,44px) 0 0;font:500 clamp(34px,7vw,56px)/1.06 "ZX Bodoni",Georgia,serif;letter-spacing:-.012em;text-wrap:balance}
+.doc__subject{margin:14px 0 0;font-style:italic;font-size:clamp(19px,2.6vw,22px);line-height:1.4;color:var(--ink-2);text-wrap:balance}
+.doc__status{margin:clamp(28px,5vw,40px) 0 0;padding:18px 20px;background:var(--paper-2);border-left:2px solid var(--verm-ink)}
+.doc__status p{margin:0}
+.doc__status p+p,.doc__zh{margin-top:6px}
+[lang|="zh"]{font-family:"Songti SC","Noto Serif SC","Source Han Serif SC","STSong","SimSun",serif;font-style:normal}
+.doc__zh{font-size:16px;line-height:1.75;color:var(--ink-2)}
+.doc__links{display:flex;flex-wrap:wrap;gap:12px 16px;margin:24px 0 0;padding:0;list-style:none}
+.doc__links li:has(> [hidden]){display:none}
+.doc__links li:has(> .doc__btn--article){flex-basis:100%}
+a{color:var(--verm-ink);text-underline-offset:.18em;text-decoration-thickness:1px}
+a:focus-visible{outline:2px dashed var(--verm-ink);outline-offset:3px}
+.doc__btn{display:inline-flex;align-items:center;min-height:44px;padding:0 18px;border:1px solid var(--ink);color:var(--ink);text-decoration:none;
+font:400 13px/1 "ZX Plex Mono",ui-monospace,Menlo,Consolas,monospace;letter-spacing:.04em}
+.doc__btn--hot{background:var(--verm-ink);border-color:var(--verm-ink);color:var(--paper)}
+.doc__btn--article{flex-direction:column;align-items:flex-start;justify-content:center;gap:4px;padding:10px 18px;line-height:1.35;text-align:left}
+.doc__btn:hover{text-decoration:underline;text-decoration-thickness:1px}
+.doc__btn[hidden]{display:none}
+.doc__btn [lang|="zh"]{font-family:"PingFang SC","HarmonyOS Sans SC","Microsoft YaHei","Noto Sans SC",sans-serif;font-size:13px;letter-spacing:.02em;margin-left:.5em}
+.doc__btn.doc__btn--article [lang|="zh"]{margin-left:0}
+.doc__foot{margin:clamp(36px,7vw,64px) 0 0;padding-top:14px;border-top:1px solid var(--rule);font-size:15px;line-height:1.5;color:var(--ink-3)}
+.doc__foot p{margin:0}
+@media (prefers-reduced-motion:no-preference){.doc{animation:doc-in .5s ease-out both}@keyframes doc-in{from{opacity:0;transform:translateY(6px)}}}
+</style>
+</head>
+<body>
+<main class="doc">
+<a class="doc__id" href="/" aria-label="Zhouyi Xiaoxiao — home page"><img src="/img/seal-name.svg" alt="" width="38" height="38"><span class="doc__kicker">Zhouyi Xiaoxiao · Project reports</span></a>
+<hr class="doc__rule">
+<h1>PINNs project report</h1>
+<p class="doc__subject">Physics-informed neural networks for partial differential equations</p>
+<div class="doc__status">
+<p id="status">This project report grew into a 2026 research article, now public on GitHub.</p>
+<p class="doc__zh" lang="zh-Hans">这份项目报告发展成了一篇 2026 年的研究文章，现已在 GitHub 公开。</p>
+</div>
+<ul class="doc__links">
+<li><a class="doc__btn doc__btn--hot doc__btn--article" id="document-link" href="https://github.com/zhouyi-xiaoxiao/pinn-diffusion-wave-laplace"><span>Article (2026): paper, code, data</span><span lang="zh-Hans">2026 论文：正文、代码与数据</span></a></li>
+<li><a class="doc__btn" href="/index/">One-page CV<span lang="zh-Hans">· 一页简历</span></a></li>
+<li><a class="doc__btn" href="/">Back to the home page<span lang="zh-Hans">· 回到网站首页</span></a></li>
+</ul>
+<footer class="doc__foot">
+<p>The link printed in the CV will remain unchanged.</p>
+<p class="doc__zh" lang="zh-Hans">简历里印的这个链接不会变。</p>
+</footer>
+</main>
+<script src="/dissertations/redirect.js"></script>
+</body>
+</html>
