@@ -1,9 +1,10 @@
 {
   "name": "First Passage · 首达",
-  "release": "mobile-cohort-lazy-20261016",
-  "contentAsAt": "2026-10-16",
+  "release": "ios-layer-fix-20261018",
+  "sourceCommit": "7c36d20",
+  "contentAsAt": "2026-10-18",
   "files": 385,
-  "artifactDigest": "8c853a53460a83dfa346e31a9991246a8b199fdf5309808306bdac408b141eb1",
+  "artifactDigest": "17001dcb08862be88b2bb39b1904f1bbc928024dc40d7aa2ce3d66d082c765d0",
   "manuscripts": {
     "pinn": "1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7",
     "bsc": "4838389b6730106981df90e2b4d51dcc1e6f4a3f",
