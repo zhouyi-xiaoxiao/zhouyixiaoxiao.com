@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/reps-loop-SJau9UCm.js","assets/boot-KNbXoQOC.js","assets/boot-DgloQE3_.css","assets/live-BMtwssSD.js","assets/zh-space-p1QlLZT2.js","assets/data-C1UAwKtq.js"])))=>i.map(i=>d[i]);
+import{_ as o}from"./boot-KNbXoQOC.js";import{s,a as p,l as r}from"./chapter-shEyvTmu.js";s("representing",s=>p(s,"reps-loop",'[data-sys="reps-loop"]',r(()=>o(()=>import("./reps-loop-SJau9UCm.js"),__vite__mapDeps([0,1,2,3,4,5])),o=>o.mountRepsLoop)));

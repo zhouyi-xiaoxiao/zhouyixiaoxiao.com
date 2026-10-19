@@ -1,10 +1,10 @@
 {
   "name": "First Passage · 首达",
-  "release": "ios-layer-fix-20261018",
-  "sourceCommit": "7c36d20",
-  "contentAsAt": "2026-10-18",
+  "release": "zh-hang-fix-20261019",
+  "sourceCommit": "bd0fefa",
+  "contentAsAt": "2026-10-19",
   "files": 385,
-  "artifactDigest": "17001dcb08862be88b2bb39b1904f1bbc928024dc40d7aa2ce3d66d082c765d0",
+  "artifactDigest": "5e92f5c6dea008f2d75ddbc57c05075f865a8df72aacc653a81fe9801a8c6d16",
   "manuscripts": {
     "pinn": "1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7",
     "bsc": "4838389b6730106981df90e2b4d51dcc1e6f4a3f",
