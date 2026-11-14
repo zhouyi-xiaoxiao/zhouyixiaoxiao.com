@@ -1,14 +1,14 @@
 {
   "v": 2,
-  "generated": "2026-10-19",
+  "generated": "2026-11-14",
   "site": {
     "name": {
       "en": "First Passage · 首达",
       "zh": "首达"
     },
     "edition": {
-      "en": "So far · Edition 01 · as at 19 Oct 2026",
-      "zh": "至此 · 第 1 期 · 截至 2026 年 10 月 19 日"
+      "en": "So far · as of 14 Nov 2026",
+      "zh": "至此 · 截至 2026 年 11 月 14 日"
     },
     "url": {
       "en": "https://zhouyixiaoxiao.com/",
@@ -139,7 +139,7 @@
         },
         "since": "2026-04",
         "entry": "school_teaching_service-student-ambassador-open-days",
-        "url": "https://zhouyixiaoxiao.com/campus/representing/#e-school_teaching_service-student-ambassador-open-days"
+        "url": "https://zhouyixiaoxiao.com/campus/representing/#r-school_teaching_service-student-ambassador-open-days"
       }
     ],
     "email": "zhouyixiaoxiao@gmail.com",
@@ -1724,8 +1724,8 @@
             "zh": "用物理信息神经网络解偏微分方程"
           },
           "url": {
-            "en": "https://zhouyixiaoxiao.com/roots/#e-education_life-hkust-pinns-report",
-            "zh": "https://zhouyixiaoxiao.com/zh/roots/#e-education_life-hkust-pinns-report"
+            "en": "https://zhouyixiaoxiao.com/roots/#r-education_life-hkust-pinns-report",
+            "zh": "https://zhouyixiaoxiao.com/zh/roots/#r-education_life-hkust-pinns-report"
           }
         },
         {
@@ -1746,8 +1746,8 @@
             "zh": "46 条定理，由机器核验"
           },
           "url": {
-            "en": "https://zhouyixiaoxiao.com/research/#e-research_fpt-dpma-lean",
-            "zh": "https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-dpma-lean"
+            "en": "https://zhouyixiaoxiao.com/research/#r-research_fpt-dpma-lean",
+            "zh": "https://zhouyixiaoxiao.com/zh/research/#r-research_fpt-dpma-lean"
           }
         },
         {
@@ -1814,8 +1814,8 @@
             "zh": "一个可离线的中英双语教学资料站"
           },
           "url": {
-            "en": "https://zhouyixiaoxiao.com/campus/teaching/#e-school_teaching_service-offline-teaching-library",
-            "zh": "https://zhouyixiaoxiao.com/zh/campus/teaching/#e-school_teaching_service-offline-teaching-library"
+            "en": "https://zhouyixiaoxiao.com/campus/teaching/#r-school_teaching_service-offline-teaching-library",
+            "zh": "https://zhouyixiaoxiao.com/zh/campus/teaching/#r-school_teaching_service-offline-teaching-library"
           }
         }
       ]
@@ -1838,8 +1838,8 @@
             "zh": "公开的中英双语研究图谱"
           },
           "url": {
-            "en": "https://zhouyixiaoxiao.com/research/#e-research_fpt-research-atlas",
-            "zh": "https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-research-atlas"
+            "en": "https://zhouyixiaoxiao.com/research/#r-research_fpt-research-atlas",
+            "zh": "https://zhouyixiaoxiao.com/zh/research/#r-research_fpt-research-atlas"
           }
         },
         {
@@ -1849,8 +1849,8 @@
             "zh": "UKAIRS 论文：用拼音向 AI 智能体下指令"
           },
           "url": {
-            "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-submission",
-            "zh": "https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-ukairs-submission"
+            "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-ukairs-submission",
+            "zh": "https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#r-ai_research-ukairs-submission"
           }
         },
         {
@@ -1860,8 +1860,8 @@
             "zh": "自己搭的中英双语字幕流水线"
           },
           "url": {
-            "en": "https://zhouyixiaoxiao.com/media/#e-self_media-bilingual-subtitle-engine",
-            "zh": "https://zhouyixiaoxiao.com/zh/media/#e-self_media-bilingual-subtitle-engine"
+            "en": "https://zhouyixiaoxiao.com/media/#r-self_media-bilingual-subtitle-engine",
+            "zh": "https://zhouyixiaoxiao.com/zh/media/#r-self_media-bilingual-subtitle-engine"
           }
         },
         {
@@ -1895,8 +1895,8 @@
             "zh": "第一次见报，在成都"
           },
           "url": {
-            "en": "https://zhouyixiaoxiao.com/roots/#e-education_life-chengdu-expo-media-speeches",
-            "zh": "https://zhouyixiaoxiao.com/zh/roots/#e-education_life-chengdu-expo-media-speeches"
+            "en": "https://zhouyixiaoxiao.com/roots/#r-education_life-chengdu-expo-media-speeches",
+            "zh": "https://zhouyixiaoxiao.com/zh/roots/#r-education_life-chengdu-expo-media-speeches"
           }
         },
         {
@@ -1952,8 +1952,8 @@
             "zh": "让峰的个数可以编程"
           },
           "url": {
-            "en": "https://zhouyixiaoxiao.com/research/#e-research_fpt-fixed-budget-theorem-campaign",
-            "zh": "https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-fixed-budget-theorem-campaign"
+            "en": "https://zhouyixiaoxiao.com/research/#r-research_fpt-fixed-budget-theorem-campaign",
+            "zh": "https://zhouyixiaoxiao.com/zh/research/#r-research_fpt-fixed-budget-theorem-campaign"
           }
         },
         {
@@ -1963,8 +1963,8 @@
             "zh": "反直觉：先还原成中文，反而更糟"
           },
           "url": {
-            "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-phase3-normalize-backfires",
-            "zh": "https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-phase3-normalize-backfires"
+            "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-phase3-normalize-backfires",
+            "zh": "https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#r-ai_research-phase3-normalize-backfires"
           }
         },
         {

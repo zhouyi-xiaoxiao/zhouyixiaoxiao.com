@@ -26,7 +26,7 @@
   d.addEventListener('click', function (e) {
     var b = !r.hasAttribute('data-theme-mode') && e.target.closest && e.target.closest('[data-theme-set]');
     if (!b) return;
-    var t = b.getAttribute('data-theme-set'), c = get() || { v: 1, lastVisit: null, stamps: {}, ach: [], seenIntro: false };
+    var t = b.getAttribute('data-theme-set'), c = get() || { v: 1, ach: [], seenIntro: false };
     if (t !== 'light' && t !== 'dark') t = 'auto';
     set(t);
     if (t === 'auto') delete c.theme; else c.theme = t;

@@ -1,0 +1,1414 @@
+{
+  "v": 1,
+  "asOf": "2026-11-14",
+  "name": {
+    "en": "Zhouyi Xiaoxiao",
+    "zh": "周易潇潇"
+  },
+  "lanes": [
+    {
+      "glyph": "研",
+      "label": {
+        "en": "Research & study",
+        "zh": "研究 · 求学"
+      },
+      "short": {
+        "en": "Research",
+        "zh": "研究"
+      }
+    },
+    {
+      "glyph": "智",
+      "label": {
+        "en": "AI",
+        "zh": "人工智能"
+      },
+      "short": {
+        "en": "AI",
+        "zh": "AI"
+      }
+    },
+    {
+      "glyph": "企",
+      "label": {
+        "en": "Company products",
+        "zh": "公司产品"
+      },
+      "short": {
+        "en": "Company",
+        "zh": "公司"
+      }
+    },
+    {
+      "glyph": "展",
+      "label": {
+        "en": "Stage & design",
+        "zh": "展台 · 设计"
+      },
+      "short": {
+        "en": "Design",
+        "zh": "设计"
+      }
+    },
+    {
+      "glyph": "教",
+      "label": {
+        "en": "Campus",
+        "zh": "校园"
+      },
+      "short": {
+        "en": "Campus",
+        "zh": "校园"
+      }
+    },
+    {
+      "glyph": "媒",
+      "label": {
+        "en": "Media",
+        "zh": "自媒体"
+      },
+      "short": {
+        "en": "Media",
+        "zh": "自媒体"
+      }
+    },
+    {
+      "glyph": "作",
+      "label": {
+        "en": "Making",
+        "zh": "造物"
+      },
+      "short": {
+        "en": "Making",
+        "zh": "造物"
+      }
+    }
+  ],
+  "shortcuts": [
+    {
+      "id": "maths-to-ai",
+      "label": {
+        "en": "maths → AI",
+        "zh": "数学 → AI"
+      },
+      "from": {
+        "t": 2021.943,
+        "lane": 0,
+        "dy": 0.3
+      },
+      "to": {
+        "t": 2026.78,
+        "lane": 1,
+        "dy": 0
+      },
+      "r": 4,
+      "dr": 3,
+      "weight": 1,
+      "entryIds": [
+        "education_life-tju-bsc-enrol",
+        "us_ai_internship_career-livex-ai-internship-2025",
+        "ai_research-ukairs-presentation"
+      ]
+    },
+    {
+      "id": "tianjin-to-bristol",
+      "label": {
+        "en": "Tianjin → Bristol MSc",
+        "zh": "天津 → 布里斯托硕士"
+      },
+      "from": {
+        "t": 2022.4,
+        "lane": 0,
+        "dy": -0.34
+      },
+      "to": {
+        "t": 2024.652,
+        "lane": 0,
+        "dy": 0.1
+      },
+      "r": 2,
+      "dr": 2,
+      "weight": 0.2,
+      "entryIds": [
+        "education_life-tju-bsc-enrol",
+        "education_life-bristol-3plus1-pathway",
+        "education_life-bristol-msc-start"
+      ]
+    },
+    {
+      "id": "research-to-company",
+      "label": {
+        "en": "research → company",
+        "zh": "研究 → 公司"
+      },
+      "from": {
+        "t": 2025.84,
+        "lane": 0,
+        "dy": 0
+      },
+      "to": {
+        "t": 2026.397,
+        "lane": 2,
+        "dy": 0
+      },
+      "r": 3,
+      "dr": 3,
+      "weight": 0.35,
+      "entryIds": [
+        "education_life-phd-start",
+        "company_products-joined-yuexin"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "education_life-tju-bsc-enrol",
+      "lane": 0,
+      "t": 2021.625,
+      "chapter": "roots",
+      "date": {
+        "start": "2021-08",
+        "end": "2025-06",
+        "precision": "month"
+      },
+      "label": {
+        "en": "Tianjin · maths",
+        "zh": "天津 · 数学"
+      },
+      "status": "completed",
+      "statusLabel": {
+        "en": "Completed",
+        "zh": "已完成"
+      },
+      "title": {
+        "en": "BSc Mathematics & Applied Mathematics, Tianjin University",
+        "zh": "天津大学数学与应用数学本科"
+      },
+      "card": {
+        "en": "2021–25 in the School of Mathematics, the final year at Bristol via the 3+1 route. Every walker on this site starts here.",
+        "zh": "2021 年至 2025 年就读于数学学院，最后一年经「3+1」在布里斯托完成。本站每一个游走者，都从这里出发。"
+      },
+      "href": {
+        "en": "/roots/#e-education_life-tju-bsc-enrol",
+        "zh": "/zh/roots/#e-education_life-tju-bsc-enrol"
+      }
+    },
+    {
+      "id": "education_life-hkust-exchange",
+      "lane": 0,
+      "t": 2023.708,
+      "chapter": "roots",
+      "date": {
+        "start": "2023-09",
+        "end": "2024-06",
+        "precision": "month"
+      },
+      "label": {
+        "en": "Hong Kong exchange",
+        "zh": "香港交换"
+      },
+      "status": "completed",
+      "statusLabel": {
+        "en": "Completed",
+        "zh": "已完成"
+      },
+      "title": {
+        "en": "An exchange year at the Hong Kong University of Science and Technology (HKUST)",
+        "zh": "在香港科技大学交换一年"
+      },
+      "card": {
+        "en": "2023–24 in Hong Kong: PDEs, their numerical solution and applied statistics — where the maths turned computational.",
+        "zh": "2023 至 2024 年在香港：偏微分方程、数值解法与应用统计——数学从此变得可以计算。"
+      },
+      "href": {
+        "en": "/roots/#e-education_life-hkust-exchange",
+        "zh": "/zh/roots/#e-education_life-hkust-exchange"
+      }
+    },
+    {
+      "id": "education_life-bristol-msc-start",
+      "lane": 0,
+      "t": 2024.708,
+      "chapter": "roots",
+      "date": {
+        "start": "2024-09",
+        "end": "2025-09",
+        "precision": "month"
+      },
+      "label": {
+        "en": "Bristol MSc",
+        "zh": "布里斯托硕士"
+      },
+      "status": "completed",
+      "statusLabel": {
+        "en": "Completed",
+        "zh": "已完成"
+      },
+      "title": {
+        "en": "MSc Engineering Mathematics, University of Bristol, with Distinction (the top UK grade)",
+        "zh": "布里斯托大学工程数学硕士（以优异成绩毕业）"
+      },
+      "card": {
+        "en": "To Bristol in September 2024: statistical computing, information theory, mathematical biology, methods of AI.",
+        "zh": "2024 年 9 月来到布里斯托：统计计算、信息论、生物数学建模、人工智能方法。"
+      },
+      "href": {
+        "en": "/roots/#e-education_life-bristol-msc-start",
+        "zh": "/zh/roots/#e-education_life-bristol-msc-start"
+      }
+    },
+    {
+      "id": "education_life-phd-start",
+      "lane": 0,
+      "t": 2025.84,
+      "chapter": "research",
+      "date": {
+        "start": "2025-11-03",
+        "precision": "day"
+      },
+      "label": {
+        "en": "PhD begins",
+        "zh": "博士入学"
+      },
+      "status": "ongoing",
+      "statusLabel": {
+        "en": "Ongoing",
+        "zh": "进行中"
+      },
+      "title": {
+        "en": "PhD in Engineering Mathematics, University of Bristol",
+        "zh": "布里斯托大学工程数学博士"
+      },
+      "card": {
+        "en": "From 3 Nov 2025 in SEMT: random-walk first-passage times — why a single target can produce two arrival peaks.",
+        "zh": "2025 年 11 月 3 日起就读于 SEMT：研究随机游走的首达时间——为什么一个目标会有两个到达峰。"
+      },
+      "href": {
+        "en": "/research/#e-education_life-phd-start",
+        "zh": "/zh/research/#e-education_life-phd-start"
+      }
+    },
+    {
+      "id": "research_fpt-research-atlas",
+      "lane": 0,
+      "t": 2026.152,
+      "chapter": "research",
+      "date": {
+        "start": "2026-02-25",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Research atlas",
+        "zh": "研究图谱"
+      },
+      "status": "live",
+      "statusLabel": {
+        "en": "Live",
+        "zh": "已上线"
+      },
+      "title": {
+        "en": "A public, bilingual research atlas",
+        "zh": "公开的中英双语研究图谱"
+      },
+      "card": {
+        "en": "Launched Feb 2026: an eight-chapter book, 27 mapped reports and 130 tracked claims, in English and Chinese.",
+        "zh": "2026 年 2 月上线：八章连续阅读的书、27 份报告、130 条可追溯的论断，中英双语。"
+      },
+      "href": {
+        "en": "/research/#r-research_fpt-research-atlas",
+        "zh": "/zh/research/#r-research_fpt-research-atlas"
+      }
+    },
+    {
+      "id": "research_fpt-encounter-spectral-paper",
+      "lane": 0,
+      "t": 2026.542,
+      "chapter": "research",
+      "date": {
+        "start": "2026-07",
+        "precision": "month"
+      },
+      "label": {
+        "en": "Spectral paper",
+        "zh": "谱诊断论文"
+      },
+      "status": "working-paper",
+      "statusLabel": {
+        "en": "Working paper",
+        "zh": "工作论文"
+      },
+      "title": {
+        "en": "Working paper: spectral diagnostics for encounter–reaction models",
+        "zh": "工作论文：相遇-反应模型的谱诊断"
+      },
+      "card": {
+        "en": "When do two diffusing particles that react on contact produce several reaction-time peaks? A single-author working paper.",
+        "zh": "两个扩散粒子一碰即反应，什么时候会出现多个反应时间峰？一篇单作者工作论文。"
+      },
+      "href": {
+        "en": "/research/#r-research_fpt-encounter-spectral-paper",
+        "zh": "/zh/research/#r-research_fpt-encounter-spectral-paper"
+      }
+    },
+    {
+      "id": "research_fpt-dpma-pre-submitted",
+      "lane": 0,
+      "t": 2026.577,
+      "chapter": "research",
+      "date": {
+        "start": "2026-07-30",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Phys. Rev. E paper",
+        "zh": "《物理评论 E》投稿"
+      },
+      "status": "submitted",
+      "statusLabel": {
+        "en": "Submitted to Physical Review E · Jul 2026",
+        "zh": "2026 年 7 月投稿"
+      },
+      "title": {
+        "en": "Geometry-controlled folds: the double-peak paper",
+        "zh": "几何控制的折叠：双峰论文"
+      },
+      "card": {
+        "en": "Single-author regular article, the capstone of the double-peak line. Submitted to Physical Review E (a physics journal), 30 Jul 2026.",
+        "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》。"
+      },
+      "href": {
+        "en": "/research/#e-research_fpt-dpma-pre-submitted",
+        "zh": "/zh/research/#e-research_fpt-dpma-pre-submitted"
+      }
+    },
+    {
+      "id": "research_fpt-fixed-budget-paper",
+      "lane": 0,
+      "t": 2026.727,
+      "chapter": "research",
+      "date": {
+        "start": "2026-09-23",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Programmable peaks",
+        "zh": "可编程多峰"
+      },
+      "status": "in-preparation",
+      "statusLabel": {
+        "en": "Manuscript in preparation",
+        "zh": "稿件准备中"
+      },
+      "title": {
+        "en": "Programmable multimodality: the fixed-budget paper",
+        "zh": "可编程多峰：固定预算论文"
+      },
+      "card": {
+        "en": "One fixed catalyst budget, split into stripes, programs how many reaction-time peaks appear, when, and how heavy each one is.",
+        "zh": "一份固定的催化剂预算，切成条带，就能编排反应时间峰的个数、时刻与轻重。"
+      },
+      "href": {
+        "en": "/research/#r-research_fpt-fixed-budget-paper",
+        "zh": "/zh/research/#r-research_fpt-fixed-budget-paper"
+      }
+    },
+    {
+      "id": "us_ai_internship_career-livex-ai-internship-2025",
+      "lane": 1,
+      "t": 2025.59,
+      "chapter": "westward",
+      "date": {
+        "start": "2025-08-04",
+        "end": "2025-08-16",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Bay Area internship",
+        "zh": "硅谷实习"
+      },
+      "status": "completed",
+      "statusLabel": {
+        "en": "Completed",
+        "zh": "已完成"
+      },
+      "title": {
+        "en": "Research internship at LiveX AI, a Bay Area AI start-up",
+        "zh": "硅谷 AI 创业公司 LiveX AI 的研究实习"
+      },
+      "card": {
+        "en": "4–16 August 2025, Silicon Valley: testing how best to turn product manuals into clean text (Markdown) for an AI knowledge base.",
+        "zh": "2025 年 8 月 4 日至 16 日，硅谷：为 AI 知识库测试怎样把产品手册最好地转成干净的文本（Markdown）。"
+      },
+      "href": {
+        "en": "/westward/#e-us_ai_internship_career-livex-ai-internship-2025",
+        "zh": "/zh/westward/#e-us_ai_internship_career-livex-ai-internship-2025"
+      }
+    },
+    {
+      "id": "research_fpt-ai-native-research-method",
+      "lane": 1,
+      "t": 2026.152,
+      "chapter": "ukairs",
+      "date": {
+        "start": "2026-02-25",
+        "precision": "day"
+      },
+      "label": {
+        "en": "AI-native method",
+        "zh": "AI 原生方法"
+      },
+      "status": "ongoing",
+      "statusLabel": {
+        "en": "Ongoing",
+        "zh": "进行中"
+      },
+      "title": {
+        "en": "An AI-native way of doing mathematics",
+        "zh": "一种 AI 原生的做数学方式"
+      },
+      "card": {
+        "en": "Models propose, other agents attack, numerics arbitrate, and Lean, a proof assistant, checks the algebra. Belief is earned, not generated.",
+        "zh": "模型提出，另一组智能体攻击，数值来裁决，Lean（一种让计算机逐行检查数学证明的软件）核验代数。信念要靠挣，不靠生成。"
+      },
+      "href": {
+        "en": "/ai/skipping-the-ime/#e-research_fpt-ai-native-research-method",
+        "zh": "/zh/ai/skipping-the-ime/#e-research_fpt-ai-native-research-method"
+      }
+    },
+    {
+      "id": "ai_research-ime-eval-scaffold",
+      "lane": 1,
+      "t": 2026.404,
+      "chapter": "ukairs",
+      "date": {
+        "start": "2026-05-28",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Input-method test kit",
+        "zh": "输入法评测工具"
+      },
+      "status": "completed",
+      "statusLabel": {
+        "en": "Completed",
+        "zh": "已完成"
+      },
+      "title": {
+        "en": "ime-eval: a harness for keyboard-friendly prompting",
+        "zh": "ime-eval：键盘友好提示的评测框架"
+      },
+      "card": {
+        "en": "Do coding agents stay useful when you skip the input method and type pinyin, romaji or Arabizi? A harness built to find out.",
+        "zh": "跳过输入法、直接敲拼音、罗马字或 Arabizi，编程智能体还好用吗？为此搭一个评测框架。"
+      },
+      "href": {
+        "en": "/ai/skipping-the-ime/#r-ai_research-ime-eval-scaffold",
+        "zh": "/zh/ai/skipping-the-ime/#r-ai_research-ime-eval-scaffold"
+      }
+    },
+    {
+      "id": "ai_research-ukairs-acceptance",
+      "lane": 1,
+      "t": 2026.61,
+      "chapter": "ukairs",
+      "date": {
+        "start": "2026-08-11",
+        "precision": "day"
+      },
+      "label": {
+        "en": "UKAIRS accepted",
+        "zh": "UKAIRS 录用"
+      },
+      "status": "accepted",
+      "statusLabel": {
+        "en": "Accepted",
+        "zh": "已录用"
+      },
+      "title": {
+        "en": "Accepted at UKAIRS 2026: the first AI paper",
+        "zh": "UKAIRS 2026 录用：第一篇 AI 论文"
+      },
+      "card": {
+        "en": "UKAIRS 2026 accepted the paper for a poster. The reviewers singled out the ‘shi shi’ example as the message to lead with.",
+        "zh": "UKAIRS 2026 录用本文，以海报展示。评审特别点出「shi shi」这个例子，建议以它开场。"
+      },
+      "href": {
+        "en": "/ai/skipping-the-ime/#e-ai_research-ukairs-acceptance",
+        "zh": "/zh/ai/skipping-the-ime/#e-ai_research-ukairs-acceptance"
+      }
+    },
+    {
+      "id": "ai_research-ukairs-presentation",
+      "lane": 1,
+      "t": 2026.896,
+      "chapter": "ukairs",
+      "date": {
+        "start": "2026-11-24",
+        "end": "2026-11-25",
+        "precision": "day"
+      },
+      "label": {
+        "en": "UKAIRS, Edinburgh",
+        "zh": "UKAIRS 爱丁堡"
+      },
+      "status": "scheduled",
+      "statusLabel": {
+        "en": "Scheduled · poster on 25 Nov",
+        "zh": "已排期 · 11 月 25 日海报"
+      },
+      "until": "2026-11-25",
+      "statusLabelAfter": {
+        "en": "poster on 25 Nov",
+        "zh": "11 月 25 日海报"
+      },
+      "title": {
+        "en": "UK AI Research Symposium (UKAIRS 2026), Edinburgh",
+        "zh": "英国 AI 研究研讨会（UKAIRS 2026），爱丁堡"
+      },
+      "card": {
+        "en": "24–25 Nov 2026 at the John McIntyre Conference Centre. A side-by-side demo: toggle from routine prompts to homophone traps.",
+        "zh": "2026 年 11 月 24 日至 25 日，约翰·麦金泰尔会议中心。并排演示：从日常提示一键切到同音陷阱。"
+      },
+      "href": {
+        "en": "/ai/skipping-the-ime/#e-ai_research-ukairs-presentation",
+        "zh": "/zh/ai/skipping-the-ime/#e-ai_research-ukairs-presentation"
+      }
+    },
+    {
+      "id": "us_ai_internship_career-jll-chengdu-internship-2024",
+      "lane": 2,
+      "t": 2024.542,
+      "chapter": "roots",
+      "date": {
+        "start": "2024-07",
+        "end": "2024-09",
+        "precision": "month"
+      },
+      "label": {
+        "en": "JLL Chengdu · intern",
+        "zh": "JLL 成都实习"
+      },
+      "status": "completed",
+      "statusLabel": {
+        "en": "Completed",
+        "zh": "已完成"
+      },
+      "title": {
+        "en": "Research intern at JLL Chengdu, a real-estate consultancy",
+        "zh": "仲量联行成都研究部实习"
+      },
+      "card": {
+        "en": "Summer 2024, through the Sichuan–Hong Kong internship programme: market research, large-scale data cleaning and a first real office.",
+        "zh": "2024 年夏，经四川—香港暑期实习计划：市场研究、大规模数据清洗，以及第一间真正的办公室。"
+      },
+      "href": {
+        "en": "/roots/#r-us_ai_internship_career-jll-chengdu-internship-2024",
+        "zh": "/zh/roots/#r-us_ai_internship_career-jll-chengdu-internship-2024"
+      }
+    },
+    {
+      "id": "company_products-joined-yuexin",
+      "lane": 2,
+      "t": 2026.414,
+      "chapter": "engine-room",
+      "date": {
+        "start": "2026-06",
+        "precision": "month"
+      },
+      "label": {
+        "en": "Yuexin Intl · AI R&D",
+        "zh": "阅信 · AI 研发"
+      },
+      "status": "ongoing",
+      "statusLabel": {
+        "en": "Ongoing",
+        "zh": "进行中"
+      },
+      "title": {
+        "en": "R&D Scientist (AI), Yuexin International",
+        "zh": "阅信国际 · AI 研发"
+      },
+      "card": {
+        "en": "Three strands: the AI platform and model gateway, AI tools for colleagues, and AI for global messaging.",
+        "zh": "三条线：AI 平台与模型网关、给同事用的 AI 工具，以及面向国际短信业务的 AI 支持。"
+      },
+      "href": {
+        "en": "/work/engine-room/#e-company_products-joined-yuexin",
+        "zh": "/zh/work/engine-room/#e-company_products-joined-yuexin"
+      }
+    },
+    {
+      "id": "company_products-open-platform-launch",
+      "lane": 2,
+      "t": 2026.44,
+      "chapter": "engine-room",
+      "date": {
+        "start": "2026-06-10",
+        "end": "2026-06-13",
+        "precision": "day"
+      },
+      "label": {
+        "en": "AI gateway · SSO",
+        "zh": "AI 网关"
+      },
+      "status": "live",
+      "statusLabel": {
+        "en": "Live",
+        "zh": "已上线"
+      },
+      "title": {
+        "en": "An internal AI gateway with single sign-on",
+        "zh": "带飞书单点登录的内部 AI 网关"
+      },
+      "card": {
+        "en": "Four days from an open-source gateway to the company’s AI platform: sign in with a work account, get a key, see your own usage.",
+        "zh": "四天时间，把开源网关做成公司的 AI 平台：用飞书登录，领取密钥，查看自己的用量。"
+      },
+      "href": {
+        "en": "/work/engine-room/#r-company_products-open-platform-launch",
+        "zh": "/zh/work/engine-room/#r-company_products-open-platform-launch"
+      }
+    },
+    {
+      "id": "company_products-governance-platform-live",
+      "lane": 2,
+      "t": 2026.563,
+      "chapter": "engine-room",
+      "date": {
+        "start": "2026-07-25",
+        "end": "2026-07-31",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Governance platform",
+        "zh": "AI 治理平台"
+      },
+      "status": "live",
+      "statusLabel": {
+        "en": "Live",
+        "zh": "已上线"
+      },
+      "title": {
+        "en": "An enterprise platform for governed AI access",
+        "zh": "企业 AI 统一接入与治理平台"
+      },
+      "card": {
+        "en": "Organisations, teams, keys, model allow-lists, budgets, a data-loss hook and an audit hash-chain — built and live in one week.",
+        "zh": "组织、团队、密钥、模型白名单、预算、防泄漏回调与审计哈希链——一周之内搭好并上线。"
+      },
+      "href": {
+        "en": "/work/engine-room/#e-company_products-governance-platform-live",
+        "zh": "/zh/work/engine-room/#e-company_products-governance-platform-live"
+      }
+    },
+    {
+      "id": "company_products-yuexin-chat-launch",
+      "lane": 2,
+      "t": 2026.722,
+      "chapter": "engine-room",
+      "date": {
+        "start": "2026-09-21",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Yuexin AI Assistant",
+        "zh": "阅信 AI 助手"
+      },
+      "status": "live",
+      "statusLabel": {
+        "en": "Live",
+        "zh": "已上线"
+      },
+      "title": {
+        "en": "Yuexin AI Assistant — web and Windows",
+        "zh": "阅信 AI 助手——网页版与 Windows 版"
+      },
+      "card": {
+        "en": "Built and launched in a day: a staff assistant with single sign-on, personal quotas, self-serve keys and a Windows client.",
+        "zh": "一天内做出并上线的员工助手：飞书登录、个人额度、自助领取密钥，外加 Windows 客户端。"
+      },
+      "href": {
+        "en": "/work/engine-room/#e-company_products-yuexin-chat-launch",
+        "zh": "/zh/work/engine-room/#e-company_products-yuexin-chat-launch"
+      }
+    },
+    {
+      "id": "company_products-yuexin-chat-desktop-agent",
+      "lane": 2,
+      "t": 2026.75,
+      "chapter": "engine-room",
+      "date": {
+        "start": "2026-09-23",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Desktop agent",
+        "zh": "桌面智能体"
+      },
+      "status": "in-development",
+      "statusLabel": {
+        "en": "In development",
+        "zh": "开发中"
+      },
+      "title": {
+        "en": "From chat window to desktop agent",
+        "zh": "从聊天窗口到桌面智能体"
+      },
+      "card": {
+        "en": "In development: an open-source agent engine in a Yuexin interface. Planned: a browser, a terminal — and a confirmation before every send.",
+        "zh": "开发中：开源的智能体引擎，阅信自己的界面。计划加入内置浏览器与终端——每一次发送之前，都先确认。"
+      },
+      "href": {
+        "en": "/work/engine-room/#r-company_products-yuexin-chat-desktop-agent",
+        "zh": "/zh/work/engine-room/#r-company_products-yuexin-chat-desktop-agent"
+      }
+    },
+    {
+      "id": "company_design_events-mwc-shanghai-attendance",
+      "lane": 3,
+      "t": 2026.478,
+      "chapter": "on-stage",
+      "date": {
+        "start": "2026-06-24",
+        "end": "2026-06-26",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Trade show · Shanghai",
+        "zh": "上海展会"
+      },
+      "status": "attended",
+      "statusLabel": {
+        "en": "Attended",
+        "zh": "已参会"
+      },
+      "title": {
+        "en": "MWC Shanghai 2026, a mobile-industry trade show",
+        "zh": "世界移动通信大会·上海（MWC 上海 2026）"
+      },
+      "card": {
+        "en": "Booth N4.E136, three days on the stand: 22 meeting dossiers and 49 personalised invitations before, 214 leads sorted after.",
+        "zh": "N4.E136 展位，驻展三天：展前 22 份约见档案、49 条定制邀请，展后整理出 214 条去重线索。"
+      },
+      "href": {
+        "en": "/work/on-stage/#e-company_design_events-mwc-shanghai-attendance",
+        "zh": "/zh/work/on-stage/#e-company_design_events-mwc-shanghai-attendance"
+      }
+    },
+    {
+      "id": "company_design_events-zhishu-logo-trust-joint",
+      "lane": 3,
+      "t": 2026.558,
+      "chapter": "on-stage",
+      "date": {
+        "start": "2026-07-23",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Trust Joint 2.0 logo",
+        "zh": "信榫 2.0 标志"
+      },
+      "status": "completed",
+      "statusLabel": {
+        "en": "Completed",
+        "zh": "已完成"
+      },
+      "title": {
+        "en": "‘Trust Joint 2.0’: a logo, from sketches to final mark",
+        "zh": "「信榫 2.0」标志设计：从草图到定稿"
+      },
+      "card": {
+        "en": "Four AI sketches, checked for shape and for look-alikes, then redrawn by hand on a 1,000-unit grid: 20 master files, a 14-page guide.",
+        "zh": "四个 AI 草图方向，先查轮廓、再查是否撞脸已有标志，然后在 1000 单位网格上手工重绘：20 个母版文件，14 页规范。"
+      },
+      "href": {
+        "en": "/work/on-stage/#e-company_design_events-zhishu-logo-trust-joint",
+        "zh": "/zh/work/on-stage/#e-company_design_events-zhishu-logo-trust-joint"
+      }
+    },
+    {
+      "id": "company_design_events-llm-industry-training-talk",
+      "lane": 3,
+      "t": 2026.593,
+      "chapter": "on-stage",
+      "date": {
+        "start": "2026-08-05",
+        "precision": "day"
+      },
+      "label": {
+        "en": "AI primer · 93 min",
+        "zh": "大模型入门课"
+      },
+      "status": "delivered",
+      "statusLabel": {
+        "en": "Delivered",
+        "zh": "已讲授"
+      },
+      "title": {
+        "en": "‘From SMS to Intelligent Channels’: a 93-minute primer on AI models",
+        "zh": "《从短信到智能通道》：93 分钟大模型入门课"
+      },
+      "card": {
+        "en": "A Chinese SMS is billed per 70 characters, a model per token: how the AI industry works, told through a business the team already knew.",
+        "zh": "一条中文短信按 70 个字计费，大模型按词元（token）计费：用团队最熟悉的生意，讲清大模型行业的来龙去脉。"
+      },
+      "href": {
+        "en": "/work/on-stage/#e-company_design_events-llm-industry-training-talk",
+        "zh": "/zh/work/on-stage/#e-company_design_events-llm-industry-training-talk"
+      }
+    },
+    {
+      "id": "company_design_events-wwc-madrid-onsite",
+      "lane": 3,
+      "t": 2026.708,
+      "chapter": "on-stage",
+      "date": {
+        "start": "2026-09-16",
+        "end": "2026-09-18",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Trade show · Madrid",
+        "zh": "马德里展会"
+      },
+      "status": "attended",
+      "statusLabel": {
+        "en": "Attended",
+        "zh": "已参会"
+      },
+      "title": {
+        "en": "WWC 2026 in Madrid, a telecoms trade show",
+        "zh": "国际电信批发大会（WWC 2026），马德里"
+      },
+      "card": {
+        "en": "Three days with the company’s four-person team: a live schedule of 22 meeting slots, and 31 exhibitor dossiers written during the show.",
+        "zh": "随公司四人团队参会三天：维护 22 个约见时段的实时排班，会期中写下 31 份参展商档案。"
+      },
+      "href": {
+        "en": "/work/on-stage/#e-company_design_events-wwc-madrid-onsite",
+        "zh": "/zh/work/on-stage/#e-company_design_events-wwc-madrid-onsite"
+      }
+    },
+    {
+      "id": "school_teaching_service-tsr-contracts-2025",
+      "lane": 4,
+      "t": 2025.87,
+      "chapter": "teaching",
+      "date": {
+        "start": "2025-11-14",
+        "end": "2025-12-16",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Graduate Teacher",
+        "zh": "研究生助教"
+      },
+      "status": "completed",
+      "statusLabel": {
+        "en": "Signed",
+        "zh": "已签约"
+      },
+      "title": {
+        "en": "A Graduate Teacher from the first term",
+        "zh": "第一个学期就当上研究生助教"
+      },
+      "card": {
+        "en": "Weeks into the PhD: a Demonstrator contract in SEMT and a Graduate Teacher contract in the School of Mathematics.",
+        "zh": "读博才几周：签下工程数学与技术学院（SEMT）的实验课助教（Demonstrator）合同，以及数学学院的研究生助教（Graduate Teacher）合同。"
+      },
+      "href": {
+        "en": "/campus/teaching/#e-school_teaching_service-tsr-contracts-2025",
+        "zh": "/zh/campus/teaching/#e-school_teaching_service-tsr-contracts-2025"
+      }
+    },
+    {
+      "id": "school_teaching_service-semt-pgr-rep-2025-26",
+      "lane": 4,
+      "t": 2025.916,
+      "chapter": "representing",
+      "date": {
+        "start": "2025-12-01",
+        "end": "2026-07-15",
+        "precision": "day"
+      },
+      "label": {
+        "en": "PhD student rep",
+        "zh": "博士生代表"
+      },
+      "status": "completed",
+      "statusLabel": {
+        "en": "First term",
+        "zh": "首个任期"
+      },
+      "title": {
+        "en": "PGR (postgraduate research) rep, Engineering Mathematics",
+        "zh": "工程数学博士生代表"
+      },
+      "card": {
+        "en": "A month into the PhD: speaking for PhD students in SEMT (Engineering Mathematics and Technology), 2025–26. Rep certificate, July 2026.",
+        "zh": "入学一个月即接任：2025 至 2026 学年在学院与学部论坛上替工程数学与技术学院（SEMT）的博士生发声。2026 年 7 月获学术代表证书。"
+      },
+      "href": {
+        "en": "/campus/representing/#e-school_teaching_service-semt-pgr-rep-2025-26",
+        "zh": "/zh/campus/representing/#e-school_teaching_service-semt-pgr-rep-2025-26"
+      }
+    },
+    {
+      "id": "school_teaching_service-ecef-awarded",
+      "lane": 4,
+      "t": 2025.977,
+      "chapter": "enterprise",
+      "date": {
+        "start": "2025-12-23",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Enterprise Fellow",
+        "zh": "创业学者"
+      },
+      "status": "awarded",
+      "statusLabel": {
+        "en": "Awarded",
+        "zh": "已获得"
+      },
+      "title": {
+        "en": "Early Career Enterprise Fellow, 2026",
+        "zh": "2026 年早期职业创业学者"
+      },
+      "card": {
+        "en": "BioPath — a bio-inspired optimisation tool for precision pest management — won a place in the 2026 cohort of twelve fellows.",
+        "zh": "BioPath——面向精准虫害管理的仿生优化工具——入选 2026 届，同届共 12 位学者。"
+      },
+      "href": {
+        "en": "/enterprise/#e-school_teaching_service-ecef-awarded",
+        "zh": "/zh/enterprise/#e-school_teaching_service-ecef-awarded"
+      }
+    },
+    {
+      "id": "school_teaching_service-lighter-side-of-research",
+      "lane": 4,
+      "t": 2026.419,
+      "chapter": "representing",
+      "date": {
+        "start": "2026-02-12",
+        "end": "2026-06-03",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Stand-up · 3 Jun",
+        "zh": "单口喜剧登台"
+      },
+      "status": "performed",
+      "statusLabel": {
+        "en": "Performed",
+        "zh": "已登台"
+      },
+      "title": {
+        "en": "Seven minutes of stand-up about a maths PhD",
+        "zh": "七分钟单口喜剧：读数学博士是什么体验"
+      },
+      "card": {
+        "en": "The Lighter Side of Research: three workshops, then a set at the Bristol show on 3 June 2026, The Mount Without.",
+        "zh": "「研究的轻松一面」喜剧项目：三次工作坊之后，2026 年 6 月 3 日在布里斯托登台。"
+      },
+      "href": {
+        "en": "/campus/representing/#e-school_teaching_service-lighter-side-of-research",
+        "zh": "/zh/campus/representing/#e-school_teaching_service-lighter-side-of-research"
+      }
+    },
+    {
+      "id": "school_teaching_service-festival-of-enterprise-2026",
+      "lane": 4,
+      "t": 2026.44,
+      "chapter": "enterprise",
+      "date": {
+        "start": "2026-06-10",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Festival of Enterprise",
+        "zh": "创业节路演"
+      },
+      "status": "presented",
+      "statusLabel": {
+        "en": "Presented",
+        "zh": "已展示"
+      },
+      "title": {
+        "en": "A PechaKucha (20 slides, 20 seconds each) at the Festival of Enterprise",
+        "zh": "创业节上的 PechaKucha（20 页幻灯片、每页 20 秒）"
+      },
+      "card": {
+        "en": "Twenty slides, twenty seconds each, at the Arts Complex on 10 June 2026: ‘Map in. Traps out. Proof attached.’",
+        "zh": "2026 年 6 月 10 日，二十页幻灯片、每页二十秒的路演：「地图进，布点出，附证明」。"
+      },
+      "href": {
+        "en": "/enterprise/#e-school_teaching_service-festival-of-enterprise-2026",
+        "zh": "/zh/enterprise/#e-school_teaching_service-festival-of-enterprise-2026"
+      }
+    },
+    {
+      "id": "school_teaching_service-tsr-allocation-2026-27",
+      "lane": 4,
+      "t": 2026.538,
+      "chapter": "teaching",
+      "date": {
+        "start": "2026-07-16",
+        "precision": "day"
+      },
+      "label": {
+        "en": "13 roles · 3 schools",
+        "zh": "教学 · 13 岗"
+      },
+      "status": "ongoing",
+      "statusLabel": {
+        "en": "Ongoing",
+        "zh": "进行中"
+      },
+      "title": {
+        "en": "The July allocation for 2026–27",
+        "zh": "7 月：新学年的教学分配"
+      },
+      "card": {
+        "en": "Eleven units at once — from first-year tutorials to an MSc group project — and in September a twelfth, Linear Algebra.",
+        "zh": "一次分到 11 门课——从一年级小班辅导到硕士小组项目；9 月又加了第 12 门：线性代数。"
+      },
+      "href": {
+        "en": "/campus/teaching/#e-school_teaching_service-tsr-allocation-2026-27",
+        "zh": "/zh/campus/teaching/#e-school_teaching_service-tsr-allocation-2026-27"
+      }
+    },
+    {
+      "id": "self_media-camera-roll-corpus",
+      "lane": 5,
+      "t": 2023.708,
+      "chapter": "media",
+      "date": {
+        "start": "2023-09",
+        "end": "2026-08",
+        "precision": "month"
+      },
+      "label": {
+        "en": "Video diary",
+        "zh": "视频日记"
+      },
+      "status": "completed",
+      "statusLabel": {
+        "en": "Completed",
+        "zh": "已完成"
+      },
+      "title": {
+        "en": "A camera roll as a diary: 3,947 videos",
+        "zh": "把相机胶卷当日记：3947 段视频"
+      },
+      "card": {
+        "en": "September 2023 to August 2026: 140, 1,310, 1,574 and 923 videos a year. Aggregates only — no clip is ever shown.",
+        "zh": "2023 年 9 月到 2026 年 8 月：每年 140、1310、1574、923 段。只呈现汇总，任何片段都不公开。"
+      },
+      "href": {
+        "en": "/media/#e-self_media-camera-roll-corpus",
+        "zh": "/zh/media/#e-self_media-camera-roll-corpus"
+      }
+    },
+    {
+      "id": "self_media-bilingual-subtitle-engine",
+      "lane": 5,
+      "t": 2026.44,
+      "chapter": "media",
+      "date": {
+        "start": "2026-06-10",
+        "end": "2026-08-27",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Bilingual subtitles",
+        "zh": "双语字幕"
+      },
+      "status": "shipped",
+      "statusLabel": {
+        "en": "Shipped",
+        "zh": "已交付"
+      },
+      "title": {
+        "en": "A home-built bilingual subtitle pipeline",
+        "zh": "自己搭的中英双语字幕流水线"
+      },
+      "card": {
+        "en": "No subtitle renderer in ffmpeg: each cue became a transparent image, overlaid in parallel chunks — an 8 min 44 s 4K clip in about 2½ min.",
+        "zh": "ffmpeg 缺了字幕渲染器，就把每条字幕画成透明图片，分块并行叠加——8 分 44 秒的 4K 素材，约两分半钟出片。"
+      },
+      "href": {
+        "en": "/media/#r-self_media-bilingual-subtitle-engine",
+        "zh": "/zh/media/#r-self_media-bilingual-subtitle-engine"
+      }
+    },
+    {
+      "id": "self_media-wechat-studio-kickoff",
+      "lane": 5,
+      "t": 2026.659,
+      "chapter": "media",
+      "date": {
+        "start": "2026-08-29",
+        "precision": "day"
+      },
+      "label": {
+        "en": "WeChat studio",
+        "zh": "公众号 · 视频号"
+      },
+      "status": "launched",
+      "statusLabel": {
+        "en": "Launched",
+        "zh": "已启动"
+      },
+      "title": {
+        "en": "A WeChat content studio",
+        "zh": "微信内容工作室"
+      },
+      "card": {
+        "en": "Launched August 2026: a studio run with AI tools, turning years of phone footage into short WeChat videos — a human always presses publish.",
+        "zh": "2026 年 8 月启动：由 AI 工具协助运转的工作室，把多年的手机影像做成微信短视频——「发表」键永远由人来按。"
+      },
+      "href": {
+        "en": "/media/#e-self_media-wechat-studio-kickoff",
+        "zh": "/zh/media/#e-self_media-wechat-studio-kickoff"
+      }
+    },
+    {
+      "id": "school_teaching_service-careers-blog-feature",
+      "lane": 5,
+      "t": 2026.722,
+      "chapter": "enterprise",
+      "date": {
+        "start": "2026-09-21",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Careers blog feature",
+        "zh": "就业博客专访"
+      },
+      "status": "published",
+      "statusLabel": {
+        "en": "Published",
+        "zh": "已发布"
+      },
+      "title": {
+        "en": "‘From strawberry patch to PhD’",
+        "zh": "「从草莓田到博士」"
+      },
+      "card": {
+        "en": "The Careers Service’s Student Founder Spotlight on BioPath, published 21 September 2026.",
+        "zh": "就业服务中心「学生创业者聚焦」专栏介绍 BioPath，2026 年 9 月 21 日发布。"
+      },
+      "href": {
+        "en": "/enterprise/#r-school_teaching_service-careers-blog-feature",
+        "zh": "/zh/enterprise/#r-school_teaching_service-careers-blog-feature"
+      }
+    },
+    {
+      "id": "projects_code-tju-math-guide",
+      "lane": 6,
+      "t": 2023.555,
+      "chapter": "workshop",
+      "date": {
+        "start": "2023-07-22",
+        "end": "2025-12-18",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Tianjin maths guide",
+        "zh": "天大数学指北"
+      },
+      "status": "live",
+      "statusLabel": {
+        "en": "Live",
+        "zh": "已上线"
+      },
+      "title": {
+        "en": "The Tianjin University maths guide",
+        "zh": "天津大学数学学院本科生指北"
+      },
+      "card": {
+        "en": "A guide to studying maths at Tianjin University, written for the cohorts that came after — live at zhouyixiaoxiao.info.",
+        "zh": "一份在天大学数学的指南，写给后来的每一届——现在在 zhouyixiaoxiao.info。"
+      },
+      "href": {
+        "en": "/workshop/#e-projects_code-tju-math-guide",
+        "zh": "/zh/workshop/#e-projects_code-tju-math-guide"
+      }
+    },
+    {
+      "id": "projects_code-socialos",
+      "lane": 6,
+      "t": 2026.174,
+      "chapter": "workshop",
+      "date": {
+        "start": "2026-03-05",
+        "end": "2026-03-09",
+        "precision": "day"
+      },
+      "label": {
+        "en": "SocialOS · agent hack",
+        "zh": "SocialOS"
+      },
+      "status": "completed",
+      "statusLabel": {
+        "en": "Completed",
+        "zh": "已完成"
+      },
+      "title": {
+        "en": "SocialOS: 1,222 commits in five days",
+        "zh": "SocialOS：五天，1222 次提交"
+      },
+      "card": {
+        "en": "A local-first relationship and identity OS, built mostly by automated coding agents: 89% of the commits were theirs.",
+        "zh": "一个本地优先的人际关系与身份操作系统，主要由自动编程智能体建成：89% 的提交出自它们。"
+      },
+      "href": {
+        "en": "/workshop/#e-projects_code-socialos",
+        "zh": "/zh/workshop/#e-projects_code-socialos"
+      }
+    },
+    {
+      "id": "projects_code-london-cuts",
+      "lane": 6,
+      "t": 2026.297,
+      "chapter": "workshop",
+      "date": {
+        "start": "2026-04-19",
+        "end": "2026-04-28",
+        "precision": "day"
+      },
+      "label": {
+        "en": "London Cuts",
+        "zh": "旅行故事工作室"
+      },
+      "status": "live-demo",
+      "statusLabel": {
+        "en": "Live demo",
+        "zh": "在线演示"
+      },
+      "title": {
+        "en": "London Cuts",
+        "zh": "London Cuts 旅行故事工作室"
+      },
+      "card": {
+        "en": "A travel-story studio with AI-made postcards in three visual modes — Fashion, Punk, Cinema — and a live public demo.",
+        "zh": "用 AI 生成明信片的旅行故事工作室，三种视觉模式——时装、朋克、电影——附在线公开演示。"
+      },
+      "href": {
+        "en": "/workshop/#e-projects_code-london-cuts",
+        "zh": "/zh/workshop/#e-projects_code-london-cuts"
+      }
+    },
+    {
+      "id": "projects_code-catchmouse",
+      "lane": 6,
+      "t": 2026.407,
+      "chapter": "workshop",
+      "date": {
+        "start": "2026-05-29",
+        "end": "2026-05-30",
+        "precision": "day"
+      },
+      "label": {
+        "en": "CatchMouse",
+        "zh": "CatchMouse"
+      },
+      "status": "shipped",
+      "statusLabel": {
+        "en": "Shipped",
+        "zh": "已交付"
+      },
+      "title": {
+        "en": "CatchMouse, rebuilt for Apple Silicon",
+        "zh": "为 Apple Silicon 重写的 CatchMouse"
+      },
+      "card": {
+        "en": "A clean Swift rewrite of a 2011 Intel-only utility: global hotkeys send the cursor to the left, centre or right display.",
+        "zh": "把一个 2011 年、只支持 Intel 的小工具用 Swift 彻底重写：全局快捷键把光标送到左、中、右任一块屏幕。"
+      },
+      "href": {
+        "en": "/workshop/#e-projects_code-catchmouse",
+        "zh": "/zh/workshop/#e-projects_code-catchmouse"
+      }
+    },
+    {
+      "id": "projects_code-pro-agent-bridge",
+      "lane": 6,
+      "t": 2026.486,
+      "chapter": "workshop",
+      "date": {
+        "start": "2026-06-27",
+        "end": "2026-06-29",
+        "precision": "day"
+      },
+      "label": {
+        "en": "Pro Agent Bridge",
+        "zh": "智能体之桥"
+      },
+      "status": "in-use",
+      "statusLabel": {
+        "en": "In daily use",
+        "zh": "日常使用中"
+      },
+      "title": {
+        "en": "Pro Agent Bridge",
+        "zh": "Pro Agent Bridge 智能体桥"
+      },
+      "card": {
+        "en": "An MCP bridge that lets a chat model hand bounded coding work to local agents — extended from the open-source CodexPro.",
+        "zh": "一座 MCP 桥，让聊天模型把有边界的编程工作交给本地智能体——基于开源项目 CodexPro 扩展而来。"
+      },
+      "href": {
+        "en": "/workshop/#r-projects_code-pro-agent-bridge",
+        "zh": "/zh/workshop/#r-projects_code-pro-agent-bridge"
+      }
+    }
+  ],
+  "papers": [
+    {
+      "id": "ukairs-2026",
+      "title": "Skipping the IME? Keyboard-Friendly Multilingual Prompting for LLM Agents",
+      "titleZh": "跳过输入法？面向大模型智能体的键盘友好多语言提示",
+      "status": "accepted",
+      "statusLabel": {
+        "en": "Accepted 11 Aug 2026 · poster #181, 25 Nov 2026",
+        "zh": "2026 年 8 月 11 日录用 · 181 号海报，11 月 25 日展出"
+      },
+      "date": "2026-08-11"
+    },
+    {
+      "id": "dpma-pre",
+      "title": "Geometry-controlled folds of first-passage-time bimodality under localized absorption",
+      "titleZh": "局域吸收下首达时间双峰的几何控制折叠",
+      "status": "under-review",
+      "statusLabel": {
+        "en": "Submitted to Physical Review E · Jul 2026",
+        "zh": "2026 年 7 月投稿"
+      },
+      "date": "2026-07-30"
+    },
+    {
+      "id": "fixed-budget",
+      "title": "Programmable multimodality and saddle-node loss of reaction-time peaks under a fixed catalyst budget",
+      "titleZh": "固定催化剂预算下反应时间峰的可编程多峰性与鞍结消失",
+      "status": "in-preparation",
+      "statusLabel": {
+        "en": "Manuscript in preparation",
+        "zh": "稿件准备中"
+      },
+      "date": "2026-09"
+    },
+    {
+      "id": "encounter-spectral",
+      "title": "Spectral diagnostics and local fixed-budget sensitivity of critical points in finite encounter-reaction models",
+      "titleZh": "有限相遇-反应模型中临界点的谱诊断与局部固定预算敏感性",
+      "status": "working-paper",
+      "statusLabel": {
+        "en": "Working paper",
+        "zh": "工作论文"
+      },
+      "date": "2026-07"
+    }
+  ]
+}

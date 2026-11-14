@@ -1,10 +1,10 @@
 {
   "name": "First Passage · 首达",
-  "release": "zh-hang-fix-20261019",
-  "sourceCommit": "bd0fefa",
-  "contentAsAt": "2026-10-19",
-  "files": 385,
-  "artifactDigest": "5e92f5c6dea008f2d75ddbc57c05075f865a8df72aacc653a81fe9801a8c6d16",
+  "release": "so-far-20261114",
+  "sourceCommit": "9005af7",
+  "contentAsAt": "2026-11-14",
+  "files": 372,
+  "artifactDigest": "f9b0f4c67750c2261663fc7d47099e78fe398aadbd6edd7d5530c18de27163e9",
   "manuscripts": {
     "pinn": "1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7",
     "bsc": "4838389b6730106981df90e2b4d51dcc1e6f4a3f",
