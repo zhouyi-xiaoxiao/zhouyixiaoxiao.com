@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/index-BFPTzY0E.js","assets/boot-CUugezMw.js","assets/boot-B7Rgxo5s.css"])))=>i.map(i=>d[i]);
+import{_ as a,$ as r}from"./boot-CUugezMw.js";import{s as t,m as i}from"./chapter-BqS13SVt.js";t("ukairs",async t=>{await i("ukairs",r("[data-ukairs-root]")??r("#fig [data-figure-root]"),()=>a(()=>import("./index-BFPTzY0E.js"),__vite__mapDeps([0,1,2])).then(a=>a.mountUkairs),t.data?.figure,t)});

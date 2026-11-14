@@ -1,10 +1,10 @@
 {
   "name": "First Passage · 首达",
-  "release": "so-far-20261114",
-  "sourceCommit": "9005af7",
+  "release": "so-far-20261114-wording",
+  "sourceCommit": "828bb73",
   "contentAsAt": "2026-11-14",
   "files": 372,
-  "artifactDigest": "f9b0f4c67750c2261663fc7d47099e78fe398aadbd6edd7d5530c18de27163e9",
+  "artifactDigest": "cc91dcf2560fa11907fee63e12668bd7878c14bca9972b7ef7ae35f984418f5b",
   "manuscripts": {
     "pinn": "1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7",
     "bsc": "4838389b6730106981df90e2b4d51dcc1e6f4a3f",

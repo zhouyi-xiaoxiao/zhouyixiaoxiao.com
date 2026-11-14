@@ -1215,12 +1215,12 @@
             "precision": "day"
           },
           "title": {
-            "en": "This site: First Passage, Edition 01",
-            "zh": "本站：首达 · 第 1 期"
+            "en": "This site: First Passage, so far",
+            "zh": "本站：首达 · 至此"
           },
           "status": {
-            "en": "Edition 01 · live",
-            "zh": "第 1 期 · 已上线"
+            "en": "Live",
+            "zh": "已上线"
           },
           "card": {
             "en": "A live first-passage experiment on one life — at the address that spent 2026 redirecting to LinkedIn.",
@@ -1631,7 +1631,7 @@
         "zh": "11 月 25 日爱丁堡海报、一篇已投稿《物理评论 E》、一篇在写、一个开发中的桌面智能体。"
       },
       "why": {
-        "en": "A snapshot with a date on it, so the record stays honest: finished work moves into its chapter, and each edition rebuilds this page from the record.",
+        "en": "A snapshot with a date on it, so the record stays honest: finished work moves into its chapter, and each update rebuilds this page from the record.",
         "zh": "这是一张带日期的快照，好让记录保持诚实：做完的事归入各章，这一页则在每次更新时由记录重新生成。"
       },
       "thesis": {

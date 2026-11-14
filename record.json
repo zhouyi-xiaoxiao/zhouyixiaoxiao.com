@@ -38,12 +38,12 @@
       "end": null,
       "status": "live",
       "statusLabel": {
-        "en": "Edition 01 · live",
-        "zh": "第 1 期 · 已上线"
+        "en": "Live",
+        "zh": "已上线"
       },
       "title": {
-        "en": "This site: First Passage, Edition 01",
-        "zh": "本站：首达 · 第 1 期"
+        "en": "This site: First Passage, so far",
+        "zh": "本站：首达 · 至此"
       },
       "href": {
         "en": "/media/#e-prior_site_design-brief-2026-09-28",
