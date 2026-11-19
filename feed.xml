@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://zhouyixiaoxiao.com/</id>
+  <title>So far. — Zhouyi Xiaoxiao</title>
+  <link rel="alternate" href="https://zhouyixiaoxiao.com/"/>
+  <link rel="self" href="https://zhouyixiaoxiao.com/feed.xml"/>
+  <link rel="related" type="application/json" href="https://zhouyixiaoxiao.com/record.json"/>
+  <updated>2026-11-19T00:00:00Z</updated>
+  <author><name>Zhouyi Xiaoxiao</name><uri>https://zhouyixiaoxiao.com/</uri></author>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-presentation</id>
+    <title>UK AI Research Symposium (UKAIRS 2026), Edinburgh</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-presentation"/>
+    <published>2026-11-24T00:00:00Z</published>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <summary>24–25 Nov 2026 at the John McIntyre Conference Centre. A side-by-side demo: toggle from routine prompts to homophone traps. (24–25 Nov 2026 · Scheduled · poster on 25 Nov)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/media/#e-prior_site_design-brief-2026-09-28</id>
+    <title>This site: So far.</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/media/#e-prior_site_design-brief-2026-09-28"/>
+    <published>2026-09-28T00:00:00Z</published>
+    <updated>2026-09-28T00:00:00Z</updated>
+    <summary>A live first-passage experiment on one life — at the address that spent 2026 redirecting to LinkedIn. (28 Sep 2026 · Live)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/campus/teaching/#r-school_teaching_service-linear-algebra-tutorial-week1</id>
+    <title>The first Linear Algebra tutorial</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/campus/teaching/#r-school_teaching_service-linear-algebra-tutorial-week1"/>
+    <published>2026-09-25T00:00:00Z</published>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Friday 25 September, 9 a.m., Fry Building: the first tutorial of the year for a first-year group. (25 Sep 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/engine-room/#r-company_products-yuexin-chat-desktop-agent</id>
+    <title>From chat window to desktop agent</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/engine-room/#r-company_products-yuexin-chat-desktop-agent"/>
+    <published>2026-09-23T00:00:00Z</published>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <summary>In development: an open-source agent engine in a Yuexin interface. Planned: a browser, a terminal — and a confirmation before every send. (23 Sep 2026 · In development)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/research/#r-research_fpt-fixed-budget-paper</id>
+    <title>Programmable multimodality: the fixed-budget paper</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/research/#r-research_fpt-fixed-budget-paper"/>
+    <published>2026-09-23T00:00:00Z</published>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <summary>One fixed catalyst budget, split into stripes, programs how many reaction-time peaks appear, when, and how heavy each one is. (23 Sep 2026 · Manuscript in preparation)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/campus/teaching/#r-school_teaching_service-offline-teaching-library</id>
+    <title>An offline, bilingual teaching library</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/campus/teaching/#r-school_teaching_service-offline-teaching-library"/>
+    <published>2026-09-23T00:00:00Z</published>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <summary>For a first-year pure-maths tutorial: a tablet-first teaching script and a bilingual reference library of 39 topics. (23–24 Sep 2026 · Live)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/campus/teaching/#r-school_teaching_service-scem-week1-lab</id>
+    <title>The first R lab of the new year</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/campus/teaching/#r-school_teaching_service-scem-week1-lab"/>
+    <published>2026-09-23T00:00:00Z</published>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <summary>Demonstrating the Week 1 lab of Statistical Computing and Empirical Methods, with a bilingual pack covering all 25 exercises. (23 Sep 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/workshop/#r-projects_code-bristol-law-career-roadmap</id>
+    <title>A legal-career roadmap for Bristol Master of Laws (LLM) students</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/workshop/#r-projects_code-bristol-law-career-roadmap"/>
+    <published>2026-09-22T00:00:00Z</published>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>A responsive Chinese guide: a four-week practice plan, ten copy-ready templates and 42 primary sources, with no tracking. (22 Sep 2026 · Live)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/engine-room/#e-company_products-yuexin-chat-launch</id>
+    <title>Yuexin AI Assistant — web and Windows</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/engine-room/#e-company_products-yuexin-chat-launch"/>
+    <published>2026-09-21T00:00:00Z</published>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>Built and launched in a day: a staff assistant with single sign-on, personal quotas, self-serve keys and a Windows client. (21 Sep 2026 · Live)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/enterprise/#r-school_teaching_service-careers-blog-feature</id>
+    <title>‘From strawberry patch to PhD’</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/enterprise/#r-school_teaching_service-careers-blog-feature"/>
+    <published>2026-09-21T00:00:00Z</published>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>The Careers Service’s Student Founder Spotlight on BioPath, published 21 September 2026. (21 Sep 2026 · Published)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-wwc-madrid-onsite</id>
+    <title>WWC 2026 in Madrid, a telecoms trade show</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-wwc-madrid-onsite"/>
+    <published>2026-09-16T00:00:00Z</published>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <summary>Three days with the company’s four-person team: a live schedule of 22 meeting slots, and 31 exhibitor dossiers written during the show. (16–18 Sep 2026 · Attended)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-sms-market-map-page</id>
+    <title>An interactive SMS market map</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-sms-market-map-page"/>
+    <published>2026-09-11T00:00:00Z</published>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <summary>An interactive, bilingual map of how enterprises buy SMS and where delivery really succeeds. (11 Sep 2026 · Live)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/campus/teaching/#r-school_teaching_service-dsfb-second-marking-2026</id>
+    <title>Second marker for MSc dissertations</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/campus/teaching/#r-school_teaching_service-dsfb-second-marking-2026"/>
+    <published>2026-09-10T00:00:00Z</published>
+    <updated>2026-09-10T00:00:00Z</updated>
+    <summary>September 2026: second-marking MSc Data Science for Business dissertations under new marking guidance. (10–27 Sep 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/research/#e-research_fpt-reproduction-releases</id>
+    <title>The public reproduction archive: code, proofs and records</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/research/#e-research_fpt-reproduction-releases"/>
+    <published>2026-09-08T00:00:00Z</published>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <summary>Code, numerical records, interval certificates, Lean sources and supercomputer job logs, pinned by SHA-256 checksums — v1.3.0, Sep 2026. (8–26 Sep 2026 · Live)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-connect-contact-site</id>
+    <title>‘People. Connected.’ — a contact site for the delegation</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-connect-contact-site"/>
+    <published>2026-09-07T00:00:00Z</published>
+    <updated>2026-09-07T00:00:00Z</updated>
+    <summary>A small QR code on each card opens that person’s page: message, connect, email or save the contact in one tap. (7–8 Sep 2026 · Live)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-wwc-materials-design</id>
+    <title>‘Intelligence. Delivered.’ — print and digital kit for a Madrid trade show</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-wwc-materials-design"/>
+    <published>2026-09-05T00:00:00Z</published>
+    <updated>2026-09-05T00:00:00Z</updated>
+    <summary>Three rounds in four days: five one-pager types, three two-sided leaflets in two languages, four business cards — every QR code tested. (5–8 Sep 2026 · Shipped)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/media/#r-prior_site_design-first-passage-canvas</id>
+    <title>‘First-Passage Universe’: the first prototype of this site</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/media/#r-prior_site_design-first-passage-canvas"/>
+    <published>2026-08-29T00:00:00Z</published>
+    <updated>2026-08-29T00:00:00Z</updated>
+    <summary>Eight artboards and a particle-field hero, August 2026 — and a verdict: not enough light and gradient, achievements hard to find. (29 Aug – 24 Sep 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/media/#e-self_media-wechat-studio-kickoff</id>
+    <title>A WeChat content studio</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/media/#e-self_media-wechat-studio-kickoff"/>
+    <published>2026-08-29T00:00:00Z</published>
+    <updated>2026-08-29T00:00:00Z</updated>
+    <summary>Launched August 2026: a studio run with AI tools, turning years of phone footage into short WeChat videos — a human always presses publish. (29 Aug 2026 · Launched)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-ukairs-poster-slot</id>
+    <title>Poster #181, Wednesday 25 November</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-ukairs-poster-slot"/>
+    <published>2026-08-28T00:00:00Z</published>
+    <updated>2026-08-28T00:00:00Z</updated>
+    <summary>Lunch &amp; Poster Session 3, 13:15–14:15, under ‘Synergistic Human–AI Collaboration’, Emerging Research track. (28 Aug 2026 · Scheduled)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/campus/representing/#r-school_teaching_service-semt-pgr-rep-2026-27</id>
+    <title>A returning rep for 2026–27</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/campus/representing/#r-school_teaching_service-semt-pgr-rep-2026-27"/>
+    <published>2026-08-18T00:00:00Z</published>
+    <updated>2026-08-18T00:00:00Z</updated>
+    <summary>Co-opted again as Engineering Mathematics PGR rep in August 2026, and helping bring new reps into the team. (18 Aug 2026 · Ongoing)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/research/#r-research_fpt-fixed-budget-theorem-campaign</id>
+    <title>Programming the number of peaks</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/research/#r-research_fpt-fixed-budget-theorem-campaign"/>
+    <published>2026-08-13T00:00:00Z</published>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <summary>A theorem that m catalyst stripes give exactly m reaction-time peaks — tested on about 325 million simulated walkers. (13–25 Aug 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-ime-eval-v2-roadmap</id>
+    <title>What the next version will measure</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-ime-eval-v2-roadmap"/>
+    <published>2026-08-11T00:00:00Z</published>
+    <updated>2026-08-11T00:00:00Z</updated>
+    <summary>Typing effort and answer quality measured together, about thirty homophone tasks with graded ambiguity, and exact model versions recorded. (11 Aug 2026 · Planned)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-acceptance</id>
+    <title>Accepted at UKAIRS 2026: the first AI paper</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-acceptance"/>
+    <published>2026-08-11T00:00:00Z</published>
+    <updated>2026-08-11T00:00:00Z</updated>
+    <summary>UKAIRS 2026 accepted the paper for a poster. The reviewers singled out the ‘shi shi’ example as the message to lead with. (11 Aug 2026 · Accepted)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-llm-industry-training-talk</id>
+    <title>‘From SMS to Intelligent Channels’: a 93-minute primer on AI models</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-llm-industry-training-talk"/>
+    <published>2026-08-05T00:00:00Z</published>
+    <updated>2026-08-05T00:00:00Z</updated>
+    <summary>A Chinese SMS is billed per 70 characters, a model per token: how the AI industry works, told through a business the team already knew. (5 Aug 2026 · Delivered)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/campus/teaching/#r-ai_research-ai-escape-room</id>
+    <title>‘The Confident Assistant’: an AI-literacy escape room</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/campus/teaching/#r-ai_research-ai-escape-room"/>
+    <published>2026-08-03T00:00:00Z</published>
+    <updated>2026-08-03T00:00:00Z</updated>
+    <summary>A teaching concept: students escape only by proving, with tests and evidence, that a confident AI’s code is wrong. (3 Aug – 16 Sep 2026 · Concept)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/enterprise/#r-self_media-ecef-bilingual-channels-video</id>
+    <title>An interview: taking research into the real world</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/enterprise/#r-self_media-ecef-bilingual-channels-video"/>
+    <published>2026-08-01T00:00:00Z</published>
+    <updated>2026-08-01T00:00:00Z</updated>
+    <summary>On WeChat Channels under a Chinese title, ‘ECEF interview / Taking research into the real world’: 21 min, 309 checked caption cues. (Aug 2026 · On WeChat Channels)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/research/#e-research_fpt-dpma-pre-submitted</id>
+    <title>Geometry-controlled folds: the double-peak paper</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/research/#e-research_fpt-dpma-pre-submitted"/>
+    <published>2026-07-30T00:00:00Z</published>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <summary>Single-author regular article, the capstone of the double-peak line. Submitted to Physical Review E (a physics journal), 30 Jul 2026. (30 Jul 2026 · Submitted to Physical Review E · Jul 2026)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/engine-room/#e-company_products-governance-platform-live</id>
+    <title>An enterprise platform for governed AI access</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/engine-room/#e-company_products-governance-platform-live"/>
+    <published>2026-07-25T00:00:00Z</published>
+    <updated>2026-07-25T00:00:00Z</updated>
+    <summary>Organisations, teams, keys, model allow-lists, budgets, a data-loss hook and an audit hash-chain — built and live in one week. (25–31 Jul 2026 · Live)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-zhishu-logo-trust-joint</id>
+    <title>‘Trust Joint 2.0’: a logo, from sketches to final mark</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-zhishu-logo-trust-joint"/>
+    <published>2026-07-23T00:00:00Z</published>
+    <updated>2026-07-23T00:00:00Z</updated>
+    <summary>Four AI sketches, checked for shape and for look-alikes, then redrawn by hand on a 1,000-unit grid: 20 master files, a 14-page guide. (23 Jul 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/engine-room/#r-company_products-tender-intelligence</id>
+    <title>A morning briefing written by an agent</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/engine-room/#r-company_products-tender-intelligence"/>
+    <published>2026-07-22T00:00:00Z</published>
+    <updated>2026-07-22T00:00:00Z</updated>
+    <summary>A daily agent turns public procurement notices into structured, sales-ready briefs; registering, pricing and submitting stay with people. (22 Jul 2026 · Live)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/campus/teaching/#e-school_teaching_service-tsr-allocation-2026-27</id>
+    <title>The July allocation for 2026–27</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/campus/teaching/#e-school_teaching_service-tsr-allocation-2026-27"/>
+    <published>2026-07-16T00:00:00Z</published>
+    <updated>2026-07-16T00:00:00Z</updated>
+    <summary>Eleven units at once — from first-year tutorials to an MSc group project — and in September a twelfth, Linear Algebra. (16 Jul 2026 · Ongoing)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/engine-room/#r-company_products-ai-transformation-lead</id>
+    <title>Pulling the AI pilots into one programme</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/engine-room/#r-company_products-ai-transformation-lead"/>
+    <published>2026-07-14T00:00:00Z</published>
+    <updated>2026-07-14T00:00:00Z</updated>
+    <summary>July 2026: scattered AI pilots pulled into one programme — a drafted plan, pilots and department-level AI training. (14–22 Jul 2026 · Plan drafted)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-ops-codex-trainings</id>
+    <title>Hands-on AI agent training for operations teams</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-ops-codex-trainings"/>
+    <published>2026-07-13T00:00:00Z</published>
+    <updated>2026-07-13T00:00:00Z</updated>
+    <summary>Lead trainer and judge: every colleague demoed a real task and was scored on time saved, quality, review and reuse. (13–31 Jul 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/research/#r-research_fpt-dpma-lean</id>
+    <title>46 theorems, checked by machine</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/research/#r-research_fpt-dpma-lean"/>
+    <published>2026-07-05T00:00:00Z</published>
+    <updated>2026-07-05T00:00:00Z</updated>
+    <summary>The fold paper’s exact algebra formalised in Lean 4: 46 theorems, no ‘sorry’ (Lean’s mark for a missing proof), standard axioms only. (5 Jul 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/research/#r-research_fpt-dpma-course</id>
+    <title>An interactive course for one’s own paper</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/research/#r-research_fpt-dpma-course"/>
+    <published>2026-07-04T00:00:00Z</published>
+    <updated>2026-07-04T00:00:00Z</updated>
+    <summary>Ten offline chapters, from undergraduate analysis to the saddle-node fold, with sliders and self-tests. (4 Jul 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/research/#r-research_fpt-encounter-spectral-paper</id>
+    <title>Working paper: spectral diagnostics for encounter–reaction models</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/research/#r-research_fpt-encounter-spectral-paper"/>
+    <published>2026-07-01T00:00:00Z</published>
+    <updated>2026-07-01T00:00:00Z</updated>
+    <summary>When do two diffusing particles that react on contact produce several reaction-time peaks? A single-author working paper. (Jul 2026 · Working paper)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-triangulated-audit</id>
+    <title>Triangulated audit: three minds and a calculator</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-triangulated-audit"/>
+    <published>2026-06-30T00:00:00Z</published>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>A reusable audit skill: three different AI adversaries attack a research package, and every disagreement is settled by computation. (30 Jun – 1 Jul 2026 · Shipped)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/campus/teaching/#r-school_teaching_service-dsfb-summer-projects-workshop</id>
+    <title>AI and data-science project workshops for business students</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/campus/teaching/#r-school_teaching_service-dsfb-summer-projects-workshop"/>
+    <published>2026-06-30T00:00:00Z</published>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>A weekly summer workshop supporting MSc Data Science for Business students through their dissertation projects. (30 Jun – 4 Aug 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-business-card-design</id>
+    <title>Bilingual business cards, and a brochure rebuilt as vectors</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-business-card-design"/>
+    <published>2026-06-28T00:00:00Z</published>
+    <updated>2026-06-28T00:00:00Z</updated>
+    <summary>Cards generated by script from the website palette and vector logo; the company bi-fold rebuilt as clean, editable vectors. (28–29 Jun 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/workshop/#r-projects_code-pro-agent-bridge</id>
+    <title>Pro Agent Bridge</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/workshop/#r-projects_code-pro-agent-bridge"/>
+    <published>2026-06-27T00:00:00Z</published>
+    <updated>2026-06-27T00:00:00Z</updated>
+    <summary>An MCP bridge that lets a chat model hand bounded coding work to local agents — extended from the open-source CodexPro. (27–29 Jun 2026 · In daily use)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-mwc-shanghai-attendance</id>
+    <title>MWC Shanghai 2026, a mobile-industry trade show</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/on-stage/#e-company_design_events-mwc-shanghai-attendance"/>
+    <published>2026-06-24T00:00:00Z</published>
+    <updated>2026-06-24T00:00:00Z</updated>
+    <summary>Booth N4.E136, three days on the stand: 22 meeting dossiers and 49 personalised invitations before, 214 leads sorted after. (24–26 Jun 2026 · Attended)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/campus/representing/#r-school_teaching_service-ambassador-poster-design</id>
+    <title>‘Ask me about…’ posters</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/campus/representing/#r-school_teaching_service-ambassador-poster-design"/>
+    <published>2026-06-13T00:00:00Z</published>
+    <updated>2026-06-13T00:00:00Z</updated>
+    <summary>Engineering Maths &amp; AI ambassador posters and social cards in English and Chinese — vector-first and audited like code. (13 Jun 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/research/#e-research_fpt-dpma-fold-theory</id>
+    <title>Why a second peak is born — and dies</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/research/#e-research_fpt-dpma-fold-theory"/>
+    <published>2026-06-12T00:00:00Z</published>
+    <updated>2026-06-12T00:00:00Z</updated>
+    <summary>The shortcut removes walkers at one site (a ‘rank-one killing defect’); at strength ≈ 3.08 the late peak meets a valley and both vanish. (12 Jun – 2 Jul 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-linkedin-company-page-launch</id>
+    <title>The company’s LinkedIn page</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-linkedin-company-page-launch"/>
+    <published>2026-06-11T00:00:00Z</published>
+    <updated>2026-06-11T00:00:00Z</updated>
+    <summary>Set up overnight before MWC Shanghai, strictly on the company brand, from a brand pack made by a colleague. (11 Jun 2026 · Live)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/engine-room/#r-company_products-open-platform-launch</id>
+    <title>An internal AI gateway with single sign-on</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/engine-room/#r-company_products-open-platform-launch"/>
+    <published>2026-06-10T00:00:00Z</published>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <summary>Four days from an open-source gateway to the company’s AI platform: sign in with a work account, get a key, see your own usage. (10–13 Jun 2026 · Live)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/enterprise/#e-school_teaching_service-festival-of-enterprise-2026</id>
+    <title>A PechaKucha (20 slides, 20 seconds each) at the Festival of Enterprise</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/enterprise/#e-school_teaching_service-festival-of-enterprise-2026"/>
+    <published>2026-06-10T00:00:00Z</published>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <summary>Twenty slides, twenty seconds each, at the Arts Complex on 10 June 2026: ‘Map in. Traps out. Proof attached.’ (10 Jun 2026 · Presented)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/media/#r-self_media-bilingual-subtitle-engine</id>
+    <title>A home-built bilingual subtitle pipeline</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/media/#r-self_media-bilingual-subtitle-engine"/>
+    <published>2026-06-10T00:00:00Z</published>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <summary>No subtitle renderer in ffmpeg: each cue became a transparent image, overlaid in parallel chunks — an 8 min 44 s 4K clip in about 2½ min. (10 Jun – 27 Aug 2026 · Shipped)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-multilingual-sprint</id>
+    <title>Scaling to eight languages</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-multilingual-sprint"/>
+    <published>2026-06-09T00:00:00Z</published>
+    <updated>2026-06-09T00:00:00Z</updated>
+    <summary>A 44-task, eight-language study with a fixed set of leading models and resampling statistics — built at zero model cost, not yet run. (9 Jun 2026 · Planned)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-brand-group-and-mwc-support-kit</id>
+    <title>Before MWC Shanghai: an English brand push</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/work/on-stage/#r-company_design_events-brand-group-and-mwc-support-kit"/>
+    <published>2026-06-09T00:00:00Z</published>
+    <updated>2026-06-09T00:00:00Z</updated>
+    <summary>Before MWC Shanghai: an English name and positioning, and a plan for the English website and LinkedIn. (9–11 Jun 2026 · Completed)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/workshop/#r-projects_code-atlas-claude-tab</id>
+    <title>Seven dead ends and a working ⌘T</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/workshop/#r-projects_code-atlas-claude-tab"/>
+    <published>2026-06-09T00:00:00Z</published>
+    <updated>2026-06-09T00:00:00Z</updated>
+    <summary>A 200-line Swift helper that makes ⌘T in one AI browser open another AI — after documenting why seven standard approaches fail. (9–10 Jun 2026 · Published)</summary>
+  </entry>
+</feed>

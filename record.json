@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "asOf": "2026-11-14",
+  "asOf": "2026-11-19",
   "rule": {
     "next": "shown while today <= until (end date, or start for a dated one-off); undated work in progress stays until its status changes",
     "status": "a scheduled record whose until has passed shows statusLabelAfter (the label without the word Scheduled); nothing else changes"
@@ -42,8 +42,8 @@
         "zh": "已上线"
       },
       "title": {
-        "en": "This site: First Passage, so far",
-        "zh": "本站：首达 · 至此"
+        "en": "This site: So far.",
+        "zh": "本站：至此"
       },
       "href": {
         "en": "/media/#e-prior_site_design-brief-2026-09-28",

@@ -2,242 +2,550 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://zhouyixiaoxiao.com/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/ai/skipping-the-ime/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/"/>
   </url>
   <url>
+    <loc>https://zhouyixiaoxiao.com/ask/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/ai-evaluation/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/ai-evaluation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/ai-evaluation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/ai-evaluation/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/awards/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/awards/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/awards/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/awards/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/contact/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/contact/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/cv/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/cv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/cv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/cv/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/education/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/education/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/education/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/education/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/first-passage/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/first-passage/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/first-passage/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/first-passage/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/languages/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/languages/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/languages/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/languages/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/machine-learning/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/machine-learning/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/machine-learning/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/machine-learning/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/now/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/now/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/now/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/now/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/papers/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/papers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/papers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/papers/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/random-walks/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/random-walks/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/random-walks/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/random-walks/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/research/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/research/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/research/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/research/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/talks/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/talks/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/talks/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/talks/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/teaching/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/teaching/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/teaching/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/teaching/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/the-figure/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/the-figure/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/the-figure/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/the-figure/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/tools/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/tools/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/tools/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/tools/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/two-peaks/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/two-peaks/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/two-peaks/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/two-peaks/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/videos/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/videos/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/videos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/videos/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/where/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/where/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/where/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/where/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/who/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/who/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/who/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/who/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/ask/work/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/work/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/work/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/work/"/>
+  </url>
+  <url>
     <loc>https://zhouyixiaoxiao.com/campus/representing/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/campus/representing/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/campus/representing/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/campus/representing/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/campus/teaching/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/campus/teaching/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/campus/teaching/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/campus/teaching/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/colophon/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/colophon/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/colophon/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/colophon/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/contact/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/contact/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/contact/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/contact/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/enterprise/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/enterprise/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/enterprise/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/enterprise/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/index/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/index/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/index/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/index/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/media/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/media/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/media/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/media/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/now/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/now/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/now/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/now/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/research/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/research/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/research/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/research/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/roots/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/roots/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/roots/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/roots/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/westward/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/westward/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/westward/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/westward/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/work/engine-room/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/work/engine-room/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/work/engine-room/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/work/engine-room/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/work/on-stage/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/work/on-stage/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/work/on-stage/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/work/on-stage/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/workshop/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/workshop/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/workshop/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/workshop/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/"/>
   </url>
   <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/ai-evaluation/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/ai-evaluation/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/ai-evaluation/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/ai-evaluation/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/awards/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/awards/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/awards/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/awards/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/contact/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/contact/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/contact/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/cv/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/cv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/cv/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/cv/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/education/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/education/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/education/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/education/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/first-passage/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/first-passage/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/first-passage/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/first-passage/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/languages/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/languages/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/languages/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/languages/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/machine-learning/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/machine-learning/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/machine-learning/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/machine-learning/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/now/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/now/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/now/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/now/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/papers/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/papers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/papers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/papers/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/random-walks/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/random-walks/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/random-walks/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/random-walks/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/research/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/research/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/research/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/research/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/talks/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/talks/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/talks/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/talks/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/teaching/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/teaching/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/teaching/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/teaching/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/the-figure/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/the-figure/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/the-figure/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/the-figure/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/tools/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/tools/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/tools/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/tools/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/two-peaks/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/two-peaks/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/two-peaks/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/two-peaks/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/videos/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/videos/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/videos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/videos/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/where/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/where/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/where/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/where/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/who/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/who/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/who/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/who/"/>
+  </url>
+  <url>
+    <loc>https://zhouyixiaoxiao.com/zh/ask/work/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/ask/work/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/ask/work/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/ask/work/"/>
+  </url>
+  <url>
     <loc>https://zhouyixiaoxiao.com/zh/campus/representing/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/campus/representing/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/campus/representing/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/campus/representing/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/campus/teaching/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/campus/teaching/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/campus/teaching/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/campus/teaching/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/colophon/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/colophon/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/colophon/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/colophon/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/contact/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/contact/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/contact/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/contact/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/enterprise/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/enterprise/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/enterprise/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/enterprise/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/index/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/index/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/index/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/index/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/media/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/media/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/media/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/media/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/now/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/now/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/now/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/now/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/research/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/research/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/research/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/research/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/roots/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/roots/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/roots/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/roots/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/westward/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/westward/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/westward/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/westward/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/work/engine-room/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/work/engine-room/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/work/engine-room/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/work/engine-room/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/work/on-stage/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/work/on-stage/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/work/on-stage/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/work/on-stage/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/workshop/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/workshop/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/workshop/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/workshop/"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/lab/sms-market-map/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/cv.pdf</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/cv.pdf"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/cv.pdf"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/cv.pdf"/>
   </url>
   <url>
     <loc>https://zhouyixiaoxiao.com/zh/cv.pdf</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://zhouyixiaoxiao.com/cv.pdf"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://zhouyixiaoxiao.com/zh/cv.pdf"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://zhouyixiaoxiao.com/cv.pdf"/>

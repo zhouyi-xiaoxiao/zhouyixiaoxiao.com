@@ -1,4 +1,4 @@
-/*! 404-lang.js · First Passage · 首达 — GitHub Pages serves one 404.html for every unknown URL;
+/*! 404-lang.js · So far. — GitHub Pages serves one 404.html for every unknown URL;
  * under /zh/ this swaps in the Chinese page that 404.html carries in <template id="nf-zh">.
  * Source: scripts/wp12/notfound.ts. */
 (function (d) {

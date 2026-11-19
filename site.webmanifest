@@ -1,0 +1,16 @@
+{
+  "name": "So far. — Zhouyi Xiaoxiao",
+  "short_name": "So far.",
+  "description": "Zhouyi Xiaoxiao: PhD researcher at the University of Bristol, R&D Scientist (AI) at Yuexin International.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "lang": "en-GB",
+  "background_color": "#F5F4F0",
+  "theme_color": "#F5F4F0",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

@@ -1,6 +1,6 @@
 /*! SMS market map · theme (J6-19; AMENDMENT 9-B). The site's own control, with the site's contract
- * (src/templates/partials/theme.ts, src/core/boot.ts): the bar's ◑ button opens a native popover with
- * Light / Dark / Auto, the footer carries the same three choices, and every choice is a
+ * (src/templates/partials/theme.ts, src/core/boot.ts): the footer carries Light / Dark / Auto, as the site's footer
+ * does (P-lab 2026-11-15: the header popover retired with the site's old header), and every choice is a
  * <button data-theme-set="light|dark|auto"> whose aria-pressed shows the current one. The choice lives where
  * the site keeps it — localStorage "fp:v1" → { v: 1, theme: "light" | "dark" } (Auto = no theme key) — so it
  * follows the reader between the site and this page. /theme-init.js applies a saved choice before first paint
@@ -13,7 +13,7 @@
   var d = document;
   var root = d.documentElement;
   var KEY = 'fp:v1';
-  var PAPER = { light: '#EEE8DC', dark: '#12110E' };
+  var PAPER = { light: '#F5F4F0', dark: '#11100E' };
   var memo = null; // the choice for this visit when storage is unavailable
 
   function toMode(v) {

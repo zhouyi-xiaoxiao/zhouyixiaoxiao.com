@@ -1,1 +1,0 @@
-import{a as e,j as o}from"./boot-CUugezMw.js";function r(r){const t=e.on("theme",()=>{"function"==typeof requestAnimationFrame?requestAnimationFrame(()=>r()):r()}),n=o("(prefers-color-scheme: dark)",()=>r());return()=>{t(),n()}}export{r as o};

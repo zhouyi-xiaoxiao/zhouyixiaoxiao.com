@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "asOf": "2026-11-14",
+  "asOf": "2026-11-19",
   "name": {
     "en": "Zhouyi Xiaoxiao",
     "zh": "周易潇潇"
@@ -361,7 +361,7 @@
       },
       "label": {
         "en": "Phys. Rev. E paper",
-        "zh": "《物理评论 E》投稿"
+        "zh": "《物理评论 E》论文"
       },
       "status": "submitted",
       "statusLabel": {
