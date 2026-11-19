@@ -1,4 +1,4 @@
-# First Passage · 首达
+# So far. · 至此
 
 Zhouyi Xiaoxiao's bilingual personal website and portfolio.
 
