@@ -1,10 +1,10 @@
 {
   "name": "So far. · 至此",
-  "release": "links-review-20261125",
-  "sourceCommit": "10b5daf",
+  "release": "links-review-2-20261125",
+  "sourceCommit": "d9ae12a",
   "contentAsAt": "2026-11-25",
   "files": 476,
-  "artifactDigest": "a3e7ca5112abf800b697a61cb21f5e6f8bcf1a31159af1b7eca5d701273f2a81",
+  "artifactDigest": "592b7d056d0cc88a7a77fce8e3eee12ad6e5ff72db19aca39e0763ae8a7be937",
   "manuscripts": {
     "pinn": "1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7",
     "bsc": "4838389b6730106981df90e2b4d51dcc1e6f4a3f",

@@ -13,7 +13,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-fusion-challenge"/>
     <published>2026-12-12T00:00:00Z</published>
     <updated>2026-11-25T00:00:00Z</updated>
-    <summary>独自参加 NeurIPS 2026 聚变平衡挑战赛，获挑战一第二名；受邀于 2026 年 12 月 12 日在亚特兰大做报告。 (2026 年 12 月 12 日 · 受邀报告 · 2026 年 12 月 12 日)</summary>
+    <summary>独自参赛，获挑战一（DIII-D 装置）第二名：不用磁传感器，预测聚变装置的磁通图；受邀做 15 分钟报告。 (2026 年 12 月 12 日 · 受邀报告 · 2026 年 12 月 12 日)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-ukairs-presentation</id>
@@ -85,7 +85,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/work/engine-room/#e-company_products-yuexin-chat-launch"/>
     <published>2026-09-21T00:00:00Z</published>
     <updated>2026-09-21T00:00:00Z</updated>
-    <summary>一天内做出并上线的员工助手：飞书登录、个人额度、自助领取密钥，外加 Windows 客户端。 (2026 年 9 月 21 日 · 已上线)</summary>
+    <summary>首版一天内做出并上线：面向员工的助手，飞书登录、个人额度、自助领取密钥。 (2026 年 9 月 21 日 · 已上线)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/enterprise/#e-school_teaching_service-careers-blog-feature</id>
@@ -248,9 +248,9 @@
     <summary>四个 AI 草图方向，先查轮廓、再查是否撞脸已有标志，然后在 1000 单位网格上手工重绘：20 个母版文件，14 页规范。 (2026 年 7 月 23 日 · 已完成)</summary>
   </entry>
   <entry>
-    <id>https://zhouyixiaoxiao.com/zh/work/engine-room/#r-company_products-tender-intelligence</id>
+    <id>https://zhouyixiaoxiao.com/zh/work/engine-room/#e-company_products-tender-intelligence</id>
     <title>由智能体撰写的晨报</title>
-    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/work/engine-room/#r-company_products-tender-intelligence"/>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/work/engine-room/#e-company_products-tender-intelligence"/>
     <published>2026-07-22T00:00:00Z</published>
     <updated>2026-07-22T00:00:00Z</updated>
     <summary>一个每天运行的智能体，把公开的采购公告整理成结构化、可以直接跟进的简报；报名、报价与提交，一律留给人来做。 (2026 年 7 月 22 日 · 已上线)</summary>
@@ -365,7 +365,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-dpma-fold-theory"/>
     <published>2026-06-12T00:00:00Z</published>
     <updated>2026-06-12T00:00:00Z</updated>
-    <summary>用一个汇代替捷径（秩一吸收缺陷）。汇在正中、强度约 3.08 时，晚峰与谷相撞，一同消失。 (2026 年 6 月 12 日至 7 月 2 日 · 已完成)</summary>
+    <summary>在扩散极限下，用一个汇代替捷径（秩一吸收缺陷）。汇在正中、强度约 3.08 时，晚峰与谷相撞，一同消失。 (2026 年 6 月 12 日至 7 月 2 日 · 已完成)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/work/on-stage/#r-company_design_events-linkedin-company-page-launch</id>

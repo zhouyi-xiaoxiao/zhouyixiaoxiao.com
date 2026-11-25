@@ -19,7 +19,7 @@ So far. — as of 25 Nov 2026. English at https://zhouyixiaoxiao.com/, Chinese (
 
 - Entering solo, I came second in Challenge 1’s final ranking at the NeurIPS 2026 Fusion Equilibrium Challenge and was invited to give a 15-minute talk at the competition workshop in Atlanta on 12 Dec 2026 — https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-fusion-challenge
 - Since joining Yuexin International in June 2026 I have built five AI systems that are now live: a model gateway, an AI governance platform, AI-agent connectors for the Feishu workplace suite, a daily briefing agent and a staff assistant — https://zhouyixiaoxiao.com/work/engine-room/#body-h
-- My first-author paper was accepted as a poster at the UK AI Research Symposium (UKAIRS 2026): in an exploratory test (48 runs) of AI coding agents instructed in romanised Chinese (pinyin) alone, everyday instructions worked; proper names and homophones needed characters — poster session, Edinburgh, 25 Nov 2026 — https://zhouyixiaoxiao.com/ai/skipping-the-ime/#papers-h
+- My first-author paper with Yanzhen Li was accepted as a poster at the UK AI Research Symposium (UKAIRS 2026): in an exploratory test (48 runs) of AI coding agents instructed in romanised Chinese (pinyin) alone, everyday instructions worked; proper names and homophones needed characters — poster session, Edinburgh, 25 Nov 2026 — https://zhouyixiaoxiao.com/ai/skipping-the-ime/#papers-h
 - I contribute to Inspect, the UK AI Security Institute’s open-source framework for evaluating AI: by 25 Nov 2026, 14 of my pull requests had been merged across 7 repositories of its ecosystem, and 3 security reports I filed had been fixed, each credited by name
 - I submitted a single-author paper to the physics journal Physical Review E in Jul 2026; the proofs of its exact algebra are machine-checked in the Lean proof assistant: 46 theorems — https://zhouyixiaoxiao.com/research/#papers-h
 
@@ -42,7 +42,7 @@ So far. — as of 25 Nov 2026. English at https://zhouyixiaoxiao.com/, Chinese (
 ## All chapters
 
 - [01 · First Passage — PhD research: when a random walker first arrives](https://zhouyixiaoxiao.com/research/): Why one target can show two arrival peaks, and what removes the second: my single-author paper, submitted to Physical Review E (a physics journal). Chinese: [首达——博士研究：随机游走者何时第一次到达](https://zhouyixiaoxiao.com/zh/research/)
-- [02 · Skipping the IME? — First AI paper · UKAIRS 2026, the UK AI Research Symposium](https://zhouyixiaoxiao.com/ai/skipping-the-ime/): Pinyin (romanised Chinese) alone? Edinburgh poster, 48 exploratory runs: everyday instructions worked; proper names and homophones needed characters. Chinese: [跳过输入法？——第一篇 AI 论文 · 英国 AI 研究研讨会（UKAIRS 2026）](https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/)
+- [02 · Skipping the IME? — First AI paper · UKAIRS 2026, the UK AI Research Symposium](https://zhouyixiaoxiao.com/ai/skipping-the-ime/): Can agents follow pinyin (romanised Chinese) alone? 48 exploratory runs: everyday instructions worked; proper names and homophones needed characters. Chinese: [跳过输入法？——第一篇 AI 论文 · 英国 AI 研究研讨会（UKAIRS 2026）](https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/)
 - [03 · The Engine Room — R&D Scientist (AI) at Yuexin International, a cloud-communications company](https://zhouyixiaoxiao.com/work/engine-room/): Since June 2026 I have built five AI systems, all live: a gateway, a governance platform, Feishu connectors, a briefing agent and a staff assistant. Chinese: [机房——阅信国际 · AI 研发](https://zhouyixiaoxiao.com/zh/work/engine-room/)
 - [04 · On Stage — Brand design, trade shows and talks](https://zhouyixiaoxiao.com/work/on-stage/): For a cloud-communications company I designed a Madrid trade-show kit and an AI platform logo, joined two shows and gave a 93-minute AI primer. Chinese: [展台——品牌设计、展会与演讲](https://zhouyixiaoxiao.com/zh/work/on-stage/)
 - [05 · Teaching — Graduate Teacher & Demonstrator](https://zhouyixiaoxiao.com/campus/teaching/): I have taught since my first term as a PhD student — for 2026–27, 13 roles across three schools: tutorials, labs, problem classes, marking. Chinese: [教学——研究生助教与实验课助教](https://zhouyixiaoxiao.com/zh/campus/teaching/)
@@ -52,7 +52,7 @@ So far. — as of 25 Nov 2026. English at https://zhouyixiaoxiao.com/, Chinese (
 - [09 · Westward — Silicon Valley, 2025 · an internship at LiveX AI, a Bay Area AI start-up](https://zhouyixiaoxiao.com/westward/): Summer 2025 in Silicon Valley: an entrepreneurship programme and a research internship at LiveX AI (4–16 Aug) — where my turn toward AI began. Chinese: [向西——2025 年夏 · 硅谷 AI 创业公司 LiveX AI 实习](https://zhouyixiaoxiao.com/zh/westward/)
 - [10 · Workshop — Side projects](https://zhouyixiaoxiao.com/workshop/): What I built in the gaps, mostly so someone else could move faster: a maths guide, a travel-story app, a cursor tool, an agent bridge. Chinese: [作坊——业余项目](https://zhouyixiaoxiao.com/zh/workshop/)
 - [11 · Roots — Education: Tianjin → Hong Kong → Bristol](https://zhouyixiaoxiao.com/roots/): Tianjin, Hong Kong, Chengdu, Geneva, Bristol: I read maths oar in hand, then took the 3+1 route (three undergraduate years, then a Bristol MSc). Chinese: [来路——求学：天津 → 香港 → 布里斯托](https://zhouyixiaoxiao.com/zh/roots/)
-- [12 · Now & Next — What is in progress](https://zhouyixiaoxiao.com/now/): Now: an invited Fusion Challenge talk in Atlanta (12 Dec), a paper submitted to Physical Review E (a physics journal), one in preparation. Chinese: [此刻——正在进行的事](https://zhouyixiaoxiao.com/zh/now/)
+- [12 · Now & Next — What is in progress](https://zhouyixiaoxiao.com/now/): Now: an invited NeurIPS Fusion talk (12 Dec; second in Challenge 1), a paper submitted to Physical Review E (a physics journal), one in preparation. Chinese: [此刻——正在进行的事](https://zhouyixiaoxiao.com/zh/now/)
 
 ## Threads
 
@@ -77,14 +77,14 @@ Ask searches the passages of this site on the reader’s device and quotes them,
 - [Which company, and what role?](https://zhouyixiaoxiao.com/ask/work/) · Chinese: [在哪里工作，做什么？](https://zhouyixiaoxiao.com/zh/ask/work/)
 - [Which tools and programming languages?](https://zhouyixiaoxiao.com/ask/tools/) · Chinese: [会用哪些工具？](https://zhouyixiaoxiao.com/zh/ask/tools/)
 - [Which languages does Zhouyi Xiaoxiao speak?](https://zhouyixiaoxiao.com/ask/languages/) · Chinese: [会说哪些语言？](https://zhouyixiaoxiao.com/zh/ask/languages/)
-- [Is there work on evaluating AI agents?](https://zhouyixiaoxiao.com/ask/ai-evaluation/) · Chinese: [做 AI 智能体评测吗？](https://zhouyixiaoxiao.com/zh/ask/ai-evaluation/)
-- [Is there machine learning work?](https://zhouyixiaoxiao.com/ask/machine-learning/) · Chinese: [做机器学习吗？](https://zhouyixiaoxiao.com/zh/ask/machine-learning/)
 - [Any awards?](https://zhouyixiaoxiao.com/ask/awards/) · Chinese: [得过什么奖？](https://zhouyixiaoxiao.com/zh/ask/awards/)
 - [Which talks and posters?](https://zhouyixiaoxiao.com/ask/talks/) · Chinese: [做过哪些报告和海报？](https://zhouyixiaoxiao.com/zh/ask/talks/)
+- [Is there machine learning work?](https://zhouyixiaoxiao.com/ask/machine-learning/) · Chinese: [做机器学习吗？](https://zhouyixiaoxiao.com/zh/ask/machine-learning/)
+- [Is there work on evaluating large language models and AI agents?](https://zhouyixiaoxiao.com/ask/ai-evaluation/) · Chinese: [做大模型与 AI 智能体评测吗？](https://zhouyixiaoxiao.com/zh/ask/ai-evaluation/)
 - [Any teaching?](https://zhouyixiaoxiao.com/ask/teaching/) · Chinese: [教过课吗？](https://zhouyixiaoxiao.com/zh/ask/teaching/)
 - [Where are the videos?](https://zhouyixiaoxiao.com/ask/videos/) · Chinese: [在哪里看视频？](https://zhouyixiaoxiao.com/zh/ask/videos/)
 - [What is the figure on the home page?](https://zhouyixiaoxiao.com/ask/the-figure/) · Chinese: [首页那张大图是什么？](https://zhouyixiaoxiao.com/zh/ask/the-figure/)
-- [Where is Zhouyi Xiaoxiao based?](https://zhouyixiaoxiao.com/ask/where/) · Chinese: [在哪座城市？](https://zhouyixiaoxiao.com/zh/ask/where/)
+- [Where is Zhouyi Xiaoxiao based?](https://zhouyixiaoxiao.com/ask/where/) · Chinese: [周易潇潇常驻哪座城市？](https://zhouyixiaoxiao.com/zh/ask/where/)
 - [Where is the CV?](https://zhouyixiaoxiao.com/ask/cv/) · Chinese: [简历在哪里？](https://zhouyixiaoxiao.com/zh/ask/cv/)
 - [How can I get in touch, for work or anything else?](https://zhouyixiaoxiao.com/ask/contact/) · Chinese: [合作或其他事，怎么联系？](https://zhouyixiaoxiao.com/zh/ask/contact/)
 

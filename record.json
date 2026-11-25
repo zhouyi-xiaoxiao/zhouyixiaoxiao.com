@@ -636,8 +636,8 @@
         "zh": "由智能体撰写的晨报"
       },
       "href": {
-        "en": "/work/engine-room/#r-company_products-tender-intelligence",
-        "zh": "/zh/work/engine-room/#r-company_products-tender-intelligence"
+        "en": "/work/engine-room/#e-company_products-tender-intelligence",
+        "zh": "/zh/work/engine-room/#e-company_products-tender-intelligence"
       },
       "next": false
     },
@@ -1802,6 +1802,26 @@
       "next": false
     },
     {
+      "id": "school_teaching_service-new-enterprise-development-award",
+      "chapter": 7,
+      "start": "2026-03-02",
+      "end": null,
+      "status": "awarded",
+      "statusLabel": {
+        "en": "Awarded",
+        "zh": "已获得"
+      },
+      "title": {
+        "en": "New Enterprise, the university’s start-up programme: a £150 pitch award for BioPath",
+        "zh": "布里斯托大学创业孵化项目 New Enterprise：BioPath 路演获 150 英镑奖金"
+      },
+      "href": {
+        "en": "/enterprise/#r-school_teaching_service-new-enterprise-development-award",
+        "zh": "/zh/enterprise/#r-school_teaching_service-new-enterprise-development-award"
+      },
+      "next": false
+    },
+    {
       "id": "ai_research-uk-ai-agent-hack-socialos",
       "chapter": 10,
       "start": "2026-03-01",
@@ -2078,26 +2098,6 @@
       "href": {
         "en": "/campus/teaching/#r-school_teaching_service-mdm3-2026-tb2",
         "zh": "/zh/campus/teaching/#r-school_teaching_service-mdm3-2026-tb2"
-      },
-      "next": false
-    },
-    {
-      "id": "school_teaching_service-new-enterprise-development-award",
-      "chapter": 7,
-      "start": "2026-01-06",
-      "end": "2026-03-02",
-      "status": "awarded",
-      "statusLabel": {
-        "en": "Awarded",
-        "zh": "已获得"
-      },
-      "title": {
-        "en": "New Enterprise, the university’s start-up programme: a £150 pitch award for BioPath",
-        "zh": "布里斯托大学创业孵化项目 New Enterprise：BioPath 路演获 150 英镑奖金"
-      },
-      "href": {
-        "en": "/enterprise/#r-school_teaching_service-new-enterprise-development-award",
-        "zh": "/zh/enterprise/#r-school_teaching_service-new-enterprise-development-award"
       },
       "next": false
     },
@@ -2705,7 +2705,7 @@
       "id": "self_media-linkedin-impressions-series",
       "chapter": 8,
       "start": "2024-10",
-      "end": "2026-09",
+      "end": null,
       "status": "ongoing",
       "statusLabel": {
         "en": "Ongoing",
@@ -2716,8 +2716,8 @@
         "zh": "把领英当作公开的笔记本"
       },
       "href": {
-        "en": "/media/#r-self_media-linkedin-impressions-series",
-        "zh": "/zh/media/#r-self_media-linkedin-impressions-series"
+        "en": "/media/#e-self_media-linkedin-impressions-series",
+        "zh": "/zh/media/#e-self_media-linkedin-impressions-series"
       },
       "next": false
     },

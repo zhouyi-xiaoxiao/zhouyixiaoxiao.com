@@ -185,8 +185,8 @@
       "url": "https://zhouyixiaoxiao.com/work/engine-room/#body-h"
     },
     {
-      "en": "My first-author paper was accepted as a poster at the UK AI Research Symposium (UKAIRS 2026): in an exploratory test (48 runs) of AI coding agents instructed in romanised Chinese (pinyin) alone, everyday instructions worked; proper names and homophones needed characters — poster session, Edinburgh, 25 Nov 2026",
-      "zh": "我的第一作者论文被英国 AI 研究研讨会 UKAIRS 2026 录用为海报：只打拼音给 AI 编码智能体下指令，48 次调用的探索性实验中，日常指令可以，专名和同音词仍要汉字——海报场次：2026 年 11 月 25 日，爱丁堡",
+      "en": "My first-author paper with Yanzhen Li was accepted as a poster at the UK AI Research Symposium (UKAIRS 2026): in an exploratory test (48 runs) of AI coding agents instructed in romanised Chinese (pinyin) alone, everyday instructions worked; proper names and homophones needed characters — poster session, Edinburgh, 25 Nov 2026",
+      "zh": "我与 Yanzhen Li 合著的第一作者论文被英国 AI 研究研讨会 UKAIRS 2026 录用为海报：只打拼音给 AI 编码智能体下指令，48 次调用的探索性实验中，日常指令可以，专名和同音词仍要汉字——海报场次：2026 年 11 月 25 日，爱丁堡",
       "url": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/#papers-h"
     },
     {
@@ -386,8 +386,8 @@
             "zh": "已完成"
           },
           "card": {
-            "en": "A sink stands in for the shortcut (a ‘rank-one killing defect’). Midway, at strength ≈ 3.08, the late peak and a valley meet and vanish.",
-            "zh": "用一个汇代替捷径（秩一吸收缺陷）。汇在正中、强度约 3.08 时，晚峰与谷相撞，一同消失。"
+            "en": "In the diffusive limit a sink stands in for the shortcut. Sink at the midpoint, strength ≈ 3.08: the late peak and a valley meet and vanish.",
+            "zh": "在扩散极限下，用一个汇代替捷径（秩一吸收缺陷）。汇在正中、强度约 3.08 时，晚峰与谷相撞，一同消失。"
           },
           "links": []
         },
@@ -444,7 +444,7 @@
             "zh": "进行中"
           },
           "card": {
-            "en": "Since 3 Nov 2025 in Bristol, UK: stochastic processes (why first-passage times can have two peaks) and the evaluation of AI agents.",
+            "en": "PhD since 3 Nov 2025 in Bristol, UK: stochastic processes (why first-passage times can have two peaks) and the evaluation of AI agents.",
             "zh": "2025 年 11 月 3 日起在英国布里斯托读博，研究随机过程（首达时间的分布为什么会出现两个峰）与 AI 智能体评测。"
           },
           "links": []
@@ -468,16 +468,16 @@
         "zh": "AI 论文"
       },
       "card": {
-        "en": "Pinyin (romanised Chinese) alone? Edinburgh poster, 48 exploratory runs: everyday instructions worked; proper names and homophones needed characters.",
-        "zh": "只打拼音，AI 智能体能照着做吗？我在爱丁堡的海报上报告了 48 次调用的探索性实验：日常指令可以，专名和同音词仍要汉字。"
+        "en": "Can agents follow pinyin (romanised Chinese) alone? 48 exploratory runs: everyday instructions worked; proper names and homophones needed characters.",
+        "zh": "只打拼音，AI 智能体能照着做吗？爱丁堡海报中 48 次调用的探索性实验：日常指令可以，专名和同音词仍要汉字。"
       },
       "why": {
         "en": "Many languages are typed through an input method — software that turns typed letters into characters — or a romanisation: pinyin (romanised Chinese), Japanese romaji, Arabizi. Knowing where meaning survives the shortcut tells people when they can skip that step with an AI agent.",
         "zh": "很多语言都要靠输入法或罗马化来打字——拼音、日语罗马字、阿拉伯语的拉丁转写。弄清楚意思在哪里会丢，才知道什么时候可以跟 AI 智能体省掉这一步。"
       },
       "thesis": {
-        "en": "Pinyin (romanised Chinese) alone? Edinburgh poster, 48 exploratory runs: everyday instructions worked; proper names and homophones needed characters.",
-        "zh": "只打拼音，AI 智能体能照着做吗？我在爱丁堡的海报上报告了 48 次调用的探索性实验：日常指令可以，专名和同音词仍要汉字。"
+        "en": "Can agents follow pinyin (romanised Chinese) alone? 48 exploratory runs: everyday instructions worked; proper names and homophones needed characters.",
+        "zh": "只打拼音，AI 智能体能照着做吗？爱丁堡海报中 48 次调用的探索性实验：日常指令可以，专名和同音词仍要汉字。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/",
@@ -578,8 +578,8 @@
             "zh": "受邀报告 · 2026 年 12 月 12 日"
           },
           "card": {
-            "en": "Second place in Challenge 1 of the NeurIPS 2026 Fusion Equilibrium Challenge, as a solo entry; invited talk in Atlanta, 12 Dec 2026.",
-            "zh": "独自参加 NeurIPS 2026 聚变平衡挑战赛，获挑战一第二名；受邀于 2026 年 12 月 12 日在亚特兰大做报告。"
+            "en": "Solo entry, second in Challenge 1 (DIII-D): predicting a fusion device’s magnetic flux map without magnetic sensors; invited 15-minute talk.",
+            "zh": "独自参赛，获挑战一（DIII-D 装置）第二名：不用磁传感器，预测聚变装置的磁通图；受邀做 15 分钟报告。"
           },
           "links": [
             {
@@ -716,8 +716,8 @@
             "zh": "已上线"
           },
           "card": {
-            "en": "Built and launched in a day: a staff assistant with single sign-on, personal quotas, self-serve keys and a Windows client.",
-            "zh": "一天内做出并上线的员工助手：飞书登录、个人额度、自助领取密钥，外加 Windows 客户端。"
+            "en": "First version built and launched in a day: a staff assistant with single sign-on, personal quotas and self-serve keys.",
+            "zh": "首版一天内做出并上线：面向员工的助手，飞书登录、个人额度、自助领取密钥。"
           },
           "links": []
         },
@@ -780,6 +780,26 @@
           "card": {
             "en": "Connectors that let coding agents read and write docs, sheets, chats and approvals with scoped permissions — as the signed-in person.",
             "zh": "一套连接器，让编程智能体在限定的权限内，以登录者本人的身份读写文档、表格、群聊与审批。"
+          },
+          "links": []
+        },
+        {
+          "id": "company_products-tender-intelligence",
+          "date": {
+            "start": "2026-07-22",
+            "precision": "day"
+          },
+          "title": {
+            "en": "A morning briefing written by an agent",
+            "zh": "由智能体撰写的晨报"
+          },
+          "status": {
+            "en": "Live",
+            "zh": "已上线"
+          },
+          "card": {
+            "en": "A daily agent turns public procurement notices into structured, sales-ready briefs; registering, pricing and submitting stay with people.",
+            "zh": "一个每天运行的智能体，把公开的采购公告整理成结构化、可以直接跟进的简报；报名、报价与提交，一律留给人来做。"
           },
           "links": []
         }
@@ -992,7 +1012,7 @@
             "zh": "合同已签"
           },
           "card": {
-            "en": "Weeks into the PhD: a Demonstrator contract in SEMT and a Graduate Teacher contract in the School of Mathematics.",
+            "en": "Weeks into the PhD: Demonstrator in SEMT (Engineering Mathematics and Technology) and Graduate Teacher in the School of Mathematics.",
             "zh": "读博才几周：签下工程数学与技术学院（SEMT）的实验课助教（Demonstrator）合同，以及数学学院的研究生助教（Graduate Teacher）合同。"
           },
           "links": []
@@ -1339,6 +1359,35 @@
             "zh": "2026 年 8 月在视频号和公众号启动，由 AI 工具协助运转——「发表」键永远由人来按。"
           },
           "links": []
+        },
+        {
+          "id": "self_media-linkedin-impressions-series",
+          "date": {
+            "start": "2024-10",
+            "precision": "month"
+          },
+          "title": {
+            "en": "LinkedIn as a public notebook",
+            "zh": "把领英当作公开的笔记本"
+          },
+          "status": {
+            "en": "Ongoing",
+            "zh": "进行中"
+          },
+          "card": {
+            "en": "Two years of milestone posts — a PhD, a fellowship, a festival pitch — to 888 followers at an April 2026 snapshot.",
+            "zh": "两年来的里程碑帖子——读博、创业学者、创业节路演——2026 年 4 月的快照显示有 888 位关注者。"
+          },
+          "links": [
+            {
+              "label": {
+                "en": "LinkedIn profile",
+                "zh": "领英主页"
+              },
+              "href": "https://www.linkedin.com/in/zhouyixiaoxiao/",
+              "kind": "social"
+            }
+          ]
         },
         {
           "id": "self_media-bilingual-subtitle-engine",
@@ -1830,16 +1879,16 @@
         "zh": "近况"
       },
       "card": {
-        "en": "Now: an invited Fusion Challenge talk in Atlanta (12 Dec), a paper submitted to Physical Review E (a physics journal), one in preparation.",
-        "zh": "我手上正在做的：12 月 12 日亚特兰大的聚变挑战赛受邀报告、一篇已投稿《物理评论 E》、一篇在写。"
+        "en": "Now: an invited NeurIPS Fusion talk (12 Dec; second in Challenge 1), a paper submitted to Physical Review E (a physics journal), one in preparation.",
+        "zh": "我手上正在做的：12 月 12 日的 NeurIPS 2026 聚变平衡挑战赛受邀报告（挑战一第二名）、一篇已投《物理评论 E》的论文，还有一篇正在写。"
       },
       "why": {
         "en": "A snapshot with a date on it, so the record stays honest: finished work moves into its chapter, and each update rebuilds this page from the record.",
         "zh": "这是一张带日期的快照，好让记录保持诚实：做完的事归入各章，这一页则在每次更新时由记录重新生成。"
       },
       "thesis": {
-        "en": "Now: an invited Fusion Challenge talk in Atlanta (12 Dec), a paper submitted to Physical Review E (a physics journal), one in preparation.",
-        "zh": "我手上正在做的：12 月 12 日亚特兰大的聚变挑战赛受邀报告、一篇已投稿《物理评论 E》、一篇在写。"
+        "en": "Now: an invited NeurIPS Fusion talk (12 Dec; second in Challenge 1), a paper submitted to Physical Review E (a physics journal), one in preparation.",
+        "zh": "我手上正在做的：12 月 12 日的 NeurIPS 2026 聚变平衡挑战赛受邀报告（挑战一第二名）、一篇已投《物理评论 E》的论文，还有一篇正在写。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/now/",
@@ -1861,8 +1910,8 @@
             "zh": "受邀报告 · 2026 年 12 月 12 日"
           },
           "card": {
-            "en": "Second place in Challenge 1 of the NeurIPS 2026 Fusion Equilibrium Challenge, as a solo entry; invited talk in Atlanta, 12 Dec 2026.",
-            "zh": "独自参加 NeurIPS 2026 聚变平衡挑战赛，获挑战一第二名；受邀于 2026 年 12 月 12 日在亚特兰大做报告。"
+            "en": "Solo entry, second in Challenge 1 (DIII-D): predicting a fusion device’s magnetic flux map without magnetic sensors; invited 15-minute talk.",
+            "zh": "独自参赛，获挑战一（DIII-D 装置）第二名：不用磁传感器，预测聚变装置的磁通图；受邀做 15 分钟报告。"
           },
           "links": [
             {
