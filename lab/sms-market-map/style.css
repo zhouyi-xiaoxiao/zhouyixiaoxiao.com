@@ -207,7 +207,7 @@ to{opacity:0}
 .chip:hover{background:var(--paper-2)}
 .chip[aria-checked=true]{background:var(--ink);box-shadow:none;color:var(--paper)}
 @media(max-width:640px){.chips-wrap{margin-inline:calc(-1 * var(--margin))}
-.chips{flex-wrap:nowrap;overflow-x:auto;padding:2px var(--margin) 8px;scroll-snap-type:x proximity;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.chips{flex-wrap:nowrap;overflow-x:auto;padding:2px var(--margin) 8px;scroll-snap-type:x proximity;scroll-padding-inline:var(--margin);scrollbar-width:none;-webkit-overflow-scrolling:touch}
 .chips::-webkit-scrollbar{display:none}
 .chip{flex:none;scroll-snap-align:start;white-space:nowrap}
 }
@@ -586,7 +586,8 @@ body{padding-bottom:0}
    #honesty with the meaning as its title; underline on hover only), then the figure's own word, unboxed and quieter. On touch the tag
    gets an invisible 44 px pad. The provider's glossed line breaks only between its items (U+00A0 inside them; keep-all for the
    Hanzi); in the detail heading it is an inline flex box, so when it wraps on a phone it hangs from its first line instead of
-   climbing into the name's descenders. The references say what they are under their heading (balanced; the zh note breaks only after its commas: no lone 「单。」). */
+   climbing into the name's descenders. The references say what they are under their heading (balanced: no lone 「单。」; no keep-all on the zh
+   note any more: WebKit would not break it after its commas, and the one long line ran 20 px off a 390 px phone). */
 .fig__meta{flex-wrap:wrap;row-gap:6px}
 
 a.tag{display:inline-flex;align-items:center;gap:6px;position:relative;padding-left:6px;text-decoration:none;cursor:help;transition:color .15s var(--ease-ui),border-color .15s var(--ease-ui)}
@@ -608,5 +609,26 @@ a.tag:hover,a.tag:focus-visible{color:var(--verm-ink);border-color:currentColor;
 
 .about__refs-note{margin:0 0 12px;font-size:15px;line-height:1.45;color:var(--ink-3);text-wrap:balance}
 
-[data-lang=zh] .about__refs-note{font-size:15px;line-height:1.7;word-break:keep-all}
+[data-lang=zh] .about__refs-note{font-size:15px;line-height:1.7}
 
+/* PGM review (2026-11-25) · zh line endings: no paragraph, dek or note ends on one Hanzi and its stop (「发。」「源。」
+   「执」。」): text-wrap-style pretty, inherited from body; the balanced titles and the references note keep their own
+   balance. Fig. 2's column questions are balanced, so they break at their comma (「写在需求里的，/ 和没写出来的。」).
+   The Six questions title breaks after its comma because content-zh.json ties 「再谈」 with U+2060 (WORD JOINER). */
+[data-lang=zh] body{text-wrap-style:pretty}
+[data-lang=zh] .col__head p{text-wrap-style:balance}
+
+/* PGM review (2026-11-25) · the phone bar shows its sample on a line of its own, as the site's bar does
+   (src/templates/partials/bar.ts: "Ask in your own words" over a small "try: shouda"). Below 1100 px the field's one-line
+   placeholder could not hold both (a 390 px phone showed 「…试试：shoud」), so until the visitor types the placeholder is
+   drawn as those two lines (.bar__ph, aria-hidden; its hidden attribute keeps it out of sight wherever this sheet is not
+   applied, so a stale or missing style.css falls back to the field's own placeholder); the input keeps its placeholder text
+   and its label. Desktop unchanged. */
+.bar__ask{position:relative}
+.bar__ph{display:none}
+@media (max-width:1099px){.bar__in::placeholder{color:transparent}
+.bar__ph{position:absolute;top:0;bottom:0;left:22px;right:12px;display:flex;flex-direction:column;justify-content:center;gap:1px;line-height:1.2;white-space:nowrap;overflow:hidden;pointer-events:none}
+.bar__ph-l{font-size:16px;color:var(--ink-2)}
+.bar__try{font-size:13px;color:var(--ink-3)}
+.bar__in:not(:placeholder-shown)+.bar__ph{display:none}
+}

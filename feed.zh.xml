@@ -8,12 +8,12 @@
   <updated>2026-11-25T00:00:00Z</updated>
   <author><name>周易潇潇</name><uri>https://zhouyixiaoxiao.com/zh/</uri></author>
   <entry>
-    <id>https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#r-ai_research-fusion-challenge</id>
-    <title>NeurIPS 2026 聚变平衡挑战赛：挑战一第二名</title>
-    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#r-ai_research-fusion-challenge"/>
+    <id>https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-fusion-challenge</id>
+    <title>NeurIPS 2026 聚变平衡挑战赛：挑战一第二名与受邀报告</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-fusion-challenge"/>
     <published>2026-12-12T00:00:00Z</published>
     <updated>2026-11-25T00:00:00Z</updated>
-    <summary>以个人身份参加 NeurIPS 2026 聚变平衡挑战赛，获挑战一第二名；受邀报告做成了一个交互网页。 (2026 年 12 月 12 日 · 已排期 · 12 月 12 日报告)</summary>
+    <summary>独自参加 NeurIPS 2026 聚变平衡挑战赛，获挑战一第二名；受邀于 2026 年 12 月 12 日在亚特兰大做报告。 (2026 年 12 月 12 日 · 受邀报告 · 2026 年 12 月 12 日)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-ukairs-presentation</id>
@@ -21,7 +21,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-ukairs-presentation"/>
     <published>2026-11-24T00:00:00Z</published>
     <updated>2026-11-24T00:00:00Z</updated>
-    <summary>2026 年 11 月 24 日至 25 日，约翰·麦金泰尔会议中心。并排演示：从日常提示一键切到同音陷阱。 (2026 年 11 月 24 日至 25 日 · 已排期 · 11 月 25 日海报)</summary>
+    <summary>UKAIRS 2026 海报（2026 年 11 月 25 日，爱丁堡），第一作者，与 Yanzhen Li 合著：只打拼音，能给编码智能体下指令吗？ (2026 年 11 月 24 日至 25 日 · 海报 · 2026 年 11 月 25 日)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/media/#e-prior_site_design-brief-2026-09-28</id>
@@ -29,7 +29,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/media/#e-prior_site_design-brief-2026-09-28"/>
     <published>2026-09-28T00:00:00Z</published>
     <updated>2026-09-28T00:00:00Z</updated>
-    <summary>一场在一段人生上运行的首达实验——就在这个 2026 年一直跳转到领英的网址上。 (2026 年 9 月 28 日 · 已上线)</summary>
+    <summary>把经历画成一场首达过程——就在这个 2026 年 4 月至 9 月一直跳转到领英的网址上。 (2026 年 9 月 28 日 · 已上线)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/campus/teaching/#r-school_teaching_service-linear-algebra-tutorial-week1</id>
@@ -37,7 +37,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/campus/teaching/#r-school_teaching_service-linear-algebra-tutorial-week1"/>
     <published>2026-09-25T00:00:00Z</published>
     <updated>2026-09-25T00:00:00Z</updated>
-    <summary>9 月 25 日周五上午九点，Fry Building：为一年级小组上的这一学年第一次小班课。 (2026 年 9 月 25 日 · 已完成)</summary>
+    <summary>为本科新生的一个线性代数小组，上这一学年的第一次小班课。 (2026 年 9 月 25 日 · 已完成)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/work/engine-room/#r-company_products-yuexin-chat-desktop-agent</id>
@@ -45,7 +45,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/work/engine-room/#r-company_products-yuexin-chat-desktop-agent"/>
     <published>2026-09-23T00:00:00Z</published>
     <updated>2026-09-23T00:00:00Z</updated>
-    <summary>开发中：开源的智能体引擎，阅信自己的界面。计划加入内置浏览器与终端——每一次发送之前，都先确认。 (2026 年 9 月 23 日 · 开发中)</summary>
+    <summary>开发中：把已发布的桌面客户端改造成智能体——底层是开源引擎，上层是阅信自己的界面。计划加入内置浏览器与终端，每一次发送之前都先确认。 (2026 年 9 月 23 日 · 开发中)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/research/#r-research_fpt-fixed-budget-paper</id>
@@ -53,7 +53,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/research/#r-research_fpt-fixed-budget-paper"/>
     <published>2026-09-23T00:00:00Z</published>
     <updated>2026-09-23T00:00:00Z</updated>
-    <summary>一份固定的催化剂预算，切成条带，就能编排反应时间峰的个数、时刻与轻重。 (2026 年 9 月 23 日 · 稿件准备中)</summary>
+    <summary>催化剂总量固定，切成条带后怎么摆，就决定反应时间分布有几个峰、各在何时、各占多少概率。 (2026 年 9 月 23 日 · 稿件准备中)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/campus/teaching/#r-school_teaching_service-offline-teaching-library</id>
@@ -61,7 +61,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/campus/teaching/#r-school_teaching_service-offline-teaching-library"/>
     <published>2026-09-23T00:00:00Z</published>
     <updated>2026-09-23T00:00:00Z</updated>
-    <summary>为一年级纯数小班课准备：以平板为先的授课稿，外加 39 个主题的中英双语参考库。 (2026 年 9 月 23 日至 24 日 · 已上线)</summary>
+    <summary>为本科新生的纯数小班课准备：以平板为先的授课稿，外加 39 个主题的中英双语参考库。 (2026 年 9 月 23 日至 24 日 · 已上线)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/campus/teaching/#r-school_teaching_service-scem-week1-lab</id>
@@ -81,19 +81,19 @@
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/work/engine-room/#e-company_products-yuexin-chat-launch</id>
-    <title>阅信 AI 助手——网页版与 Windows 版</title>
+    <title>阅信云 AI 助手——网页版与桌面版</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/work/engine-room/#e-company_products-yuexin-chat-launch"/>
     <published>2026-09-21T00:00:00Z</published>
     <updated>2026-09-21T00:00:00Z</updated>
     <summary>一天内做出并上线的员工助手：飞书登录、个人额度、自助领取密钥，外加 Windows 客户端。 (2026 年 9 月 21 日 · 已上线)</summary>
   </entry>
   <entry>
-    <id>https://zhouyixiaoxiao.com/zh/enterprise/#r-school_teaching_service-careers-blog-feature</id>
+    <id>https://zhouyixiaoxiao.com/zh/enterprise/#e-school_teaching_service-careers-blog-feature</id>
     <title>「从草莓田到博士」</title>
-    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/enterprise/#r-school_teaching_service-careers-blog-feature"/>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/enterprise/#e-school_teaching_service-careers-blog-feature"/>
     <published>2026-09-21T00:00:00Z</published>
     <updated>2026-09-21T00:00:00Z</updated>
-    <summary>就业服务中心「学生创业者聚焦」专栏介绍 BioPath，2026 年 9 月 21 日发布。 (2026 年 9 月 21 日 · 已发布)</summary>
+    <summary>就业服务中心的 Student Founder Spotlight（学生创业者聚焦）专栏介绍 BioPath，2026 年 9 月 21 日发布。 (2026 年 9 月 21 日 · 已发布)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/work/on-stage/#e-company_design_events-wwc-madrid-onsite</id>
@@ -117,7 +117,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/campus/teaching/#r-school_teaching_service-dsfb-second-marking-2026"/>
     <published>2026-09-10T00:00:00Z</published>
     <updated>2026-09-10T00:00:00Z</updated>
-    <summary>2026 年 9 月：按新的评分指引，担任商学院「商业数据科学」硕士毕业论文的第二评阅人。 (2026 年 9 月 10 日至 27 日 · 已完成)</summary>
+    <summary>按新的评分指引，担任商学院「商业数据科学」硕士毕业论文的第二评阅人。 (2026 年 9 月 10 日至 27 日 · 已完成)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-reproduction-releases</id>
@@ -125,7 +125,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-reproduction-releases"/>
     <published>2026-09-08T00:00:00Z</published>
     <updated>2026-09-08T00:00:00Z</updated>
-    <summary>代码、数值记录、区间算术证书、Lean 源码与超算作业记录，全部由 SHA-256 校验值锁定——v1.3.0，2026 年 9 月。 (2026 年 9 月 8 日至 26 日 · 已上线)</summary>
+    <summary>固定预算论文的全部代码、数值记录、机器核验的证明与超算作业记录，公开并由校验值锁定——v1.3.0，2026 年 9 月。 (2026 年 9 月 8 日至 26 日 · 已上线)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/work/on-stage/#r-company_design_events-connect-contact-site</id>
@@ -157,7 +157,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/media/#e-self_media-wechat-studio-kickoff"/>
     <published>2026-08-29T00:00:00Z</published>
     <updated>2026-08-29T00:00:00Z</updated>
-    <summary>2026 年 8 月启动：由 AI 工具协助运转的工作室，把多年的手机影像做成微信短视频——「发表」键永远由人来按。 (2026 年 8 月 29 日 · 已启动)</summary>
+    <summary>2026 年 8 月在视频号和公众号启动，由 AI 工具协助运转——「发表」键永远由人来按。 (2026 年 8 月 29 日 · 已启动)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#r-ai_research-ukairs-poster-slot</id>
@@ -165,11 +165,11 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#r-ai_research-ukairs-poster-slot"/>
     <published>2026-08-28T00:00:00Z</published>
     <updated>2026-08-28T00:00:00Z</updated>
-    <summary>午餐与海报第 3 场，13:15 至 14:15，「人机协同」主题，新兴研究赛道。 (2026 年 8 月 28 日 · 已排期)</summary>
+    <summary>午餐与海报第 3 场，13:15 至 14:15，「人机协同」主题，新兴研究赛道。 (2026 年 8 月 28 日 · 场次已分配)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/campus/representing/#r-school_teaching_service-semt-pgr-rep-2026-27</id>
-    <title>连任 2026 至 2027 学年代表</title>
+    <title>连任博士生代表（2026 至 2027 学年）</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/campus/representing/#r-school_teaching_service-semt-pgr-rep-2026-27"/>
     <published>2026-08-18T00:00:00Z</published>
     <updated>2026-08-18T00:00:00Z</updated>
@@ -193,7 +193,7 @@
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-ukairs-acceptance</id>
-    <title>UKAIRS 2026 录用：第一篇 AI 论文</title>
+    <title>UKAIRS 2026：第一作者论文录用为海报</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-ukairs-acceptance"/>
     <published>2026-08-11T00:00:00Z</published>
     <updated>2026-08-11T00:00:00Z</updated>
@@ -205,11 +205,11 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/work/on-stage/#e-company_design_events-llm-industry-training-talk"/>
     <published>2026-08-05T00:00:00Z</published>
     <updated>2026-08-05T00:00:00Z</updated>
-    <summary>一条中文短信按 70 个字计费，大模型按词元（token）计费：用团队最熟悉的生意，讲清大模型行业的来龙去脉。 (2026 年 8 月 5 日 · 已讲授)</summary>
+    <summary>中文短信每 70 字计一条，大模型按词元（token）计费：用团队最熟悉的生意，讲清大模型行业的来龙去脉。 (2026 年 8 月 5 日 · 已讲授)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/campus/teaching/#r-ai_research-ai-escape-room</id>
-    <title>「过分自信的助手」：一间 AI 素养密室</title>
+    <title>「自信满满的助手」：一个 AI 素养密室逃脱构想</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/campus/teaching/#r-ai_research-ai-escape-room"/>
     <published>2026-08-03T00:00:00Z</published>
     <updated>2026-08-03T00:00:00Z</updated>
@@ -229,7 +229,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-dpma-pre-submitted"/>
     <published>2026-07-30T00:00:00Z</published>
     <updated>2026-07-30T00:00:00Z</updated>
-    <summary>单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》。 (2026 年 7 月 30 日 · 2026 年 7 月投稿)</summary>
+    <summary>单作者论文，2026 年 7 月投稿《物理评论 E》：随机游走首次到达目标的时间分布为何出现双峰、第二个峰何时消失。 (2026 年 7 月 30 日 · 2026 年 7 月投稿)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/work/engine-room/#e-company_products-governance-platform-live</id>
@@ -257,23 +257,23 @@
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/campus/teaching/#e-school_teaching_service-tsr-allocation-2026-27</id>
-    <title>7 月：新学年的教学分配</title>
+    <title>2026 至 2027 学年教学：7 月的分配</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/campus/teaching/#e-school_teaching_service-tsr-allocation-2026-27"/>
     <published>2026-07-16T00:00:00Z</published>
     <updated>2026-07-16T00:00:00Z</updated>
-    <summary>一次分到 11 门课——从一年级小班辅导到硕士小组项目；9 月又加了第 12 门：线性代数。 (2026 年 7 月 16 日 · 进行中)</summary>
+    <summary>一次分到 11 门课——从本科小班辅导到硕士小组项目；9 月又加了第 12 门：线性代数。 (2026 年 7 月 16 日 · 进行中)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/work/engine-room/#r-company_products-ai-transformation-lead</id>
-    <title>把零散的 AI 试点收拢成一个项目</title>
+    <title>起草方案：收拢零散的 AI 试点</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/work/engine-room/#r-company_products-ai-transformation-lead"/>
     <published>2026-07-14T00:00:00Z</published>
     <updated>2026-07-14T00:00:00Z</updated>
-    <summary>2026 年 7 月：把零散的 AI 试点收拢成一个项目——起草方案、推进试点、开展部门级 AI 培训。 (2026 年 7 月 14 日至 22 日 · 方案已成稿)</summary>
+    <summary>2026 年 7 月：起草一份方案，把零散的 AI 试点收拢成一个项目，并配上部门级的 AI 培训。 (2026 年 7 月 14 日至 22 日 · 方案已成稿)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/work/on-stage/#r-company_design_events-ops-codex-trainings</id>
-    <title>面向运营团队的 AI 智能体实战培训</title>
+    <title>面向运营团队的 AI 智能体实操培训</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/work/on-stage/#r-company_design_events-ops-codex-trainings"/>
     <published>2026-07-13T00:00:00Z</published>
     <updated>2026-07-13T00:00:00Z</updated>
@@ -285,7 +285,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/research/#r-research_fpt-dpma-lean"/>
     <published>2026-07-05T00:00:00Z</published>
     <updated>2026-07-05T00:00:00Z</updated>
-    <summary>折叠论文的精确代数用 Lean 4 形式化：46 条定理，没有一处留空的证明，只依赖标准公理。 (2026 年 7 月 5 日 · 已完成)</summary>
+    <summary>折叠论文的精确代数用定理证明器 Lean 4 形式化：46 条定理，没有一处留空的证明，只依赖标准公理。 (2026 年 7 月 5 日 · 已完成)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/research/#r-research_fpt-dpma-course</id>
@@ -301,7 +301,7 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/research/#r-research_fpt-encounter-spectral-paper"/>
     <published>2026-07-01T00:00:00Z</published>
     <updated>2026-07-01T00:00:00Z</updated>
-    <summary>两个扩散粒子一碰即反应，什么时候会出现多个反应时间峰？一篇单作者工作论文。 (2026 年 7 月 · 工作论文)</summary>
+    <summary>两个扩散粒子相遇时可能发生反应，什么时候会出现多个反应时间峰？一篇单作者工作论文。 (2026 年 7 月 · 工作论文)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#r-ai_research-triangulated-audit</id>
@@ -313,7 +313,7 @@
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/campus/teaching/#r-school_teaching_service-dsfb-summer-projects-workshop</id>
-    <title>为商科硕士开的 AI 与数据科学项目工作坊</title>
+    <title>面向商学院硕士生的 AI 与数据科学项目工作坊</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/campus/teaching/#r-school_teaching_service-dsfb-summer-projects-workshop"/>
     <published>2026-06-30T00:00:00Z</published>
     <updated>2026-06-30T00:00:00Z</updated>
@@ -328,12 +328,20 @@
     <summary>用脚本按官网配色与矢量标志生成名片；公司二折页重建为干净、可编辑的矢量文件。 (2026 年 6 月 28 日至 29 日 · 已完成)</summary>
   </entry>
   <entry>
-    <id>https://zhouyixiaoxiao.com/zh/workshop/#r-projects_code-pro-agent-bridge</id>
-    <title>Pro Agent Bridge 智能体桥</title>
-    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/workshop/#r-projects_code-pro-agent-bridge"/>
+    <id>https://zhouyixiaoxiao.com/zh/workshop/#e-projects_code-pro-agent-bridge</id>
+    <title>Pro Agent Bridge 智能体之桥</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/workshop/#e-projects_code-pro-agent-bridge"/>
     <published>2026-06-27T00:00:00Z</published>
     <updated>2026-06-27T00:00:00Z</updated>
     <summary>一座 MCP 桥，让聊天模型把有边界的编程工作交给本地智能体——基于开源项目 CodexPro 扩展而来。 (2026 年 6 月 27 日至 29 日 · 日常使用中)</summary>
+  </entry>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/zh/campus/representing/#r-school_teaching_service-research-culture-week-bowling-social</id>
+    <title>「一球全中，结识新朋友」：学部保龄球社交夜</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/campus/representing/#r-school_teaching_service-research-culture-week-bowling-social"/>
+    <published>2026-06-25T00:00:00Z</published>
+    <updated>2026-06-25T00:00:00Z</updated>
+    <summary>为 2026 研究文化周提议并组织：博士生、教师与行政同事，同在一条球道上。 (2026 年 6 月 25 日 · 已完成)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/work/on-stage/#e-company_design_events-mwc-shanghai-attendance</id>
@@ -353,11 +361,11 @@
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-dpma-fold-theory</id>
-    <title>第二个峰为何出生，又为何消失</title>
+    <title>第二个峰为何出现，又为何消失</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/research/#e-research_fpt-dpma-fold-theory"/>
     <published>2026-06-12T00:00:00Z</published>
     <updated>2026-06-12T00:00:00Z</updated>
-    <summary>用数学语言说，捷径相当于在一个位置吸收游走者的缺陷（秩一吸收缺陷）；强度约 3.08 时，晚峰与谷相撞消失（鞍结折叠）。 (2026 年 6 月 12 日至 7 月 2 日 · 已完成)</summary>
+    <summary>用一个汇代替捷径（秩一吸收缺陷）。汇在正中、强度约 3.08 时，晚峰与谷相撞，一同消失。 (2026 年 6 月 12 日至 7 月 2 日 · 已完成)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/work/on-stage/#r-company_design_events-linkedin-company-page-launch</id>
@@ -368,25 +376,25 @@
     <summary>赶在 MWC 上海之前连夜建好，严格使用阅信国际品牌，素材来自同事制作的品牌包。 (2026 年 6 月 11 日 · 已上线)</summary>
   </entry>
   <entry>
-    <id>https://zhouyixiaoxiao.com/zh/work/engine-room/#r-company_products-open-platform-launch</id>
+    <id>https://zhouyixiaoxiao.com/zh/work/engine-room/#e-company_products-open-platform-launch</id>
     <title>带飞书单点登录的内部 AI 网关</title>
-    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/work/engine-room/#r-company_products-open-platform-launch"/>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/work/engine-room/#e-company_products-open-platform-launch"/>
     <published>2026-06-10T00:00:00Z</published>
     <updated>2026-06-10T00:00:00Z</updated>
     <summary>四天时间，把开源网关做成公司的 AI 平台：用飞书登录，领取密钥，查看自己的用量。 (2026 年 6 月 10 日至 13 日 · 已上线)</summary>
   </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/enterprise/#e-school_teaching_service-festival-of-enterprise-2026</id>
-    <title>创业节上的 PechaKucha（20 页幻灯片、每页 20 秒）</title>
+    <title>创业节上的 PechaKucha 路演</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/enterprise/#e-school_teaching_service-festival-of-enterprise-2026"/>
     <published>2026-06-10T00:00:00Z</published>
     <updated>2026-06-10T00:00:00Z</updated>
     <summary>2026 年 6 月 10 日，二十页幻灯片、每页二十秒的路演：「地图进，布点出，附证明」。 (2026 年 6 月 10 日 · 已展示)</summary>
   </entry>
   <entry>
-    <id>https://zhouyixiaoxiao.com/zh/media/#r-self_media-bilingual-subtitle-engine</id>
+    <id>https://zhouyixiaoxiao.com/zh/media/#e-self_media-bilingual-subtitle-engine</id>
     <title>自己搭的中英双语字幕流水线</title>
-    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/media/#r-self_media-bilingual-subtitle-engine"/>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/media/#e-self_media-bilingual-subtitle-engine"/>
     <published>2026-06-10T00:00:00Z</published>
     <updated>2026-06-10T00:00:00Z</updated>
     <summary>ffmpeg 缺了字幕渲染器，就把每条字幕画成透明图片，分块并行叠加——8 分 44 秒的 4K 素材，约两分半钟出片。 (2026 年 6 月 10 日至 8 月 27 日 · 已交付)</summary>
@@ -397,14 +405,6 @@
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#r-ai_research-multilingual-sprint"/>
     <published>2026-06-09T00:00:00Z</published>
     <updated>2026-06-09T00:00:00Z</updated>
-    <summary>44 道题、8 种语言、一组固定的主流模型与配对重抽样统计——零模型成本搭好，尚未开跑。 (2026 年 6 月 9 日 · 计划中)</summary>
-  </entry>
-  <entry>
-    <id>https://zhouyixiaoxiao.com/zh/work/on-stage/#r-company_design_events-brand-group-and-mwc-support-kit</id>
-    <title>MWC 上海之前：英文品牌准备</title>
-    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/work/on-stage/#r-company_design_events-brand-group-and-mwc-support-kit"/>
-    <published>2026-06-09T00:00:00Z</published>
-    <updated>2026-06-09T00:00:00Z</updated>
-    <summary>MWC 上海之前：英文名称与定位，以及英文官网与领英方案。 (2026 年 6 月 9 日至 11 日 · 已完成)</summary>
+    <summary>44 道题、8 种语言、一组固定的主流模型与配对重抽样统计——已搭好，尚未开跑。 (2026 年 6 月 9 日 · 计划中)</summary>
   </entry>
 </feed>

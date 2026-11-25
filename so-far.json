@@ -185,8 +185,8 @@
         "zh": "天津大学数学与应用数学本科"
       },
       "card": {
-        "en": "2021–25 in the School of Mathematics, the final year at Bristol via the 3+1 route. Every walker on this site starts here.",
-        "zh": "2021 年至 2025 年就读于数学学院，最后一年经「3+1」在布里斯托完成。本站每一个游走者，都从这里出发。"
+        "en": "2021–25 in the School of Mathematics, in a mathematics honours class; the final year at Bristol via the 3+1 route.",
+        "zh": "2021 年至 2025 年就读于数学学院荣誉数学班，最后一年经「3+1」在布里斯托完成。"
       },
       "href": {
         "en": "/roots/#e-education_life-tju-bsc-enrol",
@@ -213,12 +213,12 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "An exchange year at the Hong Kong University of Science and Technology (HKUST)",
+        "en": "An exchange year at HKUST (Hong Kong University of Science and Technology)",
         "zh": "在香港科技大学交换一年"
       },
       "card": {
         "en": "2023–24 in Hong Kong: PDEs, their numerical solution and applied statistics — where the maths turned computational.",
-        "zh": "2023 至 2024 年在香港：偏微分方程、数值解法与应用统计——数学从此变得可以计算。"
+        "zh": "2023 至 2024 年在香港：偏微分方程、数值解法与应用统计——数学从此走向计算。"
       },
       "href": {
         "en": "/roots/#e-education_life-hkust-exchange",
@@ -245,12 +245,12 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "MSc Engineering Mathematics, University of Bristol, with Distinction (the top UK grade)",
-        "zh": "布里斯托大学工程数学硕士（以优异成绩毕业）"
+        "en": "MSc Engineering Mathematics (Distinction, the top UK grade for a master’s), University of Bristol",
+        "zh": "布里斯托大学工程数学硕士（Distinction，英国硕士最高等级）"
       },
       "card": {
-        "en": "To Bristol in September 2024: statistical computing, information theory, mathematical biology, methods of AI.",
-        "zh": "2024 年 9 月来到布里斯托：统计计算、信息论、生物数学建模、人工智能方法。"
+        "en": "To Bristol in Sep 2024: statistical computing, information theory, mathematical biology, methods of AI, and first-passage research.",
+        "zh": "2024 年 9 月来到布里斯托：统计计算、信息论、生物数学建模、人工智能方法，以及首达时间研究。"
       },
       "href": {
         "en": "/roots/#e-education_life-bristol-msc-start",
@@ -277,11 +277,11 @@
       },
       "title": {
         "en": "PhD in Engineering Mathematics, University of Bristol",
-        "zh": "布里斯托大学工程数学博士"
+        "zh": "布里斯托大学工程数学博士研究生"
       },
       "card": {
-        "en": "From 3 Nov 2025 in SEMT: random-walk first-passage times — why a single target can produce two arrival peaks.",
-        "zh": "2025 年 11 月 3 日起就读于 SEMT：研究随机游走的首达时间——为什么一个目标会有两个到达峰。"
+        "en": "Since 3 Nov 2025 in Bristol, UK: stochastic processes (why first-passage times can have two peaks) and the evaluation of AI agents.",
+        "zh": "2025 年 11 月 3 日起在英国布里斯托读博，研究随机过程（首达时间的分布为什么会出现两个峰）与 AI 智能体评测。"
       },
       "href": {
         "en": "/research/#e-education_life-phd-start",
@@ -342,8 +342,8 @@
         "zh": "工作论文：相遇-反应模型的谱诊断"
       },
       "card": {
-        "en": "When do two diffusing particles that react on contact produce several reaction-time peaks? A single-author working paper.",
-        "zh": "两个扩散粒子一碰即反应，什么时候会出现多个反应时间峰？一篇单作者工作论文。"
+        "en": "When do two diffusing particles that may react on meeting produce several reaction-time peaks? A single-author working paper.",
+        "zh": "两个扩散粒子相遇时可能发生反应，什么时候会出现多个反应时间峰？一篇单作者工作论文。"
       },
       "href": {
         "en": "/research/#r-research_fpt-encounter-spectral-paper",
@@ -373,8 +373,8 @@
         "zh": "几何控制的折叠：双峰论文"
       },
       "card": {
-        "en": "Single-author regular article, the capstone of the double-peak line. Submitted to Physical Review E (a physics journal), 30 Jul 2026.",
-        "zh": "单作者常规论文，双峰研究线的收官之作。2026 年 7 月 30 日投稿《物理评论 E》。"
+        "en": "Single-author paper submitted to Physical Review E (Jul 2026): why first-passage times can show two peaks, and when the second disappears.",
+        "zh": "单作者论文，2026 年 7 月投稿《物理评论 E》：随机游走首次到达目标的时间分布为何出现双峰、第二个峰何时消失。"
       },
       "href": {
         "en": "/research/#e-research_fpt-dpma-pre-submitted",
@@ -404,8 +404,8 @@
         "zh": "可编程多峰：固定预算论文"
       },
       "card": {
-        "en": "One fixed catalyst budget, split into stripes, programs how many reaction-time peaks appear, when, and how heavy each one is.",
-        "zh": "一份固定的催化剂预算，切成条带，就能编排反应时间峰的个数、时刻与轻重。"
+        "en": "A fixed amount of catalyst, split into stripes, sets how many reaction-time peaks appear, when, and how much probability each one carries.",
+        "zh": "催化剂总量固定，切成条带后怎么摆，就决定反应时间分布有几个峰、各在何时、各占多少概率。"
       },
       "href": {
         "en": "/research/#r-research_fpt-fixed-budget-paper",
@@ -432,8 +432,8 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "Research internship at LiveX AI, a Bay Area AI start-up",
-        "zh": "硅谷 AI 创业公司 LiveX AI 的研究实习"
+        "en": "Researcher (Internship) at LiveX AI",
+        "zh": "LiveX AI 研究实习"
       },
       "card": {
         "en": "4–16 August 2025, Silicon Valley: testing how best to turn product manuals into clean text (Markdown) for an AI knowledge base.",
@@ -495,7 +495,7 @@
       },
       "title": {
         "en": "ime-eval: a harness for keyboard-friendly prompting",
-        "zh": "ime-eval：键盘友好提示的评测框架"
+        "zh": "ime-eval：免输入法提示词的评测框架"
       },
       "card": {
         "en": "Do coding agents stay useful when you skip the input method and type pinyin, romaji or Arabizi? A harness built to find out.",
@@ -525,8 +525,8 @@
         "zh": "已录用"
       },
       "title": {
-        "en": "Accepted at UKAIRS 2026: the first AI paper",
-        "zh": "UKAIRS 2026 录用：第一篇 AI 论文"
+        "en": "UKAIRS 2026: first-author paper accepted as a poster",
+        "zh": "UKAIRS 2026：第一作者论文录用为海报"
       },
       "card": {
         "en": "UKAIRS 2026 accepted the paper for a poster. The reviewers singled out the ‘shi shi’ example as the message to lead with.",
@@ -553,21 +553,21 @@
       },
       "status": "scheduled",
       "statusLabel": {
-        "en": "Scheduled · poster on 25 Nov",
-        "zh": "已排期 · 11 月 25 日海报"
+        "en": "Poster · 25 Nov 2026",
+        "zh": "海报 · 2026 年 11 月 25 日"
       },
       "until": "2026-11-25",
       "statusLabelAfter": {
-        "en": "poster on 25 Nov",
-        "zh": "11 月 25 日海报"
+        "en": "Poster · 25 Nov 2026",
+        "zh": "海报 · 2026 年 11 月 25 日"
       },
       "title": {
         "en": "UK AI Research Symposium (UKAIRS 2026), Edinburgh",
         "zh": "英国 AI 研究研讨会（UKAIRS 2026），爱丁堡"
       },
       "card": {
-        "en": "24–25 Nov 2026 at the John McIntyre Conference Centre. A side-by-side demo: toggle from routine prompts to homophone traps.",
-        "zh": "2026 年 11 月 24 日至 25 日，约翰·麦金泰尔会议中心。并排演示：从日常提示一键切到同音陷阱。"
+        "en": "Poster at UKAIRS 2026, Edinburgh, 25 Nov 2026, first author with Yanzhen Li: can coding agents be instructed in pinyin alone?",
+        "zh": "UKAIRS 2026 海报（2026 年 11 月 25 日，爱丁堡），第一作者，与 Yanzhen Li 合著：只打拼音，能给编码智能体下指令吗？"
       },
       "href": {
         "en": "/ai/skipping-the-ime/#e-ai_research-ukairs-presentation",
@@ -629,8 +629,8 @@
         "zh": "阅信国际 · AI 研发"
       },
       "card": {
-        "en": "Three strands: the AI platform and model gateway, AI tools for colleagues, and AI for global messaging.",
-        "zh": "三条线：AI 平台与模型网关、给同事用的 AI 工具，以及面向国际短信业务的 AI 支持。"
+        "en": "Alongside the PhD. Three strands: the AI platform and model gateway, AI tools for colleagues, and AI for the international SMS business.",
+        "zh": "与读博并行。三条线：AI 平台与模型网关、给同事用的 AI 工具，以及面向国际短信业务的 AI 支持。"
       },
       "href": {
         "en": "/work/engine-room/#e-company_products-joined-yuexin",
@@ -657,7 +657,7 @@
         "zh": "已上线"
       },
       "title": {
-        "en": "An internal AI gateway with single sign-on",
+        "en": "An internal AI gateway with Feishu sign-in",
         "zh": "带飞书单点登录的内部 AI 网关"
       },
       "card": {
@@ -665,8 +665,8 @@
         "zh": "四天时间，把开源网关做成公司的 AI 平台：用飞书登录，领取密钥，查看自己的用量。"
       },
       "href": {
-        "en": "/work/engine-room/#r-company_products-open-platform-launch",
-        "zh": "/zh/work/engine-room/#r-company_products-open-platform-launch"
+        "en": "/work/engine-room/#e-company_products-open-platform-launch",
+        "zh": "/zh/work/engine-room/#e-company_products-open-platform-launch"
       }
     },
     {
@@ -689,7 +689,7 @@
         "zh": "已上线"
       },
       "title": {
-        "en": "An enterprise platform for governed AI access",
+        "en": "A unified AI access and governance platform",
         "zh": "企业 AI 统一接入与治理平台"
       },
       "card": {
@@ -720,8 +720,8 @@
         "zh": "已上线"
       },
       "title": {
-        "en": "Yuexin AI Assistant — web and Windows",
-        "zh": "阅信 AI 助手——网页版与 Windows 版"
+        "en": "Yuexin Cloud AI Assistant — web and desktop",
+        "zh": "阅信云 AI 助手——网页版与桌面版"
       },
       "card": {
         "en": "Built and launched in a day: a staff assistant with single sign-on, personal quotas, self-serve keys and a Windows client.",
@@ -755,8 +755,8 @@
         "zh": "从聊天窗口到桌面智能体"
       },
       "card": {
-        "en": "In development: an open-source agent engine in a Yuexin interface. Planned: a browser, a terminal — and a confirmation before every send.",
-        "zh": "开发中：开源的智能体引擎，阅信自己的界面。计划加入内置浏览器与终端——每一次发送之前，都先确认。"
+        "en": "In development: the desktop client rebuilt as an agent on an open-source engine. Planned: a browser, a terminal, a check before each send.",
+        "zh": "开发中：把已发布的桌面客户端改造成智能体——底层是开源引擎，上层是阅信自己的界面。计划加入内置浏览器与终端，每一次发送之前都先确认。"
       },
       "href": {
         "en": "/work/engine-room/#r-company_products-yuexin-chat-desktop-agent",
@@ -850,7 +850,7 @@
       },
       "card": {
         "en": "A Chinese SMS is billed per 70 characters, a model per token: how the AI industry works, told through a business the team already knew.",
-        "zh": "一条中文短信按 70 个字计费，大模型按词元（token）计费：用团队最熟悉的生意，讲清大模型行业的来龙去脉。"
+        "zh": "中文短信每 70 字计一条，大模型按词元（token）计费：用团队最熟悉的生意，讲清大模型行业的来龙去脉。"
       },
       "href": {
         "en": "/work/on-stage/#e-company_design_events-llm-industry-training-talk",
@@ -905,12 +905,12 @@
       },
       "status": "completed",
       "statusLabel": {
-        "en": "Signed",
-        "zh": "已签约"
+        "en": "Contracts signed",
+        "zh": "合同已签"
       },
       "title": {
-        "en": "A Graduate Teacher from the first term",
-        "zh": "第一个学期就当上研究生助教"
+        "en": "Two teaching contracts in the first term",
+        "zh": "第一个学期就签下两份教学合同"
       },
       "card": {
         "en": "Weeks into the PhD: a Demonstrator contract in SEMT and a Graduate Teacher contract in the School of Mathematics.",
@@ -937,7 +937,7 @@
       },
       "status": "completed",
       "statusLabel": {
-        "en": "First term",
+        "en": "First term of office",
         "zh": "首个任期"
       },
       "title": {
@@ -945,8 +945,8 @@
         "zh": "工程数学博士生代表"
       },
       "card": {
-        "en": "A month into the PhD: speaking for PhD students in SEMT (Engineering Mathematics and Technology), 2025–26. Rep certificate, July 2026.",
-        "zh": "入学一个月即接任：2025 至 2026 学年在学院与学部论坛上替工程数学与技术学院（SEMT）的博士生发声。2026 年 7 月获学术代表证书。"
+        "en": "Speaking for SEMT (Engineering Mathematics and Technology) PhD students at school and faculty forums, 2025–26. Rep certificate, July 2026.",
+        "zh": "2025 至 2026 学年在学院与学部论坛上替工程数学与技术学院（SEMT）的博士生发声。2026 年 7 月获学术代表证书。"
       },
       "href": {
         "en": "/campus/representing/#e-school_teaching_service-semt-pgr-rep-2025-26",
@@ -976,8 +976,8 @@
         "zh": "2026 年早期职业创业学者"
       },
       "card": {
-        "en": "BioPath — a bio-inspired optimisation tool for precision pest management — won a place in the 2026 cohort of twelve fellows.",
-        "zh": "BioPath——面向精准虫害管理的仿生优化工具——入选 2026 届，同届共 12 位学者。"
+        "en": "BioPath — mathematics that works out where to place traps on farms and in grain stores — won a place in the 2026 cohort of twelve fellows.",
+        "zh": "BioPath——用数学算出农场和粮仓的诱捕器该放在哪里——入选 2026 届，同届共 12 人。"
       },
       "href": {
         "en": "/enterprise/#e-school_teaching_service-ecef-awarded",
@@ -990,8 +990,7 @@
       "t": 2026.419,
       "chapter": "representing",
       "date": {
-        "start": "2026-02-12",
-        "end": "2026-06-03",
+        "start": "2026-06-03",
         "precision": "day"
       },
       "label": {
@@ -1004,8 +1003,8 @@
         "zh": "已登台"
       },
       "title": {
-        "en": "Seven minutes of stand-up about a maths PhD",
-        "zh": "七分钟单口喜剧：读数学博士是什么体验"
+        "en": "‘The Lighter Side of Research’, Bristol: seven minutes of stand-up about a maths PhD",
+        "zh": "「The Lighter Side of Research」，布里斯托：七分钟单口喜剧，讲读数学博士是什么体验"
       },
       "card": {
         "en": "The Lighter Side of Research: three workshops, then a set at the Bristol show on 3 June 2026, The Mount Without.",
@@ -1036,7 +1035,7 @@
       },
       "title": {
         "en": "A PechaKucha (20 slides, 20 seconds each) at the Festival of Enterprise",
-        "zh": "创业节上的 PechaKucha（20 页幻灯片、每页 20 秒）"
+        "zh": "创业节上的 PechaKucha 路演"
       },
       "card": {
         "en": "Twenty slides, twenty seconds each, at the Arts Complex on 10 June 2026: ‘Map in. Traps out. Proof attached.’",
@@ -1066,12 +1065,12 @@
         "zh": "进行中"
       },
       "title": {
-        "en": "The July allocation for 2026–27",
-        "zh": "7 月：新学年的教学分配"
+        "en": "Teaching for 2026–27: the July allocation",
+        "zh": "2026 至 2027 学年教学：7 月的分配"
       },
       "card": {
-        "en": "Eleven units at once — from first-year tutorials to an MSc group project — and in September a twelfth, Linear Algebra.",
-        "zh": "一次分到 11 门课——从一年级小班辅导到硕士小组项目；9 月又加了第 12 门：线性代数。"
+        "en": "Eleven units at once — from undergraduate tutorials to an MSc group project — and in September a twelfth, Linear Algebra.",
+        "zh": "一次分到 11 门课——从本科小班辅导到硕士小组项目；9 月又加了第 12 门：线性代数。"
       },
       "href": {
         "en": "/campus/teaching/#e-school_teaching_service-tsr-allocation-2026-27",
@@ -1138,8 +1137,8 @@
         "zh": "ffmpeg 缺了字幕渲染器，就把每条字幕画成透明图片，分块并行叠加——8 分 44 秒的 4K 素材，约两分半钟出片。"
       },
       "href": {
-        "en": "/media/#r-self_media-bilingual-subtitle-engine",
-        "zh": "/zh/media/#r-self_media-bilingual-subtitle-engine"
+        "en": "/media/#e-self_media-bilingual-subtitle-engine",
+        "zh": "/zh/media/#e-self_media-bilingual-subtitle-engine"
       }
     },
     {
@@ -1165,8 +1164,8 @@
         "zh": "微信内容工作室"
       },
       "card": {
-        "en": "Launched August 2026: a studio run with AI tools, turning years of phone footage into short WeChat videos — a human always presses publish.",
-        "zh": "2026 年 8 月启动：由 AI 工具协助运转的工作室，把多年的手机影像做成微信短视频——「发表」键永远由人来按。"
+        "en": "Launched August 2026 on WeChat Channels and a WeChat Official Account, run with AI tools — a human always presses publish.",
+        "zh": "2026 年 8 月在视频号和公众号启动，由 AI 工具协助运转——「发表」键永远由人来按。"
       },
       "href": {
         "en": "/media/#e-self_media-wechat-studio-kickoff",
@@ -1184,7 +1183,7 @@
       },
       "label": {
         "en": "Careers blog feature",
-        "zh": "就业博客专访"
+        "zh": "就业博客专栏"
       },
       "status": "published",
       "statusLabel": {
@@ -1197,11 +1196,11 @@
       },
       "card": {
         "en": "The Careers Service’s Student Founder Spotlight on BioPath, published 21 September 2026.",
-        "zh": "就业服务中心「学生创业者聚焦」专栏介绍 BioPath，2026 年 9 月 21 日发布。"
+        "zh": "就业服务中心的 Student Founder Spotlight（学生创业者聚焦）专栏介绍 BioPath，2026 年 9 月 21 日发布。"
       },
       "href": {
-        "en": "/enterprise/#r-school_teaching_service-careers-blog-feature",
-        "zh": "/zh/enterprise/#r-school_teaching_service-careers-blog-feature"
+        "en": "/enterprise/#e-school_teaching_service-careers-blog-feature",
+        "zh": "/zh/enterprise/#e-school_teaching_service-careers-blog-feature"
       }
     },
     {
@@ -1211,7 +1210,6 @@
       "chapter": "workshop",
       "date": {
         "start": "2023-07-22",
-        "end": "2025-12-18",
         "precision": "day"
       },
       "label": {
@@ -1256,12 +1254,12 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "SocialOS: 1,222 commits in five days",
-        "zh": "SocialOS：五天，1222 次提交"
+        "en": "SocialOS: a local-only social-memory assistant, built in five days",
+        "zh": "SocialOS：五天做出的本机社交记忆助手"
       },
       "card": {
-        "en": "A local-first relationship and identity OS, built mostly by automated coding agents: 89% of the commits were theirs.",
-        "zh": "一个本地优先的人际关系与身份操作系统，主要由自动编程智能体建成：89% 的提交出自它们。"
+        "en": "A local-only relationship and identity OS, built mostly by automated coding agents: 89% of the commits were theirs.",
+        "zh": "一个只在本机运行的人际关系与身份操作系统，主要由自动编程智能体建成：89% 的提交出自它们。"
       },
       "href": {
         "en": "/workshop/#e-projects_code-socialos",
@@ -1292,8 +1290,8 @@
         "zh": "London Cuts 旅行故事工作室"
       },
       "card": {
-        "en": "A travel-story studio with AI-made postcards in three visual modes — Fashion, Punk, Cinema — and a live public demo.",
-        "zh": "用 AI 生成明信片的旅行故事工作室，三种视觉模式——时装、朋克、电影——附在线公开演示。"
+        "en": "A travel-story studio: AI-made postcards in six art styles, stories in three visual modes (Fashion, Punk, Cinema) and a live demo.",
+        "zh": "旅行故事工作室：六种画风的 AI 明信片，故事有时装、朋克、电影三种视觉模式，附在线公开演示。"
       },
       "href": {
         "en": "/workshop/#e-projects_code-london-cuts",
@@ -1353,15 +1351,15 @@
       },
       "title": {
         "en": "Pro Agent Bridge",
-        "zh": "Pro Agent Bridge 智能体桥"
+        "zh": "Pro Agent Bridge 智能体之桥"
       },
       "card": {
         "en": "An MCP bridge that lets a chat model hand bounded coding work to local agents — extended from the open-source CodexPro.",
         "zh": "一座 MCP 桥，让聊天模型把有边界的编程工作交给本地智能体——基于开源项目 CodexPro 扩展而来。"
       },
       "href": {
-        "en": "/workshop/#r-projects_code-pro-agent-bridge",
-        "zh": "/zh/workshop/#r-projects_code-pro-agent-bridge"
+        "en": "/workshop/#e-projects_code-pro-agent-bridge",
+        "zh": "/zh/workshop/#e-projects_code-pro-agent-bridge"
       }
     }
   ],
@@ -1373,7 +1371,7 @@
       "status": "accepted",
       "statusLabel": {
         "en": "Accepted 11 Aug 2026 · poster #181, 25 Nov 2026",
-        "zh": "2026 年 8 月 11 日录用 · 181 号海报，11 月 25 日展出"
+        "zh": "2026 年 8 月 11 日录用 · 181 号海报，2026 年 11 月 25 日"
       },
       "date": "2026-08-11"
     },

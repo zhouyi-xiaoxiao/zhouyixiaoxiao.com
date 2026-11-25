@@ -13,22 +13,22 @@
       "end": null,
       "status": "scheduled",
       "statusLabel": {
-        "en": "Scheduled · talk on 12 Dec",
-        "zh": "已排期 · 12 月 12 日报告"
+        "en": "Invited talk · 12 Dec 2026",
+        "zh": "受邀报告 · 2026 年 12 月 12 日"
       },
       "title": {
-        "en": "NeurIPS 2026 Fusion Equilibrium Challenge: second place in Challenge 1",
-        "zh": "NeurIPS 2026 聚变平衡挑战赛：挑战一第二名"
+        "en": "NeurIPS 2026 Fusion Equilibrium Challenge: second place in Challenge 1 and an invited talk",
+        "zh": "NeurIPS 2026 聚变平衡挑战赛：挑战一第二名与受邀报告"
       },
       "href": {
-        "en": "/ai/skipping-the-ime/#r-ai_research-fusion-challenge",
-        "zh": "/zh/ai/skipping-the-ime/#r-ai_research-fusion-challenge"
+        "en": "/ai/skipping-the-ime/#e-ai_research-fusion-challenge",
+        "zh": "/zh/ai/skipping-the-ime/#e-ai_research-fusion-challenge"
       },
-      "next": false,
+      "next": true,
       "until": "2026-12-12",
       "statusLabelAfter": {
-        "en": "talk on 12 Dec",
-        "zh": "12 月 12 日报告"
+        "en": "Invited talk · 12 Dec 2026",
+        "zh": "受邀报告 · 2026 年 12 月 12 日"
       }
     },
     {
@@ -38,8 +38,8 @@
       "end": "2026-11-25",
       "status": "scheduled",
       "statusLabel": {
-        "en": "Scheduled · poster on 25 Nov",
-        "zh": "已排期 · 11 月 25 日海报"
+        "en": "Poster · 25 Nov 2026",
+        "zh": "海报 · 2026 年 11 月 25 日"
       },
       "title": {
         "en": "UK AI Research Symposium (UKAIRS 2026), Edinburgh",
@@ -52,8 +52,8 @@
       "next": true,
       "until": "2026-11-25",
       "statusLabelAfter": {
-        "en": "poster on 25 Nov",
-        "zh": "11 月 25 日海报"
+        "en": "Poster · 25 Nov 2026",
+        "zh": "海报 · 2026 年 11 月 25 日"
       }
     },
     {
@@ -207,8 +207,8 @@
         "zh": "已上线"
       },
       "title": {
-        "en": "Yuexin AI Assistant — web and Windows",
-        "zh": "阅信 AI 助手——网页版与 Windows 版"
+        "en": "Yuexin Cloud AI Assistant — web and desktop",
+        "zh": "阅信云 AI 助手——网页版与桌面版"
       },
       "href": {
         "en": "/work/engine-room/#e-company_products-yuexin-chat-launch",
@@ -231,8 +231,8 @@
         "zh": "「从草莓田到博士」"
       },
       "href": {
-        "en": "/enterprise/#r-school_teaching_service-careers-blog-feature",
-        "zh": "/zh/enterprise/#r-school_teaching_service-careers-blog-feature"
+        "en": "/enterprise/#e-school_teaching_service-careers-blog-feature",
+        "zh": "/zh/enterprise/#e-school_teaching_service-careers-blog-feature"
       },
       "next": false
     },
@@ -367,7 +367,7 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "‘First-Passage Universe’: the first prototype of this site",
+        "en": "‘First-Passage Universe’: a first prototype",
         "zh": "「首达时宇宙」：这个网站的第一版原型"
       },
       "href": {
@@ -403,8 +403,8 @@
       "end": null,
       "status": "scheduled",
       "statusLabel": {
-        "en": "Scheduled",
-        "zh": "已排期"
+        "en": "Slot assigned",
+        "zh": "场次已分配"
       },
       "title": {
         "en": "Poster #181, Wednesday 25 November",
@@ -417,8 +417,8 @@
       "next": false,
       "until": "2026-11-25",
       "statusLabelAfter": {
-        "en": "",
-        "zh": ""
+        "en": "Slot assigned",
+        "zh": "场次已分配"
       }
     },
     {
@@ -432,8 +432,8 @@
         "zh": "进行中"
       },
       "title": {
-        "en": "A returning rep for 2026–27",
-        "zh": "连任 2026 至 2027 学年代表"
+        "en": "Returning PhD student rep for 2026–27",
+        "zh": "连任博士生代表（2026 至 2027 学年）"
       },
       "href": {
         "en": "/campus/representing/#r-school_teaching_service-semt-pgr-rep-2026-27",
@@ -492,8 +492,8 @@
         "zh": "已录用"
       },
       "title": {
-        "en": "Accepted at UKAIRS 2026: the first AI paper",
-        "zh": "UKAIRS 2026 录用：第一篇 AI 论文"
+        "en": "UKAIRS 2026: first-author paper accepted as a poster",
+        "zh": "UKAIRS 2026：第一作者论文录用为海报"
       },
       "href": {
         "en": "/ai/skipping-the-ime/#e-ai_research-ukairs-acceptance",
@@ -532,8 +532,8 @@
         "zh": "构想"
       },
       "title": {
-        "en": "‘The Confident Assistant’: an AI-literacy escape room",
-        "zh": "「过分自信的助手」：一间 AI 素养密室"
+        "en": "‘The Confident Assistant’: an AI-literacy escape-room concept",
+        "zh": "「自信满满的助手」：一个 AI 素养密室逃脱构想"
       },
       "href": {
         "en": "/campus/teaching/#r-ai_research-ai-escape-room",
@@ -592,7 +592,7 @@
         "zh": "已上线"
       },
       "title": {
-        "en": "An enterprise platform for governed AI access",
+        "en": "A unified AI access and governance platform",
         "zh": "企业 AI 统一接入与治理平台"
       },
       "href": {
@@ -652,8 +652,8 @@
         "zh": "进行中"
       },
       "title": {
-        "en": "The July allocation for 2026–27",
-        "zh": "7 月：新学年的教学分配"
+        "en": "Teaching for 2026–27: the July allocation",
+        "zh": "2026 至 2027 学年教学：7 月的分配"
       },
       "href": {
         "en": "/campus/teaching/#e-school_teaching_service-tsr-allocation-2026-27",
@@ -672,8 +672,8 @@
         "zh": "方案已成稿"
       },
       "title": {
-        "en": "Pulling the AI pilots into one programme",
-        "zh": "把零散的 AI 试点收拢成一个项目"
+        "en": "A drafted plan to bring the AI pilots together",
+        "zh": "起草方案：收拢零散的 AI 试点"
       },
       "href": {
         "en": "/work/engine-room/#r-company_products-ai-transformation-lead",
@@ -693,7 +693,7 @@
       },
       "title": {
         "en": "Hands-on AI agent training for operations teams",
-        "zh": "面向运营团队的 AI 智能体实战培训"
+        "zh": "面向运营团队的 AI 智能体实操培训"
       },
       "href": {
         "en": "/work/on-stage/#r-company_design_events-ops-codex-trainings",
@@ -732,7 +732,7 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "An interactive course for one’s own paper",
+        "en": "An interactive course on my own paper",
         "zh": "为自己的论文做一门交互课"
       },
       "href": {
@@ -793,7 +793,7 @@
       },
       "title": {
         "en": "AI and data-science project workshops for business students",
-        "zh": "为商科硕士开的 AI 与数据科学项目工作坊"
+        "zh": "面向商学院硕士生的 AI 与数据科学项目工作坊"
       },
       "href": {
         "en": "/campus/teaching/#r-school_teaching_service-dsfb-summer-projects-workshop",
@@ -833,11 +833,31 @@
       },
       "title": {
         "en": "Pro Agent Bridge",
-        "zh": "Pro Agent Bridge 智能体桥"
+        "zh": "Pro Agent Bridge 智能体之桥"
       },
       "href": {
-        "en": "/workshop/#r-projects_code-pro-agent-bridge",
-        "zh": "/zh/workshop/#r-projects_code-pro-agent-bridge"
+        "en": "/workshop/#e-projects_code-pro-agent-bridge",
+        "zh": "/zh/workshop/#e-projects_code-pro-agent-bridge"
+      },
+      "next": false
+    },
+    {
+      "id": "school_teaching_service-research-culture-week-bowling-social",
+      "chapter": 6,
+      "start": "2026-06-25",
+      "end": null,
+      "status": "completed",
+      "statusLabel": {
+        "en": "Completed",
+        "zh": "已完成"
+      },
+      "title": {
+        "en": "‘Strike Up New Connections’: a faculty bowling social",
+        "zh": "「一球全中，结识新朋友」：学部保龄球社交夜"
+      },
+      "href": {
+        "en": "/campus/representing/#r-school_teaching_service-research-culture-week-bowling-social",
+        "zh": "/zh/campus/representing/#r-school_teaching_service-research-culture-week-bowling-social"
       },
       "next": false
     },
@@ -892,8 +912,8 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "Why a second peak is born — and dies",
-        "zh": "第二个峰为何出生，又为何消失"
+        "en": "Why a second peak appears — and disappears",
+        "zh": "第二个峰为何出现，又为何消失"
       },
       "href": {
         "en": "/research/#e-research_fpt-dpma-fold-theory",
@@ -932,12 +952,12 @@
         "zh": "已上线"
       },
       "title": {
-        "en": "An internal AI gateway with single sign-on",
+        "en": "An internal AI gateway with Feishu sign-in",
         "zh": "带飞书单点登录的内部 AI 网关"
       },
       "href": {
-        "en": "/work/engine-room/#r-company_products-open-platform-launch",
-        "zh": "/zh/work/engine-room/#r-company_products-open-platform-launch"
+        "en": "/work/engine-room/#e-company_products-open-platform-launch",
+        "zh": "/zh/work/engine-room/#e-company_products-open-platform-launch"
       },
       "next": false
     },
@@ -953,7 +973,7 @@
       },
       "title": {
         "en": "A PechaKucha (20 slides, 20 seconds each) at the Festival of Enterprise",
-        "zh": "创业节上的 PechaKucha（20 页幻灯片、每页 20 秒）"
+        "zh": "创业节上的 PechaKucha 路演"
       },
       "href": {
         "en": "/enterprise/#e-school_teaching_service-festival-of-enterprise-2026",
@@ -976,8 +996,8 @@
         "zh": "自己搭的中英双语字幕流水线"
       },
       "href": {
-        "en": "/media/#r-self_media-bilingual-subtitle-engine",
-        "zh": "/zh/media/#r-self_media-bilingual-subtitle-engine"
+        "en": "/media/#e-self_media-bilingual-subtitle-engine",
+        "zh": "/zh/media/#e-self_media-bilingual-subtitle-engine"
       },
       "next": false
     },
@@ -1053,7 +1073,7 @@
       },
       "title": {
         "en": "The term that cancels",
-        "zh": "那个会自己消失的项"
+        "zh": "抵消为零的那一项"
       },
       "href": {
         "en": "/research/#r-research_fpt-secular-term-cancellation",
@@ -1136,8 +1156,28 @@
         "zh": "从 7 份问卷到 80 个座位"
       },
       "href": {
-        "en": "/campus/representing/#r-school_teaching_service-writers-retreat-interest-check",
-        "zh": "/zh/campus/representing/#r-school_teaching_service-writers-retreat-interest-check"
+        "en": "/campus/representing/#e-school_teaching_service-writers-retreat-interest-check",
+        "zh": "/zh/campus/representing/#e-school_teaching_service-writers-retreat-interest-check"
+      },
+      "next": false
+    },
+    {
+      "id": "school_teaching_service-lighter-side-of-research",
+      "chapter": 6,
+      "start": "2026-06-03",
+      "end": null,
+      "status": "performed",
+      "statusLabel": {
+        "en": "Performed",
+        "zh": "已登台"
+      },
+      "title": {
+        "en": "‘The Lighter Side of Research’, Bristol: seven minutes of stand-up about a maths PhD",
+        "zh": "「The Lighter Side of Research」，布里斯托：七分钟单口喜剧，讲读数学博士是什么体验"
+      },
+      "href": {
+        "en": "/campus/representing/#e-school_teaching_service-lighter-side-of-research",
+        "zh": "/zh/campus/representing/#e-school_teaching_service-lighter-side-of-research"
       },
       "next": false
     },
@@ -1152,12 +1192,12 @@
         "zh": "已上线"
       },
       "title": {
-        "en": "Feishu connectors that let AI agents work inside the workspace",
+        "en": "Feishu connectors for AI agents",
         "zh": "飞书连接器：让智能体进入工作台"
       },
       "href": {
-        "en": "/work/engine-room/#r-company_products-feishu-agent-connector",
-        "zh": "/zh/work/engine-room/#r-company_products-feishu-agent-connector"
+        "en": "/work/engine-room/#e-company_products-feishu-agent-connector",
+        "zh": "/zh/work/engine-room/#e-company_products-feishu-agent-connector"
       },
       "next": false
     },
@@ -1333,7 +1373,7 @@
       },
       "title": {
         "en": "ime-eval: a harness for keyboard-friendly prompting",
-        "zh": "ime-eval：键盘友好提示的评测框架"
+        "zh": "ime-eval：免输入法提示词的评测框架"
       },
       "href": {
         "en": "/ai/skipping-the-ime/#r-ai_research-ime-eval-scaffold",
@@ -1412,7 +1452,7 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "A thesis: communication is the execution layer for AI agents",
+        "en": "A thesis: communication as AI’s execution layer",
         "zh": "一个论断：通信是 AI 智能体的执行层"
       },
       "href": {
@@ -1493,7 +1533,7 @@
       },
       "title": {
         "en": "A research line that bends toward AI",
-        "zh": "一条弯向 AI 的研究线"
+        "zh": "研究方向延伸到 AI"
       },
       "href": {
         "en": "/ai/skipping-the-ime/#r-ai_research-direction-toward-ai",
@@ -1576,24 +1616,24 @@
         "zh": "开放日学生大使"
       },
       "href": {
-        "en": "/campus/representing/#r-school_teaching_service-student-ambassador-open-days",
-        "zh": "/zh/campus/representing/#r-school_teaching_service-student-ambassador-open-days"
+        "en": "/campus/representing/#e-school_teaching_service-student-ambassador-open-days",
+        "zh": "/zh/campus/representing/#e-school_teaching_service-student-ambassador-open-days"
       },
       "next": false
     },
     {
       "id": "research_fpt-hidden-routes-talk",
       "chapter": 1,
-      "start": "2026-04-14",
-      "end": "2026-04-15",
+      "start": "2026-04-15",
+      "end": null,
       "status": "published",
       "statusLabel": {
         "en": "Deck published",
         "zh": "讲稿已公开"
       },
       "title": {
-        "en": "‘Hidden Routes in First-Passage Time’",
-        "zh": "《首达时间中的隐藏路径》"
+        "en": "‘Hidden Routes in First-Passage Time’: a ten-minute talk at the SEMT Ideas Exchange Day",
+        "zh": "《首达时间中的隐藏路径》：SEMT 学院「思想交流日」上的十分钟报告"
       },
       "href": {
         "en": "/research/#r-research_fpt-hidden-routes-talk",
@@ -1612,32 +1652,12 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "A route site for a snowy Iceland drive",
-        "zh": "为冰岛雪路自驾做的路线站"
+        "en": "A route-decision page for a snowy Iceland drive",
+        "zh": "为冰岛雪路自驾做的路线决策页"
       },
       "href": {
         "en": "/workshop/#r-education_life-iceland-ring-road-2026",
         "zh": "/zh/workshop/#r-education_life-iceland-ring-road-2026"
-      },
-      "next": false
-    },
-    {
-      "id": "school_teaching_service-research-culture-week-bowling-social",
-      "chapter": 6,
-      "start": "2026-04",
-      "end": "2026-06-25",
-      "status": "completed",
-      "statusLabel": {
-        "en": "Completed",
-        "zh": "已完成"
-      },
-      "title": {
-        "en": "‘Strike Up New Connections’: a faculty bowling social",
-        "zh": "「一球全中，结识新朋友」：学部保龄球社交夜"
-      },
-      "href": {
-        "en": "/campus/representing/#r-school_teaching_service-research-culture-week-bowling-social",
-        "zh": "/zh/campus/representing/#r-school_teaching_service-research-culture-week-bowling-social"
       },
       "next": false
     },
@@ -1752,8 +1772,8 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "SocialOS: 1,222 commits in five days",
-        "zh": "SocialOS：五天，1222 次提交"
+        "en": "SocialOS: a local-only social-memory assistant, built in five days",
+        "zh": "SocialOS：五天做出的本机社交记忆助手"
       },
       "href": {
         "en": "/workshop/#e-projects_code-socialos",
@@ -1773,7 +1793,7 @@
       },
       "title": {
         "en": "New Enterprise: the Growth stage",
-        "zh": "New Enterprise：成长阶段"
+        "zh": "New Enterprise：Growth 阶段"
       },
       "href": {
         "en": "/enterprise/#r-school_teaching_service-new-enterprise-growth-cohort",
@@ -1892,8 +1912,8 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "Learning to pitch in twenty slides",
-        "zh": "学会用二十页讲完"
+        "en": "The fellowship’s training, and PechaKucha coaching",
+        "zh": "创业学者培训与 PechaKucha 辅导"
       },
       "href": {
         "en": "/enterprise/#r-school_teaching_service-ecef-training-programme",
@@ -1912,32 +1932,12 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "An always-on agent host, and an honest uninstall",
-        "zh": "一台 7×24 在线的智能体主机，以及一次坦然的卸载"
+        "en": "An always-on agent host, deliberately uninstalled",
+        "zh": "一台 7×24 在线的智能体主机，用后主动卸载"
       },
       "href": {
         "en": "/workshop/#r-ai_research-openclaw-agent-host",
         "zh": "/zh/workshop/#r-ai_research-openclaw-agent-host"
-      },
-      "next": false
-    },
-    {
-      "id": "school_teaching_service-lighter-side-of-research",
-      "chapter": 6,
-      "start": "2026-02-12",
-      "end": "2026-06-03",
-      "status": "performed",
-      "statusLabel": {
-        "en": "Performed",
-        "zh": "已登台"
-      },
-      "title": {
-        "en": "Seven minutes of stand-up about a maths PhD",
-        "zh": "七分钟单口喜剧：读数学博士是什么体验"
-      },
-      "href": {
-        "en": "/campus/representing/#e-school_teaching_service-lighter-side-of-research",
-        "zh": "/zh/campus/representing/#e-school_teaching_service-lighter-side-of-research"
       },
       "next": false
     },
@@ -2092,8 +2092,8 @@
         "zh": "已获得"
       },
       "title": {
-        "en": "New Enterprise, the start-up programme: a first pitch award",
-        "zh": "New Enterprise 创业孵化项目：首个路演奖"
+        "en": "New Enterprise, the university’s start-up programme: a £150 pitch award for BioPath",
+        "zh": "布里斯托大学创业孵化项目 New Enterprise：BioPath 路演获 150 英镑奖金"
       },
       "href": {
         "en": "/enterprise/#r-school_teaching_service-new-enterprise-development-award",
@@ -2106,14 +2106,14 @@
       "chapter": 6,
       "start": "2026-01-05",
       "end": "2026-09-10",
-      "status": "ongoing",
+      "status": "completed",
       "statusLabel": {
-        "en": "Ongoing",
-        "zh": "进行中"
+        "en": "Completed",
+        "zh": "已完成"
       },
       "title": {
-        "en": "How to say my name",
-        "zh": "我的名字怎么读"
+        "en": "First post as rep: how to say my name",
+        "zh": "上任第一帖：我的名字怎么读"
       },
       "href": {
         "en": "/campus/representing/#r-gap_5_school_teams_gmail_coauthor-rep-intro-post",
@@ -2228,7 +2228,7 @@
       "end": "2026-07-15",
       "status": "completed",
       "statusLabel": {
-        "en": "First term",
+        "en": "First term of office",
         "zh": "首个任期"
       },
       "title": {
@@ -2288,12 +2288,12 @@
       "end": "2025-12-16",
       "status": "completed",
       "statusLabel": {
-        "en": "Signed",
-        "zh": "已签约"
+        "en": "Contracts signed",
+        "zh": "合同已签"
       },
       "title": {
-        "en": "A Graduate Teacher from the first term",
-        "zh": "第一个学期就当上研究生助教"
+        "en": "Two teaching contracts in the first term",
+        "zh": "第一个学期就签下两份教学合同"
       },
       "href": {
         "en": "/campus/teaching/#e-school_teaching_service-tsr-contracts-2025",
@@ -2313,7 +2313,7 @@
       },
       "title": {
         "en": "PhD in Engineering Mathematics, University of Bristol",
-        "zh": "布里斯托大学工程数学博士"
+        "zh": "布里斯托大学工程数学博士研究生"
       },
       "href": {
         "en": "/research/#e-education_life-phd-start",
@@ -2392,8 +2392,8 @@
         "zh": "已交付"
       },
       "title": {
-        "en": "A retrieval-QA benchmark for document parsers",
-        "zh": "文档解析与检索问答评估基准"
+        "en": "LiveX AI internship: a retrieval-QA benchmark for document parsers",
+        "zh": "LiveX AI 实习：文档解析器的检索问答评测基准"
       },
       "href": {
         "en": "/westward/#e-us_ai_internship_career-livex-retrieval-benchmark",
@@ -2452,8 +2452,8 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "Research internship at LiveX AI, a Bay Area AI start-up",
-        "zh": "硅谷 AI 创业公司 LiveX AI 的研究实习"
+        "en": "Researcher (Internship) at LiveX AI",
+        "zh": "LiveX AI 研究实习"
       },
       "href": {
         "en": "/westward/#e-us_ai_internship_career-livex-ai-internship-2025",
@@ -2592,8 +2592,8 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "Three languages, one of them at A1 for now",
-        "zh": "三种语言，其中一种暂时停在 A1"
+        "en": "Native Mandarin, English as a working language, beginner French",
+        "zh": "普通话是母语，英语是工作语言，法语刚入门"
       },
       "href": {
         "en": "/roots/#r-education_life-languages",
@@ -2612,7 +2612,7 @@
         "zh": "参选"
       },
       "title": {
-        "en": "Standing for Student Trustee",
+        "en": "Stood for Student Trustee",
         "zh": "参选学生会「学生理事」"
       },
       "href": {
@@ -2732,8 +2732,8 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "MSc Engineering Mathematics, University of Bristol, with Distinction (the top UK grade)",
-        "zh": "布里斯托大学工程数学硕士（以优异成绩毕业）"
+        "en": "MSc Engineering Mathematics (Distinction, the top UK grade for a master’s), University of Bristol",
+        "zh": "布里斯托大学工程数学硕士（Distinction，英国硕士最高等级）"
       },
       "href": {
         "en": "/roots/#e-education_life-bristol-msc-start",
@@ -2772,8 +2772,8 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "MSc dissertation: first passage in confined random walks",
-        "zh": "硕士论文：受限随机游走中的首达现象"
+        "en": "MSc research: first passage in confined random walks",
+        "zh": "硕士研究：受限随机游走中的首达现象"
       },
       "href": {
         "en": "/research/#r-research_fpt-msc-dissertation",
@@ -2832,7 +2832,7 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "Physics-informed neural networks for differential equations",
+        "en": "Physics-informed neural networks for partial differential equations",
         "zh": "用物理信息神经网络解偏微分方程"
       },
       "href": {
@@ -2872,7 +2872,7 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "An exchange year at the Hong Kong University of Science and Technology (HKUST)",
+        "en": "An exchange year at HKUST (Hong Kong University of Science and Technology)",
         "zh": "在香港科技大学交换一年"
       },
       "href": {
@@ -2945,7 +2945,7 @@
       "id": "projects_code-tju-math-guide",
       "chapter": 10,
       "start": "2023-07-22",
-      "end": "2025-12-18",
+      "end": null,
       "status": "live",
       "statusLabel": {
         "en": "Live",
@@ -3012,7 +3012,7 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "Head of Student Rights, School of Mathematics",
+        "en": "Head of Rights and Welfare, School of Mathematics Student Union",
         "zh": "数学学院学生会权益部部长"
       },
       "href": {
@@ -3032,7 +3032,7 @@
         "zh": "已完成"
       },
       "title": {
-        "en": "Guiding a hundred new mathematicians",
+        "en": "Guiding more than a hundred new mathematicians",
         "zh": "带一百多名新生入学"
       },
       "href": {
@@ -3053,7 +3053,7 @@
       },
       "title": {
         "en": "A certified personal trainer, too",
-        "zh": "顺便，是一名持证私教"
+        "zh": "还是一名持证私教"
       },
       "href": {
         "en": "/roots/#r-education_life-nsca-cpt",
@@ -3112,8 +3112,8 @@
         "zh": "进行中"
       },
       "title": {
-        "en": "On GitHub since December 2021",
-        "zh": "2021 年 12 月起的 GitHub"
+        "en": "Joined GitHub",
+        "zh": "开通 GitHub 账号"
       },
       "href": {
         "en": "/workshop/#r-projects_code-github-identity",
@@ -3172,7 +3172,7 @@
         "zh": "已获得"
       },
       "title": {
-        "en": "Self-Improvement Award, Tianjin University",
+        "en": "Beiyang Self-Improvement Award, Tianjin University",
         "zh": "天津大学北洋自强奖"
       },
       "href": {
