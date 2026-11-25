@@ -5,14 +5,22 @@
   <link rel="alternate" href="https://zhouyixiaoxiao.com/"/>
   <link rel="self" href="https://zhouyixiaoxiao.com/feed.xml"/>
   <link rel="related" type="application/json" href="https://zhouyixiaoxiao.com/record.json"/>
-  <updated>2026-11-19T00:00:00Z</updated>
+  <updated>2026-11-25T00:00:00Z</updated>
   <author><name>Zhouyi Xiaoxiao</name><uri>https://zhouyixiaoxiao.com/</uri></author>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-fusion-challenge</id>
+    <title>NeurIPS 2026 Fusion Equilibrium Challenge: second place in Challenge 1</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/#r-ai_research-fusion-challenge"/>
+    <published>2026-12-12T00:00:00Z</published>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>Second place in Challenge 1 of the NeurIPS 2026 Fusion Equilibrium Challenge, as a solo entry; the invited talk is an interactive web page. (12 Dec 2026 · Scheduled · talk on 12 Dec)</summary>
+  </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-presentation</id>
     <title>UK AI Research Symposium (UKAIRS 2026), Edinburgh</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/ai/skipping-the-ime/#e-ai_research-ukairs-presentation"/>
     <published>2026-11-24T00:00:00Z</published>
-    <updated>2026-11-19T00:00:00Z</updated>
+    <updated>2026-11-24T00:00:00Z</updated>
     <summary>24–25 Nov 2026 at the John McIntyre Conference Centre. A side-by-side demo: toggle from routine prompts to homophone traps. (24–25 Nov 2026 · Scheduled · poster on 25 Nov)</summary>
   </entry>
   <entry>
@@ -398,13 +406,5 @@
     <published>2026-06-09T00:00:00Z</published>
     <updated>2026-06-09T00:00:00Z</updated>
     <summary>Before MWC Shanghai: an English name and positioning, and a plan for the English website and LinkedIn. (9–11 Jun 2026 · Completed)</summary>
-  </entry>
-  <entry>
-    <id>https://zhouyixiaoxiao.com/workshop/#r-projects_code-atlas-claude-tab</id>
-    <title>Seven dead ends and a working ⌘T</title>
-    <link rel="alternate" href="https://zhouyixiaoxiao.com/workshop/#r-projects_code-atlas-claude-tab"/>
-    <published>2026-06-09T00:00:00Z</published>
-    <updated>2026-06-09T00:00:00Z</updated>
-    <summary>A 200-line Swift helper that makes ⌘T in one AI browser open another AI — after documenting why seven standard approaches fail. (9–10 Jun 2026 · Published)</summary>
   </entry>
 </feed>

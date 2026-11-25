@@ -1,10 +1,10 @@
 {
   "name": "So far. · 至此",
-  "release": "so-far-renovation-20261119",
-  "sourceCommit": "6fd1b13",
-  "contentAsAt": "2026-11-19",
+  "release": "fusion-talk-link-20261125",
+  "sourceCommit": "ef50a85",
+  "contentAsAt": "2026-11-25",
   "files": 477,
-  "artifactDigest": "c8c27eee5e120b3cb11ea908ffca7a2f95fba639fd5df576c98e01b9531f95e8",
+  "artifactDigest": "22dae2901a2aaf3d4e8c3c733a586aff1b7f91c6cc812648673164cd49e1d31d",
   "manuscripts": {
     "pinn": "1e72d39c6d46d6624dab2b46a93b735ed2a1dbb7",
     "bsc": "4838389b6730106981df90e2b4d51dcc1e6f4a3f",

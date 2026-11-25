@@ -1,11 +1,36 @@
 {
   "v": 1,
-  "asOf": "2026-11-19",
+  "asOf": "2026-11-25",
   "rule": {
     "next": "shown while today <= until (end date, or start for a dated one-off); undated work in progress stays until its status changes",
     "status": "a scheduled record whose until has passed shows statusLabelAfter (the label without the word Scheduled); nothing else changes"
   },
   "records": [
+    {
+      "id": "ai_research-fusion-challenge",
+      "chapter": 2,
+      "start": "2026-12-12",
+      "end": null,
+      "status": "scheduled",
+      "statusLabel": {
+        "en": "Scheduled · talk on 12 Dec",
+        "zh": "已排期 · 12 月 12 日报告"
+      },
+      "title": {
+        "en": "NeurIPS 2026 Fusion Equilibrium Challenge: second place in Challenge 1",
+        "zh": "NeurIPS 2026 聚变平衡挑战赛：挑战一第二名"
+      },
+      "href": {
+        "en": "/ai/skipping-the-ime/#r-ai_research-fusion-challenge",
+        "zh": "/zh/ai/skipping-the-ime/#r-ai_research-fusion-challenge"
+      },
+      "next": false,
+      "until": "2026-12-12",
+      "statusLabelAfter": {
+        "en": "talk on 12 Dec",
+        "zh": "12 月 12 日报告"
+      }
+    },
     {
       "id": "ai_research-ukairs-presentation",
       "chapter": 2,

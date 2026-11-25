@@ -5,14 +5,22 @@
   <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/"/>
   <link rel="self" href="https://zhouyixiaoxiao.com/feed.zh.xml"/>
   <link rel="related" type="application/json" href="https://zhouyixiaoxiao.com/record.json"/>
-  <updated>2026-11-19T00:00:00Z</updated>
+  <updated>2026-11-25T00:00:00Z</updated>
   <author><name>周易潇潇</name><uri>https://zhouyixiaoxiao.com/zh/</uri></author>
+  <entry>
+    <id>https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#r-ai_research-fusion-challenge</id>
+    <title>NeurIPS 2026 聚变平衡挑战赛：挑战一第二名</title>
+    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#r-ai_research-fusion-challenge"/>
+    <published>2026-12-12T00:00:00Z</published>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>以个人身份参加 NeurIPS 2026 聚变平衡挑战赛，获挑战一第二名；受邀报告做成了一个交互网页。 (2026 年 12 月 12 日 · 已排期 · 12 月 12 日报告)</summary>
+  </entry>
   <entry>
     <id>https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-ukairs-presentation</id>
     <title>英国 AI 研究研讨会（UKAIRS 2026），爱丁堡</title>
     <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/ai/skipping-the-ime/#e-ai_research-ukairs-presentation"/>
     <published>2026-11-24T00:00:00Z</published>
-    <updated>2026-11-19T00:00:00Z</updated>
+    <updated>2026-11-24T00:00:00Z</updated>
     <summary>2026 年 11 月 24 日至 25 日，约翰·麦金泰尔会议中心。并排演示：从日常提示一键切到同音陷阱。 (2026 年 11 月 24 日至 25 日 · 已排期 · 11 月 25 日海报)</summary>
   </entry>
   <entry>
@@ -398,13 +406,5 @@
     <published>2026-06-09T00:00:00Z</published>
     <updated>2026-06-09T00:00:00Z</updated>
     <summary>MWC 上海之前：英文名称与定位，以及英文官网与领英方案。 (2026 年 6 月 9 日至 11 日 · 已完成)</summary>
-  </entry>
-  <entry>
-    <id>https://zhouyixiaoxiao.com/zh/workshop/#r-projects_code-atlas-claude-tab</id>
-    <title>七条死路与一个能用的 ⌘T</title>
-    <link rel="alternate" href="https://zhouyixiaoxiao.com/zh/workshop/#r-projects_code-atlas-claude-tab"/>
-    <published>2026-06-09T00:00:00Z</published>
-    <updated>2026-06-09T00:00:00Z</updated>
-    <summary>一个约 200 行的 Swift 小工具，让一款 AI 浏览器的 ⌘T 打开另一个 AI——此前先记下了七种常规方案为何全部失败。 (2026 年 6 月 9 日至 10 日 · 已发布)</summary>
   </entry>
 </feed>

@@ -1,0 +1,1 @@
+import{i as o,r as n,b as t}from"./boot-9gdBjHRB.js";const e=["pointerdown","keydown","focusin"];n(()=>{!function(n,t=900,s=globalThis){let i=!1,r=()=>{};function f(){i||(i=!0,(()=>{for(const o of e)s.removeEventListener(o,f,!0);r()})(),n())}for(const o of e)s.addEventListener(o,f,{capture:!0,passive:!0});r=o(f,t)}(()=>{t()},900)});
