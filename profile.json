@@ -476,8 +476,8 @@
         "zh": "很多语言都要靠输入法或罗马化来打字——拼音、日语罗马字、阿拉伯语的拉丁转写。弄清楚意思在哪里会丢，才知道什么时候可以跟 AI 智能体省掉这一步。"
       },
       "thesis": {
-        "en": "Can agents follow pinyin (romanised Chinese) alone? 48 exploratory runs: everyday instructions worked; proper names and homophones needed characters.",
-        "zh": "只打拼音，AI 智能体能照着做吗？爱丁堡海报中 48 次调用的探索性实验：日常指令可以，专名和同音词仍要汉字。"
+        "en": "Can agents follow pinyin (romanised Chinese) alone? Accepted as a poster at UKAIRS 2026 in Edinburgh (first author, with Yanzhen Li). In 48 exploratory runs, everyday instructions worked; proper names and homophones needed characters.",
+        "zh": "只打拼音，AI 智能体能照着做吗？已录用为 UKAIRS 2026（爱丁堡）海报，第一作者，与 Yanzhen Li 合著。48 次调用的探索性实验里，日常指令可以，专名和同音词仍要汉字。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/ai/skipping-the-ime/",
@@ -549,8 +549,8 @@
             "zh": "海报 · 2026 年 11 月 25 日"
           },
           "card": {
-            "en": "Poster at UKAIRS 2026, Edinburgh, 25 Nov 2026, first author with Yanzhen Li: can coding agents be instructed in pinyin alone?",
-            "zh": "UKAIRS 2026 海报（2026 年 11 月 25 日，爱丁堡），第一作者，与 Yanzhen Li 合著：只打拼音，能给编码智能体下指令吗？"
+            "en": "Accepted as a poster at UKAIRS 2026, Edinburgh, 25 Nov 2026, first author with Yanzhen Li: can coding agents be instructed in pinyin alone?",
+            "zh": "已录用为 UKAIRS 2026 海报（2026 年 11 月 25 日，爱丁堡），第一作者，与 Yanzhen Li 合著：只打拼音，能给编码智能体下指令吗？"
           },
           "links": [
             {
@@ -960,16 +960,16 @@
         "zh": "教学"
       },
       "card": {
-        "en": "I have taught since my first term as a PhD student — for 2026–27, 13 roles across three schools: tutorials, labs, problem classes, marking.",
-        "zh": "读博第一个学期，我就开始教课。2026 至 2027 学年：三个学院、13 个教学岗位，小班辅导、实验课、习题课与批改都有。"
+        "en": "I teach alongside my PhD — for 2026–27, 13 roles across three schools: tutorials, labs, problem classes, marking.",
+        "zh": "读博的同时我一直在教课。2026 至 2027 学年：三个学院、13 个教学岗位，小班辅导、实验课、习题课与批改都有。"
       },
       "why": {
         "en": "Teaching is where an explanation either works or it doesn’t: undergraduate tutorials, MSc labs, summer projects for business students.",
         "zh": "一个讲法行不行，在课堂上当场见分晓：本科小班课、硕士上机实验、商科学生的暑期项目。"
       },
       "thesis": {
-        "en": "I have taught since my first term as a PhD student — for 2026–27, 13 roles across three schools: tutorials, labs, problem classes, marking.",
-        "zh": "读博第一个学期，我就开始教课。2026 至 2027 学年：三个学院、13 个教学岗位，小班辅导、实验课、习题课与批改都有。"
+        "en": "I teach alongside my PhD — for 2026–27, 13 roles across three schools: tutorials, labs, problem classes, marking.",
+        "zh": "读博的同时我一直在教课。2026 至 2027 学年：三个学院、13 个教学岗位，小班辅导、实验课、习题课与批改都有。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/campus/teaching/",
@@ -1176,7 +1176,7 @@
       },
       "dek": {
         "en": "BioPath · Early Career Enterprise Fellow 2026 (one of 12) · New Enterprise: Growth stage",
-        "zh": "BioPath · 2026 年早期职业创业学者（同届 12 人）· New Enterprise：Growth 阶段"
+        "zh": "BioPath · 2026 年早期职业创业学者（同届 12 人）· 创业孵化项目 New Enterprise：Growth 阶段"
       },
       "short": {
         "en": "Venture",
@@ -1184,7 +1184,7 @@
       },
       "card": {
         "en": "My prototype BioPath uses first-passage maths to place traps on farms and in grain stores to cut rodenticide use. Early Career Enterprise Fellow 2026.",
-        "zh": "BioPath 是我做的原型：用首达数学算出农场和粮仓的诱捕器该放在哪儿，好少用灭鼠药。2026 年 Early Career Enterprise Fellow。"
+        "zh": "BioPath 是我做的原型：用首达数学算出农场和粮仓的诱捕器该放在哪儿，好少用灭鼠药。2026 年早期职业创业学者。"
       },
       "why": {
         "en": "Where traps go is still largely a judgement call; placing them well could mean fewer chemical rodenticides.",
@@ -1192,7 +1192,7 @@
       },
       "thesis": {
         "en": "My prototype BioPath uses first-passage maths to place traps on farms and in grain stores to cut rodenticide use. Early Career Enterprise Fellow 2026.",
-        "zh": "BioPath 是我做的原型：用首达数学算出农场和粮仓的诱捕器该放在哪儿，好少用灭鼠药。2026 年 Early Career Enterprise Fellow。"
+        "zh": "BioPath 是我做的原型：用首达数学算出农场和粮仓的诱捕器该放在哪儿，好少用灭鼠药。2026 年早期职业创业学者。"
       },
       "url": {
         "en": "https://zhouyixiaoxiao.com/enterprise/",

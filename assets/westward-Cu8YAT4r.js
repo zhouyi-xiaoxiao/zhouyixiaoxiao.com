@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/unabsorbed-DGRcihaf.js","assets/boot-Cj5SNPI2.js","assets/boot-DgOc2Ds1.css","assets/stage-TRB80Snk.js","assets/zh-space-p1QlLZT2.js","assets/util-CWqhWhtL.js"])))=>i.map(i=>d[i]);
+import{_ as a}from"./boot-Cj5SNPI2.js";import{s as o,a as s,l as r}from"./chapter-CXJCtg88.js";o("westward",o=>s(o,"unabsorbed",'[data-walk="unabsorbed"]',r(()=>a(()=>import("./unabsorbed-DGRcihaf.js"),__vite__mapDeps([0,1,2,3,4,5])),a=>a.mountUnabsorbed),void 0));
